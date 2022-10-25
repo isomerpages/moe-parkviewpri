@@ -28,4 +28,7 @@ Health Promotion Board
 3 Second Hospital Avenue   
 Singapore 168937   
 (opposite Outram MRT Station)   
-Tel: 6435 3782  
+Tel: 6435 3782
+
+*  Singaporean may have to pay for treatment
+*  Foreigners & Permanent Residents have to pay for treatment.
