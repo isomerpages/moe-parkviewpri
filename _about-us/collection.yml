@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Achievements/Staff.md
       - Achievements/.keep
       - School Hours.md
       - School Rules/Schools Rules.md
