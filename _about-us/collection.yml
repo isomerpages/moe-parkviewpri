@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Rules/.keep
       - School Uniform.md
       - Schools Rules.md
       - School Policies/School Bag Policy.md
