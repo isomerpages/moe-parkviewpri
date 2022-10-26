@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - School Policies/.keep
-      - School Policies/subfolder-page.md
+      - School Policies/Rules for Using Lockers.md
       - School Canteen Menu.md
       - School Calendar.md
       - Other Services.md
