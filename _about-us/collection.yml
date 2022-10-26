@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Canteen Menu.md
       - School Calendar.md
       - Other Services.md
       - example-subfolder/.keep
