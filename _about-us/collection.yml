@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Rules/.keep
-      - School Uniform.md
       - Schools Rules.md
       - School Policies/School Bag Policy.md
       - School Policies/Mobile Phone or Smart Device Policy.md
