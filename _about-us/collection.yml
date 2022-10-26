@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Hours.md
       - School Rules/Schools Rules.md
       - School Rules/School Uniform.md
       - School Rules/.keep
