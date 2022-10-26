@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Policies/Exam Policy.md
       - School Policies/Homework Policy.md
       - School Policies/.keep
       - School Policies/Rules for Using Lockers.md
