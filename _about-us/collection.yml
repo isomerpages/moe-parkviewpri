@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Policies/Homework Policy.md
       - School Policies/.keep
       - School Policies/Rules for Using Lockers.md
       - School Canteen Menu.md
