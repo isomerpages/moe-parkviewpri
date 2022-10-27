@@ -39,3 +39,10 @@ Together we will make you shine
 Here we learn to be caring  
 Our crest gleaming bright  
 Park View
+
+### School History
+
+**Milestones in Park View Primary School History**
+
+![](/images/School%20History%20Picture%20Collage%20v6%20resized.png)
+
