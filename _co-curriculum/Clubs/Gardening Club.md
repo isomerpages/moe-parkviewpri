@@ -75,12 +75,12 @@ NParks has been spearheading the Community In Bloom (CIB) programme to create ga
      style="width:50%">
 
 
-**Gardeners after CCA Session**
+<b>Gardeners after CCA Session</b>
 
 <img src="/images/Gardening_2.jpg" 
      style="width:50%">
 
-**Visited Meridian Primary School**
+<b>Visited Meridian Primary School</b>
 
 <img src="/images/Gardening_3.jpg" 
      style="width:50%">
