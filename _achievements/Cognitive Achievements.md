@@ -14,3 +14,12 @@ description: ""
 
 **CREATIVE WRITING PROGRAMME (PRIMARY)**    
 **Organised by: Gifted Education Branch**
+
+![](/images/Picture2.jpg)
+
+**YMCA Plain English Speaking Award**
+
+![](/images/Picture32a.png)
+
+**4th CHOU SIN CHU NATIONAL STUDENT CALLIGRAPHY COMPETITION**    
+**Best Calligraphy - School Team**
