@@ -58,3 +58,8 @@ NParks has been spearheading the Community In Bloom (CIB) programme to create ga
 
 
 ### Community Projects
+
+|  	|  	|  	|
+|---	|---	|---	|
+| SG 50 Garden Project orgainsed by Turf Club and New Paper 	| Gold 	| 2018 	|
+| NE Community Project “SG 50 CIB Gardens ‘2065’ “ 	| Silver 	| 2016 	|
