@@ -63,3 +63,25 @@ NParks has been spearheading the Community In Bloom (CIB) programme to create ga
 |---	|---	|---	|
 | SG 50 Garden Project orgainsed by Turf Club and New Paper 	| Gold 	| 2018 	|
 | NE Community Project “SG 50 CIB Gardens ‘2065’ “ 	| Silver 	| 2016 	|
+
+![](/images/Gardening_1.jpg)
+
+<img src="/images/Gardening_1.jpg" 
+     style="width:70%">
+
+<img src="/images/img-150624135549-0001.jpg" 
+     style="width:50%">
+
+
+**Gardeners after CCA Session**
+
+<img src="/images/Gardening_2.jpg" 
+     style="width:50%">
+
+**Visited Meridian Primary School**
+
+<img src="/images/Gardening_3.jpg" 
+     style="width:50%">
+		 
+<img src="/images/Gardening_4.jpg" 
+     style="width:50%">
