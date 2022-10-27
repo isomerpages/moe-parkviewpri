@@ -2,5 +2,6 @@ collections:
   achievements:
     output: true
     order:
+      - Aesthetics Achievements.md
       - Social & Moral Achievements.md
       - Leadership Achievements.md
