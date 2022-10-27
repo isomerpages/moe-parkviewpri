@@ -22,3 +22,7 @@ description: ""
 ![](/images/Picture14.png)
 
 ![](/images/Picture15.png)
+
+#### STAR (Sustaining Toilets As Restrooms) Awards Programme 2018
+
+![](/images/STAR.jpg)
