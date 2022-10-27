@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Students/Aesthetics Achievements.md
       - Students/Social & Moral Achievements.md
       - Students/Leadership Achievements.md
       - Students/.keep
