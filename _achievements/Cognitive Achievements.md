@@ -15,7 +15,8 @@ description: ""
 **CREATIVE WRITING PROGRAMME (PRIMARY)**    
 **Organised by: Gifted Education Branch**
 
-![](/images/Picture2.jpg)
+<img src="/images/Picture2.jpg" 
+     style="width:25%">
 
 **YMCA Plain English Speaking Award**
 
@@ -29,3 +30,5 @@ description: ""
 **FO GUAN SHAN PENMANSHIP COMPETITION**   
 **Best Calligraphy - School Team**  
 **Bronze Award, Merit Award, Culture Award & Participation**
+
+![](/images/Picture6%20(2).png)
