@@ -23,7 +23,7 @@ It also aims to promote awareness of the diversity of plants and to educate stud
 
 ### Achievements
 | **Event** 	| **Achievements** 	| **Year** 	|
-|:---:	|:---:	|:---:	|
+| ---	| ---	| ---	|
 | Community in Bloom    	| Gold 	| 2018 	|
 | Community in Bloom    	| Silver 	| 2016 	|
 | Community in Bloom     	| Bronze  	| 2014  	|
