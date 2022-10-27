@@ -25,3 +25,7 @@ description: ""
 **Best Calligraphy - School Team**
 
 ![](/images/Picture5%20(2).png)
+
+**FO GUAN SHAN PENMANSHIP COMPETITION**   
+**Best Calligraphy - School Team**  
+**Bronze Award, Merit Award, Culture Award & Participation**
