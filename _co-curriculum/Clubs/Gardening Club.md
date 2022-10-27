@@ -52,3 +52,9 @@ NParks has been spearheading the Community In Bloom (CIB) programme to create ga
 *   Motivate and encourage community gardeners to enjoy gardening as a fun and healthy activity
 *   Set & improve the standards of community gardens located in communal spaces
 *   Spread the gardening bug to others in the community so that they too can discover the joy of gardening
+
+<img src="/images/gardening%20club.jpg" 
+     style="width:25%">
+
+
+### Community Projects
