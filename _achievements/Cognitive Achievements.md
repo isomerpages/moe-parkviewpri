@@ -23,3 +23,5 @@ description: ""
 
 **4th CHOU SIN CHU NATIONAL STUDENT CALLIGRAPHY COMPETITION**    
 **Best Calligraphy - School Team**
+
+![](/images/Picture5%20(2).png)
