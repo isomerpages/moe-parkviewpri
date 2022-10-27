@@ -37,3 +37,16 @@ It also aims to promote awareness of the diversity of plants and to educate stud
 ![](/images/GC3.jpeg)
 
 ![](/images/GC4.jpeg)
+
+![](/images/gardening.jpg)
+
+![](/images/Gardening1.jpg)
+
+**Community In Bloom Awards in 2014 (Silver), 2016 (Silver) and 2018 (Gold)**
+
+NParks has been spearheading the Community In Bloom (CIB) programme to create gardening communities within housing estates, educational institutions and organisations in Singapore by partnering various stakeholders including residents, government agencies, grassroots organisations, schools and organisations. Community In Bloom Awards aims to:
+
+*   Recognise and reward gardening efforts by community gardening groups
+*   Motivate and encourage community gardeners to enjoy gardening as a fun and healthy activity
+*   Set & improve the standards of community gardens located in communal spaces
+*   Spread the gardening bug to others in the community so that they too can discover the joy of gardening
