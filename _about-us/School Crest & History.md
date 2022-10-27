@@ -15,3 +15,27 @@ description: ""
 *   The **_BOOK_** represents _knowledge_.   
 *   The **_FOUR RINGS_** represents racial _harmony_ among races.   
 *   The **_SCHOOL MOTTO “AMBITIO VIA VIRTUS”_** (Ambition through All the Excellent Qualities of Man).
+
+### Our School Song
+
+Park View you are special   
+You are one of the best   
+This is the place   
+Where we can find success
+
+Loyal and true   
+Working and playing   
+Together we shall grow   
+Our heads held up high
+
+Park View   
+You are special   
+Park View   
+Together we will make you shine   
+You are special   
+Park View
+
+Together we will make you shine  
+Here we learn to be caring  
+Our crest gleaming bright  
+Park View
