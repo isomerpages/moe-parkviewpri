@@ -38,9 +38,11 @@ It also aims to promote awareness of the diversity of plants and to educate stud
 
 ![](/images/GC4.jpeg)
 
-![](/images/gardening.jpg)
+<img src="/images/gardening.jpg" 
+     style="width:70%">
 
-![](/images/Gardening1.jpg)
+<img src="/images/Gardening1.jpg" 
+     style="width:70%">
 
 **Community In Bloom Awards in 2014 (Silver), 2016 (Silver) and 2018 (Gold)**
 
