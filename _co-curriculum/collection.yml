@@ -2,4 +2,5 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Clubs/Gardening Club.md
       - Clubs/.keep
