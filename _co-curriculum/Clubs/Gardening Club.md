@@ -54,7 +54,7 @@ NParks has been spearheading the Community In Bloom (CIB) programme to create ga
 *   Spread the gardening bug to others in the community so that they too can discover the joy of gardening
 
 <img src="/images/gardening%20club.jpg" 
-     style="width:25%">
+     style="width:70%">
 
 
 ### Community Projects
