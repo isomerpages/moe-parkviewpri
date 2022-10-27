@@ -16,6 +16,7 @@ The Gardening Club aims to promote a deeper appreciation of greenery amongst the
 
 It also aims to promote awareness of the diversity of plants and to educate students on ways to care for the different types of plants.
 
-| **Teachers-in-charge** 	| Mdm Zahrah Mohamed Abbas (OIC)<br><br>Miss June Quek Siew Lan (2OIC) 	|
- :---	|---	|
+| 	|   | 	
+| ---	|---	|
+ | **Teachers-in-charge** 	| Mdm Zahrah Mohamed Abbas (OIC)<br><br>Miss June Quek Siew Lan (2OIC) 	|
 | **Training days/Time/Venue** 	| **Fridays**<br>7.30am to 9.00am 	|
