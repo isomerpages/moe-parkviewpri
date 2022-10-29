@@ -30,3 +30,8 @@ To boost the students’ **confidence** and instill self-control and disciplin
 | International Science Drama Competition 2019<br><br>**Performance: The PET Project** 	| Top 5 among Singapore schools 	|  	| 2019 	|
 | International Science Drama Competition 2017<br><br>**Performance Title: Mind Matters** 	|  Top 5 among Singapore schools 	|  	|  2018 	|
 |  International Science Drama Competition 2017<br><br>**Performance Title: Are YOU doing what is Right?** 	|  Top 5 among Singapore schools 	|  	|  2017 	|
+
+
+|  	|  	|
+|---	|---	|
+| Coach 	| **External Vendors**<br>The Edutainment Circle 	|
