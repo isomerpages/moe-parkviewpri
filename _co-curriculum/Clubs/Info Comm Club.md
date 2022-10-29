@@ -57,3 +57,5 @@ Besides that, students also get to learn about blocked-based Artificial Intellig
 [2014 PVPS SDMA 2014 At the Crossroad - Merit](http://www.youtube.com/watch?v=NSPNFW2ufaE&feature=youtu.be)  
 [2014 PVPS SDMA 2014 Before It's Too Late - Merit](http://www.youtube.com/watch?v=l7nh6gupprM&list=UUMEXsMKap38VGlb35D9KksA)  
 [2014 PVPS SDMA 2014 The Eco garden - Merit](http://www.youtube.com/watch?v=iUge2MMfjNI&list=UUMEXsMKap38VGlb35D9KksA)
+
+### Activities/Events
