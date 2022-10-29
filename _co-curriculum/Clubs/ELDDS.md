@@ -38,3 +38,6 @@ To boost the students’ **confidence** and instill self-control and disciplin
 
 
 ![](/images/ELDDS_1.jpg)
+
+
+### Activities/Events
