@@ -19,3 +19,6 @@ To boost the students’ **confidence** and instill self-control and disciplin
 | **Teachers-in-charge** 	| Mdm Shirin Osman<br>Ms Joyce Low 	|
 | **Training days/Time/Venue** 	| **All members**<br>Friday<br>7.30am to 9.00am<br>Hotspot 	|
 | **Coach** 	| **External Vendors**<br>The Edutainment Circle 	|
+
+
+### Achievements
