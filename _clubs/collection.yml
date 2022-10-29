@@ -1,0 +1,4 @@
+collections:
+  clubs:
+    output: true
+    order: []
