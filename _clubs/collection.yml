@@ -2,4 +2,5 @@ collections:
   clubs:
     output: true
     order:
+      - Info Comm Club/Digital Sculpting.md
       - Info Comm Club/.keep
