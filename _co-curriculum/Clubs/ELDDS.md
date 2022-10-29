@@ -13,3 +13,9 @@ The objective of the Club is to stimulate the young **curious** mind with imag
 The learning process involves the ability to **collaborate** with team members, display empathy and tolerance for effective teamwork. It also helps develop the students’ ability to comprehend and **connect** with the world around.
 
 To boost the students’ **confidence** and instill self-control and discipline, ELDDS offers a safe platform where the students can practice, perform, inspire and fuel their overall development. This ensures the moulding of committed and responsible students who are ready to take on real life situations.
+
+|  	|  	|
+|---	|---	|
+| **Teachers-in-charge** 	| Mdm Shirin Osman<br>Ms Joyce Low 	|
+| **Training days/Time/Venue** 	| **All members**<br>Friday<br>7.30am to 9.00am<br>Hotspot 	|
+| **Coach** 	| **External Vendors**<br>The Edutainment Circle 	|
