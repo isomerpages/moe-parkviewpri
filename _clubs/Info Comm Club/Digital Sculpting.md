@@ -23,3 +23,17 @@ third_nav_title: Info Comm Club
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_NKHrwg9G4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Digital Sculpting 2013
+
+![](/images/DigitalSculpting.jpg)
+
+**Furby - Higgins Britney Lin (6F)**
+
+**Pikachu - Lim Wan Qin (6F)**
+
+**Doraemon - Tan Yi Jie, Valerie (6F)**
+
+**Totoro - Gu Jia Hao (6F)**
+
+**Hip hop mushroom - Gabriel Oh WeiQi (6F)**   
+
+**Llama Drama - Leow Yuan Shen Herbert (6A2)**
