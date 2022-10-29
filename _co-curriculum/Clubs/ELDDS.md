@@ -57,3 +57,8 @@ To boost the students’ **confidence** and instill self-control and disciplin
 <img src="/images/Pic01-ELDDS.jpg">
 
 <img src="/images/ELDDS_SciCom.jpg">
+
+<b>Video of "Security and Sustainability: A Parallel World"</b>
+  
+<b>Video of "The Cat in the Hat"</b>
+
