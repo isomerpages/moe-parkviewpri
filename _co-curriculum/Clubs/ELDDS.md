@@ -35,3 +35,6 @@ To boost the students’ **confidence** and instill self-control and disciplin
 |  	|  	|
 |---	|---	|
 | **Coach** 	| **External Vendors**<br>The Edutainment Circle 	|
+
+
+![](/images/ELDDS_1.jpg)
