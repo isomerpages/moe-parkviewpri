@@ -62,3 +62,4 @@ To boost the students’ **confidence** and instill self-control and disciplin
   
 <b>Video of "The Cat in the Hat"</b>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mZocZCj8m2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
