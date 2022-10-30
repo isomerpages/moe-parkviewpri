@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Sports & Games/Wushu.md
       - Sports & Games/.keep
       - Performing Arts/Creative Dance.md
       - Performing Arts/Guzheng.md
