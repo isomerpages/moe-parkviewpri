@@ -35,3 +35,5 @@ Park View Primary School Scout Unit started in 2011.  We strive to develop our 
 
 
 ![](/images/Scout_03.jpg)
+
+![](/images/Scout_04.jpg)
