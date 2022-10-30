@@ -37,3 +37,11 @@ Despite the challenges faced due to the pandemic, both PVPS Art & Craft Club and
 ![](/images/Community%20Outreach%20Programme%20through%20Recycled%20Art%20Earth%20Day.jpg)
 
 ![](/images/Pasir%20Ris%20Our%20Home%20Colouring%20Contest.jpg)
+
+![](/images/Draw%20My%20Stamp%20Story%206.jpg)
+
+![](/images/A1.jpg)
+
+![](/images/A2.jpg)
+
+![](/images/A3.jpg)
