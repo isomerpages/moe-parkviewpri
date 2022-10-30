@@ -59,3 +59,9 @@ Despite the challenges faced due to the pandemic, both PVPS Art & Craft Club and
 ![](/images/AC_001.jpg)
 
 ![](/images/Young%20Illustrator%20Awards.jpg)
+
+![](/images/SYF%202019%20photo%20montage.jpg)
+
+![](/images/AC_002.jpg)
+
+![](/images/AC_004.jpg)
