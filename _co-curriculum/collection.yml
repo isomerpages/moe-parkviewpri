@@ -2,8 +2,8 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Clubs/.keep
+      - Clubs/ELDDS.md
       - Clubs/Art & Craft Club.md
       - Clubs/Info Comm Club.md
-      - Clubs/ELDDS.md
       - Clubs/Gardening Club.md
-      - Clubs/.keep
