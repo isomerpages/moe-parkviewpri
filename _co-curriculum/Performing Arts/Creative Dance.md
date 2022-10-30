@@ -46,3 +46,7 @@ Creative Dance teaches respect, resilience and discipline alongside other school
 <h3>2014 SYF Arts Presentation Rehearsals</h3>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MWXyRHKX3k8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h3>Achievements - SYF 2010 & 2012 (Silver Award)</h3>
+
+<img src="/images/dance2.jpg">
