@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Performing Arts/Show Choir.md
       - Performing Arts/.keep
       - Uniformed Groups/Scouts.md
       - Uniformed Groups/.keep
