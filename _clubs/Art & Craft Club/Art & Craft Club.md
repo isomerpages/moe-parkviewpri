@@ -24,4 +24,11 @@ third_nav_title: Art & Craft Club
 
 <h3>URA LTPR ART COMPETITION</h3>
 
-![](/images/URA_LTPR%20Art%20Competition_Teo%20Zhi%20Xuan%204R3_2nd%20Place%201.jpg)
+<img src= "/images/URA_LTPR%20Art%20Competition_Teo%20Zhi%20Xuan%204R3_2nd%20Place%201.jpg">
+
+<img src= "/images/URA_LTPR%20Art%20Competition_Teo%20Zhi%20Xuan%204R3_2nd%20Place%202.jpg">
+
+<h3>Community Outreach Programme (COP) thru’ Recycled Art</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sUn1nNqdg1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
