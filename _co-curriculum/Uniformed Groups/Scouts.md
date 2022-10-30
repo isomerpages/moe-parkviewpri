@@ -33,7 +33,12 @@ Park View Primary School Scout Unit started in 2011.  We strive to develop our 
 
 ![](/images/Scout_02.jpg)
 
-
 ![](/images/Scout_03.jpg)
 
 ![](/images/Scout_04.jpg)
+
+### JUNE CAMP 2016 @ MERIDIAN PRIMARY SCHOOL
+
+The cub scouts participated in a Scouting camp from 1st to 3rd of June in collaboration with Meridian Primary School held at Meridian Primary School. During the three days, the cub scouts were able to put into practice their social emotional and 21st Century competency skills through the scouting activities such as tent pitching and team bonding games. The cub scouts had an enjoyable and memorable learning experience.
+
+![](/images/SCOUT_!!.jpg)
