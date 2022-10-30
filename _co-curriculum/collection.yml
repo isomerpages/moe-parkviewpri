@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Sports & Games/Sports & Games.md
       - Sports & Games/Hockey.md
       - Sports & Games/Volleyball.md
       - Sports & Games/Football.md
