@@ -27,3 +27,7 @@ ICT skills are essential Desired Student Outcomes for 21st century. Through the
 **iLearn@PVPS**  
 
 In Park View Primary School, iLearn@PVPS aims to strengthen integration of ICT into curriculum, pedagogy and assessment to enhance learning and develop competencies for the 21st century.
+
+[Programme](#Programme)
+
+<h3><a name="Programme"></a>Programme</h3>
