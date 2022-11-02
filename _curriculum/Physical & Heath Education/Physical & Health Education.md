@@ -46,3 +46,22 @@ Wushu Enrichment is a programme customised for P1 and P2 pupils. It aims to intr
 The programme also seeks to inculcate values of Respect, Discipline and Perseverance in the pupils. Pupils reap the benefits of improved focus and better conduct. Our Parent Support Group partners the school in facilitating the values education segment together with the Wushu coaches during lessons.
 
 <img src="/images/ep1.jpg">
+
+
+<b>P4 and P5 Outdoor Adventure Learning</b>
+
+<b>Camp Odyssey and Camp Valor</b>
+
+The school believes in taking learning outdoors to enrich the curriculum and make learning fun and meaningful. Every year, Camp Odyssey and Camp Valor are conducted concurrently for the P4 and P5 pupils as a form of lead up to the ultimate camp experience for P6 - Overseas Cultural Immersion Camp.
+
+![](/images/ep2.jpg)
+
+During the camps, pupils learn useful skills such as topography, tent-pitching and conflict management. They also have the opportunities to take part in activities such as dragon boating, Challenge Ropes Course and team-building games. Through adventure challenges and activities, pupils get to:
+
+*   Overcome their fears and limitations
+*   Challenge themselves
+*   Grow in confidence and self-esteem
+*   Step outside their comfort zone
+*   Develop an appreciation for nature
+*   Manage risk and learn to reflect
+*   Develop team-building and leadership skills
