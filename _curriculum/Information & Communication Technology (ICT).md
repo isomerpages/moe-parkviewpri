@@ -135,3 +135,9 @@ With the availability and use of digital resources and the widening coverage of 
 In order to promote different art forms and to greater infuse ICT into teaching and learning, the school has converted its Computer Lab 4 to a Digital Art and Music iMac Lab.
 
 <img src="/images/Infrastructure_1.jpg" style="width:70%">
+
+<h3>Cyberwellness comic strips</h3>
+
+![](/images/cyberwellness.jpg)
+
+![](/images/cyberwellness2.jpg)
