@@ -32,3 +32,11 @@ To enable and encourage our students to be active after leaving school, with a g
 \- self and peer assessment (subject-based/learning outcomes)
 
 \- self and peer assessment (in Values, SEL & 21CC)
+
+
+* [Enrichment Programme](#EnrichmentProgramme)
+
+
+<h3><a name="Enrichment Programme"></a>Enrichment Programme</h3>
+
+
