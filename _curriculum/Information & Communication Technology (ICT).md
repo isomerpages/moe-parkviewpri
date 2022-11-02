@@ -20,3 +20,10 @@ ICT skills are essential Desired Student Outcomes for 21st century. Through the
 *   **INTEGRATON**: Integrate ICT-enriched learning experiences into curriculum, instruction & assessment
 *   **ENGAGEMENT**: Use of ICT for engaged learning
 *   **DIRECTION**: Provide ICT leadership direction & create conditions to harness ICT
+
+<img src="/images/fw_ict.gif" style="width:50%">
+
+
+**iLearn@PVPS**  
+
+In Park View Primary School, iLearn@PVPS aims to strengthen integration of ICT into curriculum, pedagogy and assessment to enhance learning and develop competencies for the 21st century.
