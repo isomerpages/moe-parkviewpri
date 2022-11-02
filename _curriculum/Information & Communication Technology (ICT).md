@@ -31,6 +31,7 @@ In Park View Primary School, iLearn@PVPS aims to strengthen integration of ICT i
 * [Programme](#Programme)  
 * [Achievements](#Achievements)
 * [Resources](#Resources)
+* [Infrastructure](#Infrastructure)
 
 <h3><a name="Programme"></a>Programme</h3>
 
@@ -117,3 +118,5 @@ Lift A Day
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Pu7B025SSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h3><a name="Infrastructure"></a>Infrastructure</h3>
