@@ -39,4 +39,8 @@ To enable and encourage our students to be active after leaving school, with a g
 
 <h3><a name="Enrichment Programme"></a>Enrichment Programme</h3>
 
+<b>P1 & P2 Wushu Enrichment Programme</b>
 
+Wushu Enrichment is a programme customised for P1 and P2 pupils. It aims to introduce our pupils to basic martial arts through engaging lessons. Throughout the programme, emphasis will be placed on hand and leg movements and coordination. Pupils will then be able to perform a basic routine.
+
+The programme also seeks to inculcate values of Respect, Discipline and Perseverance in the pupils. Pupils reap the benefits of improved focus and better conduct. Our Parent Support Group partners the school in facilitating the values education segment together with the Wushu coaches during lessons.
