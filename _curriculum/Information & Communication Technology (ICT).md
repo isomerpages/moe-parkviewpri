@@ -126,3 +126,5 @@ Lift A Day
 Mobile Carts: Transition from Desktops to Notebooks
 
 With the availability and use of digital resources and the widening coverage of wireless access in PVPS, our pupils are able to learn at anytime and from anywhere. To further support such learning environment, the school has replaced all its desktops with notebooks which allow for better mobility and provide better power resiliency to enhance teaching and learning beyond the classroom.
+
+<img src="/images/Infrastructure_1.jpg" style="width:70%">
