@@ -4,5 +4,7 @@ links:
     collection: about-us
   - title: Co-Curriculum
     collection: co-curriculum
+  - title: Curriculum
+    collection: curriculum
   - title: Contact Us
     url: /contact-us/
