@@ -66,3 +66,8 @@ The objectives of HBL Exercises are:
 *   To simulate school closure during an emergency period
 *   To ensure continuity of learning in the event of school closure
 *   To engage pupils in ICT-enriched learning experiences
+
+
+
+
+<h3><a name="Achievements"></a>Achievements</h3>
