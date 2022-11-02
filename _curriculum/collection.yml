@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Physical & Heath Education/Physical & Health Education.md
       - Physical & Heath Education/.keep
       - Aesthetics/.keep
       - Information & Communication Technology (ICT).md
