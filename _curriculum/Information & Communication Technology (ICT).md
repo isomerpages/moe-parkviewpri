@@ -127,8 +127,11 @@ Mobile Carts: Transition from Desktops to Notebooks
 
 With the availability and use of digital resources and the widening coverage of wireless access in PVPS, our pupils are able to learn at anytime and from anywhere. To further support such learning environment, the school has replaced all its desktops with notebooks which allow for better mobility and provide better power resiliency to enhance teaching and learning beyond the classroom.
 
-<img src="/images/Infrastructure_1.jpg" style="width:70%">
+<img src="/images/Infrastructure_2.jpg" style="width:70%">
 
 <b>Lab 4/ Mac Lab</b>
 
 In order to promote different art forms and to greater infuse ICT into teaching and learning, the school has converted its Computer Lab 4 to a Digital Art and Music iMac Lab.
+
+<img src="/images/Infrastructure_1.jpg" style="width:70%">
+
