@@ -217,3 +217,6 @@ They are Cavern Loo, Swastika Dubay, Jerlyn Tan and Joel Affendi from Prima
 Park View Primary School participated in the Math Mastery International Challenge organized by Adam Khoo Learning Centre in partnership with Singapore Press Holdings SPH. This is the 1st time that Park View Primary is participating in this Competition.  
   
 A total of 42 pupils took part in the preliminary round and 4 pupils made it to the Semi-final round. They are Shobhit Mishra, Bhargav, Lai Hsuan Jung and Jaslenn Kaur.
+
+
+![](/images/collage.jpg)
