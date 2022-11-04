@@ -114,3 +114,54 @@ The topics covered at the various levels are as follow:
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Level</th><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Topics</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">P4<br></td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;color:#162837">All Possible Combinations, Add Counting Numbers, Simultaneous Equations, Fractions, 4 Operations, Multiples, Models and Area &amp; Perimeter</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">P5<br></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Patterns, Area &amp; Perimeter, Solid Figures, 4 Operations, Diagrams, Average, Fractions and Percentage<br></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">P6<br></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Numerical manipulations, Simple Integral Divisibility, Problem Solving, Logical Thinking, Simple Combinatorial Problems and Mensuration</td></tr></tbody></table>
 
 <img src="/images/Olympiad-Training.jpg">
+
+
+
+
+
+
+
+
+### P3 and P4 Mathematics Investigative Task
+
+Math Investigative Tasks (MIT) is a package which integrates some elements of Mathematical Modelling Mathematical Modelling is the abstract representation of an object or system using mathematical concepts such as number, quantity, shape, variability, etc. The main purpose is to create meaningful learning of Mathematics for pupils. It is a mean that links between real-world experiences and abstract mathematical representation. In addition, the processes during the Mathematical Modelling involve students in use of mathematical discourse such as explaining, describing, exploring, conjecturing, predicting, justifying, resolving conflict and revising solution..
+
+Pupils are exposed to non-routine and open-ended tasks where they are taught to articulate their thinking processes before coming to a decision. In this package, pupils will be able to
+
+*   Identify the links between real-world experiences and mathematical concepts;
+
+*   articulate their thinking and reasoning process and improve on their decision making skills using mathematical concepts and
+
+*   work synergistically as a team to solve a problem and showcase their presentation skills.
+
+  
+
+In MIT, teachers act as facilitators throughout the process, such as providing the right amount of scaffolding for students and creating the right climate for self or peer critique of work using task-specific rubrics.
+
+  
+
+_Example of an MIT question:_
+
+Mr Lim received a ticket for the Night Safari which has a total of 6 different enclosures. However, due to the time constraint, he can only visit 3 enclosures.
+
+(a) In how many ways can he choose to visit 3 different enclosures?
+
+(b) What pattern do you observe?
+
+  
+  
+
+### Math@Home Package
+
+As part of the school’s efforts to encourage parents to take on a more active role in supporting their child’s learning, the Math department has designed a Mathematics booklet (i.e. Math@Home) to get parents involved in their child's learning of Math.
+
+The ‘Math@Home Booklet for Parents’ is designed and prepared for P1 to P3 pupils as these are the levels where basic mathematical knowledge are mostly introduced.
+
+Questions set are in accordance to the objectives stated in the textbooks that pupils use. It is hoped that through this package, pupils will gradually be able to cope better when they progress to the next levels. With more successes experienced at a younger age, pupils’ level of confidence and motivation will thus be enhanced.
+
+**Aims of the Math@Home Package**
+
+*   Work in partnership with parents to enhance pupils’ learning of Mathematics.
+*   Guide parents in reinforcing mathematical concepts with their child and to supervise their child in taking the topical test in the booklet at home.
+*   Develop positive learning environment at home.
+*   Motivate pupils to learn Mathematics and develop positive attitudes towards Mathematics.
