@@ -86,3 +86,7 @@ Activity-based lesson is one of the strategies to instil passion and interest in
 This is in line with the Mathematics Department Vision: Every Park View pupil is an independent and engaged problem solver, and a creative and critical thinker, who strives for excellence.
 
 ![](/images/ABL.jpg)
+
+### Mental Maths Programme / Abacus
+
+The objectives of the Mental Maths Programme are to develop pupils' thinking and analytical skills and enhance pupils' concentration, memory skills and systematic computational skills. The programme focuses on number bonding, place values, multiplication tables.
