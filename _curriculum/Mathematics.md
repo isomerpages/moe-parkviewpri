@@ -168,7 +168,7 @@ Questions set are in accordance to the objectives stated in the textbooks that p
 
 <img src="/images/20150402_141624.jpg" style="width:50%">
 
-<h3>ACHIEVEMENTS<a name="ACHIEVEMENT"></a></h3>
+<h3><a name="ACHIEVEMENT"></a>ACHIEVEMENT</h3>
 
 **Singapore Mathematical Olympiad for Primary Schools 2019**  
 
@@ -281,7 +281,7 @@ A total of 44 participating teams from Australia, Bulgaria, China, India, Indone
 ![](/images/mathOlympic.jpg)
 
 
-<h3>RESOURCES<a name="RESOURCES"></a></h3>
+<h3><a name="RESOURCES"></a>RESOURCES</h3>
 
 
 ##### Useful Web Sites:
