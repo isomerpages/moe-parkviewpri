@@ -49,3 +49,40 @@ The Mathematics department adopts the STAR approach, a 4-phased structured proce
 ![](/images/star_2of3.jpg)
 
 ![](/images/star_3of3.jpg)
+
+
+
+
+<h3>ENRICHMENT<a name="STAR"></a></h3>
+
+<h4>E2K Programme</h4>
+
+<h5>TARGET GROUP</h5>
+
+Selected Primary 4 to Primary 5 pupils with high ability in Mathematics.
+
+<h5>DESCRIPTION</h5>
+
+The E2K Mathematics Programme is a Mathematics enrichment programme for Primary 4 and Primary 5 students in Park View Primary School who demonstrate interest and ability in Mathematics. It aims to develop in students mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach. Students will have opportunities to collaborate with their peers and engage in mathematical thinking through resources such as puzzles, games and mathematics explorations which are specially designed for the programme. The rich learning experiences offered by the programme serve to help students to develop the habits, attitudes and dispositions mathematicians possess, as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.
+
+  
+
+### Financial Literacy Programme
+
+Park View Primary School embarked on the whole-school Financial Literacy Programme by the Math Department to educate our pupils on the importance of money management.
+
+The objective is to equip our pupils with the relevant knowledge, skills and attitudes/ values to cope with the financial landscape of the 21st century.
+
+![](/images/collage2.jpg)
+
+### Activity-Based Learning
+
+In activity-based lessons, pupils are involved in experiential learning through hands-on activities. Pupils learn to work together in groups, involve in meaningful discussions, helping one another in discovering the answers and accepting each other’s strengths and weaknesses. On the other hand, the teachers play the role of facilitator, observer, listener and guiding pupils in the problem solving activities.
+
+Since pupils work in small groups, pupils tend to be less shy and they are usually willing to make mistakes. They take responsibility of their own learning through group discussions.
+
+Activity-based lesson is one of the strategies to instil passion and interest in all pupils in the learning of mathematical problem solving. It encourages pupils to apply what they have learnt, through the activities they carry out, many of which usually relate to real life situation. Activity based lessons provide pupils with platform to stay engaged and learn creatively. Pupils take responsibility in their learning actively rather than passive receivers of information and knowledge.  
+
+This is in line with the Mathematics Department Vision: Every Park View pupil is an independent and engaged problem solver, and a creative and critical thinker, who strives for excellence.
+
+![](/images/ABL.jpg)
