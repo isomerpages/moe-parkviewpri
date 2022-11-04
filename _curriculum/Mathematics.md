@@ -277,3 +277,25 @@ The contest aims to:
 
   
 A total of 44 participating teams from Australia, Bulgaria, China, India, Indonesia, Macau, Malaysia, Mongolia, Taiwan, the Philippines, Russia, Singapore, South Africa, Ghana, Thailand, the United States and Hong Kong took part in this World Contest.
+
+![](/images/mathOlympic.jpg)
+
+
+<h3>RESOURCES<a name="RESOURCES"></a></h3>
+
+
+##### Useful Web Sites:
+
+  
+Link to approved calculator website:  
+
+[https://www.seab.gov.sg/home/examinations/approved-calculators](https://www.seab.gov.sg/home/examinations/approved-calculators)
+
+  
+Other websites:  
+[www.worldmathday.com](http://www.worldmathday.com/)  
+[www.mathplayground.com](http://www.mathplayground.com/)  
+[http://mathworld.wolfram.com](http://mathworld.wolfram.com/)  
+[http://www.amathsdictionaryforkids.com](http://www.amathsdictionaryforkids.com/)  
+[http://www.mathwords.com](http://www.mathwords.com/)  
+[http://www.hbschool.com/glossary/math2/index\_temp.html](http://www.hbschool.com/glossary/math2/index_temp.html)
