@@ -40,7 +40,7 @@ To achieve our vision, our approach is Delivery, Interest, Application and Asses
 * [Resources](#Resources)
 
 
-<h3>STAR<a name="STAR"></a></h3>
+<h3><a name="STAR"></a>STAR</h3>
 
 The Mathematics department adopts the STAR approach, a 4-phased structured process, to help our students in developing problem-solving ability and confidence in solving real-world problems. The approach employs the use of George Polya’s problem solving technique and Edward de Bono’s Six Thinking Hats to expand a systematic flow to approach a problem.
 
@@ -53,7 +53,7 @@ The Mathematics department adopts the STAR approach, a 4-phased structured proce
 
 
 
-<h3>ENRICHMENT<a name="ENRICHMENT"></a></h3>
+<h3><a name="ENRICHMENT"></a>ENRICHMENT</h3>
 
 <h4>E2K Programme</h4>
 
