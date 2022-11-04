@@ -165,3 +165,5 @@ Questions set are in accordance to the objectives stated in the textbooks that p
 *   Guide parents in reinforcing mathematical concepts with their child and to supervise their child in taking the topical test in the booklet at home.
 *   Develop positive learning environment at home.
 *   Motivate pupils to learn Mathematics and develop positive attitudes towards Mathematics.
+
+<img src="/images/20150402_141624.jpg" style="width:50%">
