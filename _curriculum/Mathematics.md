@@ -53,7 +53,7 @@ The Mathematics department adopts the STAR approach, a 4-phased structured proce
 
 
 
-<h3>ENRICHMENT<a name="STAR"></a></h3>
+<h3>ENRICHMENT<a name="ENRICHMENT"></a></h3>
 
 <h4>E2K Programme</h4>
 
@@ -167,3 +167,5 @@ Questions set are in accordance to the objectives stated in the textbooks that p
 *   Motivate pupils to learn Mathematics and develop positive attitudes towards Mathematics.
 
 <img src="/images/20150402_141624.jpg" style="width:50%">
+
+<h3>ACHIEVEMENTS<a name="ACHIEVEMENT"></a></h3>
