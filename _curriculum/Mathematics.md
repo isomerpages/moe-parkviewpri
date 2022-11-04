@@ -230,3 +230,16 @@ A total of 42 pupils took part in the preliminary round and 4 pupils made it to 
 **Interschool Sudoku Mania 2014**
 
 ![](/images/Sudoku-2014.jpg)
+
+Park View Primary School participated in the Interschool Sudoku Mania organized by Yuying Secondary School on 13th February. This is the 1st time that Park View Primary is participating in this Competition. 2 teams of 4 pupils each from Primary 5E took part in the competition. One of the teams consisting of Javan Ang, Daryl Tai, Muhammad Fikri and Ian Leong beat all the other teams and emerged Overall Champion in the competition.  
+  
+The competition aims to:  
+
+*   enhance the primary school students’ interest in mathematics;  
+    
+*   develop pupils’ logical abilities and exercise their cognition and  
+    
+*   foster friendly relations among primary and secondary school students from different schools in Singapore.  
+ 
+  
+A total of more than 30 teams all over Singapore took part in this Competition.
