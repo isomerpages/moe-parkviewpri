@@ -90,3 +90,23 @@ This is in line with the Mathematics Department Vision: Every Park View pupil is
 ### Mental Maths Programme / Abacus
 
 The objectives of the Mental Maths Programme are to develop pupils' thinking and analytical skills and enhance pupils' concentration, memory skills and systematic computational skills. The programme focuses on number bonding, place values, multiplication tables.
+
+![](/images/enrichment1.jpg)
+
+### P4 to P6 Mathematics Olympiad Training
+
+  
+
+The focus of the training is to:
+
+  
+
+*   Engage pupils in thinking activities by discussing and solving non-routine problems;
+*   Equip pupils with the necessary problem solving skills and mathematical knowledge for higher order problem solving
+*   stimulate pupils’ interest and enthusiasm for problem solving;
+*   introduce pupils to the process, thinking skills and techniques that are required to solve Math Olympiad-like non-routine problems and
+*   instil in pupils the spirit of learning by discovery
+
+Through the training sessions, pupils experience the satisfaction, pleasure, fun and thrill of discovery associated with creative problem solving.
+
+The topics covered at the various levels are as follow:
