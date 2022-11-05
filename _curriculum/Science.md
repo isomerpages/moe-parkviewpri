@@ -299,3 +299,21 @@ The objectives of the programme are as follows:
 The lessons are based on the broad science themes in the elementary science curriculum. These lessons focused on introducing Physics, Chemistry and Biology to pupils as well as to enhance their general knowledge.
 
 Selected P5 pupils may have the opportunity to participate in the Raffles Science Olympiad Competiton(RSO) or the NUS HIgh Singapore Primary Science Olympiad (SPSO).
+
+![](/images/olympiad%20traid.jpg)
+
+### P4 and P5 Science E2K Programme
+
+Selected P4 and P5 students are selected to participate in Science E2K programme.
+
+The objectives of the programme are as follows:
+
+*   To develop scientific inquiry process skills among primary pupils in science
+*   To acquire habits, attitudes and dispositions of scientists
+*   To nurture other important 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective and communication skills
+
+The E2K Science Programme is a science enrichment programme for upper primary students who demonstrate interest and ability in science. The programme is adapted from Israel’s E2K Programme which is developed by the Israel Centre for Excellence through Education (ICEE).
+
+The lessons are based on the broad science themes in the elementary science curriculum. The students will collect and use evidence to address scientifically oriented questions, formulate explanations from evidence to address the questions and evaluate their explanations.
+
+![](/images/E2K.jpg)
