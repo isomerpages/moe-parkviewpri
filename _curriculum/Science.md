@@ -231,3 +231,12 @@ Congratulations to Park View Primary School on being awarded the BCA Green Mark 
 ![](/images/green.jpg)
 
 <h3><a name="Enrichment Programmes"></a>Enrichment Programmes</h3>
+
+
+### Singapore Science Centre Learning Journey
+
+P1 to P5 pupils will go on a learning journey to the Singapore Science Centre every year to attend practical laboratory session or lecture demonstration on the topics that they learn in their primary science education. The Science Centre enrichment programmes complement the school science curriculum with hands-on and inspiring learning experiences. The enrichment programmes aim to:
+
+*   provide pupils with experiences which build on their interest in and stimulate their curiosity about their environment;
+*   provide engaging and meaningful aquisation of scientific knowledge;
+*   inculcate the spirit of scientific inquiry through the application of different process skills such as observing, comparing, classifying, analysing, inferring, evaluting and investigating.
