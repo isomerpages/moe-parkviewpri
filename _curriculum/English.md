@@ -219,3 +219,10 @@ Wits and Words - the national primary school debating championship, is jointly o
 | 2015 	| 90% 	|
 | 2014 	| 92% 	|
 | 2013 	| 94 	|
+
+
+### RHB-The Straits Times National Spelling Championship
+
+**RHB-The Straits Times National Spelling Championship 2013**
+
+A big congratulations to **Gu Jiahao of P6F** who has made PVPS proud by emerging as a finalist for the Grand Final of the RHB-The Straits Times National Spelling Championship 2013. It is the first time PVPS has participated in the competition, and Jiahao emerged as one of the finalists out of 1400 pupils who took part in the first round! Although he did not clinch the top award, Jia Hao showed true grit and determination as he tackled difficult words, competing against 30 other participants from around Singapore. Good job, Jia Hao!
