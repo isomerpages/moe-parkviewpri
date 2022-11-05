@@ -2,11 +2,11 @@ collections:
   curriculum:
     output: true
     order:
-      - English/Overview of Scheduled Library Period Activities Primary 1.md
       - English/.keep
       - English/English.md
       - English/Library.md
       - English/School Library Policy.md
+      - English/Overview of Scheduled Library Period Activities Primary 1.md
       - Mathematics.md
       - Science.md
       - Physical & Health Education.md
