@@ -189,3 +189,10 @@ Neha Awan
 
  **Merit Award**   
 Jessica Xiao Jing Han
+
+
+### Our Achievements in Environment
+
+**Community In Bloom Award (Silver)**
+
+<img src="/images/1Community-in-Bloom%20(1).jpg" style="width:25%">
