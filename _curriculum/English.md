@@ -33,7 +33,6 @@ To achieve this, the department embarks on the following key approaches:
 * [Enrichment](#Enrichment)
 * [Achievements](#Achievements)
 * [Children's Work](#Childten'swork)
-* [Library](#Ilbrary)
 
 <h3><a name="Curriculum"></a>Curriculum</h3>
 
