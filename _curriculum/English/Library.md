@@ -36,3 +36,12 @@ Good behavioral traits observed:
 * Place back book(s) taken from the shelf back to its original position. If unsure of the original position, it may be brought to the librarian at the counter.
 * Ensure only loaned books are brought out from the library.
 * Students should refrain from bringing their own storybook from home into the library compound.
+
+Library Policy
+--------------
+
+All pupils are automatically registered as a member of the school library.
+
+|  	|  	|
+|---	|---	|
+| Mode of loan 	| Scan of student’s MOE Student Card 	|
