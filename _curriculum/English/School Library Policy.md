@@ -77,3 +77,18 @@ Through this Reading Curriculum, students would:
 *   explore different themes
 
 ### PVPS Library Flash
+
+**Term 1** - Back to School
+![](/images/El-007.jpg)
+
+**Term 1** – Hats Off to Dr. Seuss
+
+![](/images/El-008.jpg)
+
+**Term 2** – Library Fiesta (Love our Environment)
+
+![](/images/El-009.jpg)
+
+**Term 2** – Sports Galore
+
+![](/images/El-010.jpg)
