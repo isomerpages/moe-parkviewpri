@@ -4,7 +4,6 @@ permalink: /curriculum/english/
 description: ""
 third_nav_title: English
 ---
-
 # **English**
 
 ### English Department Framework
@@ -34,7 +33,7 @@ To achieve this, the department embarks on the following key approaches:
 * [Curriculum](#Curriculum)  
 * [Enrichment](#Enrichment)
 * [Achievements](#Achievements)
-* [Children's Work](#Childten'swork)
+* [Children's Work](#Children'swork)
 
 <h3><a name="Curriculum"></a>Curriculum</h3>
 
