@@ -196,3 +196,24 @@ Jessica Xiao Jing Han
 **Community In Bloom Award (Silver)**
 
 <img src="/images/1Community-in-Bloom%20(1).jpg" style="width:25%">
+
+NParks has been spearheading the Community In Bloom (CIB) programme to create gardening communities within housing estates, educational institutions and organisations in Singapore by partnering various stakeholders including residents, government agencies, grassroots organisations, schools and organisations.
+
+  
+
+Community In Bloom Awards aims to:
+
+*   Recognise and reward gardening efforts by community gardening groups
+*   Motivate and encourage community gardeners to enjoy gardening as a fun and healthy activity
+*   Set & improve the standards of community gardens located in communal spaces
+*   Spread the gardening bug to others in the community so that they too can discover the joy of gardening
+
+Congratulations to Park View Primary School on being awarded the Community In Bloom (GOLD) in 2019!
+
+**Singapore School Green Awards 2021**
+
+The Singapore School Green Awards (SGA) is a voluntary environmental programme which serves as a platform for pupils to develop and showcase their environmental efforts, through customised activities which will help them gain better understanding of the environment.
+
+ Students also engage or participate in various environmental programmes and/or activities to raise awareness about environmental issues within and/or to external communities and organisations.
+
+Park View Primary School has once again achieved the Vanda Miss Joaquim Sustained Achievement Award in 2021.
