@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - English/English.md
       - English/.keep
       - Mathematics.md
       - Science.md
