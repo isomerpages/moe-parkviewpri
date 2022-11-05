@@ -259,44 +259,15 @@ Below are the selected essays from the Young Commonwealth Essay Competition.
 
 [A_Funeral_I_Remember.pdf](/files/A_Funeral_I_Remember.pdf)  
 
-[A_Nation's_Birthday.pdf](/files/A_Nation's_Birthday.pdf) 
+[A_Nation's_Birthday.pdf](/files/A_Nation's_Birthday.pdf)   
+(uploaded 5 out of 16)
 
-[A\_Special\_Christmas.pdf](https://parkviewpri.moe.edu.sg/qql/slot/u177/2021/Curriculum/English/Childrens%20Work/Young%20Commonwealth%20Essay%20Competition/A_Special_Christmas.pdf)  
-
-[A\_Special\_Wedding.pdf](https://parkviewpri.moe.edu.sg/qql/slot/u177/2021/Curriculum/English/Childrens%20Work/Young%20Commonwealth%20Essay%20Competition/A_Special_Wedding.pdf)  
-
-[A\_Trip\_to\_the\_Moon.pdf](https://parkviewpri.moe.edu.sg/qql/slot/u177/2021/Curriculum/English/Childrens%20Work/Young%20Commonwealth%20Essay%20Competition/A_Trip_to_the_Moon.pdf)  
-
-[A\_wedding.pdf](https://parkviewpri.moe.edu.sg/qql/slot/u177/2021/Curriculum/English/Childrens%20Work/Young%20Commonwealth%20Essay%20Competition/A_wedding.pdf)  
-
-[How\_I\_celebrate\_CNY.pdf](https://parkviewpri.moe.edu.sg/qql/slot/u177/2021/Curriculum/English/Childrens%20Work/Young%20Commonwealth%20Essay%20Competition/How_I_celebrate_CNY.pdf)  
-
-[My\_Thoughts\_on\_a\_Sporting\_Event.pdf](https://parkviewpri.moe.edu.sg/qql/slot/u177/2021/Curriculum/English/Childrens%20Work/Young%20Commonwealth%20Essay%20Competition/My_Thoughts_on_a_Sporting_Event.pdf)  
-
-[My\_thoughts\_on\_the\_YOG.pdf](https://parkviewpri.moe.edu.sg/qql/slot/u177/2021/Curriculum/English/Childrens%20Work/Young%20Commonwealth%20Essay%20Competition/My_thoughts_on_the_YOG.pdf)  
-
-[Queen\_Elizabeth\_II.pdf](https://parkviewpri.moe.edu.sg/qql/slot/u177/2021/Curriculum/English/Childrens%20Work/Young%20Commonwealth%20Essay%20Competition/Queen_Elizabeth_II.pdf)  
-
-[S'pore\_National\_Day.pdf](https://parkviewpri.moe.edu.sg/qql/slot/u177/2021/Curriculum/English/Childrens%20Work/Young%20Commonwealth%20Essay%20Competition/S'pore_National_Day.pdf)  
-
-[The Summer Olympics.pdf](https://parkviewpri.moe.edu.sg/qql/slot/u177/2021/Curriculum/English/Childrens%20Work/Young%20Commonwealth%20Essay%20Competition/The%20Summer%20Olympics.pdf)  
-
-[YOG IN SINGAPORE.pdf](https://parkviewpri.moe.edu.sg/qql/slot/u177/2021/Curriculum/English/Childrens%20Work/Young%20Commonwealth%20Essay%20Competition/YOG%20IN%20SINGAPORE.pdf)  
-
-  
-  
 
 ### Journalism for Kids
 
-  
-
 An enrichment programme on journalism was conducted for selected P5 students as part of their post-examination activities . This programme was aimed at introducing students to the basics of journalism, focusing on honing pupils’ expository writing skills, specifically for newspaper report writing. It gave students a better understanding of how a newspaper report is conceptualised, written and put together.
 
-  
-
 In this programme, students learnt ho w to:
-
-  
 
 *   identify the important parts of a newspaper story;
 *   learn new vocabulary and ‘sniff out’ interesting stories;
@@ -304,34 +275,17 @@ In this programme, students learnt ho w to:
 *   write, edit and revise news stories; and
 *   add info-graphics and photos with succinct captions.
 
-  
-
 ICT was also be integrated in this programme as pupils accessed the computers to type their individual news articles as well as work together to form their team newspapers.
-
-  
 
 Here are samples of the students' work;
 
-  
+[Gp 1_Straits Times JR_FD.pdf](/files/Gp%201_Straits%20Times%20JR_FD.pdf)
 
-[Gp 1\_Straits Times JR\_FD.pdf](https://parkviewpri.moe.edu.sg/qql/slot/u177/2021/Curriculum/English/Childrens%20Work/Journalism%20for%20Kids/Gp%201_Straits%20Times%20JR_FD.pdf)  
+[Gp 2_The News Legends_FD.pdf](/files/Gp%202_The%20News%20Legends_FD.pdf)  
 
-[Gp 2\_The News Legends\_FD.pdf](https://parkviewpri.moe.edu.sg/qql/slot/u177/2021/Curriculum/English/Childrens%20Work/Journalism%20for%20Kids/Gp%202_The%20News%20Legends_FD.pdf)  
+[Gp 3_The News Hunters_FD.pdf](/files/Gp%203_The%20News%20Hunters_FD.pdf)  
 
-[Gp 3\_The News Hunters\_FD.pdf](https://parkviewpri.moe.edu.sg/qql/slot/u177/2021/Curriculum/English/Childrens%20Work/Journalism%20for%20Kids/Gp%203_The%20News%20Hunters_FD.pdf)  
+[Gp 4_Justice Writers_FD.pdf](/files/Gp%204_Justice%20Writers_FD.pdf)  
 
-[Gp 4\_Justice Writers\_FD.pdf](https://parkviewpri.moe.edu.sg/qql/slot/u177/2021/Curriculum/English/Childrens%20Work/Journalism%20for%20Kids/Gp%204_Justice%20Writers_FD.pdf)  
-
-[Gp 5\_The News Busters\_Incomplete Page 4.pdf](https://parkviewpri.moe.edu.sg/qql/slot/u177/2021/Curriculum/English/Childrens%20Work/Journalism%20for%20Kids/Gp%205_The%20News%20Busters_Incomplete%20Page%204.pdf)  
-
-[Gp 6\_The Awesome Writers\_FD.pdf](https://parkviewpri.moe.edu.sg/qql/slot/u177/2021/Curriculum/English/Childrens%20Work/Journalism%20for%20Kids/Gp%206_The%20Awesome%20Writers_FD.pdf)  
-
-[The Scriptors\_FD.pdf](https://parkviewpri.moe.edu.sg/qql/slot/u177/2021/Curriculum/English/Childrens%20Work/Journalism%20for%20Kids/The%20Scriptors_FD.pdf)  
-
-[The Daily Doraemon\_FD.pdf](https://parkviewpri.moe.edu.sg/qql/slot/u177/2021/Curriculum/English/Childrens%20Work/Journalism%20for%20Kids/The%20Daily%20Doraemon_FD.pdf)  
-
-[VIAS News\_FD.pdf](https://parkviewpri.moe.edu.sg/qql/slot/u177/2021/Curriculum/English/Childrens%20Work/Journalism%20for%20Kids/VIAS%20News_FD.pdf)  
-
-[LeSpex Post\_FD.pdf](https://parkviewpri.moe.edu.sg/qql/slot/u177/2021/Curriculum/English/Childrens%20Work/Journalism%20for%20Kids/LeSpex%20Post_FD.pdf)  
-
-[Curious Minds News\_FD.pdf](https://parkviewpri.moe.edu.sg/qql/slot/u177/2021/Curriculum/English/Childrens%20Work/Journalism%20for%20Kids/Curious%20Minds%20News_FD.pdf)
+[Gp 5_The News Busters_Incomplete Page 4.pdf](/files/Gp%205_The%20News%20Busters_Incomplete%20Page%204.pdf)  
+(uploaded 5 out of 11)
