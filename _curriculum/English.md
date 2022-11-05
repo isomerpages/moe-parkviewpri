@@ -139,3 +139,28 @@ Drama provides an atmosphere that allows the students to express themselves free
 To showcase their talents, the students put up a show at our annual Little Stars and Broadway performance days. Parents are also invited to watch the show.
 
 ![](/images/Speech%20Drama.jpg)
+
+### Literature Appreciation (Primary 3, 4 & 5)
+
+To cultivate the love for reading, the Literature Appreciation Enrichment Programme is conducted for all Primary 3 to Primary 5 students. In this programme, the students learn to appreciate literature and are engaged in a series of dynamic dramatic activities. These activities will involve pupils in imaginary, unscripted and spontaneous scenes framed by curricular topics, selected objectives, themes and pupils’ personal experiences.
+
+
+This year, the students study the following books:
+
+*   Primary 3 - James and the Giant Peach
+
+*   Primary 4 - Frindle
+
+*   Primary 5 - Around the World in 80 Days
+
+For Primary 4, the programme ties in with SCAMPER COMES ALIVE. Students will also be given opportunities to showcase their learning through assembly programmes and Library Fiesta activities.
+
+  
+
+**Objectives:**
+
+*   To develop in our pupils an appreciation for literature in an active, fun and stimulating way through the of a literature text
+
+*   To explore characterization, themes and other key concepts in the text using drama conventions like hot-seating, forum theatre, tableaux, thought- tracking, etc
+
+*   To challenge students to become innovative and critical thinkers who have a mature understanding of themselves as well as a strong social awareness and aesthetic appreciation.
