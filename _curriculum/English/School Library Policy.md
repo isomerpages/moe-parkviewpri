@@ -64,3 +64,14 @@ Pupils are expected to observe the following library etiquette:
 The PVPS Reading Passport is a reading programme in our school that aims to cultivate the love for the reading and literature, develop reading comprehension skills and expose pupils to different genres. This passport integrates the skills of the 21st century – Information Literacy and Social Emotional that encompass the core subjects of English and the language arts.  
   
 My Reading Passport is coined as a ‘passport’ to take students around the world. It encompasses termly reading activities that ties in with the termly thematic programmes in the library. Students collect stamps after completing the activities. These stamps can be exchanged for positive benefits and a HAF certificate at the end of the year.
+
+![](/images/passport.jpg)
+
+Library activities are carried out to attract the students to the library and expose them to the different genres. Books are introduced through online stories which the students view or listen during recess or through apps in the ipad. The schedule of the activities would be highlighted to the students during Library Flash.  
+
+Through this Reading Curriculum, students would:
+
+*   be engaged and motivated readers
+*   be exposed to the different genres
+*   be developed in the Areas of Language Learning 
+*   explore different themes
