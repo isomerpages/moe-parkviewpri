@@ -120,3 +120,22 @@ The department has also developed an OCS package which provides a structured app
 ![](/images/OCS.jpg)
 
 <h3><a name="Enrichment"></a>Enrichment</h3>
+
+### Speech & Drama (Primary 1 and 2)
+
+As part of the school’s holistic approach to give our students a well-rounded education, all Primary One and Two students go through a 24-hour Speech and Drama Enrichment Programme. This programme is conducted once a week on Fridays.
+
+Drama provides an atmosphere that allows the students to express themselves freely and without fear of criticism. In this programme, students’ speaking and listening skills are developed through a range of activities that emphasises spoken word texts, effective communication, voice projection and dramatisation.
+
+
+**Objectives:**
+
+*   To stimulate students’ imagination and creativity
+
+*   To promote the growth and development of oral skills
+
+*   To develop students’ skills and confidence in acting, speaking and listening
+
+To showcase their talents, the students put up a show at our annual Little Stars and Broadway performance days. Parents are also invited to watch the show.
+
+![](/images/Speech%20Drama.jpg)
