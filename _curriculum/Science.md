@@ -156,3 +156,5 @@ With the launch of the different “Hubs”, pupils can now just make a short tr
 ![](/images/kids%20garden.png)
 
 <h3><a name="Achievements"></a>Achievements</h3>
+
+### Our Achievements in Science Competitions
