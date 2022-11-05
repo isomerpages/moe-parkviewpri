@@ -18,3 +18,7 @@ To achieve this, the department embarks on the following key approaches:
 3.  Develop the critical life skills of listening, speaking, reading and writing through differentiated and engaging strategies
 
 ![](/images/EL_001.png)
+
+### Key Programmes
+
+![](/images/EL_002.png)
