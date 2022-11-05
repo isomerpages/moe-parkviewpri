@@ -238,3 +238,15 @@ Lee Wen Ling Cheryl 3E
 
 **_Participation_**   
 Celest Phang Lixuan
+
+<h3><a name="Children's Work"></a>Children's Work</h3>
+
+### Young Commonwealth Essay Competition
+
+This competition is organised by the Royal Commonwealth Society since 1883. It is the world’s oldest and largest schools’ writing competition. This competition promotes literacy, academic excellence, storytelling, reflection, awareness and creativity.
+
+Our school has been supporting this writing competition for the past few years and students have benefitted through the experience.
+
+Many influential people including our Prime Minister, Lee Hsien Loong, have won a prize in the Commonwealth Essay Competition in 1970 aged 18.
+
+Below are the selected essays from the Young Commonwealth Essay Competition.
