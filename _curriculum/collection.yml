@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - English/Overview of Scheduled Library Period Activities Primary 1.md
       - English/.keep
       - English/English.md
       - English/Library.md
