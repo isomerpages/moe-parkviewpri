@@ -164,3 +164,15 @@ For Primary 4, the programme ties in with SCAMPER COMES ALIVE. Students will als
 *   To explore characterization, themes and other key concepts in the text using drama conventions like hot-seating, forum theatre, tableaux, thought- tracking, etc
 
 *   To challenge students to become innovative and critical thinkers who have a mature understanding of themselves as well as a strong social awareness and aesthetic appreciation.
+
+![](/images/EL_004.jpg)
+
+#### EL Talent Identification
+
+**Debate Programme**
+
+**A brief history of our debate programme**
+
+The debate programme in PVPS started in 2010, focusing on building the oral competencies of verbally talented pupils. It was also the year that the first PVPS debate team entered the National Wits & Words Championship, organised by the Gifted Branch (MOE). The debaters worked hard and committed many hours of intensive trainings. Despite being a novice in the debating arena, we were successful in winning the Preliminary rounds of the competition. We triumphed against all the schools and our debater even won the Good Speaker Award. For their gargantuan feat, our debate team received the Commendation Award.
+
+Since that year, PVPS has been inducting a "debating culture” in our school. Since then, we have not looked back and been building a strong group of debaters in our school to put PVPS on the map.
