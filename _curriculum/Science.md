@@ -74,3 +74,8 @@ To inculcate the culture of recycling in every student and staff, the school has
 
 
 <h3><a name="Resources"></a>Resources</h3>
+
+
+### Science Wall
+
+Our Science wall reflects how the three main human systems in our body, Digestive System, Circulatory System and Respiratory System, work together to ensure our body can function properly with the help of energy. There is a detailed explanation with key concepts of how each human system works. The extensive graphics also provide better understanding of the concepts for visual learners. Each human system is also accompanied by an interactive activity.
