@@ -124,3 +124,17 @@ With the launch of the different “Hubs”, pupils can now just make a short tr
 **Herbs and Spices Garden**
 
 ![](/images/Herbs-and-Spices-Garden.jpg)
+
+
+**Vegetable Plots**
+
+![](/images/Vegetables-Garden.jpg)
+
+**Fruit Trees**
+
+![](/images/Fruit-Trees.jpg)
+
+**Desert@Energy Hub**   
+**Cactus Garden**
+
+![](/images/Cactus-Garden.jpg)
