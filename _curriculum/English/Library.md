@@ -73,3 +73,20 @@ Replacement book(s) will be subjected to the approval of the Library Coordinator
 ![](/images/library.jpg)
 
 ![](/images/library1.jpg)
+
+
+### Online Links
+
+**OPAC**
+
+Pupils may use the OPAC (Online Public Access Catalogue) to check for resources available in the library and also enquire on their loan accounts. OPAC can also be accessed online through this website : [https://schoolibrary.moe.edu.sg/parkviewpri](https://schoolibrary.moe.edu.sg/parkviewpri)
+
+Username : NRIC/BC Number
+
+Password : NRIC/BC Number without the first letter.
+
+For Example:
+
+Username: T0123456A
+
+Password: 0123456A
