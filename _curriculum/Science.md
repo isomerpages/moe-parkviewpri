@@ -264,3 +264,38 @@ The objectives of the visit are to:
 *   Increase pupils’ awareness of the marine biodiversity and marine habitats.
 
 ![](/images/RWS5.png)
+
+### P6: Ecology Trip & Coastal Cleanup
+
+The P6 pupils went on a learning journey on Ecology to Pasir Ris Beach. The pupils also did coastal clean-up at the beach after exploring the mudflat.
+
+The objectives of the learning journey are to:
+
+*   Increase pupils’ awareness of the ecosystem of the seashore community in Singapore;
+*   Learn about the diversity of life on the seashore and selected animals and plants’ adaptations to life on the seashore;
+*   Relate and extend pupils’ Science knowledge to real life experiences so as to provide pupils with a deeper understanding about life around them;
+*   Integrate a meaningful Community Involvement Project (CIP) where pupils take action for the environment.
+
+![](/images/P6-EcologyTrip.jpg)
+
+### P4 and P5 Science Olympiad Training
+
+  
+
+Selected P4 and P5 pupils participated in Science Olympiad training.
+
+  
+
+The objectives of the programme are as follows:
+
+  
+
+*   To develop pupils' interest, creativity, analytical thinking skill, spirit of learning
+*   through discovery and challenge in Science;
+*   To expose pupils’ with secondary science syllabus in attempt to broaden their
+*   knowledge of Science;
+*   To prepare selected pupils for Primary Science Olympiad competitions.
+
+The lessons are based on the broad science themes in the elementary science curriculum. These lessons focused on introducing Physics, Chemistry and Biology to pupils as well as to enhance their general knowledge.
+
+Selected P5 pupils may have the opportunity to participate in the Raffles Science Olympiad Competiton(RSO) or the NUS HIgh Singapore Primary Science Olympiad (SPSO).
