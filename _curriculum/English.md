@@ -22,3 +22,7 @@ To achieve this, the department embarks on the following key approaches:
 ### Key Programmes
 
 ![](/images/EL_002.png)
+
+### Approaches
+
+![](/images/approaches2.png)
