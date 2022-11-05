@@ -90,3 +90,9 @@ For Example:
 Username: T0123456A
 
 Password: 0123456A
+
+### Useful Links
+
+|  	|  	|
+|---	|---	|
+| NLB recommended e-books for Primary School students 	| [https://eresources.nlb.gov.sg/main/Pages/Primary](https://eresources.nlb.gov.sg/main/Pages/Primary) 	|
