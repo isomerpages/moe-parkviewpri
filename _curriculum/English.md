@@ -176,3 +176,35 @@ For Primary 4, the programme ties in with SCAMPER COMES ALIVE. Students will als
 The debate programme in PVPS started in 2010, focusing on building the oral competencies of verbally talented pupils. It was also the year that the first PVPS debate team entered the National Wits & Words Championship, organised by the Gifted Branch (MOE). The debaters worked hard and committed many hours of intensive trainings. Despite being a novice in the debating arena, we were successful in winning the Preliminary rounds of the competition. We triumphed against all the schools and our debater even won the Good Speaker Award. For their gargantuan feat, our debate team received the Commendation Award.
 
 Since that year, PVPS has been inducting a "debating culture” in our school. Since then, we have not looked back and been building a strong group of debaters in our school to put PVPS on the map.
+
+![](/images/debate.jpg)
+
+**Drama Programme**
+
+  
+
+**Trinity-Guildhall in Speech & Drama**
+
+  
+
+As part of our Talent Identification programme, we aim to recognise and develop our students to their fullest potential in the area of drama. Selected students are given an opportunity to take up the Trinity-Guildhall Speech & Drama programme and examination, specially catered for students who show talents in this area. Studetns selected will go through a drama skills training and confidence development to grow their talents further.
+
+  
+
+The **Intensive Training Course for Trinity Guildhall Speech and Drama Examination** will train students and equip them with the necessary skills needed to sit for the Trinity Guildhall Speech and Drama Examination. Students will present in front of examiners from the United Kingdom and will be issued with an examination report. Successful students will receive an internationally recognised certificate from Trinity Guildhall.
+
+  
+
+The training programme assists students in the selection of performance pieces to be used in the actual examination. The trainers guide the students in a thorough understanding of their selected pieces. The course will involve intensive verse and prose presentation practices that will allow students to master speech skills, such as intonation, inflection and rhythm patterns.
+
+  
+
+Through this programme, students will:
+
+  
+
+*   develop confidence by gaining exposure to an internationally recognised examination
+
+*   build on their potential in Speech and Drama and bring it to another level of skills development
+
+*   further develop their love for literature and passion for drama.
