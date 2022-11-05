@@ -81,3 +81,46 @@ To inculcate the culture of recycling in every student and staff, the school has
 Our Science wall reflects how the three main human systems in our body, Digestive System, Circulatory System and Respiratory System, work together to ensure our body can function properly with the help of energy. There is a detailed explanation with key concepts of how each human system works. The extensive graphics also provide better understanding of the concepts for visual learners. Each human system is also accompanied by an interactive activity.
 
 ![](/images/Science-Wall.jpg)
+
+### Science Garden
+
+  
+
+For pupils to have meaningful learning in science, it is important that they be allowed to experience the process of seeking answers to problems. This requires pupils to physically explore and discover knowledge, be it within their environment or in a laboratory. Besides having two indoor science laboratories, the Science Department has recently created an integrated learning trail weaving through the open spaces in the school.
+
+  
+
+  
+
+There are different thematic gardens simulating various natural environments.
+
+  
+
+**Blooms@Energy Hub** is a floral garden characterized by an explosion of colours and fragrances. It comprises a flowering and butterfly garden.
+
+  
+
+**Food@ Energy Hub** has a herbs and spices garden and a mini vegetable plot with local fruit trees planted around the school.
+
+  
+
+**Desert@Energy Hub** located at the back of the school building houses desert flora with a variety of cactus.
+
+  
+
+**Rainforest@Energy Hub** showcases a slice of a tropical rainforest complete with a fernery garden and an eco-pond surrounded by lush tropical vegetation. A leaf litter habitat is also set up in the fernery garden for pupils to have first-hand experience in studying the conditions of a leaf litter habitat.
+
+**The Energy Pavilion** is an outdoor classroom amid the shrubs and creepers. It is a place where teachers can carry out their lessons or briefing before adjourning to the gardens for practical sessions.
+
+With the launch of the different “Hubs”, pupils can now just make a short trip down to see the plants that they study about in their books. This hands-on experience allows them to understand their lessons better. It is always good to be near Mother Nature.
+
+
+**Blooms@Energy Hub**   
+**Blooming Garden**
+
+![](/images/BloomingGarden.jpg)
+
+**Food@ Energy Hub**  
+**Herbs and Spices Garden**
+
+![](/images/Herbs-and-Spices-Garden.jpg)
