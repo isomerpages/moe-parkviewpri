@@ -34,3 +34,31 @@ The Science Department programmes are planned using a 3-pronged approach of ‘S
 
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Assessment of Learning</th><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Assessment for Learning</th><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Assessment as Learning</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• CA<br><br>• SA<br><br>• Prelim<br><br>• PSLE<br><br>• Diagnostic Test for Baseline<br><br>• Science Practical Assessment (SPA@PVPS)<br><br>• Performance Tasks<br></td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Topical Reviews<br><br>• Performance Tasks<br><br>• Science Practical Assessment (SPA@PVPS)<br><br>• Quizes<br><br>• Mindmapping<br></td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Science Journals<br><br>• Pupils' Reflections</td></tr></tbody></table>
+
+
+
+* [Environment](#Environment)  
+* [Resources](#Resources)
+* [Achievements](#Achievements)
+* [Enrichment Programmes](#EnrichmentProgrammes)
+
+<h3><a name="Environment"></a>Environment</h3>
+
+<img src="/images/hand-leaf_logo.jpg" style="width:50%">
+
+
+**Environment Care in PVPS**
+
+Park View wants to instill a strong sense of environmental conservation and promote awareness. The school provides opportunities to staff and students to apply knowledge, skills and values of care, protect and improve the environment through awareness and actions.
+
+The school adopts the following **5Is Approach** to fulfil our Sustainability and Environment Commitment:  
+
+**Inclusivity** – Everyone has a part to play; a whole-school approach involving all staff and students
+
+**Improvement** – Improve the environmental footprints and leave behind a greener future for the next generation.
+
+**Involvement** – Engage community partners such as NParks, NEA and parents to develop and support environmentally responsible actions together
+
+**Intrinsic** – Promote a mind-set where everyone is intrinsically motivated to sustain environmental efforts and caring for the environment becomes a part of us.
+
+**Influence** – Every PVPS staff / student will become Eco stewards, inspiring sustainability efforts beyond self & school
