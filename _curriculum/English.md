@@ -116,3 +116,5 @@ A writing handbook was developed by the EL department which pupils use for refer
 **Oral Communication Skills (OCS)**
 
 The department has also developed an OCS package which provides a structured approach for students to tackle the two components in the PSLE oral examination. The package highlights the guidelines to take note of and the techniques for the two components. For the component on Stimulus-based Conversation, pupils were taught how to use the DEW (provide Details, Elaborate and explain Why) strategy to discuss a given picture. Students were further taught how to describe each focal point using the TREES (Thoughts, Reasons, Examples, Experiences, Suggestion) strategy.
+
+![](/images/OCS.jpg)
