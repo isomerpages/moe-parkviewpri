@@ -35,7 +35,7 @@ To achieve our vision, our approach is Delivery, Interest, Application and Asses
 
 
 * [STAR](#STAR)  
-* [Enrichment](#Enrichments)
+* [Enrichment](#Enrichment)
 * [Achievements](#Acheivements)
 * [Resources](#Resources)
 
@@ -53,7 +53,7 @@ The Mathematics department adopts the STAR approach, a 4-phased structured proce
 
 
 
-<h3><a name="ENRICHMENT"></a>ENRICHMENT</h3>
+<h3><a name="Enrichment"></a>Enrichment</h3>
 
 <h4>E2K Programme</h4>
 
@@ -168,7 +168,7 @@ Questions set are in accordance to the objectives stated in the textbooks that p
 
 <img src="/images/20150402_141624.jpg" style="width:50%">
 
-<h3><a name="ACHIEVEMENT"></a>ACHIEVEMENT</h3>
+<h3><a name="Achievement"></a>Achievement</h3>
 
 **Singapore Mathematical Olympiad for Primary Schools 2019**  
 
@@ -281,7 +281,7 @@ A total of 44 participating teams from Australia, Bulgaria, China, India, Indone
 ![](/images/mathOlympic.jpg)
 
 
-<h3><a name="RESOURCES"></a>RESOURCES</h3>
+<h3><a name="Resources"></a>Resources</h3>
 
 
 ##### Useful Web Sites:
