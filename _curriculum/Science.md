@@ -219,3 +219,8 @@ The Singapore School Green Awards (SGA) is a voluntary environmental programme w
 Park View Primary School has once again achieved the Vanda Miss Joaquim Sustained Achievement Award in 2021.
 
 ![](/images/sci.jpg)
+
+**Building and Construction Authority Green Mark Award**
+
+<img src="/images/green%20mark.jpg" style="width:25%">
+
