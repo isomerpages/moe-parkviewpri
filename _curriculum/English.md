@@ -71,58 +71,29 @@ In the learning centres, the language skills learnt in both SBA and MLEA are rei
 
 ![](/images/LC%202016.png)
 
-### Primary 3 and 4
-
-  
+#### Primary 3 and 4
 
 **STELLAR**
 
-  
-
 At P3 and P4, students will be able to consolidate and extend skills already learned in P1 and P2 as well as acquire new skills and knowledge about how language works. There will still be opportunities for cooperative learning but more emphasis will be placed on independence in listening, reading and viewing as well as speaking, presenting and writing.
-
-  
 
 The strategies at P3 and P4 include Support Reading (SR),
 
-  
-
 Know - Want to know – Learnt (KWL), Retelling (RT), Language Activities and Sentence Manipulation and Writing Process Cycle (WPC).
 
-  
-
-  
 
 **Supported Reading (SR)**
 
-  
-
 In Supported Reading, students make predictions, read assigned sections of the text silently, discuss the text and difficult words as a whole class, led by the teacher. This strategy is usually carried out for narrative and information texts.
-
-  
-
-  
 
 **Know - Want to know - Learnt (KWL)**
 
-  
-
 KWL helps students to extract information and relate it to what they already know about the topic. Teachers guide students to organise, access and remember information. This will enable pupils to understand and follow the logic of information presented in a text, recognise information that is repeated and distinguish between main ideas and details. As the students learn to be more independent in extracting information from what they read, the teacher’s support is gradually reduced. KWL is used mainly for non-fiction texts such as information reports.
 
-  
-
-  
-
 **Writing Process Cycle (WPC)**
+C provides pupils with guidance in the processes of planning, writing and reviewing before they apply these skills in writing independently. The focus is more on the creative aspects of writing.
 
-  
-
-WPC provides pupils with guidance in the processes of planning, writing and reviewing before they apply these skills in writing independently. The focus is more on the creative aspects of writing.
-
-  
-  
-
-### Primary 5 and 6
+#### Primary 5 and 6
 
 **STELLAR**
 
