@@ -224,3 +224,8 @@ Park View Primary School has once again achieved the Vanda Miss Joaquim Sustaine
 
 <img src="/images/green%20mark.jpg" style="width:25%">
 
+The BCA Green Mark awards recognises developers, building owners and individuals who have made outstanding achievements in environmental sustainability in the built environment.
+
+Congratulations to Park View Primary School on being awarded the BCA Green Mark Award (GOLD) 2021 based on the Green Mark for Existing Schools (Version 2).
+
+![](/images/green.jpg)
