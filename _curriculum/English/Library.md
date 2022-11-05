@@ -69,4 +69,7 @@ Replacement book(s) will be subjected to the approval of the Library Coordinator
 
 \-        Library Orientation
 
+
+![](/images/library.jpg)
+
 ![](/images/library1.jpg)
