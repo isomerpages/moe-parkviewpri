@@ -92,3 +92,5 @@ Through this Reading Curriculum, students would:
 **Term 2** – Sports Galore
 
 ![](/images/El-010.jpg)
+
+_Term 3 – (Coming Soon)_
