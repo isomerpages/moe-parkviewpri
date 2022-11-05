@@ -21,8 +21,7 @@ third_nav_title: English
 
 \-        No walk-ins during recess or after school is allowed until further notice unless approval sought from the Library Coordinator. 
 
-Library Etiquette
------------------
+### Library Etiquette
 
 1\.  The school library replicates a public library environment where good mannerisms are observed. PVPS pupils will exhibit their best behaviors within the library.
     
@@ -37,11 +36,35 @@ Good behavioral traits observed:
 * Ensure only loaned books are brought out from the library.
 * Students should refrain from bringing their own storybook from home into the library compound.
 
-Library Policy
---------------
+### Library Policy
 
 All pupils are automatically registered as a member of the school library.
 
 |  	|  	|
 |---	|---	|
 | Mode of loan 	| Scan of student’s MOE Student Card 	|
+
+
+### Overdue Loan Policy
+
+Pupils can only borrow other library books only after they return their library books(s) by the stipulated due date.
+
+They should exhibit the courtesy to inform the librarian of their overdue loans and return to the library as soon as they could.
+
+### Lost or Damaged Items
+
+Pupils are responsible for all library items borrowed from the library. For every item lost or damaged, pupils would be required to replace the item in kind.
+
+They should approach the librarian to sign a Lost/Damaged Item form and obtain details (author, title and price) of lost library book(s).
+
+Replacement book(s) will be subjected to the approval of the Library Coordinator. The replacement book should be of the same title or author of the lost or damaged book. Should the same title or authored book cannot be found, a book of the same price may be accepted but is subject to the Library Coordinator’s approval.
+
+### Libray Operations
+
+\-        Class Library Periods for Loans and Returns
+
+\-        Top Borrowers and Top Classes
+
+\-        Monthly Thematic Displays
+
+\-        Library Orientation
