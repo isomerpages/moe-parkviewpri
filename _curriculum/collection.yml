@@ -2,10 +2,10 @@ collections:
   curriculum:
     output: true
     order:
-      - English/School Library Policy.md
-      - English/Library.md
-      - English/English.md
       - English/.keep
+      - English/English.md
+      - English/Library.md
+      - English/School Library Policy.md
       - Mathematics.md
       - Science.md
       - Physical & Health Education.md
