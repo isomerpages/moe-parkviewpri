@@ -181,30 +181,20 @@ Since that year, PVPS has been inducting a "debating culture” in our school. S
 
 **Drama Programme**
 
-  
-
 **Trinity-Guildhall in Speech & Drama**
-
-  
 
 As part of our Talent Identification programme, we aim to recognise and develop our students to their fullest potential in the area of drama. Selected students are given an opportunity to take up the Trinity-Guildhall Speech & Drama programme and examination, specially catered for students who show talents in this area. Studetns selected will go through a drama skills training and confidence development to grow their talents further.
 
-  
-
 The **Intensive Training Course for Trinity Guildhall Speech and Drama Examination** will train students and equip them with the necessary skills needed to sit for the Trinity Guildhall Speech and Drama Examination. Students will present in front of examiners from the United Kingdom and will be issued with an examination report. Successful students will receive an internationally recognised certificate from Trinity Guildhall.
-
-  
 
 The training programme assists students in the selection of performance pieces to be used in the actual examination. The trainers guide the students in a thorough understanding of their selected pieces. The course will involve intensive verse and prose presentation practices that will allow students to master speech skills, such as intonation, inflection and rhythm patterns.
 
-  
-
 Through this programme, students will:
-
-  
 
 *   develop confidence by gaining exposure to an internationally recognised examination
 
 *   build on their potential in Speech and Drama and bring it to another level of skills development
 
 *   further develop their love for literature and passion for drama.
+
+<h3><a name="Achievements"></a>Achievements</h3>
