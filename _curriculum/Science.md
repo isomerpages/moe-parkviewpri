@@ -71,3 +71,6 @@ The school adopts the following **5Is Approach** to fulfil our Sustainability 
 To inculcate the culture of recycling in every student and staff, the school has set up various recycling points to make recycling a stone’s throw away. We have the recycling bins at the Recycling Corner for the different recyclables, reusable cartons in classrooms for paper, carton boxes in the staffroom, staff lounge and photocopying room for paper. A recycling corner was set up in the canteen and also behind the flagpole to encourage pupils to recycle paper and plastic bottles.
 
 ![](/images/recycle.jpg)
+
+
+<h3><a name="Resources"></a>Resources</h3>
