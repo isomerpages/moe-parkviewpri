@@ -2,8 +2,8 @@ collections:
   curriculum:
     output: true
     order:
-      - Science.md
       - Mathematics.md
+      - Science.md
       - Physical & Health Education.md
       - Aesthetics/.keep
       - Information & Communication Technology (ICT).md
