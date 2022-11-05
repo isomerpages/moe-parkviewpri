@@ -210,3 +210,12 @@ Wits and Words - the national primary school debating championship, is jointly o
 
 
 ![](/images/eng.jpg)
+
+
+### Trinity Guildhall Speech & Drama Examination
+
+| Year 	| % Students with Distinction 	|
+|:---:	|:---:	|
+| 2015 	| 90% 	|
+| 2014 	| 92% 	|
+| 2013 	| 94 	|
