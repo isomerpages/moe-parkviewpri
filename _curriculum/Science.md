@@ -138,3 +138,19 @@ With the launch of the different “Hubs”, pupils can now just make a short tr
 **Cactus Garden**
 
 ![](/images/Cactus-Garden.jpg)
+
+**Rainforest@Energy Hub**  
+**Fernery Garden**
+
+![](/images/Fernery-Garden.jpg)
+
+**Energy Pavilion**   
+**Outdoor Classroom**
+
+![](/images/OutdoorClassroom.jpg)
+
+**School Pond**
+
+![](/images/Sch_pond.jpg)
+
+![](/images/kids%20garden.png)
