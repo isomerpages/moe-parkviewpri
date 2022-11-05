@@ -240,3 +240,25 @@ P1 to P5 pupils will go on a learning journey to the Singapore Science Centre ev
 *   provide pupils with experiences which build on their interest in and stimulate their curiosity about their environment;
 *   provide engaging and meaningful aquisation of scientific knowledge;
 *   inculcate the spirit of scientific inquiry through the application of different process skills such as observing, comparing, classifying, analysing, inferring, evaluting and investigating.
+
+![](/images/SDC.jpg)
+
+### P3 Singapore Zoological Gardens Learning Journey
+
+The P3 pupils went on a learning journey to Singapore Zoological Gardens. The objectives of the learning journey are to:
+
+*   engage pupils in experiential learning of the characteristics of different animals;
+*   learn more about endangered animals;
+*   promote wildlife conservation.
+  
+
+### P5 Marine Life Park Learning Journey
+
+
+The P5 pupils went on a learning journey to the Marine Life Park at Resort World Sentosa to enrich the pupils in learning of Science.
+
+The objectives of the visit are to:
+
+*   Introduce pupils to endangered marine animals and have a better understanding about marine life conservation;
+*   Understand how various marine animals adapt themselves to life underwater;
+*   Increase pupils’ awareness of the marine biodiversity and marine habitats.
