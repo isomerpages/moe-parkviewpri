@@ -158,3 +158,34 @@ With the launch of the different “Hubs”, pupils can now just make a short tr
 <h3><a name="Achievements"></a>Achievements</h3>
 
 ### Our Achievements in Science Competitions
+
+ **Singapore Primary Science Olympiad 2021**
+
+ **Gold Award**    
+Tit Shao Ze
+
+**Silver Award**   
+Koh Zi Le Zach   
+Deeptanshu Raj Appasani
+
+**Bronze Award**  
+Chong Xiao Kuan   
+Peng Xingqing
+
+**Merit Award**    
+Aldana Candace Judilla  
+Cheng Choi Yi Cerise     
+Germaine Cheong Ting Li   
+Haziq Rayyan Bin Mohammed Hairulnizam   
+Ren Zhi Hsien     
+Shaistah Nadia Binte Mohamed Hasim     
+Jessica Xiao Jing Han     
+Zhu Lixuan   
+Lozano Arieanna Zoei Rodriguez   
+Neha Awan
+
+
+**Raffles Science Olympiad 2021**    
+
+ **Merit Award**   
+Jessica Xiao Jing Han
