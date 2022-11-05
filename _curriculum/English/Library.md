@@ -68,3 +68,5 @@ Replacement book(s) will be subjected to the approval of the Library Coordinator
 \-        Monthly Thematic Displays
 
 \-        Library Orientation
+
+![](/images/library1.jpg)
