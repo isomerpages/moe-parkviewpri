@@ -328,3 +328,16 @@ The objectives of the learning journey are to:
 *   Learn about the diversity of life on the seashore and selected animals and plants’ adaptations to life on the seashore;
 *   Relate and extend students’ Science knowledge to real life experiences so as to provide students with a deeper understanding about life around them;
 *   Integrate a meaningful Community Involvement Project (CIP) where students take action for the environment.
+
+![](/images/coastal.jpg)
+
+### P6 DNA Science Enrichment Programme  
+
+Selected P6 pupils went through a 6-hour DNA Science Enrichment. The pupils played roles as Junior Crime Scene Investigators with emphasis on DNA Extraction & DNA Fingerprinting. The objectives of the programme are as follows:
+
+*   Introduction to laboratory techniques;
+*   Introduction to DNA as genetic material;
+*   Using of apparatus in the extraction of DNA;
+*   Analyse thumbprint & understand how thumbprints are used to solve mystery.
+
+![](/images/dna.jpg)
