@@ -317,3 +317,14 @@ The E2K Science Programme is a science enrichment programme for upper primary st
 The lessons are based on the broad science themes in the elementary science curriculum. The students will collect and use evidence to address scientifically oriented questions, formulate explanations from evidence to address the questions and evaluate their explanations.
 
 ![](/images/E2K.jpg)
+
+### P6: Ecology Learning Journey & Coastal Cleanup  
+
+The P6 students went on a learning journey on Ecology to Pasir Ris Beach. The students also did coastal clean-up at the beach after exploring the mudflat.
+
+The objectives of the learning journey are to:
+
+*   Increase students’ awareness of the ecosystem of the seashore community in Singapore;
+*   Learn about the diversity of life on the seashore and selected animals and plants’ adaptations to life on the seashore;
+*   Relate and extend students’ Science knowledge to real life experiences so as to provide students with a deeper understanding about life around them;
+*   Integrate a meaningful Community Involvement Project (CIP) where students take action for the environment.
