@@ -59,4 +59,8 @@ Pupils are expected to observe the following library etiquette:
 *   Pupils who behave inappropriately will be asked to leave.
 *   Eating or drinking is not allowed in the library.
 
-### PVPS Reading Passport 
+### PVPS Reading Passport
+
+The PVPS Reading Passport is a reading programme in our school that aims to cultivate the love for the reading and literature, develop reading comprehension skills and expose pupils to different genres. This passport integrates the skills of the 21st century – Information Literacy and Social Emotional that encompass the core subjects of English and the language arts.  
+  
+My Reading Passport is coined as a ‘passport’ to take students around the world. It encompasses termly reading activities that ties in with the termly thematic programmes in the library. Students collect stamps after completing the activities. These stamps can be exchanged for positive benefits and a HAF certificate at the end of the year.
