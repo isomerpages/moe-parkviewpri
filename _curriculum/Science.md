@@ -262,3 +262,5 @@ The objectives of the visit are to:
 *   Introduce pupils to endangered marine animals and have a better understanding about marine life conservation;
 *   Understand how various marine animals adapt themselves to life underwater;
 *   Increase pupils’ awareness of the marine biodiversity and marine habitats.
+
+![](/images/RWS5.png)
