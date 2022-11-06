@@ -2,6 +2,7 @@ collections:
   mother-tongue:
     output: true
     order:
+      - Malay Mother Tongue/Assessment.md
       - Malay Mother Tongue/.keep
       - Tamil Mother Tongue/Academic.md
       - Tamil Mother Tongue/Programmes.md
