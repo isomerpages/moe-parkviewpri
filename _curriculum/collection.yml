@@ -2,9 +2,9 @@ collections:
   curriculum:
     output: true
     order:
-      - Mother Tongue/Chinese Mother Tongue.md
-      - Mother Tongue/Mother Tougue.md
       - Mother Tongue/.keep
+      - Mother Tongue/Mother Tougue.md
+      - Mother Tongue/Chinese Mother Tongue.md
       - English/.keep
       - English/English.md
       - English/Library.md
