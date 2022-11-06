@@ -33,3 +33,14 @@ This experience:-
 *   provides an awareness of the consequences of a breakdown in racial and religious harmony
 *   drives home the message on the importance of peaceful co-existence for different races and religions
 *   highlights the danger of taking racial and religious harmony for granted
+
+![](/images/P4SDC.jpg)
+
+**P4 Heritage LJ to Kampong Glam**
+
+As part of their Children’s Day celebrations, P4 pupils will go to Kampong Glam to get to know more about the Malay culture through food, fashion and music. Pupils will tour Malay cultural sites and explore the trade and occupations in Kampong Glam. They will also witness the different architectures of the residential and commercial sites. This experience allows our pupils to:-
+
+*   discover the rich and vibrant heritage of our early Malay settlers
+*   learn more about the Malay musical instruments, costumes and handicraft
+*   use mathematics in context to solve inter-disciplinary word problems
+*   experience how different races interact with one another in Singapore
