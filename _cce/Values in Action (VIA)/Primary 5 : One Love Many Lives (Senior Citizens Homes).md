@@ -16,8 +16,7 @@ Upon returning from their VIA, pupils continued with the ‘V’ and ‘E’ app
 ![](/images/P5%20Via.jpg)
 
 
-Our Primary 5 pupils learnt to:
-
+**Our Primary 5 pupils learnt to:**    
 \-    recognize that everyone has the ability to help others in our community who face difficulties in their lives   
 \-    share and put others before self   
 \-    show empathy and care towards others
