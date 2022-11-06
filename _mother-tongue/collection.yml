@@ -2,6 +2,7 @@ collections:
   mother-tongue:
     output: true
     order:
+      - Tamil Mother Tongue/Academic.md
       - Tamil Mother Tongue/Programmes.md
       - Tamil Mother Tongue/Hall of fame.md
       - Tamil Mother Tongue/Gallery.md
