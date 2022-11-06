@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Recognition & Motivation/Holistic Awards Framework (HAF).md
       - Recognition & Motivation/.keep
       - Recognition & Motivation/After thoughts, Best Wishes Corner (ABC).md
       - Recognition & Motivation/Model Class Award.md
