@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Chinese Mother Tongue/.keep
-      - Malay Mother Tongue/English Version.md
       - Malay Mother Tongue/Example Title.md
       - Malay Mother Tongue/Programs.md
       - Malay Mother Tongue/Enrichment.md
