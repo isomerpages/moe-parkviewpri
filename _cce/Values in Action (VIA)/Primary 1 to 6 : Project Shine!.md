@@ -17,13 +17,17 @@ Project Shine! is a school-wide effort to introduce daily routinised cleaning an
 
 *   Signage displayed on every classroom notice board:
 
-![](/images/Standards%20of%20a%20Clean%20Classroom.png)
+<img src="/images/Standards%20of%20a%20Clean%20Classroom.png" 
+     style="width:50%">
 
-![](/images/Clean%20P1%20Classroom.jpg)
-
-![](/images/Clean%20P2%20Classroom.jpg)
-
-![](/images/Clean%20P3-6%20Classroom.png)
+<img src="/images/Clean%20P1%20Classroom.jpg" 
+     style="width:50%">
+		 
+<img src="/images/Clean%20P2%20Classroom.jpg" 
+     style="width:50%">
+		 
+<img src="/images/Clean%20P3-6%20Classroom.png" 
+     style="width:50%">
 
 ![](/images/Classroom%20cleaning%20in%20action%201.png)
 
