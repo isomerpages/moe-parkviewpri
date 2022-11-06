@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Recognition & Motivation/P6 Motivation Programme.md
       - Recognition & Motivation/.keep
       - Recognition & Motivation/After thoughts, Best Wishes Corner (ABC).md
       - Recognition & Motivation/Model Class Award.md
