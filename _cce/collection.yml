@@ -2,5 +2,6 @@ collections:
   cce:
     output: true
     order:
+      - Recognition & Motivation/Model Class Award.md
       - Recognition & Motivation/After thoughts, Best Wishes Corner (ABC).md
       - Recognition & Motivation/.keep
