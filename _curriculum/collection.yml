@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Mother Tongue/Malay Mother Tongue.md
       - Mother Tongue/.keep
       - Mother Tongue/Mother Tougue.md
       - Mother Tongue/Chinese Mother Tongue.md
