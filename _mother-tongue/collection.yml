@@ -2,6 +2,7 @@ collections:
   mother-tongue:
     output: true
     order:
+      - Malay Mother Tongue/Enrichment.md
       - Malay Mother Tongue/Useful Resources.md
       - Malay Mother Tongue/Assessment.md
       - Malay Mother Tongue/.keep
