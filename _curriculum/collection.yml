@@ -2,11 +2,11 @@ collections:
   curriculum:
     output: true
     order:
-      - Mother Tongue/Tamil Mother Tongue.md
-      - Mother Tongue/Malay Mother Tongue.md
       - Mother Tongue/.keep
       - Mother Tongue/Mother Tougue.md
       - Mother Tongue/Chinese Mother Tongue.md
+      - Mother Tongue/Malay Mother Tongue.md
+      - Mother Tongue/Tamil Mother Tongue.md
       - English/.keep
       - English/English.md
       - English/Library.md
