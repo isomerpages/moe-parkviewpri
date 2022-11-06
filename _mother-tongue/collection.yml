@@ -2,6 +2,7 @@ collections:
   mother-tongue:
     output: true
     order:
+      - Chinese Mother Tongue/学习资源.md
       - Chinese Mother Tongue/执教老师.md
       - Chinese Mother Tongue/English Version.md
       - Chinese Mother Tongue/.keep
