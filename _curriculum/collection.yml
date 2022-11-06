@@ -2,11 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Mother Tongue/.keep
-      - Mother Tongue/Mother Tougue.md
-      - Mother Tongue/Chinese Mother Tongue.md
-      - Mother Tongue/Malay Mother Tongue.md
-      - Mother Tongue/Tamil Mother Tongue.md
       - English/.keep
       - English/English.md
       - English/Library.md
@@ -14,6 +9,11 @@ collections:
       - English/Overview of Scheduled Library Period Activities Primary 1.md
       - Mathematics.md
       - Science.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Mother Tougue.md
+      - Mother Tongue/Chinese Mother Tongue.md
+      - Mother Tongue/Malay Mother Tongue.md
+      - Mother Tongue/Tamil Mother Tongue.md
       - Physical & Health Education.md
       - Aesthetics/.keep
       - Information & Communication Technology (ICT).md
