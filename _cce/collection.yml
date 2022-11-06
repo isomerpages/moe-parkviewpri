@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Citizenship/NE Learning Journeys.md
       - Citizenship/.keep
       - "Values in Action (VIA)/Primary 1 to 6 : Project Shine!.md"
       - "Values in Action (VIA)/Primary 2 : CARE.md"
