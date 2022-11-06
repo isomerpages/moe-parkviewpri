@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Values in Action (VIA)/.keep
       - Recognition & Motivation/.keep
       - Recognition & Motivation/After thoughts, Best Wishes Corner (ABC).md
       - Recognition & Motivation/Model Class Award.md
