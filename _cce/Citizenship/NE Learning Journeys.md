@@ -21,7 +21,8 @@ This experience :-
 *   Ignite pupils’ awareness of his/ her potential as agents for change and to challenge them to play a greater role in Total Defence
 *   Builds a sense of confidence in Singapore’s ability to continue thriving
 
-![](/images/Slide1a.jpg)
+<img src="/images/Slide1a.jpg" 
+     style="width:40%">
 
 
 **P4 LJ to Singapore Discovery Centre – Racial Harmony Day**
@@ -34,7 +35,8 @@ This experience:-
 *   drives home the message on the importance of peaceful co-existence for different races and religions
 *   highlights the danger of taking racial and religious harmony for granted
 
-![](/images/P4SDC.jpg)
+<img src="/images/P4SDC.jpg" 
+     style="width:40%">
 
 **P4 Heritage LJ to Kampong Glam**
 
@@ -44,3 +46,31 @@ As part of their Children’s Day celebrations, P4 pupils will go to Kampong Gla
 *   learn more about the Malay musical instruments, costumes and handicraft
 *   use mathematics in context to solve inter-disciplinary word problems
 *   experience how different races interact with one another in Singapore
+
+<img src="/images/KG.jpg" 
+     style="width:40%">
+
+**P5 Heritage LJ to Little India**
+
+As part of their Children’s Day celebrations, P5 pupils will go to Little India to get to know more about the Indian culture through food, fashion and music. Pupils will tour Indian cultural sites and observe preparations leading to Deepavali. They will also understand the existence of various religious sites along Serangoon Road such as temple, church and mosques.
+
+This experience allows our pupils to:- 
+
+*   discover the rich and vibrant heritage of the Indian community
+*   learn about the dried spices and their traditional uses by the local community
+*   use mathematics in context to solve inter-disciplinary word problems
+*   appreciate how the different races live harmoniously together by respecting and valuing our differences
+
+**P6 Heritage LJ to Chinatown**
+
+Our P6 pupils bring their NE Learning Journey experience to an end by touring Chinatown. Apart from knowing about the past and present of Chinatown, cuisine, costume, architecture and religion, pupils also visit places of worship of the 3 main races.  
+
+This experience helps our pupils to:-
+
+*   appreciate our heritage and the cultural diversity of the different ethnic communities living in Singapore
+*   appreciate the importance of groups and individuals in the community
+*   understand and appreciate the beliefs, customs and traditions belonging to the communities of Singapore
+*   value Singapore’s socio-cultural diversity, and promote social cohesion and harmony
+
+<img src="/images/CT.jpg" 
+     style="width:40%">
