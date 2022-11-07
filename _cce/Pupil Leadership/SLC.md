@@ -41,4 +41,4 @@ The school holds its Service Learning Council (SLC) Investiture yearly to emplac
 * [National Education (NE) Ambassador](#NationalEducation(NE)Ambassador)
 
 
-<h3><a name="STAR"></a>STAR</h3>
+<h3><a name="Prefectorial Board"></a>Prefectorial Board</h3>
