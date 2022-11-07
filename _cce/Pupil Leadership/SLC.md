@@ -45,3 +45,16 @@ The school holds its Service Learning Council (SLC) Investiture yearly to emplac
 
 
 ![](/images/Prefects.jpg)
+
+The Prefectorial Board comprises pupil leaders selected for their exemplary conduct and leadership qualities. The prefects aim to be servant leaders for the school, and act as role models, inspiring and challenging the student body to live out the school's shared values.
+
+The prefects undergo training and opportunities are presented for them to put into practice the knowledge and skills they acquire from training, as they perform their daily prefectorial duties and duties for special events.
+
+The Council aims to develop the potential of its prefects to the fullest so that they will grow up to be resilient, respectful, responsible and active members of society, ready to assume positions of leadership.
+
+
+**Head Prefects:**   
+Hani Adilah Binte Mohamed Suhairy     
+Halyssa Fatiha Binte Mohamad Hairi   
+Leung Hei Tung   
+Rahul Gownahalli Suresh
