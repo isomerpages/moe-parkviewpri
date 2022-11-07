@@ -59,3 +59,13 @@ c.  Character and Citizenship Education (CCE)
 #### Primary 6
 
 ![](/images/Sexuality%20Education%202017%20Lesson%20Plan%20for%20P6.jpg)
+
+### Information for Parents
+
+8\.  Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+9\.  **_Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form._** This form will be distributed to parents at the start of the year and is also downloadable [here](https://parkviewpri.moe.edu.sg/qql/slot/u177/2021/Curriculum/CCE/Character%20Development/Sexuality%20Education%202017/Parent%20Opt%20Out%20form%202017.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 28/02/2017.
+
+10\.  Parents can contact the school at 65851421 for discussion or to seek clarification about the school’s sexuality education programme.
+
+11\.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
