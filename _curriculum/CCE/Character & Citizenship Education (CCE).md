@@ -27,3 +27,13 @@ To nurture loyal citizens, who love the school and country, are able to build fr
 **Values in Action (VIA)**
 
 To nurture morally upright, responsible and gracious individuals who not only understand their roles in society but willingly volunteer their services for the betterment of the society
+
+* [Pupil Leadership](#PupilLeadership)  
+* [Character Development](#CharacterDevelopment)
+* [Citizenship](#Citizenship)
+* [Values in Action (VIA)](#ValuesinAction)
+* [Recognition & Motivation](#Recognition & Motivation)
+* [Sexuality Education 2021](#Sexuality Education 2021)
+
+
+<h3><a name="Pupil Leadership"></a>Pupil Leadership</h3>
