@@ -135,3 +135,5 @@ The MRL Leaders are active promoters of the reading habit and seek to ensure a c
 _“To read is to fly: it is to soar to a point of vantage which gives a view over wide terrains of history, human variety, ideas, shared experience and the fruits of many inquiries.”_
 
 _\- A C Grayling, Financial Times (in a review of A History of Reading by Alberto Manguel)_
+
+![](/images/mrl.jpg)
