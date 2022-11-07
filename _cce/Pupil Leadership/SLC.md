@@ -31,3 +31,14 @@ The school holds its Service Learning Council (SLC) Investiture yearly to emplac
 ![](/images/SLC_Prefects.jpg)
 
 ### Service Learning Councils
+
+* [Prefectorial Board](#PrefectorialBoard)  
+* [Aesthetic Ambassador](#AestheticAmabssador)
+* [Cyber Wellness ](#Acheivements)
+* [Green Ambassador](#GreenAmbassador)
+* [Hope Ambassador](#HopeAmabssador)
+* [Media Resoruces & Library (MLB) Leaders](#MediaResoruces&Library(MLB)Leaders)
+* [National Education (NE) Ambassador](#NationalEducation(NE)Ambassador)
+
+
+<h3><a name="STAR"></a>STAR</h3>
