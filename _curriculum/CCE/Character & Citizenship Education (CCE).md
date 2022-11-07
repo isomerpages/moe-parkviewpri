@@ -149,3 +149,12 @@ VIA activities are differentiated and developmental in nature where pupils get t
 VIA Packages are designed to guide pupils through the 3 stages of VIA: pre-VIA, VIA and post-VIA.
 
 Some highlights of our VIA activities include Project SHINE for all pupils, Adopt-a-Plot for Primary 3, Project Festive and Litter Free Neighbourhood for Primary 4, visit to the senior citizens’ home for Primary 5 and school enhancement activities in Batam, Indonesia for Primary 6.
+
+
+
+<h3><a name="Values in Action (VIA)"></a>Values in Action (VIA)</h3>
+
+*   [After-thoughts, Best Wishes Corner (ABC)](/curriculum/cce/recognition-n-motivation/after-thoughts-best-wishes-corner-abc)
+*   [Model Class Award](/curriculum/cce/recognition-n-motivation/model-class-award)
+*   [Holistic Awards Framework (HAF)](/curriculum/cce/recognition-n-motivation/holistic-awards-framework-haf)
+*   [P6 Motivation Programme](/curriculum/cce/recognition-n-motivation/p6-motivation-programme)
