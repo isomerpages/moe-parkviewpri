@@ -2,5 +2,7 @@ collections:
   our-students:
     output: true
     order:
+      - Student Learning Space (SLS)/Step By Step Guide to Join Google Meet from
+        SLS.md
       - Student Learning Space (SLS)/.keep
       - iCON.md
