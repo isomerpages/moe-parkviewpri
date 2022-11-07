@@ -132,4 +132,4 @@ In Park View Primary School, we adopt the CITE (Create, Integrate, Teach and Exp
 ### SG50 @ Park View Primary School
 
 
-![](/images/SG50%20%20Park%20View%20Logo%20Citizenship%20Page.jpg)
+<img src="/images/SG50%20%20Park%20View%20Logo%20Citizenship%20Page.jpg" style="width:50%">
