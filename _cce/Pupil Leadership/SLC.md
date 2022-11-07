@@ -42,3 +42,6 @@ The school holds its Service Learning Council (SLC) Investiture yearly to emplac
 
 
 <h3><a name="Prefectorial Board"></a>Prefectorial Board</h3>
+
+
+![](/images/Prefects.jpg)
