@@ -60,3 +60,6 @@ Leung Hei Tung
 Rahul Gownahalli Suresh
 
 ![](/images/Prefectorial%20Board%202017%20optimised.jpg)
+
+
+<h3><a name="Aesthetics Ambassadors"></a>Aesthetics Ambassadors</h3>
