@@ -17,3 +17,10 @@ The Homework Board will be updated between _4pm ~ 6pm_ daily.
 
 PVPS Homework Boards are by the week (Monday to Friday).
 
+* [Monday](#Monday)  
+* [Tuesday](#Tuesday)
+* [Wednesday](#Wednesday)
+* [Thursday](#hursday)
+* [Friday](#Friday)
+
+
