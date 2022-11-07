@@ -88,3 +88,18 @@ The Cyber Wellness Leaders aim to be safe and discerning ICT users, and champion
 \-    Provide AVA and ICT support during school events
 
 \-    Use ICT for effective learning
+
+
+<h3><a name="Green Ambassadors"></a>Green Ambassadors</h3>
+
+![](/images/Green.jpg)
+
+The Green Ambassadors is dedicated to environmental conservation. The Council firmly believes everybody is capable of making a meaningful contribution to saving the Earth.
+
+The Green Ambassadors seek to
+
+\-    educate pupils on environmental issues.
+
+\-    work on Green projects
+
+\-    spearhead the schools’ 3R efforts.
