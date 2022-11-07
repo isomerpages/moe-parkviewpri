@@ -58,3 +58,5 @@ Hani Adilah Binte Mohamed Suhairy
 Halyssa Fatiha Binte Mohamad Hairi   
 Leung Hei Tung   
 Rahul Gownahalli Suresh
+
+![](/images/Prefectorial%20Board%202017%20optimised.jpg)
