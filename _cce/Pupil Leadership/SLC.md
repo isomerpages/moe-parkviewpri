@@ -75,3 +75,5 @@ The Aesthetics Ambassadors have the Causes championing for:
 The arts is an important part of our human development that needs to be nurtured and creativity harnessed.
 
 This world is but a canvas to our imagination – Henry David Thoreau
+
+<h3><a name="Cyber Wellness Ambassador"></a>Cyber Wellness Ambassador</h3>
