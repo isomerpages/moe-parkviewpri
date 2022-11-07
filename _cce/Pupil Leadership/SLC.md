@@ -63,3 +63,15 @@ Rahul Gownahalli Suresh
 
 
 <h3><a name="Aesthetics Ambassadors"></a>Aesthetics Ambassadors</h3>
+
+
+![](/images/Aesthetics.jpg)
+
+The Aesthetics Ambassadors have the Causes championing for:
+
+*   Promote a vibrant arts culture in PVPS.
+*   Lead the school by championing the arts
+
+The arts is an important part of our human development that needs to be nurtured and creativity harnessed.
+
+This world is but a canvas to our imagination – Henry David Thoreau
