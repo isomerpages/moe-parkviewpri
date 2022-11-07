@@ -14,3 +14,6 @@ third_nav_title: Character Development
 		 
 <img src="/images/Discipline3.jpg" 
      style="width:50%">
+		 
+		 
+# 	**Positive Discipline @ Home**
