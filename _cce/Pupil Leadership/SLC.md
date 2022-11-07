@@ -107,8 +107,9 @@ The Green Ambassadors seek to
 
 <h3><a name="Hope Ambassador"></a>Hope Ambassadors</h3>
 
-![](/images/hope.jpg)
 
+
+![](/images/hope.jpg)
 
 The HoPE ambassadors aim to promote an active and healthy lifestyle among the student body. The acronym HoPE represents the council’s goals:
 
@@ -119,3 +120,6 @@ The HoPE ambassadors aim to promote an active and healthy lifestyle among the st
 \-    **P**hysically Active – to maintain a physically active lifestyle by being a role model for their peers
 
 \-    **E**nhanced Well-being – to combine mental and spiritual well-being with fitness for a holistic approach to long-term health
+
+
+<h3><a name="Media Resource and Library(MRL) Leaders"></a>Media Resource and Library(MRL )Leaders</h3>
