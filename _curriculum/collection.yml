@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - CCE/.keep
       - English/.keep
       - English/English.md
       - English/Library.md
