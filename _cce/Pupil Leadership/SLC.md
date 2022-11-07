@@ -137,3 +137,24 @@ _“To read is to fly: it is to soar to a point of vantage which gives a view ov
 _\- A C Grayling, Financial Times (in a review of A History of Reading by Alberto Manguel)_
 
 ![](/images/mrl.jpg)
+
+
+
+<h3><a name="National Education (NE) Ambassador"></a>National Education (NE) Ambassador</h3>
+
+![](/images/NE.jpg)
+
+National Education is a vital part of every Singaporean child’s education. It aims to cultivate a sense of belonging in every Singaporean, teaching them the necessity of cohesion and commitment in overcoming the struggles we face as a nation.
+
+**The NE Ambassadors aim to:**
+
+\-    work on NE projects in PVPS   
+\-    support the commemoration of the 4 NE core events   
+\-    advocate the 6 NE Core Messages:
+
+*   Singapore is our homeland; this is where we belong
+*   We must preserve racial and religious harmony
+*   We must uphold meritocracy and incorruptibility
+*   No one owes Singapore a living
+*   We must ourselves defend Singapore
+*   We have confidence in our future
