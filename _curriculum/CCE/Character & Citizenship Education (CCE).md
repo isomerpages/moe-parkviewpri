@@ -79,3 +79,7 @@ Under the Student Leadership Development Programme, 3 broad approaches are estab
 	*   MRL Ambassadors
 	*   NE Ambassadors
 	*   Prefects
+
+**Leadership for Key Leaders (Excel)**
+
+*   In line with our strategic thrust \[2\], Innovation & Excellence, the main focus of “Leadership for Key Leaders” is to develop students to excel as leaders.
