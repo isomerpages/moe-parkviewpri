@@ -56,15 +56,9 @@ Under the Student Leadership Development Programme, 3 broad approaches are estab
 
 **Leadership for All (Exposure)**
 
-  
-
 *   The main focus of “Leadership for All” is to give leadership exposure to all students.
 
-  
-
 **Leadership for Service Learning Council (Experience)**
-
-  
 
 *   The main focus of “Leadership for Service Learning Council” is to allow students to experience taking up leadership roles and the responsibilities and challenges that come with these roles while serving the school.
 
@@ -83,3 +77,27 @@ Under the Student Leadership Development Programme, 3 broad approaches are estab
 **Leadership for Key Leaders (Excel)**
 
 *   In line with our strategic thrust \[2\], Innovation & Excellence, the main focus of “Leadership for Key Leaders” is to develop students to excel as leaders.
+
+<h3><a name="Character Development"></a>Character Development</h3>
+
+#### Approach
+
+In the Character Development of our pupils, we have adopted the ESEE (Engagement, Support, Expertise, Extension) approach. The ESEE approach consists of the following:
+
+*   **E**ngagement of all pupils in the various school wide character development programmes adopting pupil-centred strategies
+
+*   **S**upport the character development of pupils through differentiated resources and strategies
+
+*   **E**xpertise of teachers and partners to enhance character development
+
+1.  Encouraging teacher leadership in the design and implementation of character development programmes and activities
+2.  Establishing strategic partnership in the area of character development
+
+*   **E**xtension of character development through infusion across disciplines in school, at home and to the community
+
+
+#### Values in Practice (VIP) Programme
+
+![](/images/VIP%20Logo%20Web.jpg)
+
+Click [here](/curriculum/cce/character-development/values-in-practice-vip-programme) for more information.
