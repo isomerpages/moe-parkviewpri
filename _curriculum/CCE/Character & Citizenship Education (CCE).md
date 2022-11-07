@@ -158,3 +158,8 @@ Some highlights of our VIA activities include Project SHINE for all pupils, Adop
 *   [Model Class Award](/curriculum/cce/recognition-n-motivation/model-class-award)
 *   [Holistic Awards Framework (HAF)](/curriculum/cce/recognition-n-motivation/holistic-awards-framework-haf)
 *   [P6 Motivation Programme](/curriculum/cce/recognition-n-motivation/p6-motivation-programme)
+
+
+<h3><a name="Sexuality Education 2021"></a>Sexuality Education 2021</h3>
+
+For more information, click [here](/curriculum/cce/character-development/sexuality-education-2021)
