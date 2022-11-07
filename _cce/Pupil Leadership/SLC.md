@@ -77,3 +77,14 @@ The arts is an important part of our human development that needs to be nurtured
 This world is but a canvas to our imagination – Henry David Thoreau
 
 <h3><a name="Cyber Wellness Ambassador"></a>Cyber Wellness Ambassador</h3>
+
+![](/images/cyberwellness1.jpg)
+
+  
+The Cyber Wellness Leaders aim to be safe and discerning ICT users, and champion cyber wellness in school. The council aims to
+
+\-    Champion proper use of ICT
+
+\-    Provide AVA and ICT support during school events
+
+\-    Use ICT for effective learning
