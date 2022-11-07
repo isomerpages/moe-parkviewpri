@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Pupil Leadership/Training & Development.md
       - Pupil Leadership/SLC.md
       - Pupil Leadership/.keep
       - Character Development/Values in Practice (VIP) Programme.md
