@@ -103,3 +103,19 @@ The Green Ambassadors seek to
 \-    work on Green projects
 
 \-    spearhead the schools’ 3R efforts.
+
+
+<h3><a name="Hope Ambassador"></a>Hope Ambassadors</h3>
+
+![](/images/hope.jpg)
+
+
+The HoPE ambassadors aim to promote an active and healthy lifestyle among the student body. The acronym HoPE represents the council’s goals:
+
+\-    **H**ealthy Lifestyle – to encourage every Park View pupil to adopt a healthy lifestyle
+
+\-    **O**verweight Management – to be actively involved in helping every pupil achieve an acceptable body weight
+
+\-    **P**hysically Active – to maintain a physically active lifestyle by being a role model for their peers
+
+\-    **E**nhanced Well-being – to combine mental and spiritual well-being with fitness for a holistic approach to long-term health
