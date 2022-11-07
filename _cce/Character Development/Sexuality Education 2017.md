@@ -50,3 +50,12 @@ c.  Character and Citizenship Education (CCE)
 7\.  The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate _change_s, build healthy _relationships_, especially online relationships, and exercise _safety_.
 
 **At Park View Primary School, the following lessons from the Growing Years Programme will be taught in 2017:**
+
+#### Primary 5
+
+![](/images/Sexuality%20Education%202017%20Lesson%20Plan%20for%20P5.jpg)
+
+
+#### Primary 6
+
+![](/images/Sexuality%20Education%202017%20Lesson%20Plan%20for%20P6.jpg)
