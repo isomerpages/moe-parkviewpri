@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Character Development/Life Skills.md
       - Character Development/CCE Lessons.md
       - Character Development/Sexuality Education 2017.md
       - Character Development/Discipline.md
