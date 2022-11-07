@@ -129,7 +129,9 @@ In Park View Primary School, we adopt the CITE (Create, Integrate, Teach and Exp
 *   Experience NE and learn about the uniqueness of Singapore through learning journeys. Through these experiential journeys, it is hoped that our pupils will learn more about the respective races, practices and cultures, and learn the value of respect and thus appreciate the different races in our multi-racial and cultural Singapore.
 
 
-### SG50 @ Park View Primary School
+#### SG50 @ Park View Primary School
 
 
 <img src="/images/SG50%20%20Park%20View%20Logo%20Citizenship%20Page.jpg" style="width:50%">
+
+<h3><a name="Citizenship"></a>Citizenship</h3>
