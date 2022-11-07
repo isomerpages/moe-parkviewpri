@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Character Development/Form Teacher Guidance Period (FTGP).md
       - Character Development/.keep
       - Character Development/CCE Lessons.md
       - Character Development/Life Skills.md
