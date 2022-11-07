@@ -101,3 +101,35 @@ In the Character Development of our pupils, we have adopted the ESEE (Engagement
 ![](/images/VIP%20Logo%20Web.jpg)
 
 Click [here](/curriculum/cce/character-development/values-in-practice-vip-programme) for more information.
+
+
+<h3><a name="Citizenship"></a>Citizenship</h3>
+
+
+### Overview
+
+  
+**Introduction**  
+  
+The purpose of National Education is to develop national cohesion, the instinct for survival and confidence in the future by:  
+  
+
+*   Fostering a sense of identity, pride and self-respect in being Singaporeans;
+*   Relating the Singapore story: how Singapore succeeded against odds to become a nation;
+*   Understanding Singapore’s unique challenges, constraints and vulnerabilities, which make us different from other countries; and
+*   Instilling the core values of our way of life and the will to prevail, all of which ensure our continued success and well-being.
+
+  
+In Park View Primary School, we adopt the CITE (Create, Integrate, Teach and Experience) approach for our National (Citizenship) Education Programme. The CITE approach consists of the following:  
+  
+
+*   Create an awareness of NE in our pupils through the various NE programmes like class pledge-taking, commemoration of core-NE events, NE Talks and reflections etc.
+*   Integrate NE into our curriculum in the form of inter-departmental ownership for NE activities such as Young Nation Builder Card.
+*   Teach our teachers with the necessary skills to conduct NE programmes and Social Studies lessons so that our pupils will enjoy and be engaged in their NESS activities and lessons.
+*   Experience NE and learn about the uniqueness of Singapore through learning journeys. Through these experiential journeys, it is hoped that our pupils will learn more about the respective races, practices and cultures, and learn the value of respect and thus appreciate the different races in our multi-racial and cultural Singapore.
+
+
+### SG50 @ Park View Primary School
+
+
+![](/images/SG50%20%20Park%20View%20Logo%20Citizenship%20Page.jpg)
