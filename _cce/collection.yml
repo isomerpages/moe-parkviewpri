@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Character Development/Discipline.md
       - Character Development/.keep
       - Citizenship/Young Nation Series.md
       - Citizenship/Integration of International Students.md
