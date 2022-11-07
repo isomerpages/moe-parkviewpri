@@ -2,8 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - CCE/Character & Citizenship Education (CCE).md
-      - CCE/.keep
       - English/.keep
       - English/English.md
       - English/Library.md
@@ -16,6 +14,8 @@ collections:
       - Mother Tongue/Chinese Mother Tongue.md
       - Mother Tongue/Malay Mother Tongue.md
       - Mother Tongue/Tamil Mother Tongue.md
+      - CCE/.keep
+      - CCE/Character & Citizenship Education (CCE).md
       - Physical & Health Education.md
       - Aesthetics/.keep
       - Information & Communication Technology (ICT).md
