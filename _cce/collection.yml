@@ -2,11 +2,11 @@ collections:
   cce:
     output: true
     order:
-      - Character Development/Life Skills.md
+      - Character Development/.keep
       - Character Development/CCE Lessons.md
+      - Character Development/Life Skills.md
       - Character Development/Sexuality Education 2017.md
       - Character Development/Discipline.md
-      - Character Development/.keep
       - Citizenship/Young Nation Series.md
       - Citizenship/Integration of International Students.md
       - Citizenship/NE Learning Journeys.md
