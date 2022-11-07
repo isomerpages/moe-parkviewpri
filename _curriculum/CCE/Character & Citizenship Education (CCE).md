@@ -134,4 +134,18 @@ In Park View Primary School, we adopt the CITE (Create, Integrate, Teach and Exp
 
 <img src="/images/SG50%20%20Park%20View%20Logo%20Citizenship%20Page.jpg" style="width:50%">
 
-<h3><a name="Citizenship"></a>Citizenship</h3>
+<h3><a name="Values in Action (VIA)"></a>Values in Action (VIA)</h3>
+
+
+
+#### Approach
+
+In our effort to nurture our pupils to become a morally upright, responsible and gracious citizen, the school believes in adopting a whole school approach in the implementation of its Values In Action Programme.
+
+There are 3 approaches for VIA in the school are **_Environment_**, **_Fund-raising_** and **_Outreach_**. Through this extensive approach, it is hoped that our pupils will learn about citizenship; a citizen who is informed, concerned and participative.  
+
+VIA activities are differentiated and developmental in nature where pupils get the experience to be involved in community service in stages throughout their primary school years, according to the objectives that have been spelt out for the different levels.
+
+VIA Packages are designed to guide pupils through the 3 stages of VIA: pre-VIA, VIA and post-VIA.
+
+Some highlights of our VIA activities include Project SHINE for all pupils, Adopt-a-Plot for Primary 3, Project Festive and Litter Free Neighbourhood for Primary 4, visit to the senior citizens’ home for Primary 5 and school enhancement activities in Batam, Indonesia for Primary 6.
