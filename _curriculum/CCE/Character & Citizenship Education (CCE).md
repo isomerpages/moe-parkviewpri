@@ -152,7 +152,7 @@ Some highlights of our VIA activities include Project SHINE for all pupils, Adop
 
 
 
-<h3><a name="Values in Action (VIA)"></a>Values in Action (VIA)</h3>
+<h3><a name="Recognition & Motivation"></a>Recognition & Motivation</h3>
 
 *   [After-thoughts, Best Wishes Corner (ABC)](/curriculum/cce/recognition-n-motivation/after-thoughts-best-wishes-corner-abc)
 *   [Model Class Award](/curriculum/cce/recognition-n-motivation/model-class-award)
