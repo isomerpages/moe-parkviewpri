@@ -76,7 +76,16 @@ World@PVPS is a corner set up to promote integration amongst the locals and the 
 
 As you walk or drive around our roundabout, you would notice metallic display boards flashing information on famous places and icons in Singapore. These fun facts are often read and enjoyed by our pupils who play around the roundabout during their recesses.
 
-<img src="/images/USS.jpg" style="width:50%">
+<img src="/images/Roundabout.jpg" style="width:50%">
 
-<img src="/images/USS.jpg" style="width:50%">
+**Campaign Trail**  
 
+The campaign trail begins from the school’s main gate and stretches along a covered walkway all the way to the school canteen. It showcases familiar and endearing campaign posters of the past. On display are a total of 10 large-sized campaign posters dating from 1977 to the early 1990s, each addressing different issues concerning Singapore at that time. Posters were used as they are powerful tools persuasion, and significant and familiar feature of Singaporean life.
+
+<img src="/images/Campaign.jpg" style="width:50%">
+
+**NE Corner**  
+
+Our NE corner at level 3 brings pupils on a journey from the 1800s to the colonial times and finally to Modern Singapore. The timeline provides our pupils with the essential knowledge on the transformation of our nation. There are also traditional artefacts and games displayed at the corner. Pupils get a chance to mingle with their peers and play the games that their parents played while growing up. There is also a segment on ASEAN nations whereby pupils can learn about Singapore’s friends around the region.
+
+<img src="/images/NECorner.jpg" style="width:50%">
