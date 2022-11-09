@@ -2,4 +2,5 @@ collections:
   our-stakeholders:
     output: true
     order:
+      - Alumni/.keep
       - Join Us.md
