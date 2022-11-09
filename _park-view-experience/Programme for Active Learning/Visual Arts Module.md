@@ -22,7 +22,25 @@ The Primary 1 students will be introduced to the basics of doodling and squiggli
 
 ![](/images/palcover.jpg)
 
-Primary 1
 * Animal Cartooning & Doodling
 * 3D Animal Parade
 * Doodle PAL
+
+------------------------------------------------------------------------
+
+
+**Primary 2**
+
+**Marine Life & Conservation**
+
+The Primary 2 students will be challenged to be imaginative and to create marine animals based on a squiggle. Students will also learn to express their thoughts and ideas through group activities. Batik Craftworks will be introduced to them in the module.
+
+![](/images/P2Cover.jpg)
+
+* Sea Creatures Cartooning & Doodling
+* Tote Bag Painting
+* E-Book illustrations
+
+![](/images/BannerCable.jpg)
+
+The school also conducts internal Doodling art competitions to encourage students to express their thoughts through their creative art pieces. There will be a PAL Fiesta at the end of the modules.
