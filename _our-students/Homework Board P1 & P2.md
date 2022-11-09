@@ -74,6 +74,10 @@ uploaded 5/14
 
 Primary 1
 
+![](/images/1%20(2).jpeg)
 
+![](/images/2%20(2).jpeg)
+
+![](/images/3%20(2).jpeg)
 
 <h3><a name="Friday"></a>Friday</h3>
