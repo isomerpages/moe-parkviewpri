@@ -44,3 +44,15 @@ The Primary 2 students will be challenged to be imaginative and to create marine
 ![](/images/BannerCable.jpg)
 
 The school also conducts internal Doodling art competitions to encourage students to express their thoughts through their creative art pieces. There will be a PAL Fiesta at the end of the modules.
+
+### Primary 1 Students at work
+
+![](/images/P1.jpg)
+
+### Primary 2 Pupils at work
+
+![](/images/P2.jpg)
+
+![](/images/Sample.jpg)
+
+### E-Book
