@@ -2,6 +2,7 @@ collections:
   our-stakeholders:
     output: true
     order:
+      - Financial Assistance Scheme.md
       - Insurance Claim.md
       - Useful Resources.md
       - Parent Support Group/About Us.md
