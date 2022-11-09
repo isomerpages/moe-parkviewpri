@@ -40,6 +40,17 @@ uploaded 5/15
 
 <h3><a name="Tuesday"></a>Tuesday</h3>
 
+![](/images/1a.jpeg)
+
+![](/images/2a.jpeg)
+
+![](/images/3ab.jpeg)
+
+![](/images/4ab.jpeg)
+
+![](/images/5a.jpeg)
+uploaded 5/14
+
 <h3><a name="Wednesday"></a>Wednesday</h3>
 
 <h3><a name="Thursday"></a>Thursday</h3>
