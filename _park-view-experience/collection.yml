@@ -2,5 +2,6 @@ collections:
   park-view-experience:
     output: true
     order:
+      - Applied Learning Programme (ALP).md
       - PVPS 25th Anniversary.md
       - Park View Gallery/.keep
