@@ -56,3 +56,7 @@ The school also conducts internal Doodling art competitions to encourage student
 ![](/images/Sample.jpg)
 
 ### E-Book
+
+![](/images/book.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N27N-rxWv20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
