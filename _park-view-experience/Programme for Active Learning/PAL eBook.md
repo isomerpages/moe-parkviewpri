@@ -11,3 +11,5 @@ The objective of the eBook project was to showcase pupils’ group work digitall
 As part of the school’s efforts to nurture talents, 13 pupil talents were identified to work with the trainers on 04/5/2010 to recreate a set of illustrations for the book “Little Red Riding Hood”. They were challenged to illustrate the story scenes based on random squiggles drawn by the trainers. Their creative works were shared with the teachers and the pupils. The eBook is also used as a resource for the school’s reading programme, which caters to weak readers in the lower primary
 
 Since 2010, we have moved on and created many interesting eBook stories with our pupils based on different SEL values. Please find out more from our Visual Arts Modules.
+
+### Little Red Riding Hood
