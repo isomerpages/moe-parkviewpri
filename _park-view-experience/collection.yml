@@ -1,4 +1,5 @@
 collections:
   park-view-experience:
     output: true
-    order: []
+    order:
+      - Park View Gallery/.keep
