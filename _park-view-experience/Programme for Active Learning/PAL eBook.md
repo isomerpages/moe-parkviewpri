@@ -13,3 +13,13 @@ As part of the school’s efforts to nurture talents, 13 pupil talents were iden
 Since 2010, we have moved on and created many interesting eBook stories with our pupils based on different SEL values. Please find out more from our Visual Arts Modules.
 
 ### Little Red Riding Hood
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JxZIoB7gOS4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### The Ugly Duckling
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y45BE3O-zIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
