@@ -86,3 +86,11 @@ Primary 1
 uploaded 5/14
 
 <h3><a name="Friday"></a>Friday</h3>
+
+Primary 1
+
+![](/images/1%20(3).jpeg)
+
+![](/images/2%20(3).jpeg)
+
+![](/images/3%20(3).jpeg)
