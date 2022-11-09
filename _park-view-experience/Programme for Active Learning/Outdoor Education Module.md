@@ -29,3 +29,15 @@ They are taken on outdoor trips which are slightly different from the usual lear
 *   Make learning more interesting and easier to understand through experiential learning activities in authentic setting.
 
 *   Develop students’ Social Emotional learning competencies through fun and meaningful learning activities. They not only learn more about their community and natural environment, they also learn about themselves and their friends.
+
+![](/images/PAL_out.jpg)
+
+![](/images/hortpark.jpg)
+
+
+
+
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img src="/images/butterfly.jpg" alt="butterfly.jpg" width="100" height="74"></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#F00;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Primary Two Outdoor Education<br><span style="color:#F00">Colourful Nature @ PVPS</span><br><br><br><span style="color:#002D13">Colourful Nature @ PVPS is the PAL Outdoor Education module for the Primary 2 students in Park View Primary School. In Primary 2, students will learn more about insects, birds and fishes.</span></td></tr></thead></table>
+
+![](/images/birdpark.jpg)
