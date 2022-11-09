@@ -33,3 +33,8 @@ Pupils undergo a five-week programme where each lesson starts with an introducti
 Our parent volunteers noticed that their children are now more aware of the importance of healthy eating and the nutritional value of food after undergoing this programme. They are pleased that their children are now more willing to eat vegetables and fruits than before. Besides that, their children now request to help out in the kitchen. Most importantly, pupils take learning out of the classroom and are able to see the relevance and authenticity of what they learn in the classroom. The best testimony of the success of the programme is the high level of engagement of our pupils as many of them look forward excitedly to their next lesson.
 
 ![](/images/BuddingChef_photo.jpg)
+
+![](/images/BuddingChef.jpg)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KfOspdWL8mQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
