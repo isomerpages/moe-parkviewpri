@@ -57,6 +57,12 @@ uploaded 5/14
 
 ![](/images/2%20(1).jpeg)
 
+![](/images/3%20(1).jpeg)
+
+![](/images/4%20(1).jpeg)
+
+![](/images/5%20(1).jpeg)
+
 <h3><a name="Thursday"></a>Thursday</h3>
 
 <h3><a name="Friday"></a>Friday</h3>
