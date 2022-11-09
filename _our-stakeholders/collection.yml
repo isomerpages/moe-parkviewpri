@@ -2,5 +2,6 @@ collections:
   our-stakeholders:
     output: true
     order:
+      - Alumni/Code of Conduct.md
       - Alumni/Join Us.md
       - Alumni/.keep
