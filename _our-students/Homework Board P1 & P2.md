@@ -22,7 +22,7 @@ PVPS Homework Boards are by the week (Monday to Friday).
 * [Monday](#Monday)  
 * [Tuesday](#Tuesday)
 * [Wednesday](#Wednesday)
-* [Thursday](#hursday)
+* [Thursday](#Thursday)
 * [Friday](#Friday)
 
 <h3><a name="Monday"></a>Monday</h3>
