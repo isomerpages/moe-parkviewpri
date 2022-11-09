@@ -1,4 +1,5 @@
 collections:
   our-stakeholders:
     output: true
-    order: []
+    order:
+      - Join Us.md
