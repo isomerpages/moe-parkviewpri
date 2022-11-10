@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our People/Support Service Staff.md
       - Our People/Adjunct Teachers.md
       - Our People/.keep
       - School Crest & History.md
