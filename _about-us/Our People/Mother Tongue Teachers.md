@@ -8,7 +8,12 @@ third_nav_title: Our People
 
 ### Chinese Language Teachers
 
-
+![](/images/Mdm_Teo_Siew_Yeun_optimisedforweb.jpg)
+![](/images/Lee%20Eng%20Tiong_optimisedforweb.jpg)
+![](/images/Miss_wong_Pau_hui_optimisedforWeb.jpg)
+![](/images/Low%20kin%20eng.jpg)
+![](/images/Mdm_Chen_ShuangShuang_optimisedforweb.jpg)
+![](/images/Mdm_Wang_Luning_optimisedforweb.jpg)
 
 
 
