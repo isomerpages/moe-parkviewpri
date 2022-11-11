@@ -15,3 +15,7 @@ Class: 4C
 ![](/images/Jaspreet_EnQi_Nabilah4C.jpg)
 **Artist:** Jaspreet, En Qi & Nabilah    
 Class: 4C
+
+![](/images/Vincent_Cheryl4E.jpg)
+**Artist:** Vincent & Cheryl     
+Class: 4E
