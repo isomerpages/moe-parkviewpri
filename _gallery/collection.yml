@@ -2,5 +2,6 @@ collections:
   gallery:
     output: true
     order:
+      - 2012 Gallery/Primary 5.md
       - 2012 Gallery/Primary 6.md
       - 2012 Gallery/.keep
