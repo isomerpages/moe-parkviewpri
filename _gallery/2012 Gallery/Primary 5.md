@@ -49,3 +49,14 @@ The little boy's plan had succeeded and the grateful villagers thanked the boy f
 Class: 5E
 
 ![](/images/AbrialLei_TonioTan_Zalmalyn_LimXinyi5A2.jpg)
+
+**P5 - Story: Part 5**
+
+One night, he sent his soldiers to murder the boy who lived on top of a hill. As they marched up the hill, they met a mysterious old woman who discovered their plan. She chanted some magic words and deep red blood started to flow down the hill, causing the terrified soldiers to flee quickly.
+
+The blood eventually caused the soil to turn red and the hill became today's Bukit Merah or Red Hill.
+
+
+**_Artist:_** Abrial Lei, Tonio Tan, Zalmalyn & Lim Xin yi
+
+Class: 5A2
