@@ -8,6 +8,10 @@ third_nav_title: Our People
 
 ### Heads Of Department
 
+![](/images/Mr_Tay_Lip_Seng_optimisedforweb.jpg)
+![](/images/Miss_Veronica_Poon_optimisedforweb.jpg)
+![](/images/Mdm_Teo_Siew_Yeun_optimisedforweb.jpg)
+![](/images/misspangcuilingoptimisedforweb%20(1).jpg)
 
 
 
