@@ -165,3 +165,11 @@ Local students are invited to create a doodle that encompasses their vision of w
 **The Press Launch at NAFA on 23 April 2015**  
 
 A group of 10 pupils from the Art Club participated in the Press Launch at NAFA on 23 April 2015. PVPS was the only primary school who was invited for this event.
+
+![](/images/doodle4google_Image3.jpg)
+
+**Assembly Programme**
+
+A team of Googlers and the NAFA workshop leaders came to PVPS on 27 April 2015 sharing ideas, inspiration on how the students can create their own refreshing design for this Google Logo for the Doodle 4 Google "Singapore, the next 50 years" competition.
+
+![](/images/doodle4google_Image.jpg)
