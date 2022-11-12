@@ -244,3 +244,7 @@ The National Climate Change Art Competition was organised by Nan Hua High School
 Ng Xiu Jing Clarice of class 6F came in **2nd** in the competition.
 
 ![](/images/2014_National_Climate_Change_2nd_Prize.jpg)
+
+### Raksha Bandhan 2014 Art Competition
+
+Rahul Gownahalli Suresh of class 3D clinched the Merit award in the Raksha Bandhan 2014 Art Competition organised by the Hindi Centre.
