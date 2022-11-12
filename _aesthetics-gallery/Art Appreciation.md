@@ -42,3 +42,5 @@ The monthly training session for our parent volunteers encompasses both art cont
 The Art-in-Transit programme provides our pupils with learning experiences beyond the classrooms, exposing them to the art installations in the MRT stations and providing insight into the history of the community in which the stations are located.
 
 Besides art appreciation, the infusion of English and Mathematics activities through the artworks allows our pupils to learn English and Mathematics in authentic and meaningful context, thereby enabling them to see the interconnectedness between the subjects.
+
+![](/images/P2Art-in-TransitLearningJourney.jpg)
