@@ -179,3 +179,5 @@ A team of Googlers and the NAFA workshop leaders came to PVPS on 27 April 2015 s
 Pupils from P1 to 6 took part in the Doodle4Google Competition 2015. There were 531 entries in total. Here are some art works from our pupils.
 
 ![](/images/doodle4google_Artwork.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0ACdT8929Tw?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
