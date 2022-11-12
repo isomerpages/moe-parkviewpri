@@ -44,3 +44,6 @@ The Art-in-Transit programme provides our pupils with learning experiences beyon
 Besides art appreciation, the infusion of English and Mathematics activities through the artworks allows our pupils to learn English and Mathematics in authentic and meaningful context, thereby enabling them to see the interconnectedness between the subjects.
 
 ![](/images/P2Art-in-TransitLearningJourney.jpg)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-iA_BnsARAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
