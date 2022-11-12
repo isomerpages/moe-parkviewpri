@@ -19,3 +19,11 @@ Music helps us express ourselves more than words can. Music is not confined by l
 
 
 Light! Camera! Action! Little Star and Broadway@PVPS - our very own production of dance and drama at "Hotspot", our library cum Performing Art Theatre, is a yearly highlight every parent and pupil look forward to in November. Our Primary 1 and 2 pupils have the opportunity to showcase their skills that they have acquired during their Speech & Drama lessons, as well as the Aesthetics module of PAL. The pupils are to express themselves creatively through creative movements and also stretch their imagination in acting.
+
+
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5qTc2_IizGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
