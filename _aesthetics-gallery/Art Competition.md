@@ -70,3 +70,5 @@ Rasleen Kaur Khaira of class 4A was one of the Top 6 Finalist in the Young Illus
 Well done, Rasleen!
 
 ![](/images/1_1.jpg)
+
+### Singapore Post ‘Our Future’ Drawing Contest
