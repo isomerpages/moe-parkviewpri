@@ -55,3 +55,10 @@ The P6 pupils learnt the various types of drums such as congas, bongo, agogo bel
 The P6 pupils learn the various Hip Hop dance styles over 12 sessions. Each class is taught a dance that is unique to their class. They will be performing during the P6 Graduation Nite.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WYtg0RnCl-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### Digital Music
+
+**_P3 Digital Music_**
+
+The P3 pupils learnt basic keyboard skills and composing on the GarageBand in pairs. There is a winner in every class to award them the best composition in the GarageBand competition.
