@@ -250,3 +250,12 @@ Ng Xiu Jing Clarice of class 6F came in **2nd** in the competition.
 Rahul Gownahalli Suresh of class 3D clinched the Merit award in the Raksha Bandhan 2014 Art Competition organised by the Hindi Centre.
 
 ![](/images/Rahul_GS.jpg)
+
+### Tan Kah Kee NE Art Challenge 2014
+
+Two Art Club school team pupils, Rohit G. Suresh, P3D and Chen Liang Jung, P5E represented the school in the annual art competition held at Nan Chiau Primary School on 10 November 2014.
+
+The theme for the 8th Tan Kah Kee Art Challenge is **“Celebrating SG50! – Stories Defining Who We Are”**. The boys reflected on our 50 years of history and shared their hopes and aspirations for the future and what Singapore means to them.
+
+
+Liang Jung emerged 2nd in the competition. Congratulations to both boys for their effort and demonstrating the school value of Commitment to Excellence!
