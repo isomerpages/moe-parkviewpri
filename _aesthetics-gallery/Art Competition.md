@@ -295,3 +295,16 @@ SYF Certificate of Participation: ‘Artist’ (Category B)
 
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Category B<br></th><th style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Artist<br></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Artist Statement<br></td><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="background-color:initial">School is like a big family. We mingle with students of different background and culture. This makes learning interesting and school life fruitful.</span><br><span style="background-color:initial">With the right attitude and positive forces coming from all of us, we are able to make everyday a learning journey filled with fun and joy.</span><br><span style="background-color:initial">Every one of us is gifted in different areas. We are just waiting for the right opportunity to showcase our talents.</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">School Team Members<br></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1. Sarah Ellysah Bte Shalahudin (3A)<br>2. Lee Jiwon (3D)<br>3. Lester Neu Jun You (3D)<br>4. Nicholas Chang Tian Rong (3D)</td></tr></tbody></table>
+
+
+
+
+
+
+
+
+### Heartland Beat Art Competition
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hn9jmVH9BW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
