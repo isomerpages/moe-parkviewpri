@@ -16,3 +16,6 @@ description: ""
 | **CERTIFICATE OF ACHIEVEMENT** 	|
 |---	|
 | **4th Place** for Girls Under 13 — Latin Cha Cha Open<br>**2nd Place** for Girls Under 13 — Latin Jive Open 	|
+
+
+### 2013 National Dancesport Competition
