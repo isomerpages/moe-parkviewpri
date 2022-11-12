@@ -57,3 +57,16 @@ The students’ artworks were showcased via three platforms:
 **Certificate of Recognition: Mari Kita Bermain! (Let’s Play!), Category A**
 
 ![](/images/01.jpg)
+
+**Certificate of Recognition (Special Mention) : Waves of Life, Category C**
+
+![](/images/03.jpg)
+
+
+### Young Illustrator Awards 2019 (Season 7)
+
+Rasleen Kaur Khaira of class 4A was one of the Top 6 Finalist in the Young Illustrator Awards (Season 7). Out of 1300 submissions under the Primary School category, Rasleen came in 4th in this national competition. Working on the given theme ‘Explorer’, Rasleen created a captivating painting entitled “Autumn Is Here”; an artwork inspired by Vincent Van Gogh’s impasto technique.
+
+  
+
+Well done, Rasleen!
