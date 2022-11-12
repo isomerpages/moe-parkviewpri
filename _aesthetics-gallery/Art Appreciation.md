@@ -69,3 +69,12 @@ The P6 pupils went on a learning journey to Thow Kwang Dragon Kiln Pottery Jungl
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Vt9O4I6YXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### Assembly Programme
+
+To foster an appreciation of the arts, the school organises arts programme specially tailored to the level to create greater awareness of the different art forms and hone their skills as art explorers by learning to find clues in the artworks that reveal the who, when, where and what of the artworks.
+
+**2014**
+
+P4 – P6: Art Outreach Programme by National Art Gallery Singapore
