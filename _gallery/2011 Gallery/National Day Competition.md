@@ -25,3 +25,11 @@ _**Artist(s)**: Elsa Wong Xin Yu, Wai Leyi, Aubrey Richelle, Dallen Teh Yu Zhi (
 **Scene 3**: On 29 Junuary 1819, Raffles and his assistant, Major William Farquhar, landed on the island of Singapore. Raffles was impressed with what he saw in Singapore. Singapore had a harbour with deep waters for big ships to call a port. there was plenty of fresh water so that ships could stop at the port for water before continuing their journeys and most importantly, Singapore was located on the main trade route between China and India.
 
 _**Artist(s):** Ma Xiaoyu, Celeste Lee Shi Ning, Sheryl Ong SiYing & Lin Shuan Ju (6F)_
+
+![](/images/6C.jpg)
+
+**Scene 4**:  Raffles decided to set up a British trading settlement in Singapore. After meeting the Temenggong, he found out that SIngapore belonged to the Sultan of Johor who had died. Raffles decided to ask Tengku Hussein, the Sultan's elder son, for permission to set up a British trading settlement. On 6 February 1819, Raffles, Sultan Hussein and the Temenggong signed an agreement. the Malay leaders allowed Raffles to set up a British trading settlement in Singapore and in return, the British would pay the Sultan and the Temenggong large sums of money every year. 
+
+_**Artist(s)**: Shakir Zufayri B Mohd,  Muhd Luqman B Ismail, Nurkhaliq B Dali & Muhd Ridzal B Mohd Rafid (6F)_
+
+
