@@ -37,3 +37,6 @@ Light! Camera! Action! Little Star and Broadway@PVPS - our very own production o
 ### Arts Fusion Day – NE in Music
 
 The annual commemoration of our National Day will be taking place on the 6th of August. The Primary 3 and 4 pupils will be belting out classic tunes; ‘Stand Up for Singapore’ and ‘Song for Singapore’ as the rest of the school swayed to the music. The day will end with Park View’s very own ‘What’s My Name? & We are Singaporeans’ competition. Pupils will be competing according to their houses and guess the title of the NE songs they are singing. Points will be awarded to the house that gets the correct answer, which will contribute to the crowning of the House Champion at the end of the year.
+
+
+![](/images/Arts%20Fusion%20Day%20Music%20Collage%20V2.jpg)
