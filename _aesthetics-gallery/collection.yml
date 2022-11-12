@@ -1,4 +1,5 @@
 collections:
   aesthetics-gallery:
     output: true
-    order: []
+    order:
+      - Music Appreciation.md
