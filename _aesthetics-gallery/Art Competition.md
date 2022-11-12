@@ -107,3 +107,5 @@ She is exemplary and a role model for her juniors to emulate with her enthusiasm
 ### Pasir Ris West PAssionArts Festival 2016: AMazing Pasir Ris West village
 
 Park View Primary was invited to participate in the PAssionArts Festival Art Village: Arts AMaze! 2016, a giant Arty Maze created to celebrate the nation’s 51st birthday. We put up a total of 15 pieces of artworks comprising paintings and sculptures for the event. Arts AMaze was a great platform and opportunity to showcase our students’ artistic creations while it allows participants to interact with and appreciate the artworks on display.
+
+![](/images/Art05.jpg)
