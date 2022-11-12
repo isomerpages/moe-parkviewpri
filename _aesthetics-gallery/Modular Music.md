@@ -46,8 +46,12 @@ The P5 pupils learnt the basic guitar skills such as strumming and plucking in 8
 
 **_P6 Drums Module_**
 
-  
-
 The P6 pupils learnt the various types of drums such as congas, bongo, agogo bell etc.. during their drums module and selected pupils have performed for the school during assembly.
 
 ![](/images/Drum.jpg)
+
+**_P6 Hip Hop Dance_**
+
+The P6 pupils learn the various Hip Hop dance styles over 12 sessions. Each class is taught a dance that is unique to their class. They will be performing during the P6 Graduation Nite.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WYtg0RnCl-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
