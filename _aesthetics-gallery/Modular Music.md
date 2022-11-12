@@ -62,3 +62,5 @@ The P6 pupils learn the various Hip Hop dance styles over 12 sessions. Each clas
 **_P3 Digital Music_**
 
 The P3 pupils learnt basic keyboard skills and composing on the GarageBand in pairs. There is a winner in every class to award them the best composition in the GarageBand competition.
+
+![](/images/DigitalMusic1.jpg)
