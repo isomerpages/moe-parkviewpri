@@ -91,3 +91,13 @@ Congratulations! Keep it up!
 Rasleen Kaur Khaira of class 4A participated in an art exhibition held at The Substation on 24 – 25 August 2019. A sunset scene in a story book and her favourite animal, the Orca, inspired her to create this painting.
 
 ![](/images/001%20(1).jpg)
+
+### LOO Awards & LOO KIDZ Award Ceremony
+
+The school was awarded Gold Star in the S.T.A.R (Sustaining Toilets As Restrooms) Awards Programme this year. As we have been getting similar high ratings for three consecutive years (2014 - 2016), the school received the PLATINUM STAR Award from Dr Amy Khor in the LOO (Let's Observe Ourselves) Award Ceremony on 17 November 2016.  
+
+Faith Yeo Chee Teng of class 5B also received the LOO Kidz Award for displaying strong commitment and passion in executing the ‘Happy Toilets’ project. Faith has been an active Art & Craft Club member and has participated in the Happy Toilet Project since 2014.
+
+Not only did she contribute artworks to decorate the toilets, Faith also worked closely with the juniors in the Art Club and guided them in the designs.
+
+She is exemplary and a role model for her juniors to emulate with her enthusiasm in transforming the toilets into a Happy and Vibrant place.
