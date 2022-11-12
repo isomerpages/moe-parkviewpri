@@ -269,3 +269,15 @@ PVPS Art & Craft Club school team submitted 2 art pieces for the SYF Arts Presen
 SYF Certificate of Recognition: ‘Dare to Dream’ (Category C)
 
 ![](/images/Dare2Dream.jpg)
+
+
+
+
+
+
+
+
+
+
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Category C<br></th><th style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Dare to Dream<br></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Artist Statement<br></td><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;color:#162837">Singapore is a land of mixed culture and talents.</span><br><span style="font-weight:400;color:#162837">Getting the right people with the right chemistry can shape our country towards a land filled with magic and imagination. Anyone who dares to dream is mapping his or her way towards the route of success.</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">School Team Members<br></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1. Fedor Kingsley Na Shin Kai (5C)<br>2. Celia Cheang Jia Xing (5F)<br>3. Ng Xiu Jing Clarice (5F)<br>4. Seah Jia Yi (5F)<br>5. Luqmaan Haziq Bin Ramlee (6C)<br>6. Nur Adlina Bte Zainudin (6A2)<br>7. Yeow Jingyi (6F)</td></tr></tbody></table>
