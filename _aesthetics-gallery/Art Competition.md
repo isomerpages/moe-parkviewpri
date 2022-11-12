@@ -40,8 +40,6 @@ Kudos to the following students:
 
 Park View Primary School Art & Craft Club submitted 3 artworks for the SYF Arts Presentation. Of which, 2 of the art pieces, entitled “Mari Kita Bermain! (Let’s Play!)” and “Waves of Life” received Certificate of Recognition from the curatorial team. In addition, the artwork “Waves of Life” had been given special mention by the panel of curators and the student artists were invited to present the artwork on stage to the invited guests at the opening ceremony of the SYF Art Exhibition on 5 July.
 
-  
-
 The students’ artworks were showcased via three platforms:
 
 (a) Print catalogue (all artworks)
@@ -222,3 +220,11 @@ Two of our pupils, emerged **Top 6** amongst the 2700 submissions, after clear
 Congratulations to both pupils for their achievement, effort and commitment to excellence.
 
 ![](/images/YIA%20Picture%20Collage.jpg)
+
+### The Aibelnytt Drawing Competition 2015
+
+Mannarswamy Vigneshwar Ram of class 3A took part in the Aibelnytt drawing competition organised by Aibel Pte Ltd and emerged 1st in the competition. The theme was “My Daddy Is A Hard Worker” in which Vignesh drew his impression of his father at work.
+
+He was also featured in the Aibelnews newsletter and received accolades from the jury.
+
+Congratulations to Vignesh for his outstanding achievement!
