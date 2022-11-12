@@ -19,3 +19,22 @@ As the aesthetics department is constantly looking for new talents to sign up an
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cWtFuhi20lM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+
+### Jukebox
+
+**My Jukebox** project seeks to encourage pupils to listen to the ‘right’ type of popular music. Every once a month, the Aesthetics Ambassadors will gather pupil’s song request with their personal inspirational message to share and present it during the morning assembly. Pupils are encouraged to sing and move along to their favourite tunes during recess. Suitable song requests would be used for the Active Monday workout and ACES Day workout.
+
+Objectives:
+
+*   To promote community singing
+*   To encourage pupils to listen to the ‘right’ type of music
+*   To infuse CCE values through music
+*   Promoting a vibrant arts culture
