@@ -14,5 +14,11 @@ third_nav_title: 2011 Gallery
 
 _**Artist(s):** Syofea Bte Shahlan, Ng Shao Wei, Nur Zarifah Bte Borhan & Cheryl mah Yiwen (6D)_
 
-
 ![](/images/6E.jpg)
+
+**Scene 2**: Soon after his ship had anchored, a group of people from the main island of Singapore came abroad. Raffles and his men learnt from them that Temenggong Abdil Rahman was in charge of the island. At that time, there was only a small Malay fishing village on yje island. The village was surrounded by the forests and swamps. Some Orang Laut and Chinese lived near the village.
+
+_**Artist(s)**: Elsa Wong Xin Yu, Wai Leyi, Aubrey Richelle, Dallen Teh Yu Zhi (6E)_
+
+
+
