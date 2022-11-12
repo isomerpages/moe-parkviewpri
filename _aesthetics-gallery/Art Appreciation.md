@@ -46,4 +46,26 @@ Besides art appreciation, the infusion of English and Mathematics activities thr
 ![](/images/P2Art-in-TransitLearningJourney.jpg)
 
 
+
+
+
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-iA_BnsARAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+
+### Learning Journey
+
+**P6 Learning Journey to Dragon Kiln**
+
+The P6 pupils went on a learning journey to Thow Kwang Dragon Kiln Pottery Jungle situated at Lorong Tawas on 22 and 29 May 2014. It was their post-exam activity and also part of the school’s Aesthetics programme to expose pupils to the 3D art form and the rich heritage of the dragon kiln. During the tour, the pupils had the opportunity to view a variety of ceramic wares which showed the different cultures and styles of Asia. By participating in the walk-through in the dragon kiln and examining its interior, they gained a better understanding on how pottery was being stacked in a traditional wood fired kiln. Besides learning about the kiln’s history, construction and firing techniques, the pupils were also exposed to a studio pottery environment whereby they were given clay to create their own artworks. The intense concentration while working on the craft and the smiles on the faces were testimonies of a day well-spent. All in all, the experience was a fulfilling and memorable one for our P6 pupils.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Vt9O4I6YXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
