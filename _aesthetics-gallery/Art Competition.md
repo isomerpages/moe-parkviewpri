@@ -259,3 +259,11 @@ The theme for the 8th Tan Kah Kee Art Challenge is **“Celebrating SG50! – 
 
 
 Liang Jung emerged 2nd in the competition. Congratulations to both boys for their effort and demonstrating the school value of Commitment to Excellence!
+
+![](/images/TKK.jpg)
+
+### Singapore Youth Festival (SYF) 2013 Arts Presentation
+
+PVPS Art & Craft Club school team submitted 2 art pieces for the SYF Arts Presentation. Of which, 1 of the art pieces, out of a total of 479 entries submitted by 181 primary schools, was selected by the SYF team of curators for the on-site Art Exhibition at Suntec City Mall, Tropics Atrium. It was also awarded the ‘Certificate of Recognition’ by the SYF panel of judges.
+
+SYF Certificate of Recognition: ‘Dare to Dream’ (Category C)
