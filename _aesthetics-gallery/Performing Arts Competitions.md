@@ -19,3 +19,5 @@ description: ""
 
 
 ### 2013 National Dancesport Competition
+
+![](/images/Dance.jpg)
