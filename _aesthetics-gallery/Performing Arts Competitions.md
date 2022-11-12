@@ -43,3 +43,8 @@ Our pupils Kurt Chan of class 4D won the **2nd place** in the **EZ Music Comp
 
 The Lyrics Writing Competition 2013 is a platform that allows pupils to express their creativity by changing the lyrics of popular music to fit a given theme. This year’s theme is ‘All About Local Food’. The winners of this year’s competition changed the lyrics of the song “Live while we are young” by One Directions. These are the top 3 winners of the competition:
 
+![](/images/Lyrics-Writing-Competition1.jpg)
+
+![](/images/Lyrics-Writing-Competition2.jpg)
+
+![](/images/Lyrics-Writing-Competition3.jpg)
