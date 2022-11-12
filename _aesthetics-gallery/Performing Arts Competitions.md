@@ -34,3 +34,5 @@ description: ""
 
 
 ### EZ Music Competition 2013
+
+![](/images/kurt.jpg)
