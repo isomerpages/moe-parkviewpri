@@ -186,3 +186,8 @@ Pupils from P1 to 6 took part in the Doodle4Google Competition 2015. There were 
 **Doodle4Google Competition 2015 Prize-giving Ceremony**
 
 ![](/images/doodle4google_Image4.jpg)
+
+Our pupil, Lock Yi Yin from 3A was awarded the top 5 winners (the Age Group 7-9) for the Doodle4Google Competition 2015! Her entry doodle was judged by a panel of Guest judges, who selected the top 5 finalists from a shortlist of 20 doodles for her age group. All the 5 finalists from each age group won a trip to the Google office in Singapore for an awards ceremony on 9th July 2015, where they received an official winner’s certificate and t-shirt. Their artworks will be displayed on the Doodle 4 Google website as well as in a special exhibition in the run up to National Day.
+
+
+![](/images/doodle4google_Image5.jpg)
