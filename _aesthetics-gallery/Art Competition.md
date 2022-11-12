@@ -34,3 +34,22 @@ Kudos to the following students:
 ### SYFstrongerTogether Project
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UDh_HT5R1J0?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### Singapore Youth Festival (SYF) 2019 Arts Presentation & Exhibition
+
+Park View Primary School Art & Craft Club submitted 3 artworks for the SYF Arts Presentation. Of which, 2 of the art pieces, entitled “Mari Kita Bermain! (Let’s Play!)” and “Waves of Life” received Certificate of Recognition from the curatorial team. In addition, the artwork “Waves of Life” had been given special mention by the panel of curators and the student artists were invited to present the artwork on stage to the invited guests at the opening ceremony of the SYF Art Exhibition on 5 July.
+
+  
+
+The students’ artworks were showcased via three platforms:
+
+(a) Print catalogue (all artworks)
+
+(b) Online display (all artworks)
+
+(c) On-site exhibition (select artworks)
+
+**Certificate of Participation: Our Little Red Dot, Category B**
+
+![](/images/02.jpg)
