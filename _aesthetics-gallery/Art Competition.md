@@ -220,3 +220,5 @@ Through such external competitions, our pupils were given the opportunities to h
 Two of our pupils, emerged **Top 6** amongst the 2700 submissions, after clearing the second round which they had to compete with 12 other shortlisted candidates in a Masterclass and Pitching sessions held at Geylang East Public Library.
 
 Congratulations to both pupils for their achievement, effort and commitment to excellence.
+
+![](/images/YIA%20Picture%20Collage.jpg)
