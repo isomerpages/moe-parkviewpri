@@ -308,3 +308,11 @@ SYF Certificate of Participation: ‘Artist’ (Category B)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hn9jmVH9BW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+we are pleased to share with you the video montage of our pupil
+
+**Lock Yi Qing** class of 5F : 2nd in the Heartland Beat Art Competition.
+
+
