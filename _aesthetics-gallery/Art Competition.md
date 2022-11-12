@@ -152,3 +152,16 @@ The twins created paintings based on the theme “Once Upon This Island”. Thro
 ![](/images/Capture1.jpg)
 
 ![](/images/Capture2.jpg)
+
+### Doodle4Google Competition 2015
+
+To commemorate Singapore’s 50th national day, Google is holding a competition to look for the next Doodle 4 Google — an alternative Google logo artwork that will be featured on the Google homepage come August 9.
+
+![](/images/doodle4google_Image2.jpg)
+
+Local students are invited to create a doodle that encompasses their vision of what Singapore’s future will look like. This will be Singapore’s second Doodle 4 Google event. This year’s Doodle 4 Google competition is being held in collaboration with DBS, and is also supported by the MOE and NAFA.
+
+
+**The Press Launch at NAFA on 23 April 2015**  
+
+A group of 10 pupils from the Art Club participated in the Press Launch at NAFA on 23 April 2015. PVPS was the only primary school who was invited for this event.
