@@ -20,5 +20,8 @@ _**Artist(s):** Syofea Bte Shahlan, Ng Shao Wei, Nur Zarifah Bte Borhan & Cher
 
 _**Artist(s)**: Elsa Wong Xin Yu, Wai Leyi, Aubrey Richelle, Dallen Teh Yu Zhi (6E)_
 
+![](/images/6F.jpg)
 
+**Scene 3**: On 29 Junuary 1819, Raffles and his assistant, Major William Farquhar, landed on the island of Singapore. Raffles was impressed with what he saw in Singapore. Singapore had a harbour with deep waters for big ships to call a port. there was plenty of fresh water so that ships could stop at the port for water before continuing their journeys and most importantly, Singapore was located on the main trade route between China and India.
 
+_**Artist(s):** Ma Xiaoyu, Celeste Lee Shi Ning, Sheryl Ong SiYing & Lin Shuan Ju (6F)_
