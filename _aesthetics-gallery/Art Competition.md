@@ -208,3 +208,5 @@ The pupils formed two teams, each consisting of 6 members, to compete in this ev
 Amani Nasiha Zubayar Mohammad Zubayar Bin Anis of class 3D participated in the art exhibition held at The Arts House at Old Parliament on 11 April 2015. A photo in a travel magazine inspired her to draw her artwork entitled “Mountain Landscape”.
 
 Three cheers to Amani!
+
+![](/images/Savants%20Picture%20Collage.jpg)
