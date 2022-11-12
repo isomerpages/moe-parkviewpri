@@ -72,3 +72,18 @@ Well done, Rasleen!
 ![](/images/1_1.jpg)
 
 ### Singapore Post ‘Our Future’ Drawing Contest
+
+![](/images/1_2.jpg)
+
+Our P2 to P6 students took part in this nationwide competition. 4 of our students received the consolation prize. They are:
+
+  
+
+*   Low Mu En (4A)
+*   Sahaya Emmanuel Prabhu Marleene (4A)
+*   Mohta Siya (4B)
+*   Taylor Kenneth James Tadlas (4B)
+
+  
+
+Congratulations! Keep it up!
