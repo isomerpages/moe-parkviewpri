@@ -78,3 +78,5 @@ To foster an appreciation of the arts, the school organises arts programme speci
 **2014**
 
 P4 – P6: Art Outreach Programme by National Art Gallery Singapore
+
+![](/images/NAG%20Assembly%20Talk%20Collage.jpg)
