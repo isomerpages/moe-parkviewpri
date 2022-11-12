@@ -53,3 +53,7 @@ The students’ artworks were showcased via three platforms:
 **Certificate of Participation: Our Little Red Dot, Category B**
 
 ![](/images/02.jpg)
+
+**Certificate of Recognition: Mari Kita Bermain! (Let’s Play!), Category A**
+
+![](/images/01.jpg)
