@@ -38,3 +38,31 @@ Objectives:
 *   To encourage pupils to listen to the ‘right’ type of music
 *   To infuse CCE values through music
 *   Promoting a vibrant arts culture
+
+![](/images/My%20Jukebox.jpg)
+
+### Assembly Programme
+
+**OneHeartBeat – An introduction to ethnic instruments**
+
+**Outline**
+
+A performance of local ethnic percussion music coupled with a global sound.
+
+During the performance, students will be introduced to the various local ethnic percussion instruments. For instance, the Kompang, Gendang of Malay culture, various Chinese Drums & gongs of Chinese culture, the Tabla & Dhol of Indian culture and the Snare Drum & Bass drums of Western culture with accompanying kulintang, a unique ethnic instrument that is able to be played according to Western musical scale, for familiar local ethnic melodies to complement each rhythm section.
+
+Introductions to these instruments will include information such:
+
+Origin of Instruments, what they are made of (then and now), rhythms that are distinctive to each culture and purpose of the instrument’s certain rhythmic patterns
+
+There will be students’ interaction through clapping, vocalization and movement throughout the performance.
+
+  
+
+**Learning Objectives**
+
+To create awareness and understanding of local ethnic percussion music through various rhythmic patterns and style.
+
+To provide young people with the opportunity to experience the cultural essence of ethnic percussion music of cosmopolitan Singapore, through an interactive, interesting and unconventional way.
+
+To develop in young people, a sense of cultural identity and inter-cultural understanding through percussion music
