@@ -150,3 +150,5 @@ The twins created paintings based on the theme “Once Upon This Island”. Thro
 ![](/images/Capture21.jpg)
 
 ![](/images/Capture1.jpg)
+
+![](/images/Capture2.jpg)
