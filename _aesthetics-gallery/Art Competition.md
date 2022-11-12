@@ -142,3 +142,11 @@ Kudos to Vignesh!
 Two of our Art Club (School Team) members – Rahul G. Suresh of Primary 4B and Rohit G. Suresh of Primary P4C participated in the Istana Art Event, an on-the-spot art competition on 2 August 2015. The Istana Art Event is an annual community outreach programme organised by the Singapore Art Museum, in conjunction with the Istana National Day Open House.
 
 The twins created paintings based on the theme “Once Upon This Island”. Through their artworks, they shared colourful stories of Singapore and what makes Singapore special to them.
+
+![](/images/Capture.jpg)
+
+### Singapore Youth Festival (SYF) 2015 Arts Presentation & Exhibition
+
+![](/images/Capture21.jpg)
+
+![](/images/Capture1.jpg)
