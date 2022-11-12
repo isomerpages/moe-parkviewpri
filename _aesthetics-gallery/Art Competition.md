@@ -318,3 +318,25 @@ we are pleased to share with you the video montage of our pupil
 ![](/images/yiqing2.jpg)
 
 ### National Day Observance cum On-the-spot colouring contest
+
+![](/images/Rohit.jpg)
+
+We are pleased to share with you our pupil's achievement.
+
+**Rohit Gownahalli Suresh**, Primary 2D, came in **3rd** in the National Day Observance cum On-the-spot colouring contest held on 3rd August at Pasir Ris Elias CC.
+
+### YED Art Competition
+
+![](/images/YED.jpg)
+
+**Luqman Haziq of class 6C** \- Consolation prize
+
+This art competition was open to all primary school students in Singapore to support the national Keep Singapore Clean efforts. The theme was "My Clean Singapore - What I, my family and friends can do for a clean Singapore".
+
+### Tan Kah Kee NE Art Challenge 2013
+
+![](/images/Tan-Kah-Kee-Art-Challenge_@Nan-Chiau-Primary-School.jpg)
+
+Two pupils from the Art Club (School Team) represented the school in the annual Tan Kah Kee National Education (NE) Art Challenge which was held on 11 November 2013 at Nan Chiau Primary School.
+
+This competition was first introduced in 2007 and the event provides a platform for promoting both National Education and the Visual Arts. This year’s theme for the Challenge is “My Singapore Story”. The pupils shared their hopes and aspirations for the future and what Singapore means to them through their drawings
