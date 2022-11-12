@@ -210,3 +210,13 @@ Amani Nasiha Zubayar Mohammad Zubayar Bin Anis of class 3D participated in the a
 Three cheers to Amani!
 
 ![](/images/Savants%20Picture%20Collage.jpg)
+
+### Young Illustrator Awards – Day Dreamer (Primary School Category)
+
+PVPS Art Club members have been taking part in the Young Illustrator Awards, an online Art Competition organised by Siglap Secondary School, since 2012.
+
+Through such external competitions, our pupils were given the opportunities to hone their drawing skills, creativity and also learn from one another via the online platform accorded.
+
+Two of our pupils, emerged **Top 6** amongst the 2700 submissions, after clearing the second round which they had to compete with 12 other shortlisted candidates in a Masterclass and Pitching sessions held at Geylang East Public Library.
+
+Congratulations to both pupils for their achievement, effort and commitment to excellence.
