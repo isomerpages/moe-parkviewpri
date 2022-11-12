@@ -68,3 +68,5 @@ The P3 pupils learnt basic keyboard skills and composing on the GarageBand in pa
 **_P4 Digital Music_**
 
 The P4 pupils built on their basic keyboard skills and composing on the GarageBand in pairs. There is a winner in every class to award them the best composition in the GarageBand competition.
+
+![](/images/DigitalMusic2.jpg)
