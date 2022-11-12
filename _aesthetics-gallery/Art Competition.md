@@ -236,3 +236,11 @@ Congratulations to Vignesh for his outstanding achievement!
 In conjunction with the National Day celebrations, all primary schools in the East Zone were invited to submit a maximum of 2 artworks for the art event. Both of our pupils’ artworks were shortlisted by the curatorial team, headed by a curator appointed by the Singapore Art Museum. Of which, one was exhibited at SAM from 31 July to 10 August 2014 while the other was exhibited via an online platform.
 
 ![](/images/EZCOECA@HGS_ART%20Exhibition.jpg)
+
+### National Climate Change Art Competition 2014
+
+The National Climate Change Art Competition was organised by Nan Hua High School to create awareness of climate change issues and bring about a change of mindsets to people through inspiring works.
+
+Ng Xiu Jing Clarice of class 6F came in **2nd** in the competition.
+
+![](/images/2014_National_Climate_Change_2nd_Prize.jpg)
