@@ -228,3 +228,5 @@ Mannarswamy Vigneshwar Ram of class 3A took part in the Aibelnytt drawing compet
 He was also featured in the Aibelnews newsletter and received accolades from the jury.
 
 Congratulations to Vignesh for his outstanding achievement!
+
+![](/images/vignesh_winner_resized.jpg)
