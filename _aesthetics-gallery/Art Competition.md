@@ -25,3 +25,7 @@ Kudos to the following students:
 *   Jayishnavi Sureshbabu (5B)
 *   Yasmin Deisa Binte Mohd Yani (5C)
 *   Nur Aamelia Binte Didi Ismawan (5C)
+
+![](/images/Art%20Competition.png)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LWFt2W91Wsc?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
