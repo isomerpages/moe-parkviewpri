@@ -80,3 +80,17 @@ To foster an appreciation of the arts, the school organises arts programme speci
 P4 – P6: Art Outreach Programme by National Art Gallery Singapore
 
 ![](/images/NAG%20Assembly%20Talk%20Collage.jpg)
+
+P1 – P3: DoodleChamps! Assembly Programme
+
+![](/images/P1-P3%20Doodle%20Champs%20Collage.jpg)
+
+**2015**
+
+P4 – P6: Chingay 2015 Enrichment Assembly Talk by People’s Association Youth Movement
+
+![](/images/Chingay%20Assembly%202015%20Collage.jpg)
+
+P1 – P6: Art Explorers Assembly Talk by Art Outreach Singapore
+
+![](/images/Art%20Explorers%20Assembly%202015%20Collage.jpg)
