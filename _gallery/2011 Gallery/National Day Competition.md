@@ -4,6 +4,21 @@ permalink: /curriculum/aesthetics/gallery/2011-gallery/national-day-competition/
 description: ""
 third_nav_title: 2011 Gallery
 ---
+# **Primary 5**
+
+**Self Expression – “Majulah! The Singapore Spirit”**
+
+![](/images/LINUS%20CHUI%20WAI%20KIN.jpg)
+**_Artist: Linus Chui Wai Kin, 5F_**
+
+![](/images/CELEST%20PHANG%20LIXUAN.jpg)
+**_Artist: Celest Phang Li Xuan, 5F_**
+
+![](/images/SU%20HUANGYI.jpg)
+**_Artist: Su Huangyi, 5F_**
+
+**Consolation**
+
 # **Primary 6**
 
 **“Sir Stamford Raffles – The Founding of Singapore”**
