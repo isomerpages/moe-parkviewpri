@@ -173,3 +173,9 @@ A group of 10 pupils from the Art Club participated in the Press Launch at NAFA 
 A team of Googlers and the NAFA workshop leaders came to PVPS on 27 April 2015 sharing ideas, inspiration on how the students can create their own refreshing design for this Google Logo for the Doodle 4 Google "Singapore, the next 50 years" competition.
 
 ![](/images/doodle4google_Image.jpg)
+
+**Children’s Artworks**
+
+Pupils from P1 to 6 took part in the Doodle4Google Competition 2015. There were 531 entries in total. Here are some art works from our pupils.
+
+![](/images/doodle4google_Artwork.jpg)
