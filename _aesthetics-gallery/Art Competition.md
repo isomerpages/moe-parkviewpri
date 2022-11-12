@@ -230,3 +230,9 @@ He was also featured in the Aibelnews newsletter and received accolades from the
 Congratulations to Vignesh for his outstanding achievement!
 
 ![](/images/vignesh_winner_resized.jpg)
+
+### East Zone Primary Schools’ Art Exhibition 2014 @Singapore Art Museum (SAM)
+
+In conjunction with the National Day celebrations, all primary schools in the East Zone were invited to submit a maximum of 2 artworks for the art event. Both of our pupils’ artworks were shortlisted by the curatorial team, headed by a curator appointed by the Singapore Art Museum. Of which, one was exhibited at SAM from 31 July to 10 August 2014 while the other was exhibited via an online platform.
+
+![](/images/EZCOECA@HGS_ART%20Exhibition.jpg)
