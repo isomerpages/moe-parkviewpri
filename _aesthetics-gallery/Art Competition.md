@@ -101,3 +101,9 @@ Faith Yeo Chee Teng of class 5B also received the LOO Kidz Award for displaying 
 Not only did she contribute artworks to decorate the toilets, Faith also worked closely with the juniors in the Art Club and guided them in the designs.
 
 She is exemplary and a role model for her juniors to emulate with her enthusiasm in transforming the toilets into a Happy and Vibrant place.
+
+![](/images/Art04.jpg)
+
+### Pasir Ris West PAssionArts Festival 2016: AMazing Pasir Ris West village
+
+Park View Primary was invited to participate in the PAssionArts Festival Art Village: Arts AMaze! 2016, a giant Arty Maze created to celebrate the nation’s 51st birthday. We put up a total of 15 pieces of artworks comprising paintings and sculptures for the event. Arts AMaze was a great platform and opportunity to showcase our students’ artistic creations while it allows participants to interact with and appreciate the artworks on display.
