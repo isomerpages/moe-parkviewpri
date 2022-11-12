@@ -89,3 +89,5 @@ Congratulations! Keep it up!
 ### Incandescent Art Exhibition
 
 Rasleen Kaur Khaira of class 4A participated in an art exhibition held at The Substation on 24 – 25 August 2019. A sunset scene in a story book and her favourite animal, the Orca, inspired her to create this painting.
+
+![](/images/001%20(1).jpg)
