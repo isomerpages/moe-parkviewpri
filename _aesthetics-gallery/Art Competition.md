@@ -315,4 +315,4 @@ we are pleased to share with you the video montage of our pupil
 
 **Lock Yi Qing** class of 5F : 2nd in the Heartland Beat Art Competition.
 
-
+![](/images/yiqing2.jpg)
