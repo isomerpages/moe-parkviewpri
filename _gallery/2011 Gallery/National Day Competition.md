@@ -32,4 +32,10 @@ _**Artist(s):** Ma Xiaoyu, Celeste Lee Shi Ning, Sheryl Ong SiYing & Lin Shuan 
 
 _**Artist(s)**: Shakir Zufayri B Mohd,  Muhd Luqman B Ismail, Nurkhaliq B Dali & Muhd Ridzal B Mohd Rafid (6F)_
 
+![](/images/6F2.jpg)
 
+**Scene 5**: With his assistant, major William Farquhar's help, Raffles helped develop Singapore from a small fishing village into a busy town. With more trading activities taking place, more people came to Singapore to trade and live. Raffles learnt to speak Malay and understood Malay customs and history well. With this knowledge, he was able to get on well with the Malay Sultan and Malay community. He was also very interested in plants and animals. To study them, he often went into the forests of Java, Sumatra and Singapore. He helped to start the first Botanic Gardens at the foot of Fort Canning.
+
+  
+
+_**Artist(s):** Rachel Quek, Jocelyn Pang Pui Shee, Jamie Lee Wen Hui, Joon Hui Xuan (6F)_
