@@ -196,6 +196,9 @@ Our pupil, Lock Yi Yin from 3A was awarded the top 5 winners (the Age Group 7-9)
 
 12 Art Club (ST) members participated in the giant egg decorating competition organised by the Sentosa HarbourFront Business Association in celebration of Singapore’s 50th birthday. The pupils created their designs based on the theme ‘What does SG50 mean to you’. The event was held at Vivocity Plaza on 28th February 2015.
 
-  
 
 The pupils formed two teams, each consisting of 6 members, to compete in this event. They painted the eggs from 9 am to 4 pm. Although it was challenging to paint the giant egg, our pupils did us proud as they persevered and toiled tirelessly to complete their artwork. Kudos to them for demonstrating the school values of Commitment to Excellence and Synergy for Success during the competition.
+
+![](/images/Great%20Egg%20Venture%20Painting%20Competition%202015%20Part%201.jpg)
+
+![](/images/Great%20Egg%20Venture%20Painting%20Competition%202015%20Part%202.jpg)
