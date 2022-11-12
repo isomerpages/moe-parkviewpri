@@ -4,7 +4,9 @@ permalink: /curriculum/aesthetics/gallery/2011-gallery/national-day-competition/
 description: ""
 third_nav_title: 2011 Gallery
 ---
-# **Primary 5**
+# **National Day Competition**
+
+### Primary 5
 
 **Self Expression – “Majulah! The Singapore Spirit”**
 
@@ -19,7 +21,7 @@ third_nav_title: 2011 Gallery
 
 **Consolation**
 
-# **Primary 6**
+### Primary 6
 
 **“Sir Stamford Raffles – The Founding of Singapore”**
 
