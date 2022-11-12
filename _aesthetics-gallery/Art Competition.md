@@ -109,3 +109,20 @@ She is exemplary and a role model for her juniors to emulate with her enthusiasm
 Park View Primary was invited to participate in the PAssionArts Festival Art Village: Arts AMaze! 2016, a giant Arty Maze created to celebrate the nation’s 51st birthday. We put up a total of 15 pieces of artworks comprising paintings and sculptures for the event. Arts AMaze was a great platform and opportunity to showcase our students’ artistic creations while it allows participants to interact with and appreciate the artworks on display.
 
 ![](/images/Art05.jpg)
+
+### SAVANTS & VIRTUOSO Exhibitions 2016
+
+Emma Elizabeth Thomas of class 3E participated in the following:
+
+*   VIRTUOSO Exhibition @ Affordable Art Fair (April, 2016)
+*   SAVANTS IV Exhibition @ Singapore Contemporary Art Show (January 2016)
+*   SAVANTS III Exhibition @ Affordable Art Fair (2015)
+*   SAVANTS Exhibition @ The Art House At The Old Parliament (April 2015)
+
+**_Kudos to Emma!_**
+
+![](/images/SAVANTS%20&%20VIRTUOSO%20Exhibitions%202016%201.jpg)
+
+![](/images/SAVANTS%20&%20VIRTUOSO%20Exhibitions%202016%202.jpg)
+
+![](/images/SAVANTS%20&%20VIRTUOSO%20Exhibitions%202016%203.jpg)
