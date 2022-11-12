@@ -134,3 +134,5 @@ One of our Art & Craft Club school team members, Mannarswamy Vigneshwar Ram of c
 
   
 Kudos to Vignesh!
+
+![](/images/mid%20autumn%202015.jpg)
