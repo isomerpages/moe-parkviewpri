@@ -12,3 +12,7 @@ description: ""
 ### 2015 National Dancesport Competition
 
 ![](/images/National%20Dancesports%202015%20Collage.jpg)
+
+| **CERTIFICATE OF ACHIEVEMENT** 	|
+|---	|
+| **4th Place** for Girls Under 13 — Latin Cha Cha Open<br>**2nd Place** for Girls Under 13 — Latin Jive Open 	|
