@@ -248,3 +248,5 @@ Ng Xiu Jing Clarice of class 6F came in **2nd** in the competition.
 ### Raksha Bandhan 2014 Art Competition
 
 Rahul Gownahalli Suresh of class 3D clinched the Merit award in the Raksha Bandhan 2014 Art Competition organised by the Hindi Centre.
+
+![](/images/Rahul_GS.jpg)
