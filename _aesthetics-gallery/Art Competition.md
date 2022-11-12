@@ -126,3 +126,11 @@ Emma Elizabeth Thomas of class 3E participated in the following:
 ![](/images/SAVANTS%20&%20VIRTUOSO%20Exhibitions%202016%202.jpg)
 
 ![](/images/SAVANTS%20&%20VIRTUOSO%20Exhibitions%202016%203.jpg)
+
+
+### Mid-Autumn Festival 2015
+
+One of our Art & Craft Club school team members, Mannarswamy Vigneshwar Ram of class 3A, , took part in the Mid-Autumn Festival, jointly organised by HDB and Pasir Ris West Plaza. He came in 2nd in the lantern design competition which was held at West Plaza on 20 September 2015.
+
+  
+Kudos to Vignesh!
