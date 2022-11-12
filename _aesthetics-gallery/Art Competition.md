@@ -67,6 +67,6 @@ The students’ artworks were showcased via three platforms:
 
 Rasleen Kaur Khaira of class 4A was one of the Top 6 Finalist in the Young Illustrator Awards (Season 7). Out of 1300 submissions under the Primary School category, Rasleen came in 4th in this national competition. Working on the given theme ‘Explorer’, Rasleen created a captivating painting entitled “Autumn Is Here”; an artwork inspired by Vincent Van Gogh’s impasto technique.
 
-  
-
 Well done, Rasleen!
+
+![](/images/1_1.jpg)
