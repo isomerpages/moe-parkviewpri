@@ -39,3 +39,5 @@ _**Artist(s)**: Shakir Zufayri B Mohd,  Muhd Luqman B Ismail, Nurkhaliq B Dali 
   
 
 _**Artist(s):** Rachel Quek, Jocelyn Pang Pui Shee, Jamie Lee Wen Hui, Joon Hui Xuan (6F)_
+
+![](/images/p6%20consolation.jpg)
