@@ -41,3 +41,13 @@ _(Photos coming soon)_
 **_P5 Guitar Module_**
 
 The P5 pupils learnt the basic guitar skills such as strumming and plucking in 8 sessions. They put up a performance during the Teachers’ Day concert this year.
+
+![](/images/Guitar.jpg)
+
+**_P6 Drums Module_**
+
+  
+
+The P6 pupils learnt the various types of drums such as congas, bongo, agogo bell etc.. during their drums module and selected pupils have performed for the school during assembly.
+
+![](/images/Drum.jpg)
