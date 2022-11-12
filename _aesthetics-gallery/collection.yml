@@ -1,0 +1,4 @@
+collections:
+  aesthetics-gallery:
+    output: true
+    order: []
