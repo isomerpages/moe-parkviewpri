@@ -11,4 +11,11 @@ description: ""
 
 As the aesthetics department is constantly looking for new talents to sign up and perform. We highly encourage your child to take up the challenge to sign up for a performance during recess time. We look forward to having your child participate in our next PVPS Got Talent performance!
 
+
+
+
+
+
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cWtFuhi20lM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
