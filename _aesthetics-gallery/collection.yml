@@ -2,5 +2,6 @@ collections:
   aesthetics-gallery:
     output: true
     order:
+      - Modular Music.md
       - Performing Arts Competitions.md
       - Music Appreciation.md
