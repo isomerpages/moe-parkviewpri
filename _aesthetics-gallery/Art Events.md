@@ -81,3 +81,5 @@ This exciting and meaningful project produced **1952** paper plate crafts. It 
 It was an exciting moment for everyone when our collective efforts and synergy as a school with our partners alongside us were recognised. All the artworks were beautifully installed by the PSG in the school. Do visit our school and be amazed by our PVPS Waves of Paper Plates! You can also visit the website on Singapore Book of Records to view our display.
 
 **2014 - Largest Display of Lanterns made from Cardboard Tubes**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nVihDPRa1mY?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
