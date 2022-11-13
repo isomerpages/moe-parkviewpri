@@ -143,3 +143,10 @@ To promote the development and appreciation of the visual arts, the school organ
 #### Walkathon Exhibition
 
 ![](/images/Walkathon%20Art%20Exhibtion%20Collage.jpg)
+
+
+### Arts Fusion Day – NE in Art
+
+#### Arts Fusion Day Overview
+
+The school commemorated our National Day with differentiated art activities. Primary 3 pupils did a ‘uniquely Singapore’ collage, cutting out pictures of heritage sites, landmarks and food that represent Singapore to create a collage whereas the Primary 4 did “Inchies” on the National Day themes. In line with our go green efforts, recycled materials were used in the art pieces. Our Primary 5 created beautiful hanging mobiles on the places of interest in Singapore which are along the MRT lines while our P6s did a story doodle on Singapore history. Through these activities, we hope to instil national pride, the importance and appreciation of our history and also, an outlet for our pupils to release their creativity and express their knowledge.
