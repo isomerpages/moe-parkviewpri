@@ -95,3 +95,11 @@ _**P3 Cartooning & Colouring Techniques**_
 As part of the school leaders’ effort to support the holistic education of our pupils, P3 pupils were taught cartooning and colouring techniques by Mr Lim Jit Hin, Vice-Principal 1. In the lesson, Mr Lim taught the pupils how to create animal cartoons as well as colouring techniques using oil pastels.
 
 ![](/images/P3-Cartooning-&-Colouring-Techniques.jpg)
+
+
+_**P3 Modular Art: Mosaic Art**_  
+  
+
+The art of mosaic has been practised in one form or another for thousands of years. In Singapore, we can see modern mosaic art decorating the walls of MRT stations and other public areas. Our P3 pupils will learn techniques such as cutting, arranging and fixing mosaic tiles and grouting to create colourful and lasting artistic impressions.
+
+![](/images/P3-Modular-Art--Mosaic-Art.jpg)
