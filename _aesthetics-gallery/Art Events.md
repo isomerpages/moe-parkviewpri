@@ -88,3 +88,12 @@ It was an exciting moment for everyone when our collective efforts and synergy a
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nVihDPRa1mY?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Last year, we embarked on a recycling project to make lanterns from cardboard tubes. It was part of our effort to promote environmental conservation through recycling and also as a prelude to the Mid-Autumn Fiesta. This exciting and meaningful project produced 2683 lanterns made from cardboard tubes. It was achieved through the fantastic team effort of our pupils, staff, school vendors, PSG, parents, PVPS Alumni and other school partners. Each of them played a critical role in the project by contributing at least one lantern or 3 cardboard tubes. This project successfully entered into the Singapore Book of Records for the largest display of lanterns made from cardboard tubes on 27 August 2014. The school is lined with beautifully decorated lanterns leading from the school gate all the way into the school compound. Do visit our school and be amazed by our PVPS Chandeliers of Lanterns! You can also visit the website on Singapore Book of Records to view our display.
+
+
+**2012 - Largest Display of Flowers made from Recycled Plastic Bottle**
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LhjXf4SDSAc?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
