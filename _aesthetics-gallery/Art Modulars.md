@@ -143,4 +143,19 @@ Here are some works in progress:
 ![](/images/P5-Digital-Art.jpg)
 
 
+_**P4 Digital Art**_  
+  
+In this programme, pupils created 2D artworks using MyPaint software, focusing on art form, whichrefers to three-dimensional shapes that have length, width and depth.  
+  
+Here are some works in progress:
 
+![](/images/P4-Digital-Art.jpg)
+
+| Pupil/ Class 	| Reflection 	|
+|---	|---	|
+| **Bryan Lee Jia Wei (4A)** 	| I have learned that we need to work with each other 	|
+| **Ng Chern Loong Branson (4B)** 	| I learn to work with my partner and learn how to use the tools and the colour. I also learn how to draw texture and add texture in the animal. 	|
+| **Cheryl Lee Zhu En (4C)** 	| I have learnt to work with difference people in our class and at the same time, we get to know each other better than before. 	|
+| **Ahmad Muaz Bin Mohd (4D)** 	| I have leant that if you want to have a nice piece of work, we must have patience. 	|
+| **Sarah Chua Su Ann (4E)** 	| I have learnt to use Art on the computer. I have also learnt to work well with my partner. 	|
+| **Ting Jun Hee (4C)** 	| The programme was fun and I enjoyed it although it was challenging. We managed to do it! 	|
