@@ -154,3 +154,26 @@ The school commemorated our National Day with differentiated art activities. Pri
 ![](/images/Arts%20Fusion%20Day%20Overview%20Collag%20Page%201.jpg)
 
 ![](/images/Arts%20Fusion%20Day%20Overview%20Collag%20Page%202.jpg)
+
+
+#### 2012 - NE in Art  
+Art Fusion Visual Art Competition
+
+![](/images/NPDx.jpg)
+
+In conjunction with the National Day 2012 celebrations, the Aesthetics department has introduced the Arts Fusion Day whereby the pupils commemorate the Nation’s birthday through Art & Music. The P3 & P4 pupils will be taking part in the picture collage making activity and P5 & P6 in the Singapore Stories doodling competitions.
+
+ 
+Objectives of competition:
+
+*   To promote expression of one’s perception of Singapore, their home, through a collage using outline of stars, heart or figure of man. (P3 & P4)
+*   To portray stories of Singapore through group doodling. (P5 + P6)
+
+### Art Collage - Primary 3
+
+![](/images/art%20college.jpg)
+
+
+### Art Collage - Primary 4
+
+![](/images/art%20college1.jpg)
