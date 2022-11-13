@@ -16,7 +16,8 @@ The Aesthetics programme in PVPS is designed in alignment with the Arts Framewor
 
 ----------------------------------------------------------------------
 
-[Achievements](#Achievements)
+* [Achievements](#Acheivements)
+* [Resources](#Resources)
 
 ### Achievements 
 
