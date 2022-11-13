@@ -19,3 +19,16 @@ Kudos to all our young artists!
 
 
 ![](/images/E6%20Cluster%20Art%20Exhibition.jpg)
+
+
+### Beijing-Singapore DoodlePal Exchange Programme – 2016
+
+In commemoration of International Friendship Day, Park View Primary School once again partnered Zhongguancun Number 4 School in Beijing, in Arts activities which included doodling and postcard exchange. Through this partnership, we aim to:
+
+*   strengthen the friendship between the two schools
+*   provide opportunities for students to appreciate cultural diversity and foster a willingness to embrace others from diverse background
+*   provide a platform for students from both countries to form friendships through Art and postcard exchange
+
+  
+
+Primary 4 students created artworks based on the theme “Local Delicacies （当地美食）and Places of Interest（ 新加坡名胜地）while Primary 5 students wrote on specially designed postcards based on similar themes. Both schools exchanged artworks, postcards and students’ profiles, in which our students shared about their hobbies and recommended their favourite places of interest in Singapore. Photographs in the form of montages were also shared via the school website and social media platforms. In addition, a wall display was also created to showcase artworks and postcards created by students from both schools to celebrate this significant partnership.
