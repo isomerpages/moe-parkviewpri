@@ -159,3 +159,10 @@ Here are some works in progress:
 | **Ahmad Muaz Bin Mohd (4D)** 	| I have leant that if you want to have a nice piece of work, we must have patience. 	|
 | **Sarah Chua Su Ann (4E)** 	| I have learnt to use Art on the computer. I have also learnt to work well with my partner. 	|
 | **Ting Jun Hee (4C)** 	| The programme was fun and I enjoyed it although it was challenging. We managed to do it! 	|
+
+
+_**P3 Digital Art**_  
+
+In this programme, pupils created 2D artworks using MyPaint software, focusing on 2 art elements - lines and shapes.
+
+![](/images/P3-Digital-Art.jpg)
