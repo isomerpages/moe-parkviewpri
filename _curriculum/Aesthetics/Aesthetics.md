@@ -56,3 +56,5 @@ Click [here](/curriculum/aesthetics/aesthetics-gallery/art-events) for more info
 <h3><a name="Aesthetics Gallery"></a>Aesthetics Gallery</h3>
 
 Click [here](/curriculum/aesthetics/aesthetics-gallery/art-events) for more information
+
+<h3><a name="Music"></a>Music</h3>
