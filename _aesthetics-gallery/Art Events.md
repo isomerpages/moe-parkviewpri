@@ -97,3 +97,22 @@ Last year, we embarked on a recycling project to make lanterns from cardboard tu
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LhjXf4SDSAc?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+
+
+This year we embarked on a recycling project to make flowers from recycled plastic bottles. It was part of our effort to promote environmental conservation through recycling and also as a prelude to the Mid-Autumn Festival Celebrations. This exciting and meaningful project produced 3925 flowers made from recycled plastic bottles.
+
+It was achieved through the fantastic team effort of our pupils, staff, PSG, parents and PVPS Alumni. Each of them played a critical part by contributing at least one recycled plastic bottle flower. This project successfully entered into the Singapore Book of Records for the largest display of flowers made from recycled plastic bottles on 21 September 2012. Our PVPS Garden of Recycling was “planted” with these flowers made from recycled plastic bottles. 
+
+Here is the link To Singapore Book of Records:
+
+[http://singaporerecords.com/content/largest-display-flowers-made-plastic-bottles](http://singaporerecords.com/content/largest-display-flowers-made-plastic-bottles)
+
+**2010 - A Squiggle and A Thousand Doodles**
