@@ -166,3 +166,13 @@ _**P3 Digital Art**_
 In this programme, pupils created 2D artworks using MyPaint software, focusing on 2 art elements - lines and shapes.
 
 ![](/images/P3-Digital-Art.jpg)
+
+
+| Pupil/ Class 	| Reflection 	|
+|---	|---	|
+| **Liew Yu Xuan, Gabriel (3A)** 	| The drawing part was interesting and clear 	|
+| **Lee Fang Qi (3B)** 	| I find drawing and saving MyPaint interesting 	|
+| **Poo Sin Leng Jaslyn (3C)** 	| I have learnt many things like how to use a pen to draw on the computer and drawing line in the animals and move the animals in the computer. Thank you for teaching me all these interesting things for my Art lessons. 	|
+| **Muhd Rayyan Bin Musaji Angullia (3D)** 	| I enjoyed the lesson because it was interesting and we get to draw using a bamboo pen! Thank you, Mr Jeff for making this a very challenging but fun lesson. 	|
+| **Sarah Chua Su Ann (4E)** 	| I have learnt to use Art on the computer. I have also learnt to work well with my partner. 	|
+| **Ting Jun Hee (4C)** 	| The programme was fun and I enjoyed it although it was challenging. We managed to do it! 	|
