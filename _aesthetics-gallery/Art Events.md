@@ -121,3 +121,18 @@ Here is the link To Singapore Book of Records:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GB_pQV3ORZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
+
+Park View Primary School of Singapore was awarded a Singapore book of Records certification from Ms Shirley Tan(Singapore Book of Records judge) to Mdm Diane Goh(principal of Park View Primary School).
+
+The school has broken a record of 1,950 students doodling a single squiggle from Mr Teo Chee Hean (Member of Parliament Of Pasir Ris-Punggol GRC) at the same day, same time and same duration of hours.It lasted 1 hour which is from 8.30 am - 9.30 am (+8 GMT) and it was held on Tuesday,14 September 2010.
+
+### Exhibitions
+
+#### Art Exhibitions Overview
+
+To promote the development and appreciation of the visual arts, the school organises art exhibitions during key events such as Mid-Autumn Fiesta, Walkathon@PVPS, P1 Little Stars and P2 Broadway to showcase our pupils’ artistic creations and to celebrate Art!
+
+
+#### Mid-Autumn Fiesta Exhibition
