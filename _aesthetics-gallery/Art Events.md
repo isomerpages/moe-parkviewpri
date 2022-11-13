@@ -61,3 +61,23 @@ Both schools exchanged the artworks created and they also completed a profile ea
 PVPS was honoured to be invited by the National Youth Achievement Award (NYAA) Council to partake in the inaugural Egg-Venture Giant Egg Painting Event; co-organised by the Sentosa HarbourFront Business Association on 12 April 2014.
 
 The event was held at the Universal Studios Singapore, Resorts World Sentosa. Five Art Club (ST) members took 6 hours to complete painting the giant egg. It was an exhilarating and memorable experience for these pupils
+
+![](/images/Great%20Egg%20Venture%20Event%202014%20Part%201.jpg)
+
+![](/images/Great%20Egg%20Venture%20Event%202014%20Part%202.jpg)
+
+
+### Singapore Book of Records
+
+**SBoR 2016 - Largest Display of Paper Plate Crafts**
+
+This year, Park View Primary embarked on yet another record breaking feat to:
+
+*   promote environmental conservation through recycling as a prelude to the Mid-Autumn celebrations.
+*   engage the whole school as **ONE** in the breaking of Singapore Book of Record by creating the largest display of paper plate crafts.
+
+This exciting and meaningful project produced **1952** paper plate crafts. It was achieved through the fantastic team effort of our students, staff, canteen vendors, contract cleaning crew, Parent Support Group, PVPS Alumni and partners like PCF Pasir Ris West, Sparkle Care@Changi and Club Rainbow. Each of them played a critical role in the project by contributing at least one paper plate craft. This project successfully entered into the Singapore Book of Records on 31 August 2016.
+
+It was an exciting moment for everyone when our collective efforts and synergy as a school with our partners alongside us were recognised. All the artworks were beautifully installed by the PSG in the school. Do visit our school and be amazed by our PVPS Waves of Paper Plates! You can also visit the website on Singapore Book of Records to view our display.
+
+**2014 - Largest Display of Lanterns made from Cardboard Tubes**
