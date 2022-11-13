@@ -58,3 +58,13 @@ Prior to this modular programme, the Primary 4 students visit the National Galle
 
 
 ![](/images/P4%20Art%20mordular_2019_02.jpg)
+
+
+| Primary 4: Students’ Reflections 	|  	|
+|---	|---	|
+| **Ting Lee Ying (4A)** 	| I enjoyed it because it was fund and enjoyable. The trainer taught us how to use slip and score method to join the clay pieces. We used toothpicks to make textures. 	|
+| **Rasleen Kaur Khaira (4A)** 	| The programme was very interesting and fun. I enjoyed that it was a little messy. I will use the methods taught in this programme in my other clay art projects. 	|
+| **Taylor Kenneth James Tadlas (4B)** 	| The lessons were very enjoyable. I thought that it was a bit hard but still manageable. I feel very happy that my artwork gets to become part of the school’s art. 	|
+| **Prashanth Avani (4B)** 	| The programme was very fun! I wish I will have the opportunity to make more sculptures in Primary 5 and 6. Even though it was challenging and tough, I had faith in myself and I actually did and loved it! 	|
+| **Oommen Devna (4C)** 	| I enjoyed the ceramic programme very much. I wish I could learn more about ceramic art and make more sculptures. Even though it was challenging, I managed to do it! 	|
+| **Ting Jun Hee (4C)** 	| The programme was fun and I enjoyed it although it was challenging. We managed to do it! 	|
