@@ -138,3 +138,8 @@ To promote the development and appreciation of the visual arts, the school organ
 #### Mid-Autumn Fiesta Exhibition
 
 ![](/images/Mid-Autumn%20Fiesta%20Exhibition%20Collage.jpg)
+
+
+#### Walkathon Exhibition
+
+![](/images/Walkathon%20Art%20Exhibtion%20Collage.jpg)
