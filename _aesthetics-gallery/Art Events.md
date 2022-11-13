@@ -46,3 +46,18 @@ Both schools exchanged the artworks created and they also completed a profile ea
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r1KMXjeatdw?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+
+
+### The Great Egg-Venture Giant Egg Painting Event 2014
+
+PVPS was honoured to be invited by the National Youth Achievement Award (NYAA) Council to partake in the inaugural Egg-Venture Giant Egg Painting Event; co-organised by the Sentosa HarbourFront Business Association on 12 April 2014.
+
+The event was held at the Universal Studios Singapore, Resorts World Sentosa. Five Art Club (ST) members took 6 hours to complete painting the giant egg. It was an exhilarating and memorable experience for these pupils
