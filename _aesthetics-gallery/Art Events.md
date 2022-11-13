@@ -43,3 +43,6 @@ The objectives of this partnership are to strengthen the understanding and frien
 This DoodlePAL Art activity was carried out in conjunction with the International Friendship Week which began from 6-10 April 2015. All the P3 pupils created artworks based on the theme “International Friendship”.
 
 Both schools exchanged the artworks created and they also completed a profile each to accompany their artworks. This allowed the pupils to get to know their friends from another country. The P3 pupils also wrote on the ‘Post Your Love’ cards for their friends in Beijing. Selected artworks from both countries were also installed in PVPS and Zhongguancun Number 4 Primary to mark the collaboration effort by both countries.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r1KMXjeatdw?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
