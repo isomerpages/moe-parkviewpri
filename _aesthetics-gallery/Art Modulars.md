@@ -45,3 +45,13 @@ Through this programme, our students experience the techniques of sculpting with
 **_4 Modular Art: Ceramic Programme_**  
 
 Prior to this modular programme, the Primary 4 students visit the National Gallery Singapore and learn about artworks by local artists such as Teo Eng Seng, Vincent Leow, Sarkasi Said, Ho Kok Hoe, etc. As post museum visit activity, they learn to create ceramic artworks inspired by the artists and the environment around them. They learn common hand building techniques such as pinching and coiling. Through such tactile experience, the students learn not only about the nature of clay and the theory behind ceramic, they get to express their ideas during the art making process and learn important values such as patience, adventure, determination and making choices.
+
+![](/images/P4%20Art%20mordular_2019_01.jpg)
+
+
+
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gj3yY4tb2yo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
