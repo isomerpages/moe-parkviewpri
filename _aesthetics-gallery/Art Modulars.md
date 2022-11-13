@@ -78,3 +78,20 @@ _**P3 Motif Design**_
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yolixIHDG94?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+_**P3 Cartooning & Colouring Techniques**_  
+   
+As part of the school leaders’ effort to support the holistic education of our pupils, P3 pupils were taught cartooning and colouring techniques by Mr Lim Jit Hin, Vice-Principal 1. In the lesson, Mr Lim taught the pupils how to create animal cartoons as well as colouring techniques using oil pastels.
+
+![](/images/P3-Cartooning-&-Colouring-Techniques.jpg)
