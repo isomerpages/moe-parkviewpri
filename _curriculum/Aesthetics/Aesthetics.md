@@ -17,9 +17,9 @@ The Aesthetics programme in PVPS is designed in alignment with the Arts Framewor
 ----------------------------------------------------------------------
 
 * [Achievements](#Acheivements)
-* [Resources](#Resources)
+* [Aesthetics Gallery](#AestheticsGallery)
 
-### Achievements 
+<h3><a name="Achievements"></a>Achievements</h3>
 
 ### The National Arts Education Award
 
@@ -40,3 +40,19 @@ Click [here](/curriculum/aesthetics/aesthetics-gallery/art-competition/) for mor
 
 ![](/images/achievements_banner_part_2_of_2_updated_v2.jpg)
 Click [here](/curriculum/aesthetics/aesthetics-gallery/art-events) for more information.
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h3><a name="Aesthetics Gallery"></a>Aesthetics Gallery</h3>
+
+Click [here](/curriculum/aesthetics/aesthetics-gallery/art-events) for more information
