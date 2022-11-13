@@ -15,3 +15,7 @@ Kudos to all our young artists!
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fvj690mE4WU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+![](/images/E6%20Cluster%20Art%20Exhibition.jpg)
