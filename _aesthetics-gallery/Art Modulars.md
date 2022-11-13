@@ -103,3 +103,44 @@ _**P3 Modular Art: Mosaic Art**_
 The art of mosaic has been practised in one form or another for thousands of years. In Singapore, we can see modern mosaic art decorating the walls of MRT stations and other public areas. Our P3 pupils will learn techniques such as cutting, arranging and fixing mosaic tiles and grouting to create colourful and lasting artistic impressions.
 
 ![](/images/P3-Modular-Art--Mosaic-Art.jpg)
+
+
+_**P3 – Decorating Cardboard Recycling Bin (Environment Care Programme)**_  
+  
+
+As part of the school’s effort in promoting environment care and protection, the Primary 3 pupils work in groups to decorate cardboard recycling boxes using their artworks. The programme also provides a platform for pupils to develop their SEL competencies as they are required to collaboratively to design and decorate the recycling bins. These recycling bins are then donated to classes in other levels to encourage pupils to recycle, thereby conveying the message “Be part of the solution, not the pollution”
+
+  
+  
+**_P2 Cartooning with VP1\_Theme\_Birds_**  
+  
+
+As part of the school leaders’ effort to support the holistic education of our pupils, P2 pupils were taught cartooning and colouring techniques by Mr Lim Jit Hin, Vice-Principal 1. In the lesson, Mr Lim taught the pupils how to create animal cartoons as well as colouring techniques using oil pastels.
+
+![](/images/P2cartooning.jpg)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qwLsE6LMKuU?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+
+
+
+#### Digital Art
+
+_**P5 Digital Art**_  
+
+In this programme, pupils created 2D artworks using MyPaint software, focusing on art elements – colours.  
+  
+Here are some works in progress:
+
+![](/images/P5-Digital-Art.jpg)
+
+
+
