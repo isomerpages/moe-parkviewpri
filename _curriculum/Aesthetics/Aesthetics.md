@@ -35,4 +35,4 @@ It is with great confidence and commitment that our school continues the journey
 ### Our Achievements
 
 ![](/images/achievements_banner_part_1_of_2_updated.jpg)
-Click  for more information.
+Click [here](/curriculum/aesthetics/aesthetics-gallery/art-competition/) for more information.
