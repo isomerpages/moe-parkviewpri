@@ -36,3 +36,6 @@ It is with great confidence and commitment that our school continues the journey
 
 ![](/images/achievements_banner_part_1_of_2_updated.jpg)
 Click [here](/curriculum/aesthetics/aesthetics-gallery/art-competition/) for more information.
+
+![](/images/achievements_banner_part_2_of_2_updated_v2.jpg)
+Click [here](/curriculum/aesthetics/aesthetics-gallery/art-events) for more information.
