@@ -30,4 +30,9 @@ Congratulations to Park View Primary School on being awarded the National Arts E
 
 The National Arts Education Award (NAEA) is a national award conferred by NAC to recognise schools’ efforts in promoting arts education. The NAEA framework, developed together with the Ministry of Education, seeks to encourage schools to provide holistic arts education for all students and affirms schools with good arts practices and programmes.
 
-It is with great confidence and commitment that our school continues the journey towards a more holistic and integrated arts education programme for our pupils. Winning this award is just a beginning. We will continue to strive and do our best to build a
+It is with great confidence and commitment that our school continues the journey towards a more holistic and integrated arts education programme for our pupils. Winning this award is just a beginning. We will continue to strive and do our best to build a vibrant arts culture in PVPS!
+
+### Our Achievements
+
+![](/images/achievements_banner_part_1_of_2_updated.jpg)
+Click  for more information.
