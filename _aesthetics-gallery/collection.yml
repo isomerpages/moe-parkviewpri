@@ -2,6 +2,7 @@ collections:
   aesthetics-gallery:
     output: true
     order:
+      - Art Modulars.md
       - Art Competition.md
       - Art Appreciation.md
       - Performing Arts Events.md
