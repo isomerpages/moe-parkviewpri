@@ -68,3 +68,9 @@ Prior to this modular programme, the Primary 4 students visit the National Galle
 | **Prashanth Avani (4B)** 	| The programme was very fun! I wish I will have the opportunity to make more sculptures in Primary 5 and 6. Even though it was challenging and tough, I had faith in myself and I actually did and loved it! 	|
 | **Oommen Devna (4C)** 	| I enjoyed the ceramic programme very much. I wish I could learn more about ceramic art and make more sculptures. Even though it was challenging, I managed to do it! 	|
 | **Ting Jun Hee (4C)** 	| The programme was fun and I enjoyed it although it was challenging. We managed to do it! 	|
+
+
+_**P3 Motif Design**_
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yolixIHDG94?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
