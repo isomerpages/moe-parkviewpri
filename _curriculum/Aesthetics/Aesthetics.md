@@ -418,3 +418,9 @@ This is an inaugural event to give an additional platform to showcase our studen
 
 
 ![](/images/image018.png)
+
+![](/images/image019.png)
+
+**_Walkathon Exhibition_**
+
+![](/images/image020.png)
