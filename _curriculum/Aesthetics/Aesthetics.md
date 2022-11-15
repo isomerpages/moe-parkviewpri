@@ -462,3 +462,8 @@ Rasleen Kaur Khaira of class 4A was one of the Top 6 Finalist in the Young Illus
 Our students designed cards for the “Our Heart for Singapore” project based on ideas gathered from interactions with their family members and seniors. From their conversations, they drew the stories they had heard. Their artworks were show cased at the National Museum of Singapore.
 
 ![](/images/image027.png)
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LWFt2W91Wsc?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
