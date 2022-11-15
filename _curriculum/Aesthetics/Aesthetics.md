@@ -76,7 +76,7 @@ Click [here](/curriculum/aesthetics/aesthetics-gallery/art-events) for more info
 
 
 
-
+![](/images/Music%20Splash%20Image%202015%20v2.jpg)
 
 ![](/images/1aa.jpg)
 
