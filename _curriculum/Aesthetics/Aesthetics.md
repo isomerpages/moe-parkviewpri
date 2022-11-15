@@ -234,3 +234,7 @@ Head of Aesthetics Miss Lim Hwee Tin felt that this exposure is just the tip of 
 **_Experience Programmes_**
 
 Students learn best through hands-on participation in various arts forms. Through our modular art activities, students are equipped with a range of art making techniques and skills.
+
+**_Art Modular Programmes_**
+
+Click [here](https://staging.dtkb9ih383sl3.amplifyapp.com/curriculum/aesthetics/aesthetics-gallery/art-modulars/) for more information.
