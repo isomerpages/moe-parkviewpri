@@ -467,3 +467,8 @@ Our students designed cards for the “Our Heart for Singapore” project based 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LWFt2W91Wsc?start=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+**_#SYFstrongerTogether Project_**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UDh_HT5R1J0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
