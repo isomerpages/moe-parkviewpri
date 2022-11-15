@@ -444,3 +444,7 @@ This is an inaugural event to give an additional platform to showcase our studen
 **_2019: Category B – Certificate of Participation_**
 
 ![](/images/image024.png)
+
+**_2019: Category C – Certificate of Recognition (Special Mention)_**
+
+![](/images/image025.png)
