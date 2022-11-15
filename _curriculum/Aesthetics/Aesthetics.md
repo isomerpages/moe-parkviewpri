@@ -256,3 +256,6 @@ The Art-in-Transit programme provides our students with learning experiences bey
 
 **_Primary 4 Museum-based Learning_**    
 The museum-based learning is a core learning experience for our P4 students. The museum provides an authentic context for the learning of local art, Singapore’s history and heritage. Through the pre-, during- and post-visit experiences, the students are involved as artists and audience to create and appreciate art.
+
+
+![](/images/image009%20(1).png)
