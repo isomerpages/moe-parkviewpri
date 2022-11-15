@@ -448,3 +448,17 @@ This is an inaugural event to give an additional platform to showcase our studen
 **_2019: Category C – Certificate of Recognition (Special Mention)_**
 
 ![](/images/image025.png)
+
+
+**_Young Illustrator Awards (Season 7)_** 
+
+Rasleen Kaur Khaira of class 4A was one of the Top 6 Finalist in the Young Illustrator Awards. Out of 1300 submissions under the Primary School category, Rasleen came in 4th in this national competition. Working on the given theme ‘Explorer’, Rasleen created a captivating painting entitled “Autumn Is Here”; an artwork inspired by Vincent Van Gogh’s impasto technique.
+
+
+![](/images/image026.png)
+
+**_NDP "Our Heart For Singapore" pledge card design competition_**   
+
+Our students designed cards for the “Our Heart for Singapore” project based on ideas gathered from interactions with their family members and seniors. From their conversations, they drew the stories they had heard. Their artworks were show cased at the National Museum of Singapore.
+
+![](/images/image027.png)
