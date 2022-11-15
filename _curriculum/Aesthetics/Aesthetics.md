@@ -431,3 +431,16 @@ This is an inaugural event to give an additional platform to showcase our studen
 2021: Category B - Certificate of Recognition
 
 ![](/images/image021.png)
+
+**_2021: Category C - Certificate of Participation _[Artist Talk]_**
+
+![](/images/image022.png)
+
+
+**_2019: Category A – Certificate of Recognition_**
+
+![](/images/image023.png)
+
+**_2019: Category B – Certificate of Participation_**
+
+![](/images/image024.png)
