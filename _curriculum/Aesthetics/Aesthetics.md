@@ -294,3 +294,40 @@ The school embarks on a bi-annual attempt at breaking the SBoR as a prelude acti
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AmIcJCh9Ad0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+**_2017 – Largest Handprint Mural_**
+
+
+![](/images/image012.png)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kQ-4JRZkcyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+
+**_2014 - Largest Display of Lanterns made from Cardboard Tubes_**
+
+
+
+
+
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nVihDPRa1mY?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+**_2012 - Largest Display of Flowers made from Recycled Plastic Bottle_**
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LhjXf4SDSAc?start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
