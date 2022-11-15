@@ -428,3 +428,6 @@ This is an inaugural event to give an additional platform to showcase our studen
 
 **_Achievements_**    
 **Singapore Youth Festival (SYF) Arts Presentation & Exhibition**
+2021: Category B - Certificate of Recognition
+
+![](/images/image021.png)
