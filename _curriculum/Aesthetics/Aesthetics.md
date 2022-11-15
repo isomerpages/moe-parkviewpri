@@ -275,3 +275,5 @@ Students celebrate their artistic efforts and achievements through Internal and 
 
 **_National Day Celebrations through the Arts_**     
 The school commemorated our National Day with differentiated art activities and collaborate with the NE department every year. Through these activities, we hope to instill national pride, the importance and appreciation of our history.  It is an outlet for our students to showcase their creativity and share their knowledge.
+
+![](/images/image010%20(1).png)
