@@ -175,3 +175,8 @@ To cultivate life-long learning and connection to music, we infuse body percussi
 Our Primary 1 and 2 students have the opportunity to showcase their drama and dance skills which they have acquired during their enrichment programmes in this yearly concert.
 
 ![](/images/music4.jpg)
+
+**_P6 Graduation_**     
+Our Primary 6 Graduation Ceremony is a special event in celebration of our students' six years journey in Park View Primary School. The graduating classes will perform a medley of hip hop dances and song items for their peers, parents and teachers.
+
+![](/images/music5.jpg)
