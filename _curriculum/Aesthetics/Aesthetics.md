@@ -391,3 +391,6 @@ Through simple craftwork, the Art Club members teach the kindergarten students h
 
 **_E6 Cluster Art Exhibition @ Tampines Regional Library_**     
 This is an inaugural event to give an additional platform to showcase our students' works in non SYF Art Exhibition years.  The artworks were exhibited digitally at the Tampines Library Level 2 Screen at Tampines Hub.  Kudos to all our young artists!
+
+
+![](/images/image015.png)
