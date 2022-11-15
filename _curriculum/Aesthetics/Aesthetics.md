@@ -184,3 +184,6 @@ Our Primary 6 Graduation Ceremony is a special event in celebration of our stude
 
 
 <h3><a name="Art"></a>Art</h3>
+
+
+![](/images/art.jpg)
