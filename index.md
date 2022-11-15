@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Park View Primary School
-      background: /images/hero-banner.png
+      background: /images/pvps.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
