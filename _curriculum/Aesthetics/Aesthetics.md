@@ -424,3 +424,7 @@ This is an inaugural event to give an additional platform to showcase our studen
 **_Walkathon Exhibition_**
 
 ![](/images/image020.png)
+
+
+**_Achievements_**    
+**Singapore Youth Festival (SYF) Arts Presentation & Exhibition**
