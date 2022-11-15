@@ -166,3 +166,12 @@ To cultivate life-long learning and connection to music, we infuse body percussi
 ![](/images/music2.jpg)
 
 ![](/images/music3.jpg)
+
+
+**_Performances_**  
+  
+
+**_P1 Little Stars and P2 Broadway_**    
+Our Primary 1 and 2 students have the opportunity to showcase their drama and dance skills which they have acquired during their enrichment programmes in this yearly concert.
+
+![](/images/music4.jpg)
