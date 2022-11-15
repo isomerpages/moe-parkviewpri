@@ -107,3 +107,34 @@ Students learn best through hands-on participation in various performing arts. T
   
 **_P1 – 4 Game based Activities_**    
 Students learn music concepts while having fun! As students’ participation and motivation increase, they create positive experiences which lead to better learning retention.
+
+![](/images/image003.png)
+
+
+**_P3 and 4 Ukulele_**  
+The ukulele has become increasingly popular in recent times because of its size and its unique sound. It is easier to learn and serves as a good stepping stone for students to learn the guitar at P5. As part of our broad-based arts approach, this programme is aimed at introducing students to the ukulele instrument. The module will give them a better understanding of the anatomy of the ukulele, the various chord progressions and using the instrument to express themselves through music. Through this module, we will build our students’ foundation in rhythm and their aural abilities.
+
+![](/images/image004.png)
+
+**_P5 Guitar_**  
+The P5 students learn the basic guitar skills such as strumming and plucking. They put up performances during school events.
+
+![](/images/image005.png)
+
+![](/images/image006.png)
+
+**_P1 and 2 Dance_**  
+The P1 and 2 students learn the different modern dance genres as part of their school enrichment programmes.  Each class learns a unique dance to be performed at their year-end promotion concerts
+
+![](/images/image007.png)
+
+**_P6 Hip Hop Dance_**  
+The P6 students learn the various Hip Hop dance styles as a post-PSLE activity. Each class learns a unique dance. The students will perform the specially choreographed dance during their Graduation Ceremony.
+
+![](/images/image008.png)
+
+**_P3 and 4 Keyboard_**
+
+The P3 and 4 students learn basic keyboard skills and composing on the GarageBand.
+
+![](/images/image009.png)
