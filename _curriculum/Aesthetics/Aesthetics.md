@@ -187,3 +187,13 @@ Our Primary 6 Graduation Ceremony is a special event in celebration of our stude
 
 
 ![](/images/art.jpg)
+
+
+
+### Exposure Programmes
+
+To foster greater appreciation for the arts, students are introduced to different forms of arts through programmes like assembly performances and talks.
+
+  
+
+**_Roving Art Truck Programme_**
