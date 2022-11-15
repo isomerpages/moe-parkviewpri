@@ -81,3 +81,15 @@ Click [here](/curriculum/aesthetics/aesthetics-gallery/art-events) for more info
 ![](/images/1aa.jpg)
 
 ![](/images/music.jpg)
+
+
+
+### Exposure Programmes
+
+To foster greater appreciation for the arts, students are introduced to different forms of arts through programmes like assembly performances and talks
+
+
+**_Recess Activities_**     
+
+**_PVPS Got Talent_**      
+PVPS Got Talent aims to provide talented students a platform to showcase their talents. It also aims to cultivate audience and performer etiquette in the audience and performers respectively. Through the programme, we have identified selected students to take part in external music competitions.
