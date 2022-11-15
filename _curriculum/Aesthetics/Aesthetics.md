@@ -277,3 +277,11 @@ Students celebrate their artistic efforts and achievements through Internal and 
 The school commemorated our National Day with differentiated art activities and collaborate with the NE department every year. Through these activities, we hope to instill national pride, the importance and appreciation of our history.  It is an outlet for our students to showcase their creativity and share their knowledge.
 
 ![](/images/image010%20(1).png)
+
+**_Singapore Book of Records_**
+
+The school embarks on a bi-annual attempt at breaking the SBoR as a prelude activity to National Day Celebration. 
+
+**2021 – Largest Bread Tag Mural**
+
+![](/images/image011%20(1).png)
