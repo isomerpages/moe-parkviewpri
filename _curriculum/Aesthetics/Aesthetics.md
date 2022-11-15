@@ -203,3 +203,6 @@ To foster greater appreciation for the arts, students are introduced to differen
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JspfHlaRSlk?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+
+
+![](/images/TU20220801-THU-016-00-017%201.jpg)
