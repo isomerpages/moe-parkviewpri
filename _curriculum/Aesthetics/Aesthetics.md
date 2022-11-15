@@ -407,3 +407,14 @@ This is an inaugural event to give an additional platform to showcase our studen
 **_Celebrating National Day through the Arts Exhibition_**
 
 ![](/images/image016.png)
+
+
+  
+**Mid-Autumn Fiesta Exhibition**
+
+![](/images/image017.png)
+
+**_P1 & 2 PAL Visual Art Exhibition_**
+
+
+![](/images/image018.png)
