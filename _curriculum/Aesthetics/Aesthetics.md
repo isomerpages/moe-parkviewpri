@@ -138,3 +138,31 @@ The P6 students learn the various Hip Hop dance styles as a post-PSLE activity. 
 The P3 and 4 students learn basic keyboard skills and composing on the GarageBand.
 
 ![](/images/image009.png)
+
+**_P6 Digital Music_**  
+Students go through a series of lessons from Jazz to Pop music to create their own melodic composition via iPad GarageBand. Students are encouraged to be creative in their music making, bringing their ideas to life.
+
+![](/images/image010.png)
+
+**_P3 – 5 Ethnic Music_**  
+Students learn different ethnic percussion techniques and express their musical skills by playing various musical instruments from the different ethnic groups. Students also get to appreciate local cultures during the lessons.
+
+![](/images/image011.png)
+
+
+
+
+
+
+### Excellence Programme
+
+Students celebrate their artistic efforts and achievements through Internal and external performances, competitions and events. 
+
+**_Events_**  
+  
+**_Celebrations through the Arts – Body Percussion_**  
+To cultivate life-long learning and connection to music, we infuse body percussion in many of our celebrations. Teachers and students across different levels interact and create music together. While being self-directed learners, students explore music-making with creative expressions.
+
+![](/images/music2.jpg)
+
+![](/images/music3.jpg)
