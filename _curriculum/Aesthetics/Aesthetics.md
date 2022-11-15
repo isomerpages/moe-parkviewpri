@@ -93,3 +93,17 @@ To foster greater appreciation for the arts, students are introduced to differen
 
 **_PVPS Got Talent_**      
 PVPS Got Talent aims to provide talented students a platform to showcase their talents. It also aims to cultivate audience and performer etiquette in the audience and performers respectively. Through the programme, we have identified selected students to take part in external music competitions.
+
+![](/images/music1.jpg)
+
+![](/images/image002.png)
+
+
+### Experience Programmes
+
+Students learn best through hands-on participation in various performing arts. Through our modular music and dance activities, students are equipped with a sense of musicality, psychomotor skills, instrumental techniques and skills.
+
+**_Music Modular Programmes_**  
+  
+**_P1 – 4 Game based Activities_**    
+Students learn music concepts while having fun! As students’ participation and motivation increase, they create positive experiences which lead to better learning retention.
