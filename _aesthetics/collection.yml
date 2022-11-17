@@ -1,5 +1,5 @@
 collections:
-  aesthetics-gallery:
+  aesthetics:
     output: true
     order:
       - Art Events.md
