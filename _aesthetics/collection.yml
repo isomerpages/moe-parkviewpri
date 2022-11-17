@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Aesthetics Gallery/.keep
-      - Art Events.md
       - Art Modulars.md
       - Art Competition.md
       - Art Appreciation.md
