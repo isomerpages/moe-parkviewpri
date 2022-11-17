@@ -21,10 +21,4 @@ sections:
         - title: HBL
           description: Click to view the HW board
           url: https://staging.dtkb9ih383sl3.amplifyapp.com/our-students/homework-board-p1-n-p2/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
 ---
