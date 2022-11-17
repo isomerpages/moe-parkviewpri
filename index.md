@@ -15,12 +15,12 @@ sections:
         - title: Latest News
           description: ""
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Letters to Parents - P6
+          description: ""
+          url: https://staging.dtkb9ih383sl3.amplifyapp.com/files/PVPS-2022-16.pdf
+        - title: HBL
+          description: Click to view the HW board
+          url: https://staging.dtkb9ih383sl3.amplifyapp.com/our-students/homework-board-p1-n-p2/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
