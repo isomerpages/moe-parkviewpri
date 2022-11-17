@@ -1,4 +1,5 @@
 collections:
   latest-news:
     output: true
-    order: []
+    order:
+      - example-page.md
