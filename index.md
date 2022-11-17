@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: Latest News
           description: ""
-          url: https://google.com
+          url: /latest-news/25th-Anniversary-logo-design-competition/
         - title: Letters to Parents - P6
           description: ""
           url: https://staging.dtkb9ih383sl3.amplifyapp.com/files/PVPS-2022-16.pdf
