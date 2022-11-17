@@ -2,6 +2,7 @@ collections:
   aesthetics:
     output: true
     order:
+      - Aesthetics Gallery/Music Appreciation.md
       - Aesthetics Gallery/Performing Arts Competitions.md
       - Aesthetics Gallery/Modular Music.md
       - Aesthetics Gallery/Performing Arts Events.md
