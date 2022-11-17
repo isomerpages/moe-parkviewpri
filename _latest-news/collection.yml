@@ -2,4 +2,5 @@ collections:
   latest-news:
     output: true
     order:
+      - Rules for Video Conferencing SLS Support for HBL.md
       - 2022 PTC Online Reg User Guide for Parents.md
