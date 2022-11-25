@@ -238,6 +238,13 @@ Art Club members, in collaboration with the Green Ambassadors, carry out the yea
 
 Through simple craftwork, the Art Club members teach the kindergarten students how to transform common household trash such as toilet rolls, bottle caps and plastic bottles into useful craftwork. This programme is also a platform to develop the social and emotional competencies of our students and an opportunity for them to hone their leadership skills.
 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cwsop_9gm0w?start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
 **_Exhibitions_** 
 
 **_E6 Cluster Art Exhibition @ Tampines Regional Library_**  
