@@ -194,6 +194,14 @@ The museum-based learning is a core learning experience for our P4 students. The
 **_Primary 6 Learning Journey to Dragon Kiln_**   
 The Primary 6 students visit Thow Kwang Dragon Kiln Pottery Jungle situated at Lorong Tawas as part of their post-exam activity. The LJ is also part of the school’s Aesthetics programme to expose students to the 3D art form and the rich heritage of the dragon kiln. During the tour, the students have the opportunity to view a variety of ceramic wares that show the different cultures and styles of Asia. The students immerse in the studio pottery environment whereby they are given clay to create their own artworks.
 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Vt9O4I6YXk?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
 **_Excellence Programmes_** 
 
 Students celebrate their artistic efforts and achievements through Internal and external art exhibitions, projects, performances, competitions and events.
