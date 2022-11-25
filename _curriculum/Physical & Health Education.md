@@ -35,6 +35,7 @@ To enable and encourage our students to be active after leaving school, with a g
 
 * [Enrichment Programme](#EnrichmentProgramme)
 * [School Events](#SchoolEvents)
+* [School Programme](#SchoolProgramme)
 
 
 <h3><a name="Enrichment Programme"></a>Enrichment Programme</h3>
@@ -100,3 +101,25 @@ The aims of the event are to provide a platform for pupils from different classe
 **ACES DAY**
 
 ACES Day are held on the eve of Children’s Day. The event was used to signify the end of the year-round competition between the various Houses. The event will be led by our resident Aerobics enthusiast, Mr Azmi and will be assisted by Hope Ambassadors and pupils from the Fun and Fitness Programme. It is always the aim for the school to move in unison to the sound of the music to display the school value ‘Synergy for Success’.
+
+
+<h3><a name="School Programmes"></a>School Programmes</h3>
+
+**P1 & P2 PAL (Sports and Creative Movements)**
+
+**Fun and Fitness Programme**
+
+The Fun and Fitness Programme aims to motivate our pupils to maintain a healthy weight through participating in physical activites. During recess time, pupils will be engaged in activities conducted by PE teachers and students leaders. Each session lasts for 15 minutes. It is a weight management programme that helps the pupils to be involved in games and cardio. Pupils are also educated on healthy eating habits and will have the opportunity to take part in events organized by external organizations such as POSB kids run.
+
+
+![](/images/FUN%20AND%20FITNESS.jpg)
+
+
+
+**Health Awareness Week**
+
+**Active Friday**
+
+**Unstructured Play / Recess Play**
+
+**P6 Inter-Class Games**
