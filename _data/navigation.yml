@@ -6,11 +6,9 @@ links:
     collection: curriculum
   - title: Co-Curriculum
     collection: co-curriculum
-  - title: Our Students
-    collection: our-students
-  - title: Our Stakeholders
-    collection: our-stakeholders
   - title: Park View Experience
     collection: park-view-experience
-  - title: Contact Us
-    url: /contact-us/
+  - title: Our Stakeholders
+    collection: our-stakeholders
+  - title: Our Students
+    collection: our-students
