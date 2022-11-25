@@ -17,8 +17,8 @@ sections:
           url: /latest-news/25th-Anniversary-logo-design-competition/
         - title: Letters to Parents - P6
           description: ""
-          url: https://staging.dtkb9ih383sl3.amplifyapp.com/files/PVPS-2022-16.pdf
+          url: /files/PVPS-2022-16.pdf
         - title: HBL
           description: Click to view the HW board
-          url: https://staging.dtkb9ih383sl3.amplifyapp.com/our-students/homework-board-p1-n-p2/
+          url: /our-students/homework-board-p1-n-p2/
 ---
