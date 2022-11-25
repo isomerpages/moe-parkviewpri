@@ -22,6 +22,10 @@ It also aims to promote awareness of the diversity of plants and to educate stud
 | **Training days/Time/Venue** 	| **Fridays**<br>7.30am to 9.00am 	|
 
 ### Achievements
+
+
+
+
 | **Event** 	| **Achievements** 	| **Year** 	|
 | ---	| ---	| ---	|
 | Community in Bloom    	| Gold 	| 2018 	|
