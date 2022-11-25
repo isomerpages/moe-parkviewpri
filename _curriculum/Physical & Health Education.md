@@ -94,13 +94,9 @@ The aims of the event are to provide a platform for pupils from different classe
 ![](/images/olympics.jpg)
 
 
-**Mini Olympics for (P1 & P2)**  
-
-
+**Mini Olympics for (P1 & P2)**     
 **Telematch & Campfire (for P1)**
 
 **ACES DAY**
 
 ACES Day are held on the eve of Children’s Day. The event was used to signify the end of the year-round competition between the various Houses. The event will be led by our resident Aerobics enthusiast, Mr Azmi and will be assisted by Hope Ambassadors and pupils from the Fun and Fitness Programme. It is always the aim for the school to move in unison to the sound of the music to display the school value ‘Synergy for Success’.
-
-
