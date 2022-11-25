@@ -213,6 +213,14 @@ The school embarks on a bi-annual attempt at breaking the SBoR as a prelude acti
 
 ![](/images/image011%20(1).png)
 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AmIcJCh9Ad0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
 **_2017 – Largest Handprint Mural_**
 
 ![](/images/image012.png)
