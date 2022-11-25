@@ -172,7 +172,7 @@ The Cyber Wellness Curriculum focusses on the development of 21st century and so
 
 PVPS also collaborates with FamilyMatters@School to engage TOUCH Cyber Wellness to train and empower our Service Learning Council (SLC) Cyber Wellness Ambassadors to have greater sense of responsibility, perseverance, optimism, better self-esteem and confidence. The Ambassadors will also able to identify potential hazards in the cyberspace faced by their peers and provide solution to address these concerns. Assembly talks are conducted by our SLC Cyber Wellness Ambassadors to promote good cyber wellness practices.
 
-
+![](/images/cyberwellness_1.jpg)
 
 <h3>Cyberwellness comic strips</h3>
 
