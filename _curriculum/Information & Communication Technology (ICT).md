@@ -136,6 +136,44 @@ In order to promote different art forms and to greater infuse ICT into teaching 
 
 <img src="/images/Infrastructure_1.jpg" style="width:70%">
 
+
+<h3><a name="Cyberwellness"></a>Cyberwellness</h3>
+
+
+
+
+
+##### Cyber Wellness @ PVPS
+
+  
+
+**What is Cyber Wellness?**
+
+**Cyber Wellness** refers to the positive well-being of Internet users. It involves an understanding of the risks of harmful online behaviours, an awareness of how to protect oneself and other Internet users from such behaviours.
+
+
+![](/images/cyberwellnessChart.jpg)
+
+PVPS adapts MOE’s Sense-Think-Act framework to develop pupils’ instinct to protect and empower them to take responsibility for their well-being in cyberspace. The two principles, ‘Respect for Self and Others’ and ‘Safe and Responsible Use’ when adhered to will anchor pupils’ well-being in cyberspace as they will then be able to make careful and well-considered decisions.
+
+*   **Sense:** Pupils should be able to identify the possible risks.
+
+*   **Think:** Pupils should be able to analyse, evaluate and reflect on the online situation they are facing based on the two principles.
+
+*   **Act:** Pupils should be able to translate his/her understanding into actions that will keep him/her safe while online.
+
+
+![](/images/cyberwellness-principles.jpg)
+
+Source: [http://ict.moe.edu.sg/cyberwellness/](http://ict.moe.edu.sg/cyberwellness/)
+
+
+The Cyber Wellness Curriculum focusses on the development of 21st century and social-emotional competencies in the use of ICT. The main platform for the delivery of the lessons is via Form Teacher Guidance Periods (in Primary schools).
+
+PVPS also collaborates with FamilyMatters@School to engage TOUCH Cyber Wellness to train and empower our Service Learning Council (SLC) Cyber Wellness Ambassadors to have greater sense of responsibility, perseverance, optimism, better self-esteem and confidence. The Ambassadors will also able to identify potential hazards in the cyberspace faced by their peers and provide solution to address these concerns. Assembly talks are conducted by our SLC Cyber Wellness Ambassadors to promote good cyber wellness practices.
+
+
+
 <h3>Cyberwellness comic strips</h3>
 
 <img src="/images/cyberwellness.jpg">
