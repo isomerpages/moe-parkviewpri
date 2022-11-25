@@ -77,3 +77,30 @@ The annual P6 camp serves as a motivation and reward for all P6 students who hav
 
 
 <h3><a name="School Events"></a>School Events</h3>
+
+
+
+
+**PVPS Family Run & Walk Challenge 2021**  
+
+****PVPS Olympics for (P3  to P6)****
+
+PVPS Olympics, one of the key sporting events in the school, is usually held on the second last day of school to cap off Semester 1. A series of events lead up to the culmination of the PVPS Olympics day where pupils from Primary 3 to Primary 6 represent their houses and battle it out to be crowned Champion House of the year.
+
+The aims of the event are to provide a platform for pupils from different classes and levels to mingle, forge friendships and to demonstrate qualities such as sportsmanship, teamwork and fair play. The PVPS Olympics put to test both individual competencies and team camaraderie through sports and several competitions such as Best Banner, Best Mascots, and Best Cheering.
+
+
+
+![](/images/olympics.jpg)
+
+
+**Mini Olympics for (P1 & P2)**  
+
+
+**Telematch & Campfire (for P1)**
+
+**ACES DAY**
+
+ACES Day are held on the eve of Children’s Day. The event was used to signify the end of the year-round competition between the various Houses. The event will be led by our resident Aerobics enthusiast, Mr Azmi and will be assisted by Hope Ambassadors and pupils from the Fun and Fitness Programme. It is always the aim for the school to move in unison to the sound of the music to display the school value ‘Synergy for Success’.
+
+
