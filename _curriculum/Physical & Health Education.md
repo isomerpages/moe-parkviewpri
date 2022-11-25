@@ -3,7 +3,6 @@ title: Physical & Health Education
 permalink: /curriculum/physical-n-health-education/
 description: ""
 ---
-
 # **Physical & Health Education** 
 
 ### Vision
@@ -35,6 +34,7 @@ To enable and encourage our students to be active after leaving school, with a g
 
 
 * [Enrichment Programme](#EnrichmentProgramme)
+* [School Events](#SchoolEvents)
 
 
 <h3><a name="Enrichment Programme"></a>Enrichment Programme</h3>
@@ -74,3 +74,6 @@ During the camps, pupils learn useful skills such as topography, tent-pitching a
 The annual P6 camp serves as a motivation and reward for all P6 students who have met the expectations and requirements set by the school and their teachers. It is also an opportunity for the cohort and teachers to spend quality time together. The school has decided to explore one of our local popular attractions – Sentosa, instead of going overseas to Batam. It is a good bonding time for our P6 cohort as they engage themselves in fun-filled activities such as team-building games, laser tag games and go-kart style activity at Skyline Luge with their school mates and teachers. Pupils also learn about the ‘Leave No Trace’ principles through interacting with nature and the outdoors. The highlight of the camp is the opportunity to sleep in the Underwater World Singapore as they fall asleep looking at the colourful marine life in the tanks.
 
 ![](/images/ep4.jpg)
+
+
+<h3><a name="School Events"></a>School Events</h3>
