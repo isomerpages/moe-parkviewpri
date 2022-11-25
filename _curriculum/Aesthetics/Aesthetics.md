@@ -245,6 +245,14 @@ This is an inaugural event to give an additional platform to showcase our studen
 
 ![](/images/image015.png)
 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fvj690mE4WU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
 **_Celebrating National Day through the Arts Exhibition_**
 
 ![](/images/image016.png)
