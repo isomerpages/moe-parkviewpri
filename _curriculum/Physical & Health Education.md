@@ -131,3 +131,7 @@ The Fun and Fitness Programme aims to motivate our pupils to maintain a healthy 
 
 
 <h3><a name="Useful Resources"></a>Useful Resources</h3>
+
+
+
+[PE Syllabus](https://www.moe.gov.sg/primary/curriculum/syllabus)
