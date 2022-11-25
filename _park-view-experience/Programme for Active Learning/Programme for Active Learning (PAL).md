@@ -45,6 +45,4 @@ Students will experience ‘hands-on’ activities through discovery and active 
 
 ### PAL E-BOOK
 
-
-
-
+1. [PAL eBook](/park-view-experience/programme-for-active-learning-pal/visual-arts-module/pal-ebook)
