@@ -11,8 +11,8 @@ Participation in sports CCAs allow pupils who are not school team players to acq
 Through these sports CCAs, ourschool provides pupils with various platforms to learn to be resilient and demonstrate desirable social qualities such as the spirit of fair play, team work and sportsmanship.
 
 
-* [Hockey](https://staging.dtkb9ih383sl3.amplifyapp.com/co-curriculum/Sports-and-Games/Hockey/)
-* [Volleyball](https://staging.dtkb9ih383sl3.amplifyapp.com/co-curriculum/Sports-and-Games/Volleyball/)
-* [Football](https://staging.dtkb9ih383sl3.amplifyapp.com/co-curriculum/Sports-and-Games/Football/)
-* [Netball](https://staging.dtkb9ih383sl3.amplifyapp.com/co-curriculum/Sports-and-Games/Netball/)
-* [Wushu](https://staging.dtkb9ih383sl3.amplifyapp.com/co-curriculum/Sports-and-Games/wushu/)
+* [Hockey](/co-curriculum/Sports-and-Games/Hockey/)
+* [Volleyball](/co-curriculum/Sports-and-Games/Volleyball/)
+* [Football](/co-curriculum/Sports-and-Games/Football/)
+* [Netball](/co-curriculum/Sports-and-Games/Netball/)
+* [Wushu](/co-curriculum/Sports-and-Games/wushu/)
