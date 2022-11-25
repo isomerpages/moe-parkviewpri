@@ -2,10 +2,10 @@ logo: /images/logo.png
 links:
   - title: About Us
     collection: about-us
-  - title: Co-Curriculum
-    collection: co-curriculum
   - title: Curriculum
     collection: curriculum
+  - title: Co-Curriculum
+    collection: co-curriculum
   - title: Our Students
     collection: our-students
   - title: Our Stakeholders
