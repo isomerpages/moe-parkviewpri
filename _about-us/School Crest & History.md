@@ -10,11 +10,11 @@ description: ""
 <img src="/images/logo1.png" 
      style="width:30%">
 
-*   The **_TORCH_** represents leadership**.**   
+*   The **_TORCH_** represents leadership.
 *   The **_LAUREL GARLAND OF OLIVE LEAVES_** represents _success_ and _glory_ which binds all the attributes in the badge.   
 *   The **_BOOK_** represents _knowledge_.   
 *   The **_FOUR RINGS_** represents racial _harmony_ among races.   
-*   The **_SCHOOL MOTTO “AMBITIO VIA VIRTUS”_** (Ambition through All the Excellent Qualities of Man).
+*   The **_SCHOOL MOTTO “AMBITIO VIA VIRTUS”_**  (Ambition through All the Excellent Qualities of Man).
 
 ### Our School Song
 
@@ -45,4 +45,3 @@ Park View
 **Milestones in Park View Primary School History**
 
 ![](/images/School%20History%20Picture%20Collage%20v6%20resized.png)
-
