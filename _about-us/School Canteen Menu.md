@@ -3,7 +3,7 @@ title: School Canteen Menu
 permalink: /about-us/school-canteen-menu/
 description: ""
 ---
-# **School Canteen Menu**
+# **Canteen Menu**
 
 ![Stall 1 - Cool Station Menu](/images/Stall%201.jpg)
 
