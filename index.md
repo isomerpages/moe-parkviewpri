@@ -14,11 +14,11 @@ sections:
       key_highlights:
         - title: Latest News
           description: ""
-          url: /latest-news/25th-Anniversary-logo-design-competition/
-        - title: Letters to Parents - P6
-          description: ""
-          url: /files/PVPS-2022-16.pdf
-        - title: HBL
+          url: ""
+        - title: Letters to Parents
+          description: Letters to Parents - 02
+          url: https://parkviewpri.moe.edu.sg/qql/slot/u177/2023/Our%20stakeholders/Letter%20to%20Parents/Letter%20to%20parents%20-%2002.pdf
+        - title: Homework Board
           description: Click to view the HW board
           url: /our-students/homework-board-p1-n-p2/
 ---
