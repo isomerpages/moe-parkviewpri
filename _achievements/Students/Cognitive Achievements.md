@@ -61,3 +61,20 @@ Faiz Thaqif Bin Nurrashid 3C
 **Pasir Ris-Punggol District Champion**
 
 ![](/images/Picture13-1.png)
+
+
+**TAMIL LITERACY COMPETITION**
+
+![](/images/cog.jpg)
+
+**MATH OLYMPIAD**
+
+![](/images/Picture20-1.png)
+
+Bronze Award
+
+![](/images/Picture33-1.png)
+
+![](/images/Picture21.jpg)
+**Silver Award**
+![](/images/Picture34.png)
