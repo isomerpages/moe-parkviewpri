@@ -4,7 +4,6 @@ permalink: /about-us/achievements/students/cognitive-achievements/
 description: ""
 third_nav_title: Students
 ---
-
 # **Cognitive Achievements**
 
 #### 2019
@@ -30,7 +29,18 @@ third_nav_title: Students
 ![](/images/Picture5%20(2).png)
 
 **FO GUAN SHAN PENMANSHIP COMPETITION**   
-**Best Calligraphy - School Team**  
-**Bronze Award, Merit Award, Culture Award & Participation**
+Best Calligraphy - School Team  
+Bronze Award, Merit Award, Culture Award & Participation**
 
 ![](/images/Picture6%20(2).png)
+
+**PINTAR KATA APPS COMPETITION (NATIONAL)**    
+Individual - 7th Position & Top 20
+
+![](/images/Picture8(1).png)
+
+**OPS BACA COMPETITION**
+RE-ENACTMENT OF FOLKLORE CATEGORY (2nd Position)
+
+<img src="/images/Picture9(1).png" 
+     style="width:70%">
