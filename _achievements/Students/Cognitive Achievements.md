@@ -83,3 +83,19 @@ Bronze Award
 **Honorable Mention**
 
 ![](/images/Picture35.png)
+
+**RAFFLES INSTITUTION PRIMARY MATH WORLD CONTEST**
+
+DISTINCTION
+
+![](/images/Picture36.png)
+
+#### 2018
+
+![](/images/Picture1-1.png)
+
+![](/images/Picture2-1.png)
+
+![](/images/Picture3-1.png)
+
+![](/images/Picture4-1.png)
