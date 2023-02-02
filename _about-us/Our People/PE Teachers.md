@@ -11,8 +11,8 @@ third_nav_title: Our People
 ![](/images/Mr%20Azmi_optimisedforweb.jpg)
 ![](/images/Mdm%20Nur%20Farizah_optimisedforweb.jpg)
 ![](/images/Mdm%20Angeline%20Loo%20Nga%20Hoon-Optimesed%20for%20web.jpg)
-
-
+![](/images/Charlene_optimisedforweb.jpg)
+![](/images/Lee%20Eng%20Tiong_optimisedforweb.jpg)
 
 
 
