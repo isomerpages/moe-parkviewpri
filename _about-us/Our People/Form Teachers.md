@@ -6,6 +6,15 @@ third_nav_title: Our People
 ---
 # **Form Teachers**
 
+![](/images/Mrs_Celine_Lim_optimisedforweb.jpg)
+![](/images/Miss%20Chang%20Tian%20Tian.jpeg)
+![](/images/sharina%20final.jpg)
+![](/images/Wong%20Peh%20Yan_optimisedforweb.jpg)
+![](/images/Mdm_Tan_Poh_Soon_optimisedforweb.jpg)
+![](/images/IMG_7629.jpeg)
+![](/images/Miss_Goh_Phoebe_optimisedforweb.jpg)
+
+
 ### Primary One
 
 
