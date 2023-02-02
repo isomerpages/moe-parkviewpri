@@ -4,6 +4,32 @@ permalink: /about-us/our-people/pe-teachers/
 description: ""
 third_nav_title: Our People
 ---
+
+![](/images/Mrs_Celine_Lim_optimisedforweb.jpg)
+![](/images/Miss%20Chang%20Tian%20Tian.jpeg)
+![](/images/sharina%20final.jpg)
+![](/images/Wong%20Peh%20Yan_optimisedforweb.jpg)
+![](/images/Mdm_Tan_Poh_Soon_optimisedforweb.jpg)
+![](/images/IMG_7629.jpeg)
+![](/images/Miss_Goh_Phoebe_optimisedforweb.jpg)
+![](/images/Mdm%20Zubaidah%20cropped.jpg)
+![](/images/Mdm_Tan_Xiu_Ling(Mrs%20Bek)_optimisedforweb.jpg)
+![](/images/Miss_Grace_Yeo_Jie_Xin_optimisedforweb.jpg)
+![](/images/Mdm%20Quek%20Shi%20Rui_optimisedforweb.jpg)
+![](/images/Mrs%20Evie%20Goh%209%20cropped.jpg)
+![](/images/Miss_wong_Pau_Hui_optimisedforweb%20(1).jpg)
+![](/images/Nainul_optimisedforweb.jpg)
+
+
+
+
+
+
+
+
+
+
+
 # **PE Teachers**
 
 
