@@ -4,15 +4,20 @@ permalink: /about-us/our-people/pe-teachers/
 description: ""
 third_nav_title: Our People
 ---
-![](/images/June%20Quek%20Siew%20Lan_optimisedforweb.jpg)
-![](/images/Ms%20Joyce%20Low_optimisedforweb1.jpg)
-![](/images/Ms%20Catherine%20Sham.jpg)
-![](/images/Low%20kin%20eng.jpg)
-![](/images/Mr%20Azmi_optimisedforweb.jpg)
-![](/images/Mdm%20Nur%20Farizah_optimisedforweb.jpg)
-![](/images/Mdm%20Angeline%20Loo%20Nga%20Hoon-Optimesed%20for%20web.jpg)
-![](/images/Charlene_optimisedforweb.jpg)
-![](/images/Lee%20Eng%20Tiong_optimisedforweb.jpg)
+![](/images/muslim_optimisedforweb.jpg)
+![](/images/Mdm_Teo_Siew_Yeun_optimisedforweb.jpg)
+![](/images/Emily%20ambrose_optimisedforweb.jpg)
+![](/images/Miss%20Kimberly%20Jean%20Aeria%202%20edited%20%20cropped.jpg)
+![](/images/Mdm%20Julie%20Wong-Optimesed%20for%20web.jpg)
+![](/images/zatty.jpg)
+![](/images/Mrs%20Helen%20Chong.jpg)
+
+
+
+
+
+
+
 
 
 
