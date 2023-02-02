@@ -4,14 +4,6 @@ permalink: /about-us/our-people/pe-teachers/
 description: ""
 third_nav_title: Our People
 ---
-![](/images/muslim_optimisedforweb.jpg)
-![](/images/Mdm_Teo_Siew_Yeun_optimisedforweb.jpg)
-![](/images/Emily%20ambrose_optimisedforweb.jpg)
-![](/images/Miss%20Kimberly%20Jean%20Aeria%202%20edited%20%20cropped.jpg)
-![](/images/Mdm%20Julie%20Wong-Optimesed%20for%20web.jpg)
-![](/images/zatty.jpg)
-![](/images/Mrs%20Helen%20Chong.jpg)
-
 
 
 
