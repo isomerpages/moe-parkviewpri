@@ -8,9 +8,9 @@ third_nav_title: School Rules
 ### School Uniform  
 
 <table><tbody><tr><td style="width: 203px;">
-<img src="https://parkviewpri.moe.edu.sg/qql/slot/u177/2023/About%20Us/School%20Rules/School%20Uniform/Picture1.jpg">
+<img src="/images/About%20Us/School%20Uniform%20and%20Others/Uniform_Boy.jpg">
 
-</td><td style="width: 180px;"><img src="https://parkviewpri.moe.edu.sg/qql/slot/u177/2023/About%20Us/School%20Rules/School%20Uniform/Picture2.jpg"></td>
+</td><td style="width: 180px;"><img src="/images/About%20Us/School%20Uniform%20and%20Others/Uniform_Girl.jpg"></td>
 
 <td><font face="arial, sans-serif" size="4">
 	
@@ -24,10 +24,12 @@ third_nav_title: School Rules
 
 ### PE Attire
 
-<table><tbody><tr><td style="width: 203px;">
-<img src="https://parkviewpri.moe.edu.sg/qql/slot/u177/2023/About%20Us/School%20Rules/School%20Uniform/Picture3.jpg">
+<table><tbody><tr><td style="width: 190px;">
+<img src="/images/About%20Us/School%20Uniform%20and%20Others/PE_Boy.jpg">
 
-</td><td style="width: 180px;"><img src="https://parkviewpri.moe.edu.sg/qql/slot/u177/2023/About%20Us/School%20Rules/School%20Uniform/Picture4.jpg"></td>
+</td><td style="width: 180px;">
+<img 
+src="/images/About%20Us/School%20Uniform%20and%20Others/PE-Girl.jpg"></td>
 
 <td><font face="arial, sans-serif" size="4">
 	
