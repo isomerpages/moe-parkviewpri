@@ -16,5 +16,4 @@ third_nav_title: School Rules
 7. Pupils are to be neatly and properly attired at all times.
 8. Boys are to be clean shaven and are not allowed to sport a beard and / or moustache.
 9. Pupils who are Singapore citizens must sing the National Anthem and take the Pledge with their right fists over their hearts.
-10. All pupils are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.
-</font>
+10. All pupils are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others. </font>
