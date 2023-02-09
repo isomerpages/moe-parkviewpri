@@ -4,7 +4,6 @@ permalink: /curriculum/aesthetics/
 description: ""
 third_nav_title: Aesthetics
 ---
-# Aesthetic
 ### PVPS Aesthetics Framework
 
 <font face="arial, sans-serif" size="4">
