@@ -4,8 +4,7 @@ permalink: /about-us/schools-rules/school-uniform/
 description: ""
 third_nav_title: School Rules
 ---
-
-# **School Uniform**
+# School Uniform and Others
 
 
 ![](/images/schuni.jpg)
