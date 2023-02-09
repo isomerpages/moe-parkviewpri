@@ -43,9 +43,9 @@ src="/images/About%20Us/School%20Uniform%20and%20Others/PE-Girl.jpg"></td>
 ### Name Tag
 
 <table><tbody><tr><td style="width: 203px;">
-<img src="https://parkviewpri.moe.edu.sg/qql/slot/u177/2023/About%20Us/School%20Rules/School%20Uniform/Picture5.png">
+<img src="/images/About%20Us/School%20Uniform%20and%20Others/Name%20tag_1.png">
 
-</td><td style="width: 185px;"><img src="https://parkviewpri.moe.edu.sg/qql/slot/u177/2023/About%20Us/School%20Rules/School%20Uniform/Picture6.png"></td>
+</td><td style="width: 185px;"><img src="/images/About%20Us/School%20Uniform%20and%20Others/Name%20tag_2.png"></td>
 
 <td><font face="arial, sans-serif" size="4">
 	
@@ -58,11 +58,11 @@ src="/images/About%20Us/School%20Uniform%20and%20Others/PE-Girl.jpg"></td>
 ### Footwear
 
 <table><tbody><tr><td style="width: 224px;">
-<img src="https://parkviewpri.moe.edu.sg/qql/slot/u177/2023/About%20Us/School%20Rules/School%20Uniform/Picture7.png">
+<img src="/images/About%20Us/School%20Uniform%20and%20Others/Footwear_1.png">
 
-</td><td style="width: ;"><img src="https://parkviewpri.moe.edu.sg/qql/slot/u177/2023/About%20Us/School%20Rules/School%20Uniform/Picture8.png"></td>
+</td><td style="width: ;"><img src="/images/About%20Us/School%20Uniform%20and%20Others/Footwear_2.png"></td>
 
-<td style="width: 1;"><img src="https://parkviewpri.moe.edu.sg/qql/slot/u177/2023/About%20Us/School%20Rules/School%20Uniform/Picture9.png"></td>
+<td style="width: 1;"><img src="/images/About%20Us/School%20Uniform%20and%20Others/Footwear_3.png"></td>
 	
 
 </tr></tbody></table>
@@ -79,7 +79,7 @@ src="/images/About%20Us/School%20Uniform%20and%20Others/PE-Girl.jpg"></td>
 
 <table>
 
-<tbody><tr><td style="width: 350px;"><img src="https://parkviewpri.moe.edu.sg/qql/slot/u177/2023/About%20Us/School%20Rules/School%20Uniform/Picture10.png"></td>
+<tbody><tr><td style="width: 350px;"><img src="/images/About%20Us/School%20Uniform%20and%20Others/Personal%20Hygiene.png"></td>
 
 <td><font face="arial, sans-serif" size="4">
 	
