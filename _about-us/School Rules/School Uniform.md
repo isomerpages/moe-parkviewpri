@@ -104,10 +104,10 @@ src="/images/About%20Us/School%20Uniform%20and%20Others/PE-Girl.jpg"></td>
 ### Hair ~ Girl
 <font face="arial, sans-serif" size="4">
 	
-*   No tinting, bleaching and colouring of hair are allowed for&nbsp;**all**&nbsp;students.
+*   No tinting, bleaching and colouring of hair are allowed for&nbsp;**all** students.
 *   Fringe must not be touching the eyebrows.
-*   Hair beyond shoulder length must be plaited or tied up into one / to braids.
-*   Only black&nbsp;hair accessories are allowed.
+*   Hair beyond shoulder length must be plaited or tied up into one or two braids.
+*   Only black hair accessories are allowed.
 *   No fanciful hairbands are allowed.
 *   One set of plain gold / silver studs may be worn on one ear hole of each ear. Other forms of piercing are not allowed.
 *   No jewellery or any items of personal adornments are allowed.
