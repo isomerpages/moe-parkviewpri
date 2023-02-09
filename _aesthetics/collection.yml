@@ -2,6 +2,7 @@ collections:
   aesthetics:
     output: true
     order:
+      - Aesthetics Gallery/Art.md
       - Aesthetics Gallery/.keep
       - Aesthetics Gallery/Art Events.md
       - Aesthetics Gallery/Art Modulars.md
