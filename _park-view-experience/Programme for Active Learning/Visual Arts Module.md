@@ -16,6 +16,18 @@ Visual arts is one of the 3 domains of PAL and it focuses on ‘Doodling’. The
 
 The Primary 1 students will be introduced to the basics of doodling and squiggling and the different types of lines, shapes and patterns. They will learn the correct techniques of colouring and colour blends. In addition, students will squiggle, doodle and have fun learning about animals and their characteristics. They will also work as a team to freely expressed and create animal doodles based on a squiggle.
 
+|  ![](/images/Park%20View%20Experience/play_parkview2023.jpg) |    |
+|-----|-----|
+
+* Sea Creatures Cartooning & Doodling
+* Tote Bag Painting
+* E-Book illustrations
+
+
+*   Animal Cartooning & Doodling
+*   3D Animal 
+*   ParadeDoodle PAL
+
 
 	
 #### Primary 2
