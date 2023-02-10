@@ -35,11 +35,9 @@ The Primary 1 students will be introduced to the basics of doodling and squiggli
 		<img src="/images/Park%20View%20Experience/Animal_Kingdom.jpg" alt="Animal Kingdoom">
 	</div>  
 	<div class="column">
-		<ul>
-			<li>Animal Cartooning & Doodling</li>
-			<li>3D Animal Parade</li>
-			<li>Doodle PAL</li>
-		<ul>
+* 			Animal Cartooning & Doodling
+* 			3D Animal Parade
+* 			Doodle PAL
 	</div>  
 </div>
 
@@ -101,5 +99,7 @@ Since 2010, we have moved on and created many interesting eBook stories with our
 #### Doodle Challenge
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N27N-rxWv20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/N27N-rxWv20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+
