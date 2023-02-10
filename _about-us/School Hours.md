@@ -12,7 +12,7 @@ table {
 }
 
 table, th, td, tr {
-    border: 1px solid black;
+    border: 1px solid red;
     text-align: center;
 }
 </style>
