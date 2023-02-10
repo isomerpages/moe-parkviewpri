@@ -153,18 +153,6 @@ CCA (P3)
 	</tbody>
 </table>
 
-
-
-
-
-
-
-
-
-
-
-
-
 Due to safety concerns, with effect from Monday, 27 June 2022, the turnstile gate (Gate C) at the back of our school will remain closed at all times of day. Parents/caregivers may drop-off or pick up their child at any of the above gates according to the gate operation timings. Parents/caregivers are allowed to drive into the school in the mornings only ( 7.00 a.m. - 7.30 a.m. ) to drop off their children.   
 
   
