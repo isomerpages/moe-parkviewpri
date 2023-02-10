@@ -56,6 +56,53 @@ CCA (P3)
 *The midday break is to allow students to take a light snack if they are hungry. Parents are advised to pack a healthy light snack for the 10 minutes break.
 
 ## Primary 1 to 3
+<table>
+    <thead>
+        <tr>
+            <th style="border: 1px solid black;text-align: center;">Day</th>
+            <th style="border: 1px solid black;text-align: center;">Monday</th>
+            <th style="border: 1px solid black;text-align: center;">Tuesday</th>
+            <th style="border: 1px solid black;text-align: center;">Wednesday</th>
+            <th style="border: 1px solid black;text-align: center;">Thursday</th>
+            <th style="border: 1px solid black;text-align: center;">Friday</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="border: 1px solid black;text-align: center;" rowspan=1>Reporting Time</td>
+            <td style="border: 1px solid black;text-align: center;" colspan=5>7.30 am</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;text-align: center;">Lesson Time</td>
+            <td style="border: 1px solid black;text-align: center;" colspan=1>7.30 am - 2.30 pm</td>
+            <td style="border: 1px solid black;text-align: center;" colspan=4>7.30 am - 1.30 pm</td>
+        </tr>
+        <tr>            
+            <td style="border: 1px solid black;text-align: center;" rowspan=1>Assembly Area</td>
+            <td style="border: 1px solid black;text-align: center;" colspan=1>Classroom</td>
+            <td style="border: 1px solid black;text-align: center;" colspan=3>School Hall</td>
+            <td style="border: 1px solid black;text-align: center;" colspan=1>Parade Square</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;text-align: center;">Recess</td>
+            <td style="border: 1px solid black;text-align: center;" colspan=5>
+                P1 : 09.30 am – 10.00 am<br>
+                P2 : 10.00 am – 10.30 am<br>
+                P3 : 10.30 am – 11.00 am<br>
+            </td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;text-align: center;">*Mid-day Break</td>
+            <td style="border: 1px solid black;text-align: center;" colspan=1>-</td>
+            <td style="border: 1px solid black;text-align: center;" colspan=4>12.20 pm - 12.30 pm</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid black;text-align: center;">CCA</td>
+            <td style="border: 1px solid black;text-align: center;" colspan=4>-</td>
+            <td style="border: 1px solid black;text-align: center;" colspan=1>7.30 am - 9.00pm</td>
+        </tr>
+    </tbody>
+</table>
 
 ## Gate Operation Hours
 
