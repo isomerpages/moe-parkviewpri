@@ -28,7 +28,7 @@ The Primary 2 students will be challenged to be imaginative and to create marine
 |  ![Marine Life & Conservation](/images/Park%20View%20Experience/Marine_Life_&_Conservation.jpg) |  ![List of ](/images/Park%20View%20Experience/listtwo.jpg) |
 |-----|-----|
 
-
+```
 <div class="table">
 	<table>
 		<thead>
@@ -47,6 +47,8 @@ The Primary 2 students will be challenged to be imaginative and to create marine
 		</thead>
 	</table>
 </div>
+```
+
 	
 The school also conducts internal Doodling art competitions to encourage students to express their thoughts through their creative art pieces. 
 
