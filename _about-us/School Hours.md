@@ -121,6 +121,9 @@ CCA (P3)
 		</tr>
 	</tbody>
 </table>
+*The following is the operation time of the three gates on school days*
+
+
 <table>
 	<thead>
 		<tr>
