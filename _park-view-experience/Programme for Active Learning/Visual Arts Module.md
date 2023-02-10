@@ -10,55 +10,69 @@ third_nav_title: Programme for Active Learning
 
 Visual arts is one of the 3 domains of PAL and it focuses on ‘Doodling’. The aim is to provide students with the opportunity to experience the creativity and imagination involved in the world of cartooning and doodling. Through this module, students have the chance to discover their aptitude and interests, develop their confidence and creativity and hone their drawing and colouring skills through fun learning activities. Social and Emotional Learning (SEL) is also incorporated in every PAL lesson to promote positive social and emotional development in the students.
 
-The students carried out the following activities during PAL (Visual Arts) module:
-
-![](/images/WallMural.jpg)
-
 **Primary 1**
 
 **_Animal Kingdom_**
 
 The Primary 1 students will be introduced to the basics of doodling and squiggling and the different types of lines, shapes and patterns. They will learn the correct techniques of colouring and colour blends. In addition, students will squiggle, doodle and have fun learning about animals and their characteristics. They will also work as a team to freely expressed and create animal doodles based on a squiggle.
-
-![](/images/palcover.jpg)
-
+    <table>
+    <thead>
+      <tr>
+        <td>![](/images/Park%20View%20Experience/Animal_Kingdom.jpg)</td>
+        <td>
 * Animal Cartooning & Doodling
 * 3D Animal Parade
 * Doodle PAL
-
-------------------------------------------------------------------------
-
+				</td>
+      </tr>
+    </thead>
+    </table>
 
 **Primary 2**
 
 **Marine Life & Conservation**
 
 The Primary 2 students will be challenged to be imaginative and to create marine animals based on a squiggle. Students will also learn to express their thoughts and ideas through group activities. Batik Craftworks will be introduced to them in the module.
-
-![](/images/P2Cover.jpg)
-
+    <table>
+    <thead>
+      <tr>
+        <td>![](/images/Park%20View%20Experience/Marine_Life_&_Conservation.jpg)</td>
+        <td>
 * Sea Creatures Cartooning & Doodling
 * Tote Bag Painting
 * E-Book illustrations
+				</td>
+      </tr>
+    </thead>
+    </table>
 
-![](/images/BannerCable.jpg)
+The school also conducts internal Doodling art competitions to encourage students to express their thoughts through their creative art pieces. 
 
-The school also conducts internal Doodling art competitions to encourage students to express their thoughts through their creative art pieces. There will be a PAL Fiesta at the end of the modules.
+![](/images//Park%20View%20Experience/BannerCable.jpg)
 
-### Primary 1 Students at work
+### <u>Primary 1 Students at work</u>
 
-![](/images/P1.jpg)
+![](/images//Park%20View%20Experience/primary1atWork.jpg)
 
-### Primary 2 Pupils at work
+### <u>Primary 2 Pupils at work</u>
 
-![](/images/P2.jpg)
+![](/images//Park%20View%20Experience/primary2atWork.jpg)
 
-![](/images/Sample.jpg)
+### <u>Online Doodle</u>
+![](/images//Park%20View%20Experience/doodle.jpg)
 
-### E-Book
+### <u>Gallery E-Book</u>
 
-![](/images/book.jpg)
+The objective of the eBook project was to showcase pupils’ group work digitally. The eBook project captured the creative abilities and imagination of our pupils. Pupils were challenged to create scenes (story segment) from 7 fairy tales. Each fairy tale is broken into 6 scenes and pupils worked closely in groups of 5 to express their ideas based on the fairy tale that the group had been assigned. 
 
+The pupils had read the story before generating ideas for the illustrations. Two P2 pupils were selected to record the eBook stories on 20/4/2010. The completed works were uploaded into an eBook using the Koolbits software
+As part of the school’s efforts to nurture talents, 13 pupil talents were identified to work with the trainers on 04/5/2010 to recreate a set of illustrations for the book “Little Red Riding Hood”. They were challenged to illustrate the story scenes based on random squiggles drawn by the trainers. Their creative works were shared with the teachers and the pupils. The eBook is also used as a resource for the school’s reading programme, which caters to weak readers in the lower primary
+Since 2010, we have moved on and created many interesting eBook stories with our pupils based on different SEL values. Please find out more from our Visual Arts Modules.
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N27N-rxWv20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video src="https://www.youtube.com/embed/JxZIoB7gOS4">
+	
+<iframe width="583" height="376" src="https://www.youtube.com/embed/JxZIoB7gOS4" title="Little Red Riding Hood" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	
+	<iframe width="420" height="315"  
+src="https://www.youtube.com/embed/JxZIoB7gOS4"\>  
+</iframe\>
