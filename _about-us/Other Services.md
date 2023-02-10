@@ -36,8 +36,8 @@ Tel: 6435 3782
 <table>
 	<thead>
 		<tr>
-			<th style="border:1px solid black;" >School Book Shop &amp; School Uniform Supplier</th>
-			<th style="border:1px solid black;">School Bus Services
+			<th style="border:1px solid black;color:#2b5fce;" ><i>School Book Shop &amp; School Uniform Supplier</i></th>
+			<th style="border:1px solid black;color:#2b5fce;"><i>School Bus Services</i>
 			</th>
 		</tr>
 	</thead>
@@ -62,4 +62,3 @@ Tel: 6435 3782
 		</tr>
 	</tbody>
 </table>
-
