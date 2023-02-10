@@ -4,7 +4,6 @@ permalink: /park-view-experience/programme-for-active-learning-pal/sports-and-cr
 description: ""
 third_nav_title: Programme for Active Learning
 ---
-
 # **Creative  Sports and Creative Movements Module**
 
 Gamesfiesta@PVPS is the PAL Creative Movements, Sports and Games module developed by teachers of Park View Primary School.
@@ -23,4 +22,4 @@ In this module, students will experience different movements, numerous sports an
 
 Park View uses the ‘Experience-Express-Reflect’ learning model for all its PAL modules. In this module, students will activate their creativity to create movements to music, experience handling different sport equipment and working together with others. They will learn to self-manage, relate with others and even make responsible decisions for themselves and for their team members. At the end of every lesson, time will be set aside for the students to express and reflect on their learning experiences
 
-![](/images/SportNgame.jpg)
+![](/images/Park%20View%20Experience/PAL_SCM_2023.jpg)
