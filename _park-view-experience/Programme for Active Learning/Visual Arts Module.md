@@ -28,6 +28,26 @@ The Primary 2 students will be challenged to be imaginative and to create marine
 |  ![Marine Life & Conservation](/images/Park%20View%20Experience/Marine_Life_&_Conservation.jpg) |  ![List of ](/images/Park%20View%20Experience/listtwo.jpg) |
 |-----|-----|
 
+
+<div class="table">
+	<table>
+		<thead>
+			<tr>
+				<td>
+					<img src="/images/Park%20View%20Experience/Marine_Life_&_Conservation.jpg" alt="Marine Life and Conservation" />
+				</td>
+				<td>
+					<ul>
+						<li>Sea Creatures Cartooning & Doodling</li>
+						<li>Tote Bag Painting</li>
+						<li>E-Book illustrations</li>
+					<ul>
+				</td>
+			</tr>
+		</thead>
+	</table>
+</div>
+	
 The school also conducts internal Doodling art competitions to encourage students to express their thoughts through their creative art pieces. 
 
 ![](/images/Park%20View%20Experience/BannerCable.jpg)
