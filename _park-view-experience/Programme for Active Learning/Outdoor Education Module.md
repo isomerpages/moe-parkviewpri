@@ -36,3 +36,6 @@ Colourful Nature @ PVPS is the PAL Outdoor Education module for the Primary 2 st
 * To learn basic survival skills
 * To work in groups to explore the natural environment around them during their learning journey to Resort World Sentosa SEA Aquarium
 * To develop their Social Emotional Learning competencies, environmental awareness and outdoor skills which can be extended to their daily lives.
+
+
+<img src="/images/Park%20View%20Experience/PAL_OE_2023.jpg" style="width:100%">
