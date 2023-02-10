@@ -34,8 +34,8 @@ src="/images/About%20Us/School%20Uniform%20and%20Others/PE-Girl.jpg"></td>
 <td><font face="arial, sans-serif" size="4">
 <ul>
 <li>PE attires should be worn on days that the class have PE and PAL lessons. PE T-shirts must be tucked in and buttoned up.</li>
-
-<li>On Fridays, P1 & P2 students are to wear their PE attires while P3-P6 students are to wear their CCA T-shirts/attire.</li>
+	
+<li> On Fridays, P1 & P2 students are to wear their PE attires while P3-P6 students are to wear their CCA T-shirts/attire.</li>
 </ul></font>
 	
 </td>
@@ -69,10 +69,9 @@ src="/images/About%20Us/School%20Uniform%20and%20Others/PE-Girl.jpg"></td>
 </tr></tbody></table>
 
 <font face="arial, sans-serif" size="4">
-<ul>
-	<li>Students are to wear&nbsp;<b>all-white</b>&nbsp;or PVPS socks (sale in school bookshop). The length of the socks must be at least 7 cm above the shoes. </li>
+<li>Students are to wear&nbsp;<b>all-white</b>&nbsp;or PVPS socks (sale in school bookshop). The length of the socks must be at least 7 cm above the shoes. </li>
     
-	<li>&nbsp;Students are to wear&nbsp;<b>all black</b>&nbsp;school shoes. Sports shoes may be worn on Friday, CCA day only.</li></ul>
+<li>Students are to wear&nbsp;<b>all black</b>&nbsp;school shoes. Sports shoes may be worn on Friday, CCA day only.</li>
 	
 </font>
 
@@ -94,25 +93,21 @@ src="/images/About%20Us/School%20Uniform%20and%20Others/PE-Girl.jpg"></td>
 ### Hair ~ Boy
 
 <font face="arial, sans-serif" size="4">
-<ul>
+
 <li>No tinting, bleaching and colouring of hair are allowed for&nbsp;<b>all</b>&nbsp;students.</li>
 <li>Hair must be kept short and neat.</li>
 <li>Hair must not touch the eyebrows, ears or collar.</li>
 <li>No pierced ears are allowed.</li>
-<li>No outlandish hairstyles are allowed&nbsp;(e.g. spiky, punk, layered, shaved, tails).</li>
-</font>
+<li>No outlandish hairstyles are allowed&nbsp;(e.g. spiky, punk, layered, shaved, tails).</li> </font>
 	
 ### Hair ~ Girl
 
 <font face="arial, sans-serif" size="4">
-<ul>
+
 <li>No tinting, bleaching and colouring of hair are allowed for&nbsp;<b>all</b> students.</li>
 <li>Fringe must not be touching the eyebrows.</li>
 <li>Hair beyond shoulder length must be plaited or tied up into one or two braids.</li>
 <li>Only black hair accessories are allowed.</li>
 <li>No fanciful hairbands are allowed.</li>
 <li>One set of plain gold / silver studs may be worn on one ear hole of each ear. Other forms of piercing are not allowed.</li>
-<li>No jewellery or any items of personal adornments are allowed.</li>
-	</ul>
-	
-</font>
+<li>No jewellery or any items of personal adornments are allowed.</li></font>
