@@ -107,8 +107,48 @@ CCA (P3)
 
 ## Gate Operation Hours
 
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="3">Front Gate (Gate A)</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">7.00 a.m. – 6.00 p.m.</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"> Walk-in Gate: Open</th></tr><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">7.00 a.m. - 7.30 a.m.</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"> Vehicle Gate: Open</th></tr><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">7.30 a.m. – 6.00 p.m.</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"> Vehicle Gate: Closed (open for authorized entry only)</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="2">Side Gate (Gate D)<br></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">7.00 a.m. – 7.30 a.m.</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"> Open</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1.30 p.m. – 2.00 p.m.</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"> Open (will also be open after 2 p.m. for student exit when it rains</td></tr></tbody></table>
+<table>
+	<thead>
+		<tr>
+			<th style="border: 1px solid black;text-align: left;">Main Gate (Gate A)</th>
+			<td style="border: 1px solid black;text-align: left;">The main gate of the school is along Pasir Ris Drive 1, opposite Tampines Maridian JC.</td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<th style="border: 1px solid black;text-align: left;">Side Gate (Gate D)</th>
+			<td style="border: 1px solid black;text-align: left;">The side gate of the school is next to the school canteen (opposite Blk 635).</td>
+		</tr>
+	</tbody>
+</table>
+<table>
+	<thead>
+		<tr>
+			<th style="border: 1px solid black;text-align: center;" rowspan="3">Front Gate (Gate A)</th>
+			<th style="border: 1px solid black;text-align: center;">7.00 a.m. – 6.00 p.m.</th>
+			<th style="border: 1px solid black;text-align: center;">Walk-in Gate: Open</th>
+		</tr>
+		<tr>
+			<th style="border: 1px solid black;text-align: center;">7.00 a.m. - 7.30 a.m.</th>
+			<th style="border: 1px solid black;text-align: center;">Vehicle Gate: Open</th>
+		</tr>
+		<tr>
+			<th style="border: 1px solid black;text-align: center;">7.30 a.m. – 6.00 p.m.</th>
+			<th style="border: 1px solid black;text-align: center;">Vehicle Gate: Closed (open for authorized entry only)</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="border: 1px solid black;text-align: center;" rowspan="2">Side Gate (Gate D)</td>
+			<td style="border: 1px solid black;text-align: center;">7.00 a.m. – 7.30 a.m.</td>
+			<td style="border: 1px solid black;text-align: center;">Open</td>
+		</tr>
+		<tr>
+			<td style="border: 1px solid black;text-align: center;">1.30 p.m. – 2.00 p.m.</td>
+			<td style="border: 1px solid black;text-align: center;">Open (will also be open after 2 p.m. for student exit when it rains</td>
+		</tr>
+	</tbody>
+</table>
 
 
 
