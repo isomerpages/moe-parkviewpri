@@ -4,7 +4,7 @@ permalink: /park-view-experience/programme-for-active-learning-pal/creative-move
 description: ""
 third_nav_title: Programme for Active Learning
 ---
-# **Creative Movements, Sports and Games Module**
+# **Creative  Sports and Creative Movements Module**
 
 Gamesfiesta@PVPS is the PAL Creative Movements, Sports and Games module developed by teachers of Park View Primary School.
 
