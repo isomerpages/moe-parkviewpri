@@ -37,10 +37,6 @@ The Primary 1 students will be introduced to the basics of doodling and squiggli
 </div>
 
 
-|  ![Animal Kingdoom](/images/Park%20View%20Experience/Animal_Kingdom.jpg) |  ![List of ](/images/Park%20View%20Experience/listone.jpg) |
-|-----|-----|
-
-	
 #### Primary 2
 **Marine Life & Conservation**
 
@@ -61,16 +57,12 @@ The Primary 2 students will be challenged to be imaginative and to create marine
 	}
 </style>
 <div class="row">  
-	<div class="column"><img src="/images/Park%20View%20Experience/Marine_Life_&_Conservation.jpg" alt="Animal Kingdoom"></div>  
+	<div class="column"><img src="/images/Park%20View%20Experience/Marine_Life_&_Conservation.jpg" alt="Marine Life & Conservation"></div>  
 	<div class="column">
 		<img src="/images/Park%20View%20Experience/listtwo.jpg" alt="List">
 	</div>  
 </div>
 
-
-|  ![Marine Life & Conservation](/images/Park%20View%20Experience/Marine_Life_&_Conservation.jpg) |  ![List of ](/images/Park%20View%20Experience/listtwo.jpg) |
-|-----|-----|
-	
 The school also conducts internal Doodling art competitions to encourage students to express their thoughts through their creative art pieces. 
 
 ![](/images/Park%20View%20Experience/BannerCable.jpg)
