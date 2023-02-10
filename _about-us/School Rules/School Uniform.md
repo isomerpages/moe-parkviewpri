@@ -92,6 +92,7 @@ src="/images/About%20Us/School%20Uniform%20and%20Others/PE-Girl.jpg"></td>
 </tr></tbody></table>
 
 ### Hair ~ Boy
+
 <font face="arial, sans-serif" size="4">
 <ul>
 <li>No tinting, bleaching and colouring of hair are allowed for&nbsp;<b>all</b>&nbsp;students.</li>
@@ -99,10 +100,10 @@ src="/images/About%20Us/School%20Uniform%20and%20Others/PE-Girl.jpg"></td>
 <li>Hair must not touch the eyebrows, ears or collar.</li>
 <li>No pierced ears are allowed.</li>
 <li>No outlandish hairstyles are allowed&nbsp;(e.g. spiky, punk, layered, shaved, tails).</li>
-
 </font>
 	
 ### Hair ~ Girl
+
 <font face="arial, sans-serif" size="4">
 <ul>
 <li>No tinting, bleaching and colouring of hair are allowed for&nbsp;<b>all</b> students.</li>
