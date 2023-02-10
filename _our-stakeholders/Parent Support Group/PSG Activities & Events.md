@@ -11,7 +11,7 @@ third_nav_title: Parent Support Group
 ### Our Budding Chef Programme
 
 ![](/images/BuddingChefmain.jpg)
-
+<font face="arial, sans-serif" size="4">
 <p align="justify">
 Helmed by our school’s Parent Support Group (PSG), _Our Budding Chef Programme_ is an innovative Home Economics programme held during curriculum time. It seeks to provide a fun learning experience for our Pri 1 and 2 pupils.
   
@@ -30,7 +30,7 @@ Pupils undergo a five-week programme where each lesson starts with an introducti
 “As a parent volunteer in charge of this programme, I get to set the learning objectives with the school. We designed this programme to teach our pupils how to apply what they have learnt in class. It is a joy seeing how pupils can take personal responsibility of their well-being,” Mdm Sandy Ang, a PSG member, shared.
 
 <p align="justify">
-Our parent volunteers noticed that their children are now more aware of the importance of healthy eating and the nutritional value of food after undergoing this programme. They are pleased that their children are now more willing to eat vegetables and fruits than before. Besides that, their children now request to help out in the kitchen. Most importantly, pupils take learning out of the classroom and are able to see the relevance and authenticity of what they learn in the classroom. The best testimony of the success of the programme is the high level of engagement of our pupils as many of them look forward excitedly to their next lesson.
+Our parent volunteers noticed that their children are now more aware of the importance of healthy eating and the nutritional value of food after undergoing this programme. They are pleased that their children are now more willing to eat vegetables and fruits than before. Besides that, their children now request to help out in the kitchen. Most importantly, pupils take learning out of the classroom and are able to see the relevance and authenticity of what they learn in the classroom. The best testimony of the success of the programme is the high level of engagement of our pupils as many of them look forward excitedly to their next lesson. </font>
 
 ![](/images/BuddingChef_photo.jpg)
 
