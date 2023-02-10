@@ -30,7 +30,7 @@ description: ""
             <td style="border: 1px solid black;text-align: center;" rowspan=1>Assembly Area</td>
             <td style="border: 1px solid black;text-align: center;" colspan=1>Classroom</td>
             <td style="border: 1px solid black;text-align: center;" colspan=3>School Hall</td>
-            <td style="border: 1px solid black;text-align: center;" colspan=1>L3 Name B</td>
+            <td style="border: 1px solid black;text-align: center;" colspan=1>Parade Square</td>
         </tr>
         <tr>
             <td style="border: 1px solid black;text-align: center;">Recess</td>
