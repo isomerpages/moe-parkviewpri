@@ -59,7 +59,9 @@ The Primary 2 students will be challenged to be imaginative and to create marine
 <div class="row">  
 	<div class="column"><img src="/images/Park%20View%20Experience/Marine_Life_&_Conservation.jpg" alt="Marine Life & Conservation"></div>  
 	<div class="column">
-		<img src="/images/Park%20View%20Experience/listtwo.jpg" alt="List">
+						<li>Sea Creatures Cartooning & Doodling</li>
+						<li>Tote Bag Painting</li>
+						<li>E-Book illustrations</li>
 	</div>  
 </div>
 
