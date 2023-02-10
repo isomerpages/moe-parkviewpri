@@ -15,7 +15,7 @@ Visual arts is one of the 3 domains of PAL and it focuses on ‘Doodling’. The
 **_Animal Kingdom_**
 
 The Primary 1 students will be introduced to the basics of doodling and squiggling and the different types of lines, shapes and patterns. They will learn the correct techniques of colouring and colour blends. In addition, students will squiggle, doodle and have fun learning about animals and their characteristics. They will also work as a team to freely expressed and create animal doodles based on a squiggle.
-
+<div class="bp-table">
 <table>
 <thead>
 	<tr>
@@ -32,13 +32,14 @@ The Primary 1 students will be introduced to the basics of doodling and squiggli
 	</tr>
 </thead>
 </table>
-		
+</div>
 
 #### Primary 2
 
 **Marine Life & Conservation**
 
 The Primary 2 students will be challenged to be imaginative and to create marine animals based on a squiggle. Students will also learn to express their thoughts and ideas through group activities. Batik Craftworks will be introduced to them in the module.
+<div class="bp-table">
 <table>
 <thead>
 	<tr>
@@ -55,7 +56,7 @@ The Primary 2 students will be challenged to be imaginative and to create marine
 	</tr>
 </thead>
 </table>
-	
+	</div>
 The school also conducts internal Doodling art competitions to encourage students to express their thoughts through their creative art pieces. 
 
 ![](/images/Park%20View%20Experience/BannerCable.jpg)
@@ -102,5 +103,3 @@ Since 2010, we have moved on and created many interesting eBook stories with our
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UctEDO97ZPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-	
-	
