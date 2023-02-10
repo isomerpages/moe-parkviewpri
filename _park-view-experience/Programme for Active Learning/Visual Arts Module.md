@@ -20,6 +20,7 @@ The Primary 1 students will be introduced to the basics of doodling and squiggli
 	.column {
 	  float: left;
 	  width: 50%;
+	padding-left:10px;
 	}
 
 	/* Clear floats after the columns */
@@ -34,9 +35,9 @@ The Primary 1 students will be introduced to the basics of doodling and squiggli
 		<img src="/images/Park%20View%20Experience/Animal_Kingdom.jpg" alt="Animal Kingdoom">
 	</div>  
 	<div class="column">
-* 			Animal Cartooning & Doodling
-* 			3D Animal Parade
-* 			Doodle PAL
+	* 			Animal Cartooning & Doodling<br>
+	* 			3D Animal Parade<br>
+	* 			Doodle PAL
 	</div>  
 </div><br>
 
