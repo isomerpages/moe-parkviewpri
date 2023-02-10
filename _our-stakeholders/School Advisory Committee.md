@@ -3,7 +3,6 @@ title: School Advisory Committee
 permalink: /our-stakeholders/school-advisory-committee/
 description: ""
 ---
-# **School Advisory Committee**
 <font face="arial, sans-serif" size="4">
 
 <p align="justify"> 
