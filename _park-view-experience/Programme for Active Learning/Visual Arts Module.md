@@ -22,11 +22,9 @@ The Primary 1 students will be introduced to the basics of doodling and squiggli
 * Sea Creatures Cartooning & Doodling
 * Tote Bag Painting
 * E-Book illustrations
-
 \
-
 \
-
+\
 *   Animal Cartooning & Doodling
 *   3D Animal 
 *   ParadeDoodle PAL
