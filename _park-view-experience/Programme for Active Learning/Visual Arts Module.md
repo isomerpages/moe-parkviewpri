@@ -20,7 +20,7 @@ The Primary 1 students will be introduced to the basics of doodling and squiggli
 	.column {
 	  float: left;
 	  width: 50%;
-	padding-left:10px;
+	padding-left:15px;
 	}
 
 	/* Clear floats after the columns */
@@ -35,19 +35,42 @@ The Primary 1 students will be introduced to the basics of doodling and squiggli
 		<img src="/images/Park%20View%20Experience/Animal_Kingdom.jpg" alt="Animal Kingdoom">
 	</div>  
 	<div class="column">
-	* 			Animal Cartooning & Doodling<br>
-	* 			3D Animal Parade<br>
-	* 			Doodle PAL
+		<b>Animal Cartooning & Doodling</b><br>
+		<b>3D Animal Parade</b><br>
+		<b>Doodle PAL</b><br>
 	</div>  
-</div><br>
-
+</div>
 
 #### Primary 2
 **Marine Life & Conservation**
 
 The Primary 2 students will be challenged to be imaginative and to create marine animals based on a squiggle. Students will also learn to express their thoughts and ideas through group activities. Batik Craftworks will be introduced to them in the module.
 
----
+<style type="text/css">
+	.column {
+	  float: left;
+	  width: 50%;
+	  padding-left:15px;
+	}
+
+	/* Clear floats after the columns */
+	.row:after {
+	  content: "";
+	  display: table;
+	  clear: both;
+	}
+</style>
+
+<div class="row">  
+	<div class="column">
+		<img src="/images/Park%20View%20Experience/Animal_Kingdom.jpg" alt="Animal Kingdoom">
+	</div>  
+	<div class="column">
+		<b>Animal Cartooning & Doodling</b><br>
+		<b>3D Animal Parade</b><br>
+		<b>Doodle PAL</b><br>
+	</div>  
+</div>
 
 The school also conducts internal Doodling art competitions to encourage students to express their thoughts through their creative art pieces. 
 
