@@ -4,8 +4,7 @@ permalink: /about-us/school-hours/
 description: ""
 ---
 # **School Hours**
-
-</style>
+## Primary 1 to 3
 
 <table style="border: 1px solid black;text-align: center;">
     <thead>
@@ -30,7 +29,7 @@ description: ""
         <tr>            
             <td style="border: 1px solid black;text-align: center;" rowspan=1>Assembly Area</td>
             <td style="border: 1px solid black;text-align: center;" colspan=1>Classroom</td>
-            <td style="border: 1px solid black;text-align: center;" colspan=3>L3 Name B</td>
+            <td style="border: 1px solid black;text-align: center;" colspan=3>School Hall</td>
             <td style="border: 1px solid black;text-align: center;" colspan=1>L3 Name B</td>
         </tr>
         <tr>
@@ -54,23 +53,11 @@ CCA (P3)
         </tr>
     </tbody>
 </table>
+*The midday break is to allow students to take a light snack if they are hungry. Parents are advised to pack a healthy light snack for the 10 minutes break.
 
-*The midday break is to allow students to take a light snack if they are hungry. Parents are advised to pack a healthy light snack for the 10 minutes break.
+## Primary 1 to 3
 
-
-
-
-
-
-
-
-
-### Gate Operation Hours
-
-
-
-
-
+## Gate Operation Hours
 
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="3">Front Gate (Gate A)</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">7.00 a.m. – 6.00 p.m.</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"> Walk-in Gate: Open</th></tr><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">7.00 a.m. - 7.30 a.m.</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"> Vehicle Gate: Open</th></tr><tr><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">7.30 a.m. – 6.00 p.m.</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"> Vehicle Gate: Closed (open for authorized entry only)</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" rowspan="2">Side Gate (Gate D)<br></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">7.00 a.m. – 7.30 a.m.</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"> Open</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1.30 p.m. – 2.00 p.m.</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"> Open (will also be open after 2 p.m. for student exit when it rains</td></tr></tbody></table>
