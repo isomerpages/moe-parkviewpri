@@ -55,7 +55,7 @@ CCA (P3)
 </table>
 *The midday break is to allow students to take a light snack if they are hungry. Parents are advised to pack a healthy light snack for the 10 minutes break.
 
-## Primary 1 to 3
+## Primary 4 to 6
 <table>
     <thead>
         <tr>
@@ -103,6 +103,7 @@ CCA (P3)
         </tr>
     </tbody>
 </table>
+*The midday break is to allow students to take a light snack if they are hungry. Parents are advised to pack a healthy light snack for the 10 minutes break.*
 
 ## Gate Operation Hours
 
