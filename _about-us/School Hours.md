@@ -5,62 +5,52 @@ description: ""
 ---
 # **School Hours**
 
-
-<style>
-table {
-    border-collapse: collapse;
-}
-
-table, th, td, tr {
-    border: 1px solid red;
-    text-align: center;
-}
 </style>
 
-<table>
+<table style="border: 1px solid black;text-align: center;">
     <thead>
-        <tr>
-            <th>Day</th>
-            <th>Monday</th>
-            <th>Tuesday</th>
-            <th>Wednesday</th>
-            <th>Thursday</th>
-            <th>Friday</th>
+        <tr style="border: 1px solid black;text-align: center;">
+            <th style="border: 1px solid black;text-align: center;">Day</th>
+            <th style="border: 1px solid black;text-align: center;">Monday</th>
+            <th style="border: 1px solid black;text-align: center;">Tuesday</th>
+            <th style="border: 1px solid black;text-align: center;">Wednesday</th>
+            <th style="border: 1px solid black;text-align: center;">Thursday</th>
+            <th style="border: 1px solid black;text-align: center;">Friday</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td rowspan=1>Reporting Time</td>
-            <td colspan=5>7.30 am</td>
+            <td style="border: 1px solid black;text-align: center;" rowspan=1>Reporting Time</td>
+            <td style="border: 1px solid black;text-align: center;" colspan=5>7.30 am</td>
         </tr>
         <tr>
-            <td>Lesson Time</td>
-            <td colspan=5>7.30 am - 1.30 pm</td>
+            <td style="border: 1px solid black;text-align: center;">Lesson Time</td>
+            <td style="border: 1px solid black;text-align: center;" colspan=5>7.30 am - 1.30 pm</td>
         </tr>
         <tr>            
-            <td rowspan=1>Assembly Area</td>
-            <td colspan=1>Classroom</td>
-            <td colspan=3>L3 Name B</td>
-            <td colspan=1>L3 Name B</td>
+            <td style="border: 1px solid black;text-align: center;" rowspan=1>Assembly Area</td>
+            <td style="border: 1px solid black;text-align: center;" colspan=1>Classroom</td>
+            <td style="border: 1px solid black;text-align: center;" colspan=3>L3 Name B</td>
+            <td style="border: 1px solid black;text-align: center;" colspan=1>L3 Name B</td>
         </tr>
         <tr>
-            <td>Recess</td>
-            <td colspan=5>
+            <td style="border: 1px solid black;text-align: center;">Recess</td>
+            <td style="border: 1px solid black;text-align: center;" colspan=5>
                 P1 : 09.30 am – 10.00 am<br>
                 P2 : 10.00 am – 10.30 am<br>
                 P3 : 10.30 am – 11.00 am<br>
             </td>
         </tr>
         <tr>
-            <td>*Mid-day Break</td>
-            <td colspan=5>12.20 pm - 12.30 pm</td>
+            <td style="border: 1px solid black;text-align: center;">*Mid-day Break</td>
+            <td style="border: 1px solid black;text-align: center;" colspan=5>12.20 pm - 12.30 pm</td>
         </tr>
         <tr>
-            <td>Enrichment (P1 & P2)
+            <td style="border: 1px solid black;text-align: center;">Enrichment (P1 & P2)
 CCA (P3)
 </td>
-            <td colspan=4>-</td>
-            <td colspan=1>7.30 am - 9.00pm</td>
+            <td style="border: 1px solid black;text-align: center;" colspan=4>-</td>
+            <td style="border: 1px solid black;text-align: center;" colspan=1>7.30 am - 9.00pm</td>
         </tr>
     </tbody>
 </table>
