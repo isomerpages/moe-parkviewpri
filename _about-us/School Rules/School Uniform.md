@@ -57,12 +57,12 @@ src="/images/About%20Us/School%20Uniform%20and%20Others/PE-Girl.jpg"></td>
  
 ### Footwear
 
-<table><tbody><tr><td style="width: 224px;">
+<table><tbody><tr><td style="width:;">
 <img src="/images/About%20Us/School%20Uniform%20and%20Others/Footwear_1.png">
 
 </td><td style="width: ;"><img src="/images/About%20Us/School%20Uniform%20and%20Others/Footwear_2.png"></td>
 
-<td style="width: 1;"><img src="/images/About%20Us/School%20Uniform%20and%20Others/Footwear_3.png"></td>
+<td style="width: ;"><img src="/images/About%20Us/School%20Uniform%20and%20Others/Footwear_3.png"></td>
 	
 
 </tr></tbody></table>
