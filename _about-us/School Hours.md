@@ -157,7 +157,7 @@ CCA (P3)
 
   
 
-**All visitors are to register at the Security Post at the front gate (Gate A).**
+***All visitors are to register at the Security Post at the front gate (Gate A).***
 
 To deliver lunch boxes for their child, parents/caregiver may:
 
