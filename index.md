@@ -16,8 +16,8 @@ sections:
           description: ""
           url: ""
         - title: Letters to Parents
-          description: Letters to Parents - 02
-          url: https://parkviewpri.moe.edu.sg/qql/slot/u177/2023/Our%20stakeholders/Letter%20to%20Parents/Letter%20to%20parents%20-%2002.pdf
+          description: Letters to Parents - 05
+          url: /files/2023%20Letter%20to%20Parents/PVPS-2023-05.pdf
         - title: Homework Board
           description: Click to view the HW board
           url: /our-students/homework-board-p1-n-p2/
