@@ -6,9 +6,65 @@ description: ""
 # **School Hours**
 
 
+<style>
+table {
+    border-collapse: collapse;
+}
 
+table, th, td, tr {
+    border: 1px solid black;
+    text-align: center;
+}
+</style>
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Day<br></th><th style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Monday<br></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Tuesday<br></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Wednesday<br></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Thursday<br></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Friday<br></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Curriculum<br>hours<br></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="5">7.30 a.m. - 1.30 p.m.<br></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Recess<br></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="5">P1, P2 &amp; P5 : 10.00 a.m. - 10.30 a.m.<br>P3, P4 &amp; P6 : 10.30 a.m. - 11.00 a.m.<br></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">*Mid-day<br>Break<br></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="5">P1 - P6 : 12.20 p.m. - 12.30 p.m.<br></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">CCAs (P3 - P6)<br>Enrichment Program (P1 - P2)<br></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal" colspan="4"></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">7.30 a.m. -<br>9.00 a.m.</td></tr></tbody></table>
+<table>
+    <thead>
+        <tr>
+            <th>Day</th>
+            <th>Monday</th>
+            <th>Tuesday</th>
+            <th>Wednesday</th>
+            <th>Thursday</th>
+            <th>Friday</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=1>Reporting Time</td>
+            <td colspan=5>7.30 am</td>
+        </tr>
+        <tr>
+            <td>Lesson Time</td>
+            <td colspan=5>7.30 am - 1.30 pm</td>
+        </tr>
+        <tr>            
+            <td rowspan=1>Assembly Area</td>
+            <td colspan=1>Classroom</td>
+            <td colspan=3>L3 Name B</td>
+            <td colspan=1>L3 Name B</td>
+        </tr>
+        <tr>
+            <td>Recess</td>
+            <td colspan=5>
+                P1 : 09.30 am – 10.00 am<br>
+                P2 : 10.00 am – 10.30 am<br>
+                P3 : 10.30 am – 11.00 am<br>
+            </td>
+        </tr>
+        <tr>
+            <td>*Mid-day Break</td>
+            <td colspan=5>12.20 pm - 12.30 pm</td>
+        </tr>
+        <tr>
+            <td>Enrichment (P1 & P2)
+CCA (P3)
+</td>
+            <td colspan=4>-</td>
+            <td colspan=1>7.30 am - 9.00pm</td>
+        </tr>
+    </tbody>
+</table>
+
 *The midday break is to allow students to take a light snack if they are hungry. Parents are advised to pack a healthy light snack for the 10 minutes break.
 
 
