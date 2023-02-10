@@ -58,18 +58,18 @@ The Primary 2 students will be challenged to be imaginative and to create marine
 	
 The school also conducts internal Doodling art competitions to encourage students to express their thoughts through their creative art pieces. 
 
-![](/images//Park%20View%20Experience/BannerCable.jpg)
+![](/images/Park%20View%20Experience/BannerCable.jpg)
 
 ### <u>Primary 1 Students at work</u>
 
-![](/images//Park%20View%20Experience/primary1atWork.jpg)
+![](/images/Park%20View%20Experience/primary1atWork.jpg)
 
 ### <u>Primary 2 Pupils at work</u>
 
-![](/images//Park%20View%20Experience/primary2atWork.jpg)
+![](/images/Park%20View%20Experience/primary2atWork.jpg)
 
 ### <u>Online Doodle</u>
-![](/images//Park%20View%20Experience/doodle.jpg)
+![](/images/Park%20View%20Experience/doodle.jpg)
 
 ### <u>Gallery E-Book</u>
 
