@@ -13,10 +13,9 @@ third_nav_title: School Rules
 </td><td style="width: 180px;"><img src="/images/About%20Us/School%20Uniform%20and%20Others/Uniform_Girl.jpg"></td>
 
 <td><font face="arial, sans-serif" size="4">
-<ul>
-	<li>Students are to wear the prescribed school uniform.</li>
+<li>Students are to wear the prescribed school uniform.</li>
 
-	<li>Any modification to the uniform is not allow. </li></ul></font>
+<li>Any modification to the uniform is not allow. </li></font>
 
 </td>
 </tr></tbody></table>
