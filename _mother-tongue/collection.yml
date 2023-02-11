@@ -2,6 +2,7 @@ collections:
   mother-tongue:
     output: true
     order:
+      - Chinese Mother Tongue/Main.md
       - Chinese Mother Tongue/我们的骄傲.md
       - Chinese Mother Tongue/各项活动.md
       - Chinese Mother Tongue/学习资源.md
