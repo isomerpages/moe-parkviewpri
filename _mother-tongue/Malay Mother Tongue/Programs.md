@@ -8,7 +8,7 @@ third_nav_title: Malay Mother Tongue
 
 #### <u>Key Programmes</u>
 
-![](/images/Curriculum/Mother%20Tongue/Malay/MalayKeyProgrammes.jpg)
+<img src="/images/Curriculum/Mother%20Tongue/Malay/MalayPrograms.jpg" alt="" style="width:70%">
 
 ##### <i>RAKAN BAHASA</i>
 The school has appointed two students, Nur Raudah Bte Hanapi from P5B and Shaistah Nadia from 5D as the school’s Rakan Bahasa in 2021. The appointment ceremony was held on 9th April 2021. During this ceremony, they were presented with certificates of appointment. Our rakan bahasa is responsible for cultivating and spreading the love for reading amongst students in the school.
