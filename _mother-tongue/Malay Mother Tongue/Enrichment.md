@@ -28,4 +28,4 @@ c)	dance
 
 The MTL Fortnight Programme is a platform to engage students in the learning and appreciation of their MT languages outside the context of their lessons. Usually conducted in conjunction with Bulan Bahasa (Malay Language Month), it allows students opportunities to participate in various activities catered to their level. 
 
-![](/images/Malay%20MT%205.jpg)
+![](/images/Curriculum/Mother%20Tongue/Malay)
