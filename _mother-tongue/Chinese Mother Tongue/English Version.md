@@ -4,11 +4,57 @@ permalink: /curriculum/mother-tongue/Chinese-Mother-Tongue/english-version/
 description: ""
 third_nav_title: Chinese Mother Tongue
 ---
-
-
-
 # **English Version**
 
-**Department Members 2022**
+#### Department Members 2023
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mdm Teo Siew Yeun</th><th style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Head of Department<br>Teacher of P3CL1</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mr Lee Eng Tiong</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-style:italic;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Subject Head<br>Teacher of P4CL4 &amp; P6CL3</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mdm Tan Poh Soon</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-style:italic;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P3 Level Rep<br>Teacher of P1CL2，P3CL4 (MTSP) &amp; P5CL4</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mdm Wang Luning</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-style:italic;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P5 Level RepTeacher of P4CL5 (MTSP) &amp; P5CL2</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mdm Chen Shuang Shuang</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-style:italic;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P4 Level RepTeacher of P1CL1 &amp; P4CL1</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mr Han Xuanjun</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-style:italic;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P6 HCL Level RepTeacher of P2CL2, P4CL3 &amp; P6CL1(HCL)</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Miss Low Kin Eng</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-style:italic;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P6 Level RepTeacher of P2CL3, P3CL2 &amp; P6CL2</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Miss Wong Pau Hui</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P1 Level RepTeacher of P1CL3 &amp; P5CL3</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mdm Wong Peh Yan</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P2 Level RepTeacher of P2CL1, P4CL2 &amp; P6CL4(FCL)</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Miss Pamela See</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P5 HCL Level RepTeacher of P1CL4 &amp; P5CL1</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mdm  Low Mui Kwoon Irene</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Teacher of P2CL4 &amp; P3CL3</td></tr></tbody></table>
+<table>
+	<thead>
+		<tr>
+			<th>Mdm Teo Siew Yeun</th>
+			<th>Head of Department<br>Teacher of P4CL1, P1CL4</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Mr Lee Eng Tiong</td>
+			<td>Subject Head<br>Teacher of P5CL3, P3CL1</td>
+		</tr>
+		<tr>
+			<td>Mdm Tan Poh Soon</td>
+			<td>P4 Level Rep<br>Teacher of P6CL4, P4CL4(MTSP), P1CL3</td>
+		</tr>
+		<tr>
+			<td >Mdm Wang Luning</td>
+			<td>P1 Level Rep<br>Teacher of P6CL2, P1CL5</td>
+		</tr>
+		<tr>
+			<td>Mdm Chen Shuang Shuang</td>
+			<td>P5 Assistant Level Rep<br>Teacher of P5CL2, P4CL3</td>
+		</tr>
+		<tr>
+			<td>Miss Low Kin Eng</td>
+			<td>P6 Level Rep<br>Teacher of P6CL3, P3CL4(MTSP), P2CL3</td>
+		</tr>
+		<tr>
+			<td>Mdm Wong Peh Yan</td>
+			<td>P3 Level Rep<br>Teacher of P5CL5, P3CL2, P1CL2</td>
+		</tr>
+		<tr>
+			<td>Miss Pamela See</td>
+			<td>P6 HCL Level Rep<br>Teacher of P6CL1(HCL), P2CL4</td>
+		</tr>
+		<tr>
+			<td>Miss Chang Tiantian</td>
+			<td>P5 Level Rep<br>Teacher of P5CL4, P3CL3, P1CL1</td>
+		</tr>
+		<tr>
+			<td>Mdm Shi Rui</td>
+			<td>P5HCL Level Rep<br>Teacher of P5CL1(HCL), P2CL1</td>
+		</tr>
+		<tr>
+			<td>Mdm Low Mui Kwoon Irene</td>
+			<td>Teacher of P4CL2, P2CL2</td>
+		</tr>
+	</tbody>
+</table>
