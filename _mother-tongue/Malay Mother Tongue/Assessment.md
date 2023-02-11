@@ -22,4 +22,4 @@ third_nav_title: Malay Mother Tongue
 
 ![](/images/Malay%20MT%206.jpg)
 
-**Click on the** link**](https://www.mtls.edu.sg/mlmoe/park-view/) **to view our poster for the MTL Symposium 2021.**
+**Click on the** [link](https://www.mtls.edu.sg/mlmoe/park-view/) **to view our poster for the MTL Symposium 2021.**
