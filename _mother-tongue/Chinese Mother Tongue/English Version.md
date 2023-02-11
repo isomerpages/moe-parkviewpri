@@ -58,3 +58,35 @@ third_nav_title: Chinese Mother Tongue
 		</tr>
 	</tbody>
 </table>
+
+#### Introduction
+
+<p>Welcome to PVPS’s Chinese Language Department. We are a dedicated team to help our pupils in developing an interest in learning of their Mother Tongue Language.</p>
+
+<p>At Park View, students are encouraged to use Chinese language through conversation, lively subject matter, and role play. In class, they have fun with Mandarin tongue twisters, practicing intonation and pronunciation while developing vocabulary in various contexts.</p>
+
+<p>Other than preparing for the necessary examinations, Park View’s students learn Chinese Language by developing their listening, speaking, reading and writing skills. They are encouraged to use the language effectively and imaginatively, appreciate the culture and literature, and build confidence in using the language through presentation, storytelling, singing and poetry recitation.</p>
+
+<p>We aim at making every minute in learning the language fun and engaging. We work hand in hand with parents to ensure that the values and practices learnt by the students in school are re-enforced by parents at home.</p>
+
+**<i>USE OF ELECTRONIC OR PRINT DICTIONARIES FOR PR 3 to 6
+MOTHER TONGUE COMPOSITION EXAM</i>**
+
+<p>Primary 3 to Primary 6 students are allowed to use either electronic or print dictionaries during the Mid-Year and End-of-Year Mother Tongue composition examinations. This is in alignment with the Ministry of Education’s initiative implemented since 2006.</p>
+
+<p>As the Primary 3 students are new to this initiative, please be informed that only approved dictionaries are allowed during the examinations. Students must obtain the endorsement of the dictionaries by their Mother Tongue teachers before bringing them into the examination rooms. A list of the approved dictionaries is attached for your reference.</p>
+
+[https://www.seab.gov.sg/home/examinations/approved-dictionaries](https://www.seab.gov.sg/home/examinations/approved-dictionaries)
+
+<p>For further clarifications, you may access the School Examination and Assessment Branch website at <a href="http://www.seab.gov.sg">http://www.seab.gov.sg</a>, or contact your child’s Mother Tongue teacher.</p>
+
+#### <u>MOTHER TONGUE - CHINESE KEY PROGRAMMES</u>
+
+##### <i>Hungry Caterpillar Reading Programme</i>
+<p>Reading is an integral part of any language learning. The Hungry Caterpillar Reading Programme aims to develop reading habits in students. We do this through reading activities and aligned them with the syllabus. We also leverage on activities organised by our community partners such as National Library Board and Committee for Promoting Chinese Language Learning (CPCLL) to promote reading.</p>
+
+##### <i>Mother Tongue Language (MTL) Fortnight Activitiese</i>
+<p>MTL Fortnight Activities aims to create an immersive environment for the learning of Chinese Language and its culture. Students will engage in language activities and learn about the major Chinese festivals, Calligraphy, stories from the Chinese classics – Journey to the West.</p>
+
+##### <i>Chinese New Year Celebration</i>
+<p>Chinese New Year is the most important festival of the Chinese. Many activities are organised to get the students know more about the food, customs and traditions associated with Chinese New Year.</p>
