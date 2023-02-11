@@ -18,6 +18,8 @@ Play@ParkView is a non-academic programme built into the curriculum for all Prim
 
 ![](/images/Park%20View%20Experience/PAL%20framework.jpg)
 
+<img src="images/Park%20View%20Experience/PAL%20framework.jpg" width="150">
+
 In order to provide a holistic PAL visual art education, the lessons are crafted based on the three pillars.
 
   
