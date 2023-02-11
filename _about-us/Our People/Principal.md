@@ -7,7 +7,7 @@ third_nav_title: Our People
 # **Principal**
 ![](/images/Principal_002.jpg)
 
-<center>Warmest Greetings to all and welcome to Park View Primary School! <p>
+<center><i>Warmest Greetings to all and welcome to Park View Primary School!</i> <center>
 
 <p align="justify">2022 was an exciting year as we celebrated the school’s 25th Anniversary with the theme of “Remembering, Rejoicing & Reimagining”. We rejoiced by celebrating the achievements of our students across various areas and together with the resumption of many school-wide events, our students were given the opportunities to participate in many exciting activities. These programmes and events have allowed our students to go through the unique Park View experience that we have sought out to provide for each and every Park View student throughout their time here. <p>
 
