@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Mother Tongue/.keep
       - English/.keep
       - English/English.md
       - English/Library.md
@@ -10,6 +9,7 @@ collections:
       - English/Read @ Parkview.md
       - Mathematics.md
       - Science.md
+      - Mother Tongue/.keep
       - CCE/.keep
       - CCE/Character & Citizenship Education (CCE).md
       - CCE/Pupil Leadership.md
