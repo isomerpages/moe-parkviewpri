@@ -6,8 +6,7 @@ third_nav_title: Our People
 ---
 # **Vice Principal**
 
+<img src="/images/Mdm%20Florence%20Ho_cropped_optimisedforweb.jpg" alt="Mdm Florence Ho" style="width:60%;">
 
-![](/images/Mdm%20Florence%20Ho_cropped_optimisedforweb.jpg)
-
-**Mdm Florence Ho**        
-**Vice Principal**
+**<center>Mdm Florence Ho<br>
+Vice Principal<center>**
