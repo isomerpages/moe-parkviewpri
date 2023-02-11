@@ -17,7 +17,7 @@ third_nav_title: Programme for Active Learning
 **The ‘Experience-Express-Reflect' Lesson Model**
 
 
-<img src="/images/Park%20View%20Experience/PAL_framework.jpg" alt="" style="width:70%">
+<img src="/images/Park%20View%20Experience/PAL_framework.jpg" alt="" style="width:50%">
 
 <p>In order to provide a holistic PAL visual art education, the lessons are crafted based on the three pillars.</p>
 
