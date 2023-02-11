@@ -21,7 +21,7 @@ The acquisition of language skills to as high a level as the student is able to,
 
 A 3-prong approach – Support, Enrich and Stretch is adopted in achieving this goal.
 
-<img src="/images/Curriculum/Mother%20Tongue/approch_table.png" style="width:100%">
+<img src="/images/Curriculum/Mother%20Tongue/approch_table.png" style="width:70%">
 
 ### Strategies
 
