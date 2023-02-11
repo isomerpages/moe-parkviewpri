@@ -13,7 +13,7 @@ The Mother Tongue Language (MTL) Teaching and Learning Framework guides the depa
 
 ### Teaching and Learning Framework
 
-<img src="/images/Curriculum/Mother%20Tongue/languages_skills.png" style="width:70%">
+<img src="/images/Curriculum/Mother%20Tongue/languages_skills.png" style="width:50%">
 
 The acquisition of language skills to as high a level as the student is able to, forms the core of the Mother Tongue Department’s Teaching and Learning Framework.
 
