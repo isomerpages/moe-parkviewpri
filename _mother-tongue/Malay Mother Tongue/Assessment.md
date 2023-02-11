@@ -12,14 +12,15 @@ third_nav_title: Malay Mother Tongue
 
 ##### <i>Teaching Slides:</i>
 
-![](/images/Malay%20MT%208.jpg)
+<img src="/images/Malay%20MT%208.jpg" alt="Teaching Slides" style="width:70%">
+
 
 ##### <i>Oral Package:</I>
+<img src="/images/Malay%20MT%209.jpg" alt="Oral Package" style="width:70%">
 
-![](/images/Malay%20MT%209.jpg)
 
 ##### <i>Implementation in class:</i>
 
-![](/images/Malay%20MT%206.jpg)
+<img src="/images/Malay%20MT%206.jpg" alt="Implementation in class" style="width:70%">
 
 **Click on the** [link](https://www.mtls.edu.sg/mlmoe/park-view/) **to view our poster for the MTL Symposium 2021.**
