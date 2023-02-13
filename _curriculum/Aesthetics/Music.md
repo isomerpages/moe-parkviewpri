@@ -4,13 +4,13 @@ permalink: /curriculum/Aesthetics/Music/
 description: ""
 third_nav_title: Aesthetics
 ---
-# **Exposure**
+## **Exposure**
 
-**To foster greater appreciation for the arts, students are introduced to different forms of arts through programmes like assembly performances and talks.**
+**<p>To foster greater appreciation for the arts, students are introduced to different forms of arts through programmes like assembly performances and talks.</p>**
 
-#### <i>PVPS Got Talent</i>
+##### <i>PVPS Got Talent</i>
 
-PVPS Got Talent aims to provide talented students a platform to showcase their talents. It also aims to cultivate audience and performer etiquette in the audience and performers respectively. Through the programme, we have identified selected students to take part in external music competitions.
+<p>PVPS Got Talent aims to provide talented students a platform to showcase their talents. It also aims to cultivate audience and performer etiquette in the audience and performers respectively. Through the programme, we have identified selected students to take part in external music competitions.</p>
 
 
 ![](/images/Curriculum/Aesthetics/Music/PVPSgottalent.png)
