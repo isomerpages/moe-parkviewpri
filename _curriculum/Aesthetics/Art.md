@@ -27,4 +27,3 @@ third_nav_title: Aesthetics
 
 ### <u>Assembly Programmes</u>
 #### <i>The Art of Marbling via Zoom</i>
-
