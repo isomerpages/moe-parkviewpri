@@ -44,23 +44,19 @@ Students learn best through hands-on participation in various arts forms. Throug
 
 #### <i>Art Modular Programmes (P3 - P6)</i>
 	
----
 <img style="width:60%" alt="Art Modular Programmes (P3 - P6)" src="/images/Curriculum/Aesthetics/Art/ArtModularProgrammes(P3-P6).jpg">
-	
----
 	
 <img style="width:60%" alt="Art Modular Programmes (P3 - P6)" src="/images/Curriculum/Aesthetics/Art/ArtModularProgrammes(P3 P6)_1.png">
 	
----
-	
 #### Digital Art Programmes
----
+
 <img style="width:60%" alt="Digital Art Programmes" src="/images/Curriculum/Aesthetics/Art/DigitalArtProgrammes.jpg">
 	
----
+
 <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/DigitalArtProgrammes_1.jpg">
  
 # **Excursion**
+	
 <b>The school expands and extends the learning environment of the students beyond the classrooms by bringing them to visit museums, galleries, and theatres.</b>
 	
 ### <u>Place-based Learning</u>
@@ -81,67 +77,56 @@ Other than paintings, there is an art wall for students to express themselves an
 	
 Head of Aesthetics Miss Lim Hwee Tin felt that this exposure is just the tip of an iceberg and she hopes this experience would spark the interest in art for students and open the doors to more art activities.</p>
 
----
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JspfHlaRSlk" height="315" width="560"></iframe>
 </div>
 
----
 <img style="width:800%" alt="" src="/images/Curriculum/Aesthetics/Art/RovingArtTruckProgramme.jpg">
+
 
 #### <i>Travelling Art Carts: Life by the River Art Cart &amp; Batik Art Cart</i>
 
 These are teaching resources on loan from the National Gallery Singapore. They are used to support teaching and learning, not limiting to Art. Language teachers also used them to develop our students’ academic discussion skills using Talk Moves.
 
----
 <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/TravellingArtCarts.jpg"><br>
 	
----
 <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/TravellingArtCarts_1.jpg">
+
 
 #### <i>Primary 2 Art-in-Transit</i>
 
 The Art-in-Transit programme provides our students with learning experiences beyond the classrooms, exposing them to the art installations in the MRT stations and providing insight into the history of the community in which the stations are located.   Besides art appreciation, the infusion of English and Mathematics activities through the artworks allows our students to learn English and Mathematics in authentic and meaningful context, thereby enabling them to see the interconnectedness between the subjects.
 
----
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-iA_BnsARAE" height="315" width="560"></iframe>
 </div>
 
----
 #### <i>Primary 4 Museum-based Learning</i>
 
 The museum-based learning is a core learning experience for our P4 students. The museum provides an authentic context for the learning of local art, Singapore’s history and heritage. Through the pre-, during- and post-visit experiences, the students are involved as artists and audience to create and appreciate art. 
 
----
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Gj3yY4tb2yo" height="315" width="560"></iframe>
 </div>
- 
- ---
+
 #### 	<i>Primary 6 Learning Journey to Dragon Kiln</i>
 
 The Primary 6 students visit Thow Kwang Dragon Kiln Pottery Jungle situated at Lorong Tawas as part of their post-exam activity. The LJ is also part of the school’s Aesthetics programme to expose students to the 3D art form and the rich heritage of the dragon kiln. During the tour, the students have the opportunity to view a variety of ceramic wares that show the different cultures and styles of Asia. The students immerse in the studio pottery environment whereby they are given clay to create their own artworks.
 
----
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/4Vt9O4I6YXk" height="315" width="560"></iframe>
 </div>
 
----
-
 # **Excellence**
 Students celebrate their artistic efforts and achievements through Internal and external art exhibitions, projects, performances, competitions and events.
 
-###	<u>Events</u>
+# <u>Events</u>
 #### <i>National Day Celebration though Arts</i>
 
 The school commemorated our National Day with differentiated art activities and collaborate with the NE department every year. Through these activities, we hope to instill national pride, the importance and appreciation of our history.  It is an outlet for our students to showcase their creativity and share their knowledge.<br>
 
----
  <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/NationalDayCelebrationsthroughtheArts.png">
 
----
 
 ### <i>Singapore Book of Records</i>
 
@@ -149,9 +134,9 @@ The school embarks on a bi-annual attempt at breaking the SBoR as a prelude acti
 
 ### **<center>2022 - Largest Display of String Art**
 	
----
  <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/2022–LargestDisplayofStringArt_1.jpg"><br>
----
+
+
  <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/2022–LargestDisplayofStringArt.jpg">
 
 
@@ -187,7 +172,7 @@ Through simple craftwork, the Art Club members teach the kindergarten students h
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cwsop_9gm0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 	</div>
 	
-### 	<u>Exhibitions</u>
+### <u>Exhibitions</u>
 #### 	<i>E6 cluster Art Exhibition @ Tampines Regional Library</i>
 
 This is an inaugural event to give an additional platform to showcase our students' works in non SYF Art Exhibition years.  The artworks were exhibited digitally at the Tampines Library Level 2 Screen at Tampines Hub.  Kudos to all our young artists! 
@@ -199,53 +184,61 @@ This is an inaugural event to give an additional platform to showcase our studen
 </div>
 
 #### 	<i>Celebrating National Day Through the Arts Exhibition</i>
- <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/CelebratingNationalDaythroughtheArtsExhibition.png">
+
+	<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/CelebratingNationalDaythroughtheArtsExhibition.png">
  
 #### 	<i>Mid-Autumn Fiesta Exhibition</i>
- <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/Mid_Autumn_Fiesta_Exhibition.png">
+	
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/Mid_Autumn_Fiesta_Exhibition.png">
 
 #### 	<i>P1 & P2 PAL Visual Exhibition</i>
+	
 <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/P1P2PALVisualArtExhibition.png">
 
 <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/P1P2PALVisualArtExhibition_1.png">
 	
-
 #### 	<i>Walkathon Exhibition</i>
+
 <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/WalkathonExhibition.png">
 		
 
 ### 	<u>Achievements</u>
 #### 	<i>Singapore Youth Festival (SYF) Arts Presentation &amp; Exhibition</i>
 
-##### **<center>2021: Category B - Certificate of Recognition**
-<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/CategoryBCertificateofRecognition.png"></center>
+##### **<center>2021: Category B - Certificate of Recognition</center>**
 	
-##### **<center>2019: Category A – Certificate of Recognition**
-<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/CategoryCCertificateofParticipationArtistTalk.png"></center>
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/CategoryBCertificateofRecognition.png">
 	
-##### **<center>2019: Category B - Certificate of Participation**
-<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/CategoryC.png"></center>
+##### **<center>2019: Category A – Certificate of Recognition</center>**
 	
-##### **<center>2019: Category C – Certificate of Recognition (Special Mention)**
-<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/CategoryCCertificateofRecognitionSpecial Mention.png"></center>
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/CategoryCCertificateofParticipationArtistTalk.png">
+	
+##### **<center>2019: Category B - Certificate of Participation</center>**
+	
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/CategoryC.png">
+	
+##### **<center>2019: Category C – Certificate of Recognition (Special Mention)</center>**
+	
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/CategoryCCertificateofRecognitionSpecial Mention.png">
 	
 #### 	<i>Youth Illustrator Awards (Season 7)</i>
 
 Rasleen Kaur Khaira of class 4A was one of the Top 6 Finalist in the Young Illustrator Awards. Out of 1300 submissions under the Primary School category, Rasleen came in 4th in this national competition. Working on the given theme ‘Explorer’, Rasleen created a captivating painting entitled “Autumn Is Here”; an artwork inspired by Vincent Van Gogh’s impasto technique.
  
-Young llustratorAward.png
-<center><img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/YoungllustratorAward.png"></center>
-
+<center><img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/YoungllustratorAward.png">
+</center>
+	
 ### 	<i>NDP “Our Hearts for Singapore” Pledge Card Design Competition</i>
 
 Our students designed cards for the “Our Heart for Singapore” project based on ideas gathered from interactions with their family members and seniors. From their conversations, they drew the stories they had heard. Their artworks were show cased at the National Museum of Singapore.
+	
 <center><img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/NDPOurHeartForSingaporepledgecarddesigncompetition.png"></center>
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LWFt2W91Wsc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 	
-#SYFstrongerTogetherProject
+# SYFstrongerTogetherProject
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UDh_HT5R1J0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
