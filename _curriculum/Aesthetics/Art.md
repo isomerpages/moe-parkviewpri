@@ -28,11 +28,9 @@ Other than paintings, there is an art wall for students to express themselves an
 Head of Aesthetics Miss Lim Hwee Tin felt that this exposure is just the tip of an iceberg and she hopes this experience would spark the interest in art for students and open the doors to more art activities.
 
 ### <u>Assembly Programmes</u>
-#### 	<i>The Art of Marbling via Zoom</i>
-	
+#### <i>The Art of Marbling via Zoom</i>
+
 <img src="/images/Curriculum/Aesthetics/Art/TheArtofMarblingviaZoom.jpg" alt="The Art of Marbling via Zoom" style="width:60%">
-
-
 
 #### <i>Art Explorers Assembly Talk by Art Outreach Singapore</i>
 	
