@@ -113,4 +113,4 @@ Our Primary 6 Graduation Ceremony is a special event in celebration of our stude
 ![](/images/Curriculum/Aesthetics/Music/P6%20Graduation_1.png)
 
 ![](/images/Curriculum/Aesthetics/Music/P6%20Graduation.png)
-	</i></i>
+</i></i>
