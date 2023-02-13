@@ -4,8 +4,6 @@ permalink: /curriculum/Aesthetics/Music/
 description: ""
 third_nav_title: Aesthetics
 ---
-Music
-
 # **Exposure**
 
 **To foster greater appreciation for the arts, students are introduced to different forms of arts through programmes like assembly performances and talks.**
