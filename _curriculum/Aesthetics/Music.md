@@ -24,7 +24,7 @@ Students learn best through hands-on participation in various performing arts. T
 
 #### <i>P1 – P4 Game based Activities</i>
 
-Students learn music concepts while having fun! As students’ participation and motivation increase,&nbsp;they create positive experiences which lead to better learning retention.
+Students learn music concepts while having fun! As students’ participation and motivation increase, they create positive experiences which lead to better learning retention.
 
 ![](/images/Curriculum/Aesthetics/Music/P1P4%20Game%20based%20Activities.png)
   
@@ -44,13 +44,9 @@ Students learn different ethnic percussion techniques and express their musical 
 #### <i>P5 Guitar<i>
 
 The P5 students learn the basic guitar skills such as strumming and plucking. They put up performances during school events.
+	
 ![](/images/Curriculum/Aesthetics/Music/P5%20Guitar.png)
   
-  
-
-![](file:///C:/Users/S76072~1/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png)  
-  
-
 #### P1 &amp; P2 Dance
 
 The P1 and 2 students learn the different modern dance genres as part of their school enrichment programmes.&nbsp; Each class learns a unique dance to be performed at their year-end promotion concerts.
@@ -68,7 +64,7 @@ The P6 students learn the various Hip Hop dance styles as a post-PSLE activity. 
 	
 #### P3 and P4 Keyboard
 
-The P3 and P4 students learn basic keyboard skills and composing on the GarageBand.&nbsp;
+The P3 and P4 students learn basic keyboard skills and composing on the GarageBand.
 
 ![](/images/Curriculum/Aesthetics/Music/P3%20and%20P4%20Keyboard.png)
   
@@ -82,13 +78,13 @@ Students go through a series of lessons from Jazz to Pop music to create their o
 Excellence
 ----------
 
-Students celebrate their artistic efforts and achievements through Internal and external performances, competitions and events.&nbsp;
+Students celebrate their artistic efforts and achievements through Internal and external performances, competitions and events.
 
 ### 	<u>Events</u>
 
 #### Celebrations through the Arts – Body Percussion
 
-To cultivate life-long learning and connection to music, we infuse body percussion in many of our celebrations. Teachers and students across different levels interact and create music together. While being self-directed learners, students explore music-making with creative expressions.&nbsp;
+To cultivate life-long learning and connection to music, we infuse body percussion in many of our celebrations. Teachers and students across different levels interact and create music together. While being self-directed learners, students explore music-making with creative expressions.
 
 !![](/images/Curriculum/Aesthetics/Music/Celebrations%20through%20the%20Arts%20–%20Body%20Percussion.png)
 
@@ -100,7 +96,7 @@ To cultivate life-long learning and connection to music, we infuse body percussi
 
 #### P1 Little Stars and P2 Broadway
 
-Our Primary 1 and 2 students have the opportunity to showcase their drama and dance skills which they have acquired during their enrichment programmes in this yearly concert.&nbsp;
+Our Primary 1 and 2 students have the opportunity to showcase their drama and dance skills which they have acquired during their enrichment programmes in this yearly concert.
 
   ![](/images/Curriculum/Aesthetics/Music/P1%20and%20P2%20Little%20Star%20broadway.png)
   
@@ -109,8 +105,8 @@ Our Primary 1 and 2 students have the opportunity to showcase their drama and da
       
 #### P6 Graduation
 
-Our Primary 6 Graduation Ceremony is a special event in celebration of our students' six years journey in Park View Primary School. The graduating classes will perform a medley of hip hop dances and song items for their peers, parents and teachers.&nbsp;
+Our Primary 6 Graduation Ceremony is a special event in celebration of our students' six years journey in Park View Primary School. The graduating classes will perform a medley of hip hop dances and song items for their peers, parents and teachers.
+	
 ![](/images/Curriculum/Aesthetics/Music/P6%20Graduation_1.png)
 
 ![](/images/Curriculum/Aesthetics/Music/P6%20Graduation.png)
-</i></i>
