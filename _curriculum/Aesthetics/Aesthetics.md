@@ -5,11 +5,7 @@ description: ""
 third_nav_title: Aesthetics
 ---
 <style type="text/css">
-	p {
-		font-size:18px;
-		font-family: arial, sans-serif;
-		text-align: justify;
-	}
+p {font-size:18px;font-family: arial, sans-serif;text-align: justify;}
 </style>
 
 ### PVPS Aesthetics Framework
