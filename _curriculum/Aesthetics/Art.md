@@ -30,7 +30,8 @@ Head of Aesthetics Miss Lim Hwee Tin felt that this exposure is just the tip of 
 ### <u>Assembly Programmes</u>
 #### 	<i>The Art of Marbling via Zoom</i>
 	
-![](/images/Curriculum/Aesthetics/Art/TheArtofMarblingviaZoom.jpg)
+<img src="/images/Curriculum/Aesthetics/Art/TheArtofMarblingviaZoom.jpg" alt="The Art of Marbling via Zoom" style="width:90%">
+
 
 
 #### <i>Art Explorers Assembly Talk by Art Outreach Singapore</i>
@@ -139,9 +140,10 @@ The school embarks on a bi-annual attempt at breaking the SBoR as a prelude acti
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Vt9O4I6YXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
-https://youtu.be/AmIcJCh9Ad0
- 
+	
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AmIcJCh9Ad0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ </div>
 
 ### Projects
 #### <i>In Partnership with Arts Education Branch (AEB): SLS Art Resources for Primary Schools</i>
@@ -160,8 +162,11 @@ Through simple craftwork, the Art Club members teach the kindergarten students h
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cwsop_9gm0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
-https://youtu.be/cwsop_9gm0w
+	
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cwsop_9gm0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	</div>
+	
 ### 	<u>Exhibitions</u>
 #### 	<i>E6 cluster Art Exhibition @ Tampines Regional Library</i>
 
