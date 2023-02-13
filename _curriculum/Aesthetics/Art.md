@@ -148,11 +148,15 @@ As part of the ministry’s effort to transform learning experiences of students
  <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/SLSArt ResourcesforPrimarySchools.png">
  
 
-Art Outreach Community Outreach Programme through Recycled Art
+#### <i>Art Outreach Community Outreach Programme through Recycled Art</i>
 
 Art Club members, in collaboration with the Green Ambassadors, carry out the yearly Community Outreach Programme through Recycled Art by reaching out to the kindergarten students to share with them the importance of environment conservation and how they can do their part to protect mother Earth. 
  
 Through simple craftwork, the Art Club members teach the kindergarten students how to transform common household trash such as toilet rolls, bottle caps and plastic bottles into useful craftwork. This programme is also a platform to develop the social and emotional competencies of our students and an opportunity for them to hone their leadership skills.
+	
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cwsop_9gm0w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 https://youtu.be/cwsop_9gm0w
 Exhibitions
