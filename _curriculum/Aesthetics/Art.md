@@ -72,16 +72,20 @@ Other than paintings, there is an art wall for students to express themselves an
 Head of Aesthetics Miss Lim Hwee Tin felt that this exposure is just the tip of an iceberg and she hopes this experience would spark the interest in art for students and open the doors to more art activities.
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y45BE3O-zIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JspfHlaRSlk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 https://youtu.be/JspfHlaRSlk
  
-Travelling Art Carts: Life by the River Art Cart & Batik Art Cart
+<img src="/images/Curriculum/Aesthetics/RovingArtTruckProgramme.jpg" alt="" style="width:100%">
+
+#### <i>Travelling Art Carts: Life by the River Art Cart & Batik Art Cart</i>
 
 These are teaching resources on loan from the National Gallery Singapore. They are used to support teaching and learning, not limiting to Art. Language teachers also used them to develop our students’ academic discussion skills using Talk Moves.
 
- 
+<img src="/images/Curriculum/Aesthetics/TravellingArtCarts.jpg" alt="" style="width:100%"><br>
+	
+<img src="/images/Curriculum/Aesthetics/TravellingArtCarts_1.jpg" alt="" style="width:100%">
 
  
 
