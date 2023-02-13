@@ -141,11 +141,13 @@ https://youtu.be/AmIcJCh9Ad0
  
 
 ### Projects
-
-In Partnership with Arts Education Branch (AEB): SLS Art Resources for Primary Schools
+#### <i>In Partnership with Arts Education Branch (AEB): SLS Art Resources for Primary Schools</i>
 
 As part of the ministry’s effort to transform learning experiences of students through purposeful use of technology, and in providing for students with greater access to arts learning, the Arts Education Branch (AEB) has been developing student learning resources that are made available for schools on Student Learning Space (SLS).   AEB collaborated with Park View Primary School to develop the Student Artist Talk Video Series, which featured two Primary 6 students, Leila Koh (6D), and Tan Yan Yi (6B), who shared their artistic processes behind the artwork created for the Singapore Youth Festival Art Exhibition. The artwork, entitled “Waves of Life”, received the Certificate of Recognition (Special Mention). Leila and Yan Yi also shared the art concepts through discussing about and reflecting on the artwork.
+	
+ <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/SLSArt ResourcesforPrimarySchools.png">
  
+
 Art Outreach Community Outreach Programme through Recycled Art
 
 Art Club members, in collaboration with the Green Ambassadors, carry out the yearly Community Outreach Programme through Recycled Art by reaching out to the kindergarten students to share with them the importance of environment conservation and how they can do their part to protect mother Earth. 
