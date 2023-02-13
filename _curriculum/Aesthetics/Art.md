@@ -198,7 +198,7 @@ This is an inaugural event to give an additional platform to showcase our studen
 ##### **<center>2019: Category B - Certificate of Participation**
 <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/CategoryC.png"></center>
 	
-	##### **<center>2019: Category C – Certificate of Recognition (Special Mention)**
+##### **<center>2019: Category C – Certificate of Recognition (Special Mention)**
 <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/CategoryCCertificateofRecognitionSpecial Mention.png"></center>
 	
 	
