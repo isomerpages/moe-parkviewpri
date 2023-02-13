@@ -6,7 +6,7 @@ third_nav_title: Aesthetics
 ---
 # **Exposure**
 
-<font face="arial, sans-serif" size="4">
+<font size="4" face="arial, sans-serif">
 <p align="justify"> 
 	
 <b>To foster greater appreciation for the arts, students are introduced to different forms of arts through programmes like assembly performances and talks.</b><br>
@@ -43,12 +43,12 @@ Students learn best through hands-on participation in various arts forms. Throug
 #### <i>Art Modular Programmes (P3 - P6)</i>
 ![](/images/Curriculum/Aesthetics/ArtModularProgrammes(P3-P6).jpg)
 
-<img src="/images/Curriculum/Aesthetics/ArtModularProgrammes(P3 P6)_1.png" alt="" style="width:100%">
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/ArtModularProgrammes(P3 P6)_1.png">
 
 #### Digital Art Programmes
-<img src="/images/Curriculum/Aesthetics/DigitalArtProgrammes.jpg" alt="" style="width:100%">
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/DigitalArtProgrammes.jpg">
 	
-<img src="/images/Curriculum/Aesthetics/DigitalArtProgrammes_1.jpg" alt="" style="width:100%">
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/DigitalArtProgrammes_1.jpg">
  
 # **Excursion**
 <b>The school expands and extends the learning environment of the students beyond the classrooms by bringing them to visit museums, galleries, and theatres.</b>
@@ -71,21 +71,21 @@ Other than paintings, there is an art wall for students to express themselves an
 	
 Head of Aesthetics Miss Lim Hwee Tin felt that this exposure is just the tip of an iceberg and she hopes this experience would spark the interest in art for students and open the doors to more art activities.
 
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JspfHlaRSlk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p><div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JspfHlaRSlk" height="315" width="560"></iframe>
 </div>
 
 https://youtu.be/JspfHlaRSlk
  
-<img src="/images/Curriculum/Aesthetics/RovingArtTruckProgramme.jpg" alt="" style="width:100%">
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/RovingArtTruckProgramme.jpg">
 
-#### <i>Travelling Art Carts: Life by the River Art Cart & Batik Art Cart</i>
+#### <i>Travelling Art Carts: Life by the River Art Cart &amp; Batik Art Cart</i>
 
 These are teaching resources on loan from the National Gallery Singapore. They are used to support teaching and learning, not limiting to Art. Language teachers also used them to develop our students’ academic discussion skills using Talk Moves.
 
-<img src="/images/Curriculum/Aesthetics/TravellingArtCarts.jpg" alt="" style="width:100%"><br>
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/TravellingArtCarts.jpg"><br>
 	
-<img src="/images/Curriculum/Aesthetics/TravellingArtCarts_1.jpg" alt="" style="width:100%">
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/TravellingArtCarts_1.jpg">
 
  
 
@@ -94,7 +94,7 @@ These are teaching resources on loan from the National Gallery Singapore. They a
 The Art-in-Transit programme provides our students with learning experiences beyond the classrooms, exposing them to the art installations in the MRT stations and providing insight into the history of the community in which the stations are located.   Besides art appreciation, the infusion of English and Mathematics activities through the artworks allows our students to learn English and Mathematics in authentic and meaningful context, thereby enabling them to see the interconnectedness between the subjects.
 	
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-iA_BnsARAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-iA_BnsARAE" height="315" width="560"></iframe>
 </div>
 
 #### <i>Primary 4 Museum-based Learning</i>
@@ -102,7 +102,7 @@ The Art-in-Transit programme provides our students with learning experiences bey
 The museum-based learning is a core learning experience for our P4 students. The museum provides an authentic context for the learning of local art, Singapore’s history and heritage. Through the pre-, during- and post-visit experiences, the students are involved as artists and audience to create and appreciate art. 
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Gj3yY4tb2yo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Gj3yY4tb2yo" height="315" width="560"></iframe>
 </div>
  
 #### 	<i>Primary 6 Learning Journey to Dragon Kiln</i>
@@ -110,7 +110,7 @@ The museum-based learning is a core learning experience for our P4 students. The
 The Primary 6 students visit Thow Kwang Dragon Kiln Pottery Jungle situated at Lorong Tawas as part of their post-exam activity. The LJ is also part of the school’s Aesthetics programme to expose students to the 3D art form and the rich heritage of the dragon kiln. During the tour, the students have the opportunity to view a variety of ceramic wares that show the different cultures and styles of Asia. The students immerse in the studio pottery environment whereby they are given clay to create their own artworks.
 
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4Vt9O4I6YXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/4Vt9O4I6YXk" height="315" width="560"></iframe>
 </div>
 
 # **Excellence**
@@ -120,20 +120,23 @@ Students celebrate their artistic efforts and achievements through Internal and 
 
 #### <i>National Day Celebration though Arts</i>
 
-The school commemorated our National Day with differentiated art activities and collaborate with the NE department every year. Through these activities, we hope to instill national pride, the importance and appreciation of our history.  It is an outlet for our students to showcase their creativity and share their knowledge.
+The school commemorated our National Day with differentiated art activities and collaborate with the NE department every year. Through these activities, we hope to instill national pride, the importance and appreciation of our history.  It is an outlet for our students to showcase their creativity and share their knowledge.<br>
+ <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/NationalDayCelebrationsthroughtheArts.png">
+
+### <i>Singapore Book of Records</i>
+
+The school embarks on a bi-annual attempt at breaking the SBoR as a prelude activity to National Day Celebration.<br>
+
+### **<center>2022 - Largest Display of String Art**
+ <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/2022–LargestDisplayofStringArt_1.jpg"><br>
+ 
+ <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/2022–LargestDisplayofStringArt.jpg">
+
+
+### **<center>2021 - Largest Bread Tag Mural**
+
  
 
-Singapore Book of Records
-
-The school embarks on a bi-annual attempt at breaking the SBoR as a prelude activity to National Day Celebration. 
-
-2022 - Largest Display of String Art
-
- 
-
- 
-
-2021 – Largest Bread Tag Mural
 https://youtu.be/AmIcJCh9Ad0
  
 
@@ -165,7 +168,7 @@ Celebrating National Day Through the Arts Exhibition
 Mid-Autumn Fiesta Exhibition
 
  
-P! & P2 PAL Visual Exhibition
+P! &amp; P2 PAL Visual Exhibition
 
  
  
@@ -174,7 +177,7 @@ Walkathon Exhibition
  
 Achievements
 
-Singapore Youth Festival (SYF) Arts Presentation & Exhibition
+Singapore Youth Festival (SYF) Arts Presentation &amp; Exhibition
 
 2021: Category B - Certificate of Recognition
  
@@ -192,7 +195,7 @@ Rasleen Kaur Khaira of class 4A was one of the Top 6 Finalist in the Young Illus
 NDP “Our Hearts for Singapore” Pledge Card Design Competition
 
 Our students designed cards for the “Our Heart for Singapore” project based on ideas gathered from interactions with their family members and seniors. From their conversations, they drew the stories they had heard. Their artworks were show cased at the National Museum of Singapore.
-</p>
+<p></p>
 https://youtu.be/LWFt2W91Wsc
 
 #SYFstrongerTogetherProject
@@ -202,4 +205,4 @@ https://youtu.be/UDh_HT5R1J0
 
 
 Photos on this page from:
-I:\2.Non Academic Dept\3.ICT\7.Others\1. School Website\2.7 Aesthetics\Isomer\Art Page Images
+I:\2.Non Academic Dept\3.ICT\7.Others\1. School Website\2.7 Aesthetics\Isomer\Art Page Images</center></center></font>
