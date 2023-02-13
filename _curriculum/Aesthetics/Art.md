@@ -186,12 +186,11 @@ This is an inaugural event to give an additional platform to showcase our studen
 <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/WalkathonExhibition.png">
 		
 
-Achievements
+### 	<u>Achievements</u>
+#### 	<i>Singapore Youth Festival (SYF) Arts Presentation &amp; Exhibition</i>
 
-Singapore Youth Festival (SYF) Arts Presentation &amp; Exhibition
-
-2021: Category B - Certificate of Recognition
- 
+##### **2021: Category B - Certificate of Recognition**
+	
 2019: Category A – Certificate of Recognition
  
 2019: Category B – Certificate of Participation
