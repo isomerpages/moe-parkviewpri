@@ -46,7 +46,7 @@ Students learn best through hands-on participation in various arts forms. Throug
 <img src="/images/Curriculum/Aesthetics/ArtModularProgrammes(P3 P6)_1.png" alt="" style="width:100%">
 
 #### Digital Art Programmes
- 
+<img src="/images/Curriculum/Aesthetics/DigitalArtProgrammes.jpg" alt="" style="width:100%">
  
 Excursion
 The school expands and extends the learning environment of the students beyond the classrooms by bringing them to visit museums, galleries, and theatres.
