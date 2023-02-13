@@ -97,18 +97,21 @@ The Art-in-Transit programme provides our students with learning experiences bey
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-iA_BnsARAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-#### 	<i>Primary 4 Museum-based Learning</i>
+#### <i>Primary 4 Museum-based Learning</i>
 
 The museum-based learning is a core learning experience for our P4 students. The museum provides an authentic context for the learning of local art, Singapore’s history and heritage. Through the pre-, during- and post-visit experiences, the students are involved as artists and audience to create and appreciate art. 
 
-https://youtu.be/Gj3yY4tb2yo
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Gj3yY4tb2yo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
  
-Primary 6 Learning Journey to Dragon Kiln
+#### 	<i>Primary 6 Learning Journey to Dragon Kiln</i>
 
 The Primary 6 students visit Thow Kwang Dragon Kiln Pottery Jungle situated at Lorong Tawas as part of their post-exam activity. The LJ is also part of the school’s Aesthetics programme to expose students to the 3D art form and the rich heritage of the dragon kiln. During the tour, the students have the opportunity to view a variety of ceramic wares that show the different cultures and styles of Asia. The students immerse in the studio pottery environment whereby they are given clay to create their own artworks.
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Vt9O4I6YXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 https://youtu.be/4Vt9O4I6YXk
 
