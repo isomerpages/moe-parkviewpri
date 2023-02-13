@@ -9,11 +9,11 @@ third_nav_title: Aesthetics
 <font size="4" face="arial, sans-serif">
 <p align="justify"> 
 	
-<b>To foster greater appreciation for the arts, students are introduced to different forms of arts through programmes like assembly performances and talks.</b><br><br>
+<b>To foster greater appreciation for the arts, students are introduced to different forms of arts through programmes like assembly performances and talks.</b><br>
 	
 <p>How would it be like to encounter art on a truck? Follow Thumbs Up to visit the Roving Art Truck parked at Park View Primary!</p>
 
-<p>A colourful art truck has arrived at Park View Primary. Packed within the truck is an exhibition of 10 paintings by local and South East Asia artists, and students are able to see them all at one go. </p>>
+<p>A colourful art truck has arrived at Park View Primary. Packed within the truck is an exhibition of 10 paintings by local and South East Asia artists, and students are able to see them all at one go. </p>
 	
 <p>9 year old Devi Sravanthi is one of the first few to step foot on the Roving Art Truck. She heard about the truck previously and was eagerly waiting for it to arrive in school. When the truck came, she rushed to visit the exhibition during her recess time. </p>
 	
@@ -28,7 +28,6 @@ Other than paintings, there is an art wall for students to express themselves an
 Head of Aesthetics Miss Lim Hwee Tin felt that this exposure is just the tip of an iceberg and she hopes this experience would spark the interest in art for students and open the doors to more art activities.
 
 ### <u>Assembly Programmes</u>
-
 #### 	<i>The Art of Marbling via Zoom</i>
 ![](/images/Curriculum/Aesthetics/TheArtofMarblingviaZoom.jpg)
 
@@ -117,7 +116,6 @@ The Primary 6 students visit Thow Kwang Dragon Kiln Pottery Jungle situated at L
 Students celebrate their artistic efforts and achievements through Internal and external art exhibitions, projects, performances, competitions and events.
 
 ###	<u>Events</u>
-
 #### <i>National Day Celebration though Arts</i>
 
 The school commemorated our National Day with differentiated art activities and collaborate with the NE department every year. Through these activities, we hope to instill national pride, the importance and appreciation of our history.  It is an outlet for our students to showcase their creativity and share their knowledge.<br>
@@ -142,8 +140,7 @@ The school embarks on a bi-annual attempt at breaking the SBoR as a prelude acti
 https://youtu.be/AmIcJCh9Ad0
  
 
-
-Projects
+### Projects
 
 In Partnership with Arts Education Branch (AEB): SLS Art Resources for Primary Schools
 
