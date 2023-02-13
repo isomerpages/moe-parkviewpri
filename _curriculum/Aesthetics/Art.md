@@ -30,26 +30,34 @@ Head of Aesthetics Miss Lim Hwee Tin felt that this exposure is just the tip of 
 ### <u>Assembly Programmes</u>
 #### 	<i>The Art of Marbling via Zoom</i>
 	
-<img src="/images/Curriculum/Aesthetics/Art/TheArtofMarblingviaZoom.jpg" alt="The Art of Marbling via Zoom" style="width:90%">
+<img src="/images/Curriculum/Aesthetics/Art/TheArtofMarblingviaZoom.jpg" alt="The Art of Marbling via Zoom" style="width:60%">
 
 
 
 #### <i>Art Explorers Assembly Talk by Art Outreach Singapore</i>
-![](/images/Curriculum/Aesthetics/Art/ArtExplorersAssemblyTalkbyArtOutreachSingapore.png)
- 
+	
+<img src="/images/Curriculum/Aesthetics/Art/ArtExplorersAssemblyTalkbyArtOutreachSingapore.png" alt="Art Explorers Assembly Talk by Art Outreach Singapore" style="width:60%">
+
 # **Experience**
 	
 Students learn best through hands-on participation in various arts forms. Through our modular art activities, students are equipped with a range of art making techniques and skills.
 
 #### <i>Art Modular Programmes (P3 - P6)</i>
 	
-![](/images/Curriculum/Aesthetics/Art/ArtModularProgrammes(P3-P6).jpg)
-
-<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/ArtModularProgrammes(P3 P6)_1.png">
-
-#### Digital Art Programmes
-<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/DigitalArtProgrammes.jpg">
+---
+<img style="width:60%" alt="Art Modular Programmes (P3 - P6)" src="/images/Curriculum/Aesthetics/Art/ArtModularProgrammes(P3-P6).jpg">
 	
+---
+	
+<img style="width:60%" alt="Art Modular Programmes (P3 - P6)" src="/images/Curriculum/Aesthetics/Art/ArtModularProgrammes(P3 P6)_1.png">
+	
+---
+	
+#### Digital Art Programmes
+---
+<img style="width:60%" alt="Digital Art Programmes" src="/images/Curriculum/Aesthetics/Art/DigitalArtProgrammes.jpg">
+	
+---
 <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/DigitalArtProgrammes_1.jpg">
  
 # **Excursion**
@@ -71,49 +79,56 @@ He said, “The experience of seeing an artwork virtually and seeing it in real 
 	
 Other than paintings, there is an art wall for students to express themselves and leave comments and thoughts after their visit. The art wall will be left behind for the school when the truck leaves for another destination. 
 	
-Head of Aesthetics Miss Lim Hwee Tin felt that this exposure is just the tip of an iceberg and she hopes this experience would spark the interest in art for students and open the doors to more art activities.
+Head of Aesthetics Miss Lim Hwee Tin felt that this exposure is just the tip of an iceberg and she hopes this experience would spark the interest in art for students and open the doors to more art activities.</p>
 
-</p><div class="bp-youtube">
+---
+<div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JspfHlaRSlk" height="315" width="560"></iframe>
 </div>
 
-https://youtu.be/JspfHlaRSlk
- 
-<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/RovingArtTruckProgramme.jpg">
+---
+<img style="width:800%" alt="" src="/images/Curriculum/Aesthetics/Art/RovingArtTruckProgramme.jpg">
 
 #### <i>Travelling Art Carts: Life by the River Art Cart &amp; Batik Art Cart</i>
 
 These are teaching resources on loan from the National Gallery Singapore. They are used to support teaching and learning, not limiting to Art. Language teachers also used them to develop our students’ academic discussion skills using Talk Moves.
 
+---
 <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/TravellingArtCarts.jpg"><br>
 	
+---
 <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/TravellingArtCarts_1.jpg">
-
- 
 
 #### <i>Primary 2 Art-in-Transit</i>
 
 The Art-in-Transit programme provides our students with learning experiences beyond the classrooms, exposing them to the art installations in the MRT stations and providing insight into the history of the community in which the stations are located.   Besides art appreciation, the infusion of English and Mathematics activities through the artworks allows our students to learn English and Mathematics in authentic and meaningful context, thereby enabling them to see the interconnectedness between the subjects.
-	
+
+---
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-iA_BnsARAE" height="315" width="560"></iframe>
 </div>
 
+---
 #### <i>Primary 4 Museum-based Learning</i>
 
 The museum-based learning is a core learning experience for our P4 students. The museum provides an authentic context for the learning of local art, Singapore’s history and heritage. Through the pre-, during- and post-visit experiences, the students are involved as artists and audience to create and appreciate art. 
 
+---
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Gj3yY4tb2yo" height="315" width="560"></iframe>
 </div>
  
+ ---
 #### 	<i>Primary 6 Learning Journey to Dragon Kiln</i>
 
 The Primary 6 students visit Thow Kwang Dragon Kiln Pottery Jungle situated at Lorong Tawas as part of their post-exam activity. The LJ is also part of the school’s Aesthetics programme to expose students to the 3D art form and the rich heritage of the dragon kiln. During the tour, the students have the opportunity to view a variety of ceramic wares that show the different cultures and styles of Asia. The students immerse in the studio pottery environment whereby they are given clay to create their own artworks.
 
+---
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/4Vt9O4I6YXk" height="315" width="560"></iframe>
 </div>
+
+---
 
 # **Excellence**
 Students celebrate their artistic efforts and achievements through Internal and external art exhibitions, projects, performances, competitions and events.
@@ -122,7 +137,11 @@ Students celebrate their artistic efforts and achievements through Internal and 
 #### <i>National Day Celebration though Arts</i>
 
 The school commemorated our National Day with differentiated art activities and collaborate with the NE department every year. Through these activities, we hope to instill national pride, the importance and appreciation of our history.  It is an outlet for our students to showcase their creativity and share their knowledge.<br>
+
+---
  <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/NationalDayCelebrationsthroughtheArts.png">
+
+---
 
 ### <i>Singapore Book of Records</i>
 
@@ -130,8 +149,9 @@ The school embarks on a bi-annual attempt at breaking the SBoR as a prelude acti
 
 ### **<center>2022 - Largest Display of String Art**
 	
+---
  <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/2022–LargestDisplayofStringArt_1.jpg"><br>
- 
+---
  <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/2022–LargestDisplayofStringArt.jpg">
 
 
