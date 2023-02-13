@@ -113,14 +113,12 @@ The Primary 6 students visit Thow Kwang Dragon Kiln Pottery Jungle situated at L
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Vt9O4I6YXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-https://youtu.be/4Vt9O4I6YXk
-
-Excellence
+# **Excellence**
 Students celebrate their artistic efforts and achievements through Internal and external art exhibitions, projects, performances, competitions and events.
 
-Events
+###	<u>Events</u>
 
-National Day Celebration though Arts
+#### <i>National Day Celebration though Arts</i>
 
 The school commemorated our National Day with differentiated art activities and collaborate with the NE department every year. Through these activities, we hope to instill national pride, the importance and appreciation of our history.  It is an outlet for our students to showcase their creativity and share their knowledge.
  
