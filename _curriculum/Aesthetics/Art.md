@@ -189,11 +189,22 @@ This is an inaugural event to give an additional platform to showcase our studen
 ### 	<u>Achievements</u>
 #### 	<i>Singapore Youth Festival (SYF) Arts Presentation &amp; Exhibition</i>
 
-##### **2021: Category B - Certificate of Recognition**
+##### **<center>2021: Category B - Certificate of Recognition**
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/CategoryBCertificateofRecognition.png"></center>
 	
-2019: Category A – Certificate of Recognition
+##### **<center>2019: Category A – Certificate of Recognition**
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/CategoryCCertificateofParticipationArtistTalk.png"></center>
+	
+##### **<center>2019: Category B - Certificate of Participation**
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/CategoryC.png"></center>
+	
+	##### **<center>2019: Category C – Certificate of Recognition (Special Mention)**
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/CategoryCCertificateofRecognitionSpecial Mention.png"></center>
+	
+	
+
  
-2019: Category B – Certificate of Participation
+
  
 2019: Category C – Certificate of Recognition (Special Mention)
  
