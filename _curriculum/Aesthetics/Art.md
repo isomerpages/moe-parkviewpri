@@ -4,7 +4,7 @@ permalink: /curriculum/Aesthetics/Art/
 description: ""
 third_nav_title: Aesthetics
 ---
-## **Exposure**
+### **Exposure**
 <style type="text/css">
 	p {font-size:18px;font-family: arial, sans-serif;text-align: justify;}
 </style>
@@ -27,37 +27,37 @@ third_nav_title: Aesthetics
 	
 <p>Head of Aesthetics Miss Lim Hwee Tin felt that this exposure is just the tip of an iceberg and she hopes this experience would spark the interest in art for students and open the doors to more art activities.</p>
 	
-### <u>Assembly Programmes</u>
-#### <i>The Art of Marbling via Zoom</i>
+#### <u>Assembly Programmes</u>
+##### <i>The Art of Marbling via Zoom</i>
 
 <img src="/images/Curriculum/Aesthetics/Art/TheArtofMarblingviaZoom.jpg" alt="The Art of Marbling via Zoom" style="width:90%;">
 
-#### <i>Art Explorers Assembly Talk by Art Outreach Singapore</i>
+##### <i>Art Explorers Assembly Talk by Art Outreach Singapore</i>
 	
 <img src="/images/Curriculum/Aesthetics/Art/ArtExplorersAssemblyTalkbyArtOutreachSingapore.png" alt="Art Explorers Assembly Talk by Art Outreach Singapore" style="width:90%;">
 	
-## **Experience**
+### **Experience**
 	
 Students learn best through hands-on participation in various arts forms. Through our modular art activities, students are equipped with a range of art making techniques and skills.
 
-#### <i>Art Modular Programmes (P3 - P6)</i>
+##### <i>Art Modular Programmes (P3 - P6)</i>
 	
 <img style="width:90%" alt="Art Modular Programmes (P3 - P6)" src="/images/Curriculum/Aesthetics/Art/ArtModularProgrammes(P3-P6).jpg">
 <br>
 	<img style="width:90%" alt="Art Modular Programmes (P3 - P6)" src="/images/Curriculum/Aesthetics/Art/ArtModularProgrammes(P3 P6)_1.png">
 	
-#### <i>Digital Art Programmes</i>
+##### <i>Digital Art Programmes</i>
 
 <img style="width:90%" alt="Digital Art Programmes" src="/images/Curriculum/Aesthetics/Art/DigitalArtProgrammes.jpg">
 <br>
 <img style="width:90%" alt="" src="/images/Curriculum/Aesthetics/Art/DigitalArtProgrammes_1.jpg">
  
-## **Excursion**
+### **Excursion**
 	
 <p>The school expands and extends the learning environment of the students beyond the classrooms by bringing them to visit museums, galleries, and theatres.</p>
 	
-### <u>Place-based Learning</u>
-#### <i>Roving Art Truck</i>
+#### <u>Place-based Learning</u>
+##### <i>Roving Art Truck</i>
 
 <p>How would it be like to encounter art on a truck? Follow Thumbs Up to visit the Roving Art Truck parked at Park View Primary!
 A colourful art truck has arrived at Park View Primary. Packed within the truck is an exhibition of 10 paintings by local and South East Asia artists, and students are able to see them all at one go.</p>
@@ -81,7 +81,7 @@ A colourful art truck has arrived at Park View Primary. Packed within the truck 
 <img style="width:800%" alt="" src="/images/Curriculum/Aesthetics/Art/RovingArtTruckProgramme.jpg">
 
 
-#### <i>Travelling Art Carts: Life by the River Art Cart &amp; Batik Art Cart</i>
+##### <i>Travelling Art Carts: Life by the River Art Cart &amp; Batik Art Cart</i>
 
 <p>These are teaching resources on loan from the National Gallery Singapore. They are used to support teaching and learning, not limiting to Art. Language teachers also used them to develop our students’ academic discussion skills using Talk Moves.</p>
 
@@ -90,7 +90,7 @@ A colourful art truck has arrived at Park View Primary. Packed within the truck 
 <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/TravellingArtCarts_1.jpg">
 
 
-#### <i>Primary 2 Art-in-Transit</i>
+##### <i>Primary 2 Art-in-Transit</i>
 
 <p>The Art-in-Transit programme provides our students with learning experiences beyond the classrooms, exposing them to the art installations in the MRT stations and providing insight into the history of the community in which the stations are located.   Besides art appreciation, the infusion of English and Mathematics activities through the artworks allows our students to learn English and Mathematics in authentic and meaningful context, thereby enabling them to see the interconnectedness between the subjects.</p>
 
@@ -98,7 +98,7 @@ A colourful art truck has arrived at Park View Primary. Packed within the truck 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-iA_BnsARAE" height="315" width="560"></iframe>
 </div>
 
-#### <i>Primary 4 Museum-based Learning</i>
+##### <i>Primary 4 Museum-based Learning</i>
 
 <p>The museum-based learning is a core learning experience for our P4 students. The museum provides an authentic context for the learning of local art, Singapore’s history and heritage. Through the pre-, during- and post-visit experiences, the students are involved as artists and audience to create and appreciate art.</p>
 
@@ -106,7 +106,7 @@ A colourful art truck has arrived at Park View Primary. Packed within the truck 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Gj3yY4tb2yo" height="315" width="560"></iframe>
 </div>
 
-#### 	<i>Primary 6 Learning Journey to Dragon Kiln</i>
+##### 	<i>Primary 6 Learning Journey to Dragon Kiln</i>
 
 <p>The Primary 6 students visit Thow Kwang Dragon Kiln Pottery Jungle situated at Lorong Tawas as part of their post-exam activity. The LJ is also part of the school’s Aesthetics programme to expose students to the 3D art form and the rich heritage of the dragon kiln. During the tour, the students have the opportunity to view a variety of ceramic wares that show the different cultures and styles of Asia. The students immerse in the studio pottery environment whereby they are given clay to create their own artworks.</p>
 
@@ -114,28 +114,28 @@ A colourful art truck has arrived at Park View Primary. Packed within the truck 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/4Vt9O4I6YXk" height="315" width="560"></iframe>
 </div>
 
-## **Excellence**
+### **Excellence**
 Students celebrate their artistic efforts and achievements through Internal and external art exhibitions, projects, performances, competitions and events.
 
-### <u>Events</u>
-#### <i>National Day Celebration though Arts</i>
+#### <u>Events</u>
+##### <i>National Day Celebration though Arts</i>
 
 The school commemorated our National Day with differentiated art activities and collaborate with the NE department every year. Through these activities, we hope to instill national pride, the importance and appreciation of our history.  It is an outlet for our students to showcase their creativity and share their knowledge.<br>
 
  <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/NationalDayCelebrationsthroughtheArts.png">
 
 
-#### <i>Singapore Book of Records</i>
+##### <i>Singapore Book of Records</i>
 
-The school embarks on a bi-annual attempt at breaking the SBoR as a prelude activity to National Day Celebration.<br>
+<p>The school embarks on a bi-annual attempt at breaking the SBoR as a prelude activity to National Day Celebration.</p>
 
-##### **<center>2022 - Largest Display of String Art**
+##### **<center>2022 - Largest Display of String Art**<center>
 	
  <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/2022–LargestDisplayofStringArt_1.jpg"><br>
  <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/2022–LargestDisplayofStringArt.jpg">
 
 
-##### **<center>2021 - Largest Bread Tag Mural</center><center>
+##### <center>**2021 - Largest Bread Tag Mural**</center>
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Vt9O4I6YXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -218,11 +218,11 @@ The school embarks on a bi-annual attempt at breaking the SBoR as a prelude acti
 	
 ##### 	<i>Youth Illustrator Awards (Season 7)</i>
 
-Rasleen Kaur Khaira of class 4A was one of the Top 6 Finalist in the Young Illustrator Awards. Out of 1300 submissions under the Primary School category, Rasleen came in 4th in this national competition. Working on the given theme ‘Explorer’, Rasleen created a captivating painting entitled “Autumn Is Here”; an artwork inspired by Vincent Van Gogh’s impasto technique.
+<p>Rasleen Kaur Khaira of class 4A was one of the Top 6 Finalist in the Young Illustrator Awards. Out of 1300 submissions under the Primary School category, Rasleen came in 4th in this national competition. Working on the given theme ‘Explorer’, Rasleen created a captivating painting entitled “Autumn Is Here”; an artwork inspired by Vincent Van Gogh’s impasto technique.</p>
  
 <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/YoungllustratorAward.png">
 	
-#### <i>NDP “Our Hearts for Singapore” Pledge Card Design Competition</i>
+##### <i>NDP “Our Hearts for Singapore” Pledge Card Design Competition</i>
 
 <p>Our students designed cards for the “Our Heart for Singapore” project based on ideas gathered from interactions with their family members and seniors. From their conversations, they drew the stories they had heard. Their artworks were show cased at the National Museum of Singapore.</p>
 	
