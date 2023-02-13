@@ -15,7 +15,7 @@ third_nav_title: Aesthetics
 
 <p>A colourful art truck has arrived at Park View Primary. Packed within the truck is an exhibition of 10 paintings by local and South East Asia artists, and students are able to see them all at one go. </p>>
 	
-9 year old Devi Sravanthi is one of the first few to step foot on the Roving Art Truck. She heard about the truck previously and was eagerly waiting for it to arrive in school. When the truck came, she rushed to visit the exhibition during her recess time. <br>
+<p>9 year old Devi Sravanthi is one of the first few to step foot on the Roving Art Truck. She heard about the truck previously and was eagerly waiting for it to arrive in school. When the truck came, she rushed to visit the exhibition during her recess time. </p>
 	
 Sravanthi’s ambition was to become an artist when she grows up. She said, “I have never visited the National Gallery and have only seen art exhibitions on videos. The experience of listening to the commentator explaining about the stories behind every artwork, is a very enriching one.”
 	
