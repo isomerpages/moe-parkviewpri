@@ -89,13 +89,15 @@ These are teaching resources on loan from the National Gallery Singapore. They a
 
  
 
-Primary 2 Art-in-Transit
+#### <i>Primary 2 Art-in-Transit</i>
 
 The Art-in-Transit programme provides our students with learning experiences beyond the classrooms, exposing them to the art installations in the MRT stations and providing insight into the history of the community in which the stations are located.   Besides art appreciation, the infusion of English and Mathematics activities through the artworks allows our students to learn English and Mathematics in authentic and meaningful context, thereby enabling them to see the interconnectedness between the subjects.
+	
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-iA_BnsARAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-https://youtu.be/-iA_BnsARAE
-
-Primary 4 Museum-based Learning
+#### 	<i>Primary 4 Museum-based Learning</i>
 
 The museum-based learning is a core learning experience for our P4 students. The museum provides an authentic context for the learning of local art, Singapore’s history and heritage. Through the pre-, during- and post-visit experiences, the students are involved as artists and audience to create and appreciate art. 
 
