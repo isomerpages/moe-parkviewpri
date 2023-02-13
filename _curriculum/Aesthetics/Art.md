@@ -176,14 +176,16 @@ This is an inaugural event to give an additional platform to showcase our studen
 #### 	<i>Mid-Autumn Fiesta Exhibition</i>
  <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Mid_Autumn_Fiesta_Exhibition.png">
 
- 
-P! &amp; P2 PAL Visual Exhibition
+#### 	<i>P1 & P2 PAL Visual Exhibition</i>
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/P1P2PALVisualArtExhibition.png">
 
- 
- 
-Walkathon Exhibition
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/P1P2PALVisualArtExhibition_1.png">
+	
 
- 
+#### 	<i>Walkathon Exhibition</i>
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/WalkathonExhibition.png">
+		
+
 Achievements
 
 Singapore Youth Festival (SYF) Arts Presentation &amp; Exhibition
