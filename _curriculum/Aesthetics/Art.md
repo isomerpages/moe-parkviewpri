@@ -172,9 +172,9 @@ This is an inaugural event to give an additional platform to showcase our studen
 
 #### 	<i>Celebrating National Day Through the Arts Exhibition</i>
  <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/CelebratingNationalDaythroughtheArtsExhibition.png">
-
  
-Mid-Autumn Fiesta Exhibition
+#### 	<i>Mid-Autumn Fiesta Exhibition</i>
+ <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Mid_Autumn_Fiesta_Exhibition.png">
 
  
 P! &amp; P2 PAL Visual Exhibition
