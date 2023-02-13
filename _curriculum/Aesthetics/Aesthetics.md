@@ -4,11 +4,11 @@ permalink: /curriculum/aesthetics/
 description: ""
 third_nav_title: Aesthetics
 ---
+### PVPS Aesthetics Framework
+
 <style type="text/css">
 p {font-size:18px;font-family: arial, sans-serif;text-align: justify;}
 </style>
-
-### PVPS Aesthetics Framework
 
 <img style="width:70%" alt="" src="/images/Curriculum/Aesthetics/PVPS_Aesthetics_Framework_1.png">
 
