@@ -26,7 +26,7 @@ third_nav_title: Aesthetics
 <p  align="justify">Other than paintings, there is an art wall for students to express themselves and leave comments and thoughts after their visit. The art wall will be left behind for the school when the truck leaves for another destination.</p>
 	
 <p  align="justify">Head of Aesthetics Miss Lim Hwee Tin felt that this exposure is just the tip of an iceberg and she hopes this experience would spark the interest in art for students and open the doors to more art activities.</p>
-
+	
 ### <u>Assembly Programmes</u>
 #### <i>The Art of Marbling via Zoom</i>
 
