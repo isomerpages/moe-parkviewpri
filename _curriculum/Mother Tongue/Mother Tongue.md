@@ -4,9 +4,6 @@ permalink: /curriculum/Mother-Tongue/
 description: ""
 third_nav_title: Mother Tongue
 ---
-
-
-
 # **Mother Tongue**
 
 In Park View Primary School, we would like to nurture students to be confident user and lifelong learners of the Mother Tongue language.
@@ -16,7 +13,7 @@ The Mother Tongue Language (MTL) Teaching and Learning Framework guides the depa
 
 ### Teaching and Learning Framework
 
-<img src="/images/Curriculum/Mother%20Tongue/languages_skills.png" style="width:50%">
+<img src="/images/Curriculum/Mother%20Tongue/MT_framework.jpg" style="width:50%">
 
 The acquisition of language skills to as high a level as the student is able to, forms the core of the Mother Tongue Department’s Teaching and Learning Framework.
 
