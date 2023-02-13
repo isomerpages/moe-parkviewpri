@@ -6,10 +6,8 @@ third_nav_title: Aesthetics
 ---
 ### PVPS Aesthetics Framework
 
-<font size="4" face="arial, sans-serif">
 <img src="/images/Curriculum/Aesthetics/PVPS_Aesthetics_Framework_1.png" alt="" style="width:70%">
 
-</font><p align="justify"><font size="4" face="arial, sans-serif"> 
-The Aesthetics programme in PVPS is designed in alignment with the Arts Framework. It aims to develop our students in the Cognitive (Knowledge), Affective (Attitude) and Psychomotor (Skills) domains. Through our 4**E**&nbsp;(**Exposure, Experience, Excursion, Excellence**) approach, we aim to develop and harness the full range of our students' talents and contribute to their overall development. With a strong emphasis on 21st&nbsp;century competencies, our programme seeks not only to develop future arts practitioners and audiences imbued with a sense of aesthetics, but also individuals who are civic-minded, cultivated, gracious and able to express themselves through various art forms. Through the arts, we expose our students to local and global cultures, enabling them to gain a better understanding of the world and bridge the gap between cultures. It is a powerful tool that can improve communication and relationships between cultures. They will also have a keen sense of the Singaporean identity and a spirit of experimentation and innovation.  </font> </p><p>
-
-![PVPS Aesthetics Framework_1.png](/images/Curriculum/Aesthetics/Art/Art_Prog_Approv.png)
+<p align="justify">The Aesthetics programme in PVPS is designed in alignment with the Arts Framework. It aims to develop our students in the Cognitive (Knowledge), Affective (Attitude) and Psychomotor (Skills) domains. Through our 4**E**&nbsp;(**Exposure, Experience, Excursion, Excellence**) approach, we aim to develop and harness the full range of our students' talents and contribute to their overall development. With a strong emphasis on 21st&nbsp;century competencies, our programme seeks not only to develop future arts practitioners and audiences imbued with a sense of aesthetics, but also individuals who are civic-minded, cultivated, gracious and able to express themselves through various art forms. Through the arts, we expose our students to local and global cultures, enabling them to gain a better understanding of the world and bridge the gap between cultures. It is a powerful tool that can improve communication and relationships between cultures. They will also have a keen sense of the Singaporean identity and a spirit of experimentation and innovation.</p>
+	
+<img src="/images/Curriculum/Aesthetics/Art/Art_Prog_Approv.png" alt="" style="width:100%">
