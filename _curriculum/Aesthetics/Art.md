@@ -29,25 +29,27 @@ Head of Aesthetics Miss Lim Hwee Tin felt that this exposure is just the tip of 
 
 ### <u>Assembly Programmes</u>
 #### 	<i>The Art of Marbling via Zoom</i>
-![](/images/Curriculum/Aesthetics/TheArtofMarblingviaZoom.jpg)
+	
+![](/images/Curriculum/Aesthetics/Art/TheArtofMarblingviaZoom.jpg)
 
 
 #### <i>Art Explorers Assembly Talk by Art Outreach Singapore</i>
-![](/images/Curriculum/Aesthetics/ArtExplorersAssemblyTalkbyArtOutreachSingapore.png)
+![](/images/Curriculum/Aesthetics/Art/ArtExplorersAssemblyTalkbyArtOutreachSingapore.png)
  
 # **Experience**
 	
 Students learn best through hands-on participation in various arts forms. Through our modular art activities, students are equipped with a range of art making techniques and skills.
 
 #### <i>Art Modular Programmes (P3 - P6)</i>
-![](/images/Curriculum/Aesthetics/ArtModularProgrammes(P3-P6).jpg)
+	
+![](/images/Curriculum/Aesthetics/Art/ArtModularProgrammes(P3-P6).jpg)
 
-<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/ArtModularProgrammes(P3 P6)_1.png">
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/ArtModularProgrammes(P3 P6)_1.png">
 
 #### Digital Art Programmes
-<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/DigitalArtProgrammes.jpg">
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/DigitalArtProgrammes.jpg">
 	
-<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/DigitalArtProgrammes_1.jpg">
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/DigitalArtProgrammes_1.jpg">
  
 # **Excursion**
 <b>The school expands and extends the learning environment of the students beyond the classrooms by bringing them to visit museums, galleries, and theatres.</b>
@@ -76,15 +78,15 @@ Head of Aesthetics Miss Lim Hwee Tin felt that this exposure is just the tip of 
 
 https://youtu.be/JspfHlaRSlk
  
-<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/RovingArtTruckProgramme.jpg">
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/RovingArtTruckProgramme.jpg">
 
 #### <i>Travelling Art Carts: Life by the River Art Cart &amp; Batik Art Cart</i>
 
 These are teaching resources on loan from the National Gallery Singapore. They are used to support teaching and learning, not limiting to Art. Language teachers also used them to develop our students’ academic discussion skills using Talk Moves.
 
-<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/TravellingArtCarts.jpg"><br>
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/TravellingArtCarts.jpg"><br>
 	
-<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/TravellingArtCarts_1.jpg">
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/TravellingArtCarts_1.jpg">
 
  
 
@@ -119,16 +121,17 @@ Students celebrate their artistic efforts and achievements through Internal and 
 #### <i>National Day Celebration though Arts</i>
 
 The school commemorated our National Day with differentiated art activities and collaborate with the NE department every year. Through these activities, we hope to instill national pride, the importance and appreciation of our history.  It is an outlet for our students to showcase their creativity and share their knowledge.<br>
- <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/NationalDayCelebrationsthroughtheArts.png">
+ <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/NationalDayCelebrationsthroughtheArts.png">
 
 ### <i>Singapore Book of Records</i>
 
 The school embarks on a bi-annual attempt at breaking the SBoR as a prelude activity to National Day Celebration.<br>
 
 ### **<center>2022 - Largest Display of String Art**
- <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/2022–LargestDisplayofStringArt_1.jpg"><br>
+	
+ <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/2022–LargestDisplayofStringArt_1.jpg"><br>
  
- <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/2022–LargestDisplayofStringArt.jpg">
+ <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/2022–LargestDisplayofStringArt.jpg">
 
 
 ### **<center>2021 - Largest Bread Tag Mural**
@@ -145,7 +148,7 @@ https://youtu.be/AmIcJCh9Ad0
 
 As part of the ministry’s effort to transform learning experiences of students through purposeful use of technology, and in providing for students with greater access to arts learning, the Arts Education Branch (AEB) has been developing student learning resources that are made available for schools on Student Learning Space (SLS).   AEB collaborated with Park View Primary School to develop the Student Artist Talk Video Series, which featured two Primary 6 students, Leila Koh (6D), and Tan Yan Yi (6B), who shared their artistic processes behind the artwork created for the Singapore Youth Festival Art Exhibition. The artwork, entitled “Waves of Life”, received the Certificate of Recognition (Special Mention). Leila and Yan Yi also shared the art concepts through discussing about and reflecting on the artwork.
 	
- <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/SLSArt ResourcesforPrimarySchools.png">
+ <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/SLSArt ResourcesforPrimarySchools.png">
  
 
 #### <i>Art Outreach Community Outreach Programme through Recycled Art</i>
@@ -164,54 +167,54 @@ https://youtu.be/cwsop_9gm0w
 
 This is an inaugural event to give an additional platform to showcase our students' works in non SYF Art Exhibition years.  The artworks were exhibited digitally at the Tampines Library Level 2 Screen at Tampines Hub.  Kudos to all our young artists! 
 
-<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/TampinesRegionalLibrary.png">
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/TampinesRegionalLibrary.png">
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fvj690mE4WU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 #### 	<i>Celebrating National Day Through the Arts Exhibition</i>
- <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/CelebratingNationalDaythroughtheArtsExhibition.png">
+ <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/CelebratingNationalDaythroughtheArtsExhibition.png">
  
 #### 	<i>Mid-Autumn Fiesta Exhibition</i>
- <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Mid_Autumn_Fiesta_Exhibition.png">
+ <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/Mid_Autumn_Fiesta_Exhibition.png">
 
 #### 	<i>P1 & P2 PAL Visual Exhibition</i>
-<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/P1P2PALVisualArtExhibition.png">
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/P1P2PALVisualArtExhibition.png">
 
-<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/P1P2PALVisualArtExhibition_1.png">
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/P1P2PALVisualArtExhibition_1.png">
 	
 
 #### 	<i>Walkathon Exhibition</i>
-<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/WalkathonExhibition.png">
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/WalkathonExhibition.png">
 		
 
 ### 	<u>Achievements</u>
 #### 	<i>Singapore Youth Festival (SYF) Arts Presentation &amp; Exhibition</i>
 
 ##### **<center>2021: Category B - Certificate of Recognition**
-<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/CategoryBCertificateofRecognition.png"></center>
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/CategoryBCertificateofRecognition.png"></center>
 	
 ##### **<center>2019: Category A – Certificate of Recognition**
-<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/CategoryCCertificateofParticipationArtistTalk.png"></center>
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/CategoryCCertificateofParticipationArtistTalk.png"></center>
 	
 ##### **<center>2019: Category B - Certificate of Participation**
-<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/CategoryC.png"></center>
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/CategoryC.png"></center>
 	
 ##### **<center>2019: Category C – Certificate of Recognition (Special Mention)**
-<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/CategoryCCertificateofRecognitionSpecial Mention.png"></center>
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/CategoryCCertificateofRecognitionSpecial Mention.png"></center>
 	
 #### 	<i>Youth Illustrator Awards (Season 7)</i>
 
 Rasleen Kaur Khaira of class 4A was one of the Top 6 Finalist in the Young Illustrator Awards. Out of 1300 submissions under the Primary School category, Rasleen came in 4th in this national competition. Working on the given theme ‘Explorer’, Rasleen created a captivating painting entitled “Autumn Is Here”; an artwork inspired by Vincent Van Gogh’s impasto technique.
  
 Young llustratorAward.png
-<center><img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/YoungllustratorAward.png"></center>
+<center><img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/YoungllustratorAward.png"></center>
 
 ### 	<i>NDP “Our Hearts for Singapore” Pledge Card Design Competition</i>
 
 Our students designed cards for the “Our Heart for Singapore” project based on ideas gathered from interactions with their family members and seniors. From their conversations, they drew the stories they had heard. Their artworks were show cased at the National Museum of Singapore.
-<center><img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/NDPOurHeartForSingaporepledgecarddesigncompetition.png"></center>
+<center><img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/Art/NDPOurHeartForSingaporepledgecarddesigncompetition.png"></center>
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LWFt2W91Wsc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -222,6 +225,3 @@ Our students designed cards for the “Our Heart for Singapore” project based 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UDh_HT5R1J0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
-
-
