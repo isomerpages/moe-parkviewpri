@@ -159,15 +159,19 @@ Through simple craftwork, the Art Club members teach the kindergarten students h
 </div>
 
 https://youtu.be/cwsop_9gm0w
-Exhibitions
-E6 cluster Art Exhibition @ Tampines Regional Library
+### 	<u>Exhibitions</u>
+#### 	<i>E6 cluster Art Exhibition @ Tampines Regional Library</i>
 
 This is an inaugural event to give an additional platform to showcase our students' works in non SYF Art Exhibition years.  The artworks were exhibited digitally at the Tampines Library Level 2 Screen at Tampines Hub.  Kudos to all our young artists! 
 
- 
+<img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/TampinesRegionalLibrary.png">
 
-https://youtu.be/Fvj690mE4WU
-Celebrating National Day Through the Arts Exhibition
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fvj690mE4WU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+#### 	<i>Celebrating National Day Through the Arts Exhibition</i>
+ <img style="width:100%" alt="" src="/images/Curriculum/Aesthetics/CelebratingNationalDaythroughtheArtsExhibition.png">
 
  
 Mid-Autumn Fiesta Exhibition
