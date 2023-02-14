@@ -3,7 +3,7 @@ title: Other Services
 permalink: /about-us/other-services/
 description: ""
 ---
-# Other Services
+## Other Services
 
 
 ### <u>School Dental Services</u>  
