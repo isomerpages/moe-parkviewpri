@@ -4,7 +4,7 @@ permalink: /about-us/our-people/principal/
 description: ""
 third_nav_title: Our People
 ---
-# **Principal**
+## **Principal**
 
 <style type="text/css">
 p {font-size:18px;font-family: arial, sans-serif;text-align: justify;}
