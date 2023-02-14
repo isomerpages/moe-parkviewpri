@@ -78,6 +78,7 @@ A colourful art truck has arrived at Park View Primary. Packed within the truck 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JspfHlaRSlk" height="315" width="560"></iframe>
 </div>
 
+<p>
 <img style="width:800%" alt="" src="/images/Curriculum/Aesthetics/Art/RovingArtTruckProgramme.jpg">
 
 
