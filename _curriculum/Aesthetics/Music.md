@@ -10,7 +10,6 @@ third_nav_title: Aesthetics
 p {font-size:18px;font-family: arial, sans-serif;text-align: justify;}
 </style>
 
-
 <b><p>To foster greater appreciation for the arts, students are introduced to different forms of arts through programmes like assembly performances and talks.</p></b>
 
 ##### <i>PVPS Got Talent</i>
