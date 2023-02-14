@@ -75,7 +75,7 @@ A colourful art truck has arrived at Park View Primary. Packed within the truck 
 <p>Head of Aesthetics Miss Lim Hwee Tin felt that this exposure is just the tip of an iceberg and she hopes this experience would spark the interest in art for students and open the doors to more art activities.</p>
 
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JspfHlaRSlk" height="315" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JspfHlaRSlk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <p>
