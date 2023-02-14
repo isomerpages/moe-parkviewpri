@@ -9,7 +9,7 @@ third_nav_title: Aesthetics
 	p {font-size:18px;font-family: arial, sans-serif;text-align: justify;}
 </style>
 
-<b><p>To foster greater appreciation for the arts, students are introduced to different forms of arts through programmes like assembly performances and talks.</p></b>
+<b>To foster greater appreciation for the arts, students are introduced to different forms of arts through programmes like assembly performances and talks.</b>
 	
 <p>How would it be like to encounter art on a truck? Follow Thumbs Up to visit the Roving Art Truck parked at Park View Primary!</p>
 
