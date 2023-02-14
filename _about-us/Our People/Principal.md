@@ -10,7 +10,7 @@ third_nav_title: Our People
 p {font-size:18px;font-family: arial, sans-serif;text-align: justify;}
 </style>
 
-![](/images/Principal_002.jpg)
+<img src="/images/Principal_002.jpg" alt="" style="width:90%;">
 
 <center><i>Warmest Greetings to all and welcome to Park View Primary School!</i> <center>
 
@@ -24,5 +24,5 @@ p {font-size:18px;font-family: arial, sans-serif;text-align: justify;}
 
 <p>To all our stakeholders, we look forward to our continued partnership for 2023. We would not have been able to come so far without the support of each and every one of you. On behalf of the PVPS family, I would also like to take this opportunity to wish everyone a Happy and Healthy 2023. Do continue to keep well and stay safe!
 
-**Ms Jamie Lie  
-Principal**
+<b><center>Ms Jamie Lie<br>
+	Principal</center></b>
