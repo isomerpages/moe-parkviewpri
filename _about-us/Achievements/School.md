@@ -56,3 +56,23 @@ One of our students also received the LOO Kidz Award for displaying strong commi
 
 
 In September this year,  our ML Language Ambassadors together the teachers in the ML department put up a booth at the Malay Finesse Carnival.  The booth was a hot favourite and the participants were awed by our ambassadors  dedication in promoting the values of rootedness towards the Malay culture. The students were applauded for their effort and even featured in the Berita Harian.  Good job ambassadors.
+
+
+![](/images/Picture19xx.png)
+
+Extended recess time was given to the winning class. As a class, winning the model class award is an affirmation of our teamwork and efforts.
+
+![](/images/Picture20xx.png)
+
+The Active Contributor Programme, gives us a platform to share our views and ideas so as to make our school a better place to learn in. It also promotes the spirit of Innovation and Excellence in the school through involving students in decision making.
+
+![](/images/Picture21xx.png)
+
+The P4s and P5s had a taste of camp life and participated in activities such as dragon boating, kayaking, high and low elements.
+
+![](/images/Picture22xx.png)
+
+
+The primary sixes had a wonderful bonding session in Sentosa.
+
+![](/images/Picture23xx.png)
