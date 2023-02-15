@@ -3,7 +3,6 @@ title: School Hours
 permalink: /about-us/school-hours/
 description: ""
 ---
-# **School Hours**
 ## Primary 1 to 3
 
 <table style="border: 1px solid black;text-align: center;">
@@ -153,14 +152,14 @@ CCA (P3)
 	</tbody>
 </table>
 
-***Due to safety concerns, with effect from Monday, 27 June 2022, the turnstile gate (Gate C) at the back of our school will remain closed at all times of day.*** Parents/caregivers may drop-off or pick up their child at any of the above gates according to the gate operation timings. Parents/caregivers are allowed to drive into the school in the mornings only ( 7.00 a.m. - 7.30 a.m. ) to drop off their children.   
+<p align="justify"><b>Due to safety concerns, with effect from Monday, 27 June 2022, the turnstile gate (Gate C) at the back of our school will remain closed at all times of day.</b> Parents/caregivers may drop-off or pick up their child at any of the above gates according to the gate operation timings. Parents/caregivers are allowed to drive into the school in the mornings only ( 7.00 a.m. - 7.30 a.m. ) to drop off their children. 
 
-  
-
-***All visitors are to register at the Security Post at the front gate (Gate A).***
+<b>All visitors are to register at the Security Post at the front gate (Gate A).</b>
 
 To deliver lunch boxes for their child, parents/caregiver may:
 
-*   hand the lunch box directly to their child at the front gate (Gate A Security Post) or side gate (Gate D) if delivering during school dismissal time ( 1.30 p.m. - 2.00 p.m. ); or  
-    
-*   place the clearly labelled lunch box (with child's name and class) at the front gate (Gate A Security Post) if delivering earlier than school dismissal time. Our school personnel will assist in students collecting their lunch boxes.
+<ul>
+  <li>hand the lunch box directly to their child at the front gate (Gate A Security Post) or side gate (Gate D) if delivering during school dismissal time ( 1.30 p.m. - 2.00 p.m. ); or </li>
+<p>
+  <li>place the clearly labelled lunch box (with child's name and class) at the front gate (Gate A Security Post) if delivering earlier than school dismissal time. Our school personnel will assist in students collecting their lunch boxes.</li>
+</ul>  
