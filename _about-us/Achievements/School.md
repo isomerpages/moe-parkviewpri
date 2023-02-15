@@ -4,8 +4,6 @@ permalink: /about-us/Achievements/school/
 description: ""
 third_nav_title: Achievements
 ---
-# **School**
-
 #### 2019
 
 ![](/images/Picture25a.png)
