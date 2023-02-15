@@ -4,7 +4,6 @@ permalink: /about-us/school-policies/rules-for-using-lockers/
 third_nav_title: School Policies
 description: ""
 ---
-# **Rules for Using Lockers**
 
 ![](/images/Locker.jpg)
 
