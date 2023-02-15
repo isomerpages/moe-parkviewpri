@@ -22,3 +22,19 @@ third_nav_title: Achievements
 ![](/images/Picture28.png)
 
 ![](/images/Picture29.png)
+
+![](/images/Picture34-1.png)
+
+![](/images/Picture35-1.png)
+
+![](/images/Picture36-1.png)
+
+![](/images/Picture38-1.png)
+
+
+
+### STAR (Sustaining Toilets As Restrooms) Awards Programme 2017
+
+The school was awarded **Gold Star** in the S.T.A.R (Sustaining Toilets As Restrooms) Awards Programme in 2017
+
+One of our students also received the LOO Kidz Award for displaying strong commitment and passion in executing the ‘S.T.A.R project. She has contributed her artworks to decorate the toilets, and carried out a presentation to encourage her fellow art club members to practise good toilet habits. She shared tips on how to keep and maintain the cleanliness of toilets.
