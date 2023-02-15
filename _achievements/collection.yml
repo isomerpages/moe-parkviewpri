@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Staff.md
       - Students/Cognitive Achievements.md
       - Students/Physical Achievements.md
       - Students/Aesthetics Achievements.md
