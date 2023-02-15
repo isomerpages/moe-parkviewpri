@@ -4,9 +4,6 @@ permalink: /about-us/schools-rules/
 description: ""
 third_nav_title: School Rules
 ---
-
-<h2>An ordered HTML list</h2>
-
 <ol>
   <li>Students are to be respectful and courteous to their teachers, friends, and visitors. </li>
   <li>Students must observe punctuality at all times.</li>
