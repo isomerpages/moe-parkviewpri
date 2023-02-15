@@ -2,10 +2,10 @@ collections:
   achievements:
     output: true
     order:
-      - Staff.md
+      - Students/.keep
       - Students/Cognitive Achievements.md
       - Students/Physical Achievements.md
       - Students/Aesthetics Achievements.md
       - Students/Social & Moral Achievements.md
       - Students/Leadership Achievements.md
-      - Students/.keep
+      - Staff.md
