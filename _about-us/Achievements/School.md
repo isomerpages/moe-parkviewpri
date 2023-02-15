@@ -91,6 +91,13 @@ We did it again! With an impressive total of 1952 paper plate crafts made by the
 
 The school was awarded **Gold Star** in the S.T.A.R (Sustaining Toilets As Restrooms) Awards Programme in 2016. As we have been getting similar high ratings for three consecutive years (2014 - 2016), the school received the **PLATINUM STAR** Award from Dr Amy Khor in the LOO (Let's Observe Ourselves) Award Ceremony on 17 November 2016.
 
-  
-
 One of our student also received the LOO Kidz Award for displaying strong commitment and passion in executing the ‘Happy Toilets’ project. She has been an active Art & Craft Club member and has participated in the Happy Toilet Project since 2014. Not only did she contribute artworks to decorate the toilets, She also worked closely with the juniors in the Art Club and guided them in the designs. She is exemplary and a role model for her juniors to emulate with her enthusiasm in transforming our toilets into a Happy and Vibrant place.
+
+
+![](/images/Toilet.jpg)
+
+![](/images/Slide2xx.jpg)
+
+![](/images/schoolach.jpg)
+
+![](/images/Slide4xx.jpg)
