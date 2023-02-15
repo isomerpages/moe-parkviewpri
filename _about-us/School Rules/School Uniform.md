@@ -92,17 +92,18 @@ src="/images/About%20Us/School%20Uniform%20and%20Others/PE-Girl.jpg"></td>
 ### Hair ~ Boy
 
 <font face="arial, sans-serif" size="4">
-
+<ul>
 <li>No tinting, bleaching and colouring of hair are allowed for&nbsp;<b>all</b>&nbsp;students.</li>
 <li>Hair must be kept short and neat.</li>
 <li>Hair must not touch the eyebrows, ears or collar.</li>
 <li>No pierced ears are allowed.</li>
 <li>No outlandish hairstyles are allowed&nbsp;(e.g. spiky, punk, layered, shaved, tails).</li> </font>
-	
+</ul>
+
 ### Hair ~ Girl
 
 <font face="arial, sans-serif" size="4">
-
+<ul>
 <li>No tinting, bleaching and colouring of hair are allowed for&nbsp;<b>all</b> students.</li>
 <li>Fringe must not be touching the eyebrows.</li>
 <li>Hair beyond shoulder length must be plaited or tied up into one or two braids.</li>
@@ -110,3 +111,4 @@ src="/images/About%20Us/School%20Uniform%20and%20Others/PE-Girl.jpg"></td>
 <li>No fanciful hairbands are allowed.</li>
 <li>One set of plain gold / silver studs may be worn on one ear hole of each ear. Other forms of piercing are not allowed.</li>
 <li>No jewellery or any items of personal adornments are allowed.</li></font>
+	</ul>
