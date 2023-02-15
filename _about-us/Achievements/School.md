@@ -112,3 +112,5 @@ One of our student also received the LOO Kidz Award for displaying strong commit
 ### Community In Bloom Awards 2016
 
 The biennial Community In Bloom (CIB) Awards recognise and reward gardening efforts of Singapore’s gardening groups. The awards aim to motivate and encourage community gardeners to improve the standards of their gardens and to continue enjoying gardening as a fun and healthy activity. We are happy to announce that we were awarded a Silver in 2016!
+
+[Community In Bloom (1).pdf](/files/Community%20In%20Bloom%20(1).pdf)
