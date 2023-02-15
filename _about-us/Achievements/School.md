@@ -47,3 +47,12 @@ One of our students also received the LOO Kidz Award for displaying strong commi
 ![](/images/3xx.jpg)
 
 ![](/images/4xx.jpg)
+
+![](/images/Picture15xx.png)
+
+![](/images/Picture17xx.png)
+
+![](/images/Picture18xx.png)
+
+
+In September this year,  our ML Language Ambassadors together the teachers in the ML department put up a booth at the Malay Finesse Carnival.  The booth was a hot favourite and the participants were awed by our ambassadors  dedication in promoting the values of rootedness towards the Malay culture. The students were applauded for their effort and even featured in the Berita Harian.  Good job ambassadors.
