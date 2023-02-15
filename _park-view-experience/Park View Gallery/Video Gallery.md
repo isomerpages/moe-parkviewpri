@@ -4,7 +4,7 @@ permalink: /park-view-experience/park-view-gallery/video-gallery/
 description: ""
 third_nav_title: Park View Gallery
 ---
-<h1><b>Video Gallery</b></h3>
+<h1><b>Video Gallery</b></h1>
 
 <h3> 2022 Little Star </h3>
 
