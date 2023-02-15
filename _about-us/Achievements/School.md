@@ -76,3 +76,21 @@ The P4s and P5s had a taste of camp life and participated in activities such as 
 The primary sixes had a wonderful bonding session in Sentosa.
 
 ![](/images/Picture23xx.png)
+
+Once again we have achieved the Lotus Sustained Achievement Award in the SEC-StarHub School Green Awards (SGA) this year!  
+
+### National Fire And Civil Emergency Preparedness Council (NFEC)
+
+The school was awarded the CD-Ready School Award by the **National Fire And Civil Emergency Preparedness Council (NFEC)**. This award serves to recognise the Emergency Preparedness efforts across all segments of the community.
+
+### 2016 Singapore Book Of Records
+
+We did it again! With an impressive total of 1952 paper plate crafts made by the school and our partners, we are in the Singapore Book of Records again for the largest display of paper plate crafts!
+
+### LOO Awards & LOO KIDZ Award Ceremony
+
+The school was awarded **Gold Star** in the S.T.A.R (Sustaining Toilets As Restrooms) Awards Programme in 2016. As we have been getting similar high ratings for three consecutive years (2014 - 2016), the school received the **PLATINUM STAR** Award from Dr Amy Khor in the LOO (Let's Observe Ourselves) Award Ceremony on 17 November 2016.
+
+  
+
+One of our student also received the LOO Kidz Award for displaying strong commitment and passion in executing the ‘Happy Toilets’ project. She has been an active Art & Craft Club member and has participated in the Happy Toilet Project since 2014. Not only did she contribute artworks to decorate the toilets, She also worked closely with the juniors in the Art Club and guided them in the designs. She is exemplary and a role model for her juniors to emulate with her enthusiasm in transforming our toilets into a Happy and Vibrant place.
