@@ -41,7 +41,8 @@ Mdm Patricia Yeo (Girls Team)
 
 <h4>Coaches</h4>
 Mr Toh Zi Cong (Boys)<br>
-Ms Sheefa Khan (Girls)
+Ms Sheefa Khan (Girls)<br>
+School Hall
 
 <h4>Training Schedule</h4>
 
