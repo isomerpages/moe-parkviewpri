@@ -2,6 +2,7 @@ collections:
   our-students:
     output: true
     order:
+      - Homework Board P1 & P2/Wednesday.md
       - Homework Board P1 & P2/Tuesday.md
       - Homework Board P1 & P2/Monday.md
       - Homework Board P1 & P2/.keep
