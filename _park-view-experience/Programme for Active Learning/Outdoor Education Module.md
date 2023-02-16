@@ -15,7 +15,7 @@ They are taken on outdoor trips which are slightly different from the usual lear
 
 **PVPS** in Bloom is Park View Primary School’s PAL Outdoor Education module. Park View Primary’s teachers specially designed this module for their students.
 
-**The aims of this module are:**
+##### The aims of this module are:
 * Provide learning experiences for our students beyond the classrooms by going into the community and natural environments.
 * Make learning more interesting and easier to understand through experiential learning activities in authentic setting.
 * Develop students’ Social Emotional learning competencies through fun and meaningful learning activities. They not only learn more about their community and natural environment, they also learn about themselves and their friends.
@@ -26,7 +26,7 @@ They are taken on outdoor trips which are slightly different from the usual lear
 
 Colourful Nature @ PVPS is the PAL Outdoor Education module for the Primary 2 students in Park View Primary School. In Primary 2, students will learn more about insects, birds and fishes.
 
-**The aims of this module are as follows: **
+##### The aims of this module are as follows: 
 
 * To engage in fun and meaningful learning activities such as observing insects and birds
 * To learn more about their adaptations of animals
