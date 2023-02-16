@@ -4,18 +4,18 @@ permalink: /curriculum/mother-tongue/malay-mother-tongue/our-teachers/
 description: ""
 third_nav_title: Malay Mother Tongue
 ---
-# **Our ML Teachers**
+## Our ML Teachers
 <img src="/images/Curriculum/Mother%20Tongue/Malay/DeptGoal.jpg" alt="Our ML Teachers">
 
-#### <u>Department Goal</u>
+#### Department Goal
 
 <p>To develop a generation of confident and effective Malay Language anchored in values.</p>
 
-#### <u>Department Purpose</u>
+#### Department Purpose
 
 <p>To provide a positive and culturally vibrant environment for students to develop a love and appreciation for the language.</p>
 
-#### <u>Our Team</u>
+#### Our Team
 
 <table>
 	<thead>
