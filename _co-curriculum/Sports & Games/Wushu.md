@@ -4,9 +4,24 @@ permalink: /co-curriculum/Sports-and-Games/wushu/
 description: ""
 third_nav_title: Sports & Games
 ---
-Wushu (武术) is a form of contemporary Chinese martial arts that blends elements of performance and martial application. Wushu training emphasizes quickness, explosive power, natural and relaxed movement. The wushu practitioner must combine flexibility with strength, speed with flawless technique, discipline and controlled execution. There are also opportunities for our students to develop SEL competencies through Internal School performance and National School Games Wushu Championship.
+<p align="justify">
+Wushu (武术) is a form of contemporary Chinese martial arts that blends elements of performance and martial application. Wushu training emphasizes quickness, explosive power, natural and relaxed movement. The wushu practitioner must combine flexibility with strength, speed with flawless technique, discipline and controlled execution. There are also opportunities for our students to develop SEL competencies through Internal School performance and National School Games Wushu Championship.</p>
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Teachers-in-charge<br></th><th style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="color:#162837">Miss Low Kin Eng</span><span style="background-color:initial">(OIC)</span><br><br><span style="color:#162837">Mdm Chen Shuang Shuang</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Training days/Time/Venue<br></td><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;text-decoration:underline">Monday</span><br><span style="color:#162837">School Team</span><br><span style="color:#162837">3.30pm – 5.00pm</span><br><br><span style="color:#162837">ISH Level 6</span><br><br><span style="font-weight:bold;text-decoration:underline;background-color:initial">Fridays</span><br><span style="background-color:initial">7.30am to 9.00am (All members)</span><br><span style="color:#162837">ISH Level 6</span></td></tr></tbody></table>
+<h4>Teachers-in-Charge</h4>
+Miss Low Kin Eng(OIC)<br>  
+Mdm Chen Shuang Shuang<br>
+
+<h4>Training Schedule</h4>
+
+<b><u>Monday</u></b><br> 
+School Team<br>
+3.30pm- 5.00pm<br>
+ISH Level 6<br>
+  
+<b><u>Fridays</u></b><br>
+All students<br>
+7.30am - 9.00am<br>
+ISH Level 6
 
 <h3>Achievements</h3>
 
