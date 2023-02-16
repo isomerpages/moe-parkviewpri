@@ -4,7 +4,6 @@ collections:
     order:
       - English/.keep
       - English/English.md
-      - English/Library.md
       - English/School Library Policy.md
       - English/Read @ Parkview.md
       - Mathematics.md
