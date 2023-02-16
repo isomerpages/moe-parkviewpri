@@ -4,7 +4,6 @@ permalink: /co-curriculum/Sports-and-Games/Netball/
 description: ""
 third_nav_title: Sports & Games
 ---
-# **Netball**
 
 ![](/images/Netball%202021%2001.jpg)
 
