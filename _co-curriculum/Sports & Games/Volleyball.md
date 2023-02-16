@@ -42,13 +42,13 @@ Mdm Patricia Yeo (Girls Team)
 <h4>Coaches</h4>
 Mr Toh Zi Cong (Boys)<br>
 Ms Sheefa Khan (Girls)<br>
-School Hall
 
 <h4>Training Schedule</h4>
 
 <b><u>Tuesdays & Thursdays</u></b><br> 
 Boys & Girls (Selected students)<br>
-3.30pm- 5.30pm<br>   
+3.30pm- 5.30pm<br>
+School Hall
   
 <b><u>Fridays</u></b><br>
 Boys & Girls (All students)<br>
