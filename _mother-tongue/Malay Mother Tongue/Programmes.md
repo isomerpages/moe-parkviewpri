@@ -6,7 +6,8 @@ third_nav_title: Malay Mother Tongue
 ---
 #### Key Programmes
 
-<img src="/images/Curriculum/Mother%20Tongue/Malay/MalayPrograms.jpg" alt="Key Programmes" style="width:80%">
+
+<img src="/images/Curriculum/Mother%20Tongue/Malay/MT-ML-Key%20Programmes.jpg" style="width:100%">
 
 ##### <i>RAKAN BAHASA</i>
 
