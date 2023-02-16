@@ -4,6 +4,8 @@ permalink: /our-stakeholders/letter-to-parents/
 description: ""
 ---
 # **Letter to Parents**
+* [Letter to Parents - 06](/files/2023%20Letter%20to%20Parents/PVPS-2023-06.pdf)
+
 * [Letter to Parents - 05](/files/2023%20Letter%20to%20Parents/PVPS-2023-05.pdf)
 
 * [Letter to Parents - 04](/files/2023%20Letter%20to%20Parents/PVPS-2023-04.pdf)
