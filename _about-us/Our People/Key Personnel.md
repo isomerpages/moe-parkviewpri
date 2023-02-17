@@ -6,7 +6,6 @@ third_nav_title: Our People
 ---
 ### Heads Of Department
 
-
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px" class="tg">
 	<thead>
 		<tr>
@@ -49,10 +48,33 @@ third_nav_title: Our People
 				<br>Mdm Lim Hwee Tina<br>HOD - Aesthetics CCA
 				<br>
 				<a href="mailto:lim_hwee_tin_a@schools.gov.sg">lim_hwee_tin_a<br>@schools.gov.sg</a></a>
+				<br></th>
+			
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="/images/Mr%20Jerry%20Chua_optimisedforweb.jpg" alt="Mr Jerry Chua_optimisedforweb.jpg" width="175" height="225">
+				<br>Mr Jerry Chua<br>HOD - PE CCA
+				<br>
+				<a href="mailto:chua_chun_wei@schools.gov.sg">chua_chun_wei<br>@schools.gov.sg</a></a>
 				<br>
 			</th>
 			
-<td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Mr%20Jerry%20Chua_optimisedforweb.jpg" alt="Mr Jerry Chua_optimisedforweb.jpg" width="168" height="251"><br><span style="font-weight:bold">Mr Jerry Chua Chun Wei</span><br><span style="font-weight:400;color:#162837">HOD - PE CCA</span><br><br><a href="mailto:chua_chun_wei@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">chua_chun_wei</span></a><br><a href="mailto:chua_chun_wei@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></td></tr><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/IMG_9053.jpg" alt="IMG_9053.JPG" width="168" height="252"><br><span style="font-weight:bold">Mrs Anitha Aruljothi</span><br><span style="font-weight:400;color:#162837">HOD - English</span><br><br><a href="mailto:m_anitha@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">m_anitha</span></a><br><a href="mailto:m_anitha@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Miss%20Chua%20Shuan%20Kwee%20cropped.jpg" alt="Miss Chua Shuan Kwee cropped.jpg" width="168" height="251"><br><span style="font-weight:bold">Miss Chua Shuan </span><span style="font-weight:bold;background-color:initial">Kwee</span><br><span style="font-weight:400;color:#162837">School Staff Developer</span><br><br><a href="mailto:chua_shuan_kwee@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">chua_shuan_kwee</span></a><br><a href="mailto:chua_shuan_kwee@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></td><td style="border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td></tr></tbody></table>
+<tr><th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="/images/IMG_9053.jpg" alt="IMG_9053.JPG" width="175" height="225">
+				<br>Mrs Anitha Aruljothi<br>HOD - English
+				<br>
+				<a href="mailto:m_anitha@schools.gov.sg">m_anitha<br>@schools.gov.sg</a></a>
+				<br>
+</th>
+			<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="/images/Miss%20Chua%20Shuan%20Kwee%20cropped.jpg" alt="Miss Chua Shuan Kwee cropped.jpg" width="175" height="225">
+				<br>Miss Chua Shuan<br>School Staff Developer
+				<br>
+				<a href="mailto:chua_shuan_kwee@schools.gov.sg">chua_shuan_kwee<br>@schools.gov.sg</a></a>
+				<br>
+</th>
+			</tr>
+			</tbody>
+			</table>
 
 ### Year Heads
 
