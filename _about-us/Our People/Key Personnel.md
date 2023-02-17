@@ -79,8 +79,44 @@ third_nav_title: Our People
 ### Year Heads
 
 
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 746px" class="tg"><colgroup><col style="width: 259px"><col style="width: 238px"><col style="width: 249px"></colgroup><thead><tr><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/IMG_7629.jpeg" alt="tn.IMG_7629.JPG.mid.jpg" width="228" height="341"><br><span style="font-weight:bold">Mrs Hazel Cheong</span><br><span style="font-weight:400;color:#162837">YH (P1 - P3)</span><br><br><a href="mailto:tan_kar_tiang@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">tan_kar_tiang</span></a><br><a href="mailto:tan_kar_tiang@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/MR%20DARVINDER%20EDITER%20FINAL.jpg" alt="MR DARVINDER EDITER FINAL.jpg" width="227" height="343"><br><span style="font-weight:bold">Mr Darvinder Singh</span><br><span style="font-weight:400;color:#162837">YH (P4 - P6)</span><br><br><a href="mailto:darvinder_singh_karam_singh@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">darvinder_singh_karam_singh</span></a><br><a href="mailto:darvinder_singh_karam_singh@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Mdm%20Patricia%20Yeo_optimisedforweb.jpg" alt="pat.jpg" width="234" height="344"><br><span style="font-weight:bold">Mdm Patricia Yeo</span><br><span style="font-weight:400;color:#162837">AYH (P2)</span><br><br><a href="mailto:yeo_peck_hui@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">yeo_peck_hui</span></a><br><a href="mailto:yeo_peck_hui@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"> <img src="/images/Miss%20Pamela%20See%20cropped.jpg" alt="Miss Pamela See cropped.jpg" width="234" height="344"><br><span style="font-weight:bold">Miss Pamela See</span><br><span style="font-weight:400;color:#162837">AYH (P6)</span><br><a href="mailto:see_yuen_heng@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">see_yuen_heng</span></a><br><a href="mailto:see_yuen_heng@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"> </td><td style="border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"></td></tr></tbody></table>
+<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px" class="tg">
+	<thead>
+		<tr>
+			<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="/images/IMG_7629.jpeg" alt="tn.IMG_7629.JPG.mid.jpg"  width="175" height="225">
+				<br>Mrs Hazel Cheong<br>YH (P1 - P3)
+				<br>
+				<a href="mailto:tan_kar_tiang@schools.gov.sg">tan_kar_tiang<br>@schools.gov.sg</a></a>
+				<br>
+			</th>
+			
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="/images/MR%20DARVINDER%20EDITER%20FINAL.jpg" alt="MR DARVINDER EDITER FINAL.jpg" width="175" height="225">
+				<br>Mr Darvinder Singh<br>YH (P4 - P6)
+				<br>
+				<a href="mailto:darvinder_singh_karam_singh@schools.gov.sg">darvinder_singh_karam<br>_singh@schools.gov.sg</a></a>
+				<br>
+			</th>
+			
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="/images/Mdm%20Patricia%20Yeo_optimisedforweb.jpg" alt="pat.jpg" width="175" height="225">
+				<br>Mdm Patricia Yeo<br>AYH (P2)
+				<br>
+				<a href="mailto:yeo_peck_hui@schools.gov.sg">yeo_peck_hui<br>@schools.gov.sg</a></a>
+				<br>
+			</th></tr>
+	</thead>
 
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="/images/Miss%20Pamela%20See%20cropped.jpg" alt="Miss Pamela See cropped.jpg" width="175" height="225">
+				<br>Miss Pamela See<br>AYH (P6)
+				<br>
+				<a href="mailto:see_yuen_heng@schools.gov.sg">see_yuen_heng<br>@schools.gov.sg</a></a>
+				<br>
+</th>
+			</tr>
+			</tbody>
+			</table>
 
 
 ### Level Heads / Subject Heads
