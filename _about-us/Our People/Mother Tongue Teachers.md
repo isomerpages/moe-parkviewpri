@@ -12,18 +12,88 @@ third_nav_title: Our People
 
 
 
-### Malay Language Teachers
+### Malay Teachers
 
 
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px" class="tg"><colgroup><col style="width: 197px"><col style="width: 192px"><col style="width: 192px"></colgroup><thead><tr><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/hanim_optimisedforweb.jpg" alt="hanim_optimisedforweb.jpg" width="171" height="256"><br><span style="font-weight:400;color:#162837">Mdm Norhanim</span><br><span style="font-weight:400;color:#162837">Bte Hashim</span><br><br><a href="mailto:norhanim_hashim@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">norhanim_hashim</span></a><br><a href="mailto:norhanim_hashim@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Nainul_optimisedforweb.jpg" alt="Nainul_optimisedforweb.jpg" width="171" height="256"><br><span style="font-weight:400;color:#162837">Mdm Nailul Azmi</span><br><br><a href="mailto:nailul_azmi_ismail@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">nailul_azmi_ismail</span></a><br><a href="mailto:nailul_azmi_ismail@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Mdm%20Hannah%20cropped.jpg" alt="Mdm Hannah cropped.jpg" width="171" height="255"><br><span style="font-weight:400;color:#162837">Mdm Hannah</span><br><br><a href="mailto:nurfarhannah_hazmi@schools.gov.sg"><span style="text-decoration:underline;color:#08A7F0">nurfarhannah_hazmi</span></a><br><a href="mailto:nurfarhannah_hazmi@schools.gov.sg"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Mdm%20Zubaidah%20cropped.jpg" alt="Mdm Zubaidah cropped.jpg" width="171" height="255"><br><span style="font-weight:400;color:#162837">Mdm Zubaidah</span><br><br><a href="mailto:zubaidah_othman@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">zubaidah_othman</span></a><br><a href="mailto:zubaidah_othman@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Mdm%20Nur%20Farizah_optimisedforweb.jpg" alt="Mdm Nur Farizah_optimisedforweb.jpg" width="171" height="256"><br><span style="font-weight:400;color:#162837">Mdm Nur Farizah</span><br><span style="font-weight:400;color:#162837">Binte Roslan</span><br><br><a href="mailto:nur_farizah_roslan@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0;background-color:initial">nur_farizah_roslan</span></a><br><br><a href="mailto:nur_farizah_roslan@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Mdm%20Nurhazimah%20FINAL.jpg" alt="Mdm Nurhazimah FINAL.jpg" width="171" height="249"><br>Mdm Nurhazimah <br>Binti Abdul Halim<br><br><a href="mailto:Nurhazimah_Abdul_Halim@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">Nurhazimah_Abdul_</span></a><br><a href="mailto:Nurhazimah_Abdul_Halim@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">Halim@schools.gov.sg</span></a></td></tr></tbody></table>
+<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px" class="tg">
+	<thead>
+		<tr>
+			<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="/images/Mdm%20Nohanim.jpeg" width="175" height="225">
+				<br>Mdm Norhanim
+				<br>
+				<a href="mailto:norhanim_hashim@schools.gov.sg">norhanim_hashim<br>@schools.gov.sg</a></a>
+				<br>
+			</th>
+			
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="/images/Nainul_optimisedforweb.jpg" alt="Nainul_optimisedforweb.jpg" width="175" height="225">
+				<br>Mdm Nailul Azmi
+				<br>
+				<a href="mailto:nailul_azmi_ismail@schools.gov.sg">nailul_azmi_ismail<br>@schools.gov.sg</a></a>
+				<br>
+			</th>
+			
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="/images/Mdm%20Hannah%20cropped.jpg" alt="Mdm Hannah cropped.jpg" width="175" height="225">
+				<br>Mdm Hannah
+				<br>
+				<a href="mailto:nurfarhannah_hazmi@schools.gov.sg">nurfarhannah_hazmi<br>@schools.gov.sg</a></a>
+				<br>
+			</th></tr>
+	</thead>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="/images/Mdm%20Zubaidah%20cropped.jpg" alt="Mdm Zubaidah cropped.jpg" width="175" height="225">
+				<br>Mdm Zubaidah
+				<br>
+				<a href="mailto:zubaidah_othman@schools.gov.sg">zubaidah_othman<br>@schools.gov.sg</a></a>
+				<br>
+</th>
 
 
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="/images/Mdm%20Nur%20Farizah_optimisedforweb.jpg" alt="Mdm Nur Farizah_optimisedforweb.jpg" width="175" height="225">
+				<br>Mdm Nur Farizah
+				<br>
+				<a href="mailto:nur_farizah_roslan@schools.gov.sg">nur_farizah_roslan<br>@schools.gov.sg</a></a>
+				<br></th>
+			
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="/images/Mdm%20Nurhazimah%20FINAL.jpg" alt="Mdm Nurhazimah FINAL.jpg" width="175" height="225">
+				<br>Mdm Nurhazimah
+				<br>
+				<a href="mailto:Nurhazimah_Abdul_Halim@schools.gov.s">Nurhazimah_Abdul<br>_Halim@schools.gov.sg</a></a><br>
+			</th>
+			</tr></tbody>
+			</table>
+
+### Tamil Teachers
+
+<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px" class="tg">
+	<thead>
+		<tr>
+			<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="/images/Mdm%20valarmathi.jpg" alt="Mdm valarmathi.jpg" width="175" height="225">
+				<br>Mdm Valarmathi<br>
+				<a href="mailto:valarmathi_a@schools.gov.sg">valarmathi_a<br>@schools.gov.sg</a></a>
+				<br>
+			</th>
+			
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="/images/MR%20DARVINDER%20EDITER%20FINAL.jpg" alt="MR DARVINDER EDITER FINAL.jpg" width="175" height="225">
+				<br>Mr Darvinder Singh<br>
+				<a href="mailto:darvinder_singh_karam_singh@schools.gov.sg">darvinder_singh_karam<br>_singh@schools.gov.sg</a></a>
+				<br>
+			</th>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img>
+				<br>
+				<br></a>
+				<br>
+			</th>
+</tr>
+	</thead>
 
 
-
-
-### Tamil Language Teachers
-
-
-
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 563px" class="tg"><colgroup><col style="width: 199px"><col style="width: 186px"><col style="width: 178px"></colgroup><thead><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Mdm%20valarmathi.jpg" alt="Mdm valarmathi.jpg" width="166" height="248"><br><span style="font-weight:400;color:#162837">Mdm Valarmathi</span><br><br><a href="mailto:valarmathi_a@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">valarmathi_a</span></a><br><a href="mailto:valarmathi_a@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></td><td style="border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/MR%20DARVINDER%20EDITER%20FINAL.jpg" alt="MR DARVINDER EDITER FINAL.jpg" width="166" height="248"><br><span style="font-weight:400;color:#162837">Mr Darvinder Singh</span><br><br><a href="mailto:darvinder_singh_karam_singh@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">darvinder_singh_karam_singh</span></a><br><a href="mailto:darvinder_singh_karam_singh@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></td><td style="border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/1C%20Mdm%20Sundaram%20Sasikala%20cropped.jpg" alt="1C Mdm Sundaram Sasikala cropped.jpg" width="152" height="248"><br><span style="background-color:initial">Mdm Sundaram</span>   <span style="background-color:initial">Sasikala</span><br><span style="font-weight:400;color:#162837"> </span><br><span style="font-weight:400;color:#162837"> </span><a href="mailto:Sundaram_Sasikala@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">Sundaram_Sasikala@</span></a><br><a href="mailto:Sundaram_Sasikala@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">schools.gov.sg</span></a></td></tr></thead></table>
+	
