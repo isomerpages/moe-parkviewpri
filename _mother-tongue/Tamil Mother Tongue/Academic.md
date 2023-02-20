@@ -4,6 +4,47 @@ permalink: /mother-tongue/Tamil-Mother-Tongue/academic/
 description: ""
 third_nav_title: Tamil Mother Tongue
 ---
-<h1><b>Academic</b></h1>
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Activities / Programmes</th><th style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Objectives</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Model Oral Package<br></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Use appropriate vocabulary during conversation &amp; picture description<br>• Analyse ways to depict ideas shown in pictures and phrase them in simple Tamil that is easy to understand<br>• Develop proficiency to converse in Tamil</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Oral Vocabulary List</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Learn to use correct nouns &amp; verbs during picture description<br>• Develop proficiency to converse in Tamil</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Composition Package<br></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Grasp technique on using interesting words &amp; phrases appropriately in compositions<br>• Experience writing on different scenerios within experience<br>• Enhance writing skills through developing ideas using the various techniques taught</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Interesting Words &amp; Phrases List</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Learn interesting words &amp; phrases and use them appropriately in compositions<br>• Enhance writing skills through usage of interesting words &amp; phrases</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Synonyms List</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Understand the meanings of common synonyms<br>• Learn the usages of common synonyms in sentences under different contexts</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Proverbs List</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Learn proverbs listed in curriculum &amp; understand their meanings</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Progressive Comprehension<br>Package<br></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Grasp skills to depict main ideas in comprehension passages<br>• Acquire confidence in answering questions that vary over a range of difficulty levels</td></tr></tbody></table>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<table style="width:100%">
+<thead>
+<tr>
+<th>Activities / Programmes</th>
+<th>Objectives</th></tr></thead>
+<tbody>
+<tr>
+	<td>Model Oral Package</td>
+	<td>
+    <ul>
+    <li>Use appropriate vocabulary during conversation &amp; picture description</li>
+    <li>Analyse ways to depict ideas shown in pictures and phrase them in simple Tamil that is easy to understand</li>
+    <li>Develop proficiency to converse in Tamil</li></ul>
+    </td></tr><tr><td>Oral Vocabulary List</td>
+<td>
+	<ul>
+	<li>Learn to use correct nouns &amp; verbs during picture description</li>
+	<li> Develop proficiency to converse in Tamil</li></ul>
+</td></tr><tr><td>Composition Package</td>
+<td><ul>
+	<li>Grasp technique on using interesting words &amp; phrases appropriately in compositions</li>
+    <li>Experience writing on different scenerios within experience</li>
+    <li>Enhance writing skills through developing ideas using the various techniques taught</li></td></tr>
+<tr><td>Interesting Words & Phrases List</td><td>
+<ul><li>Learn interesting words & phrases and use them appropriately in compositions</li>
+    <li>Enhance writing skills through usage of interesting words & phrases</li></ul>
+</td></tr><tr><td>Synonyms List</td>
+<td><ul>
+<li>Understand the meanings of common synonyms</li>
+    <li>Learn the usages of common synonyms in sentences under different contexts</li></ul>
+    </td></tr><tr>
+<td>Proverbs List</td>
+<td><ul><li>Learn proverbs listed in curriculum & understand their meanings</li></ul></td></tr>
+<tr>
+<td>Progressive Comprehension Package</td>
+<td><ul><li>Grasp skills to depict main ideas in comprehension passages</li>
+    <li>Acquire confidence in answering questions that vary over a range of difficulty levels</li></ul></td></tr>
+</tbody>
+</table>
