@@ -54,7 +54,77 @@ table, th, td {
 
 ### Indoor Activities - Cultural
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Cultural</th><th style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Objectives</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">MTL Fortnight Cultural Activity<br>• Pot-Painting / Agal Vilakku (Clay Lamp) Painting</td><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Understand the significance of Pongal in Indian culture<br>• Design their own Pongal Pots / Agal Vilakku and get to bring their ‘designer’ pots / vilakku back home<br>• Bring forth their artistic talents through designing their own Pongal Pot / Agal Vilakku<br>• Enhance their creativity<br>• Take pride in creating a self-designed Pongal pot / Agal Vilakku</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">MTL Fortnight Cultural Activity<br>• Indian Traditional Games Workshop</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Learn some traditional indoor and outdoor games<br>• Bring forth their talents in playing these traditional games<br>• Develop skills like strategy, logical thinking, concentration<br>• Be a better team player<br>• Have an awareness on Tamil Language and its culture through fun-filled games<br>• Learn how traditional Indian games are a good form of physical and mental exercise</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">MTL Fortnight Cultural Activity<br>• Cultural Camp</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Familiarize pupils with Indian Culture<br>• Give pupils an opportunity to be able to learn outside classroom<br>• Expose pupils to the art of flower tying and kolam designing<br>• Create an opportunity for pupils to have a feel of learning traditional Indian music &amp; centre broadcast</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Recess Activities(Odd Weeks)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Experience the cultural aspects of the language</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Deepavali Fiesta (Recess Activities) / Deepavali Show (Hall Celebrations)<br></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Experience the cultural aspects of the festival<br>• Learn to appreciate the culture of other races<br>• Cultivate tolerance level amongst the multi-racial &amp; multi-ethnic society prevalent in Singapore<br>• Get an opportunity to try on &amp; purchase traditional accessories (Ornaments, Henna cones, etc) &amp; goodies (Murukku, Sweetmeat, etc)<br>• Acquire hands-on experience of preparing some traditional delicacies<br>• Indulge in traditional artwork (Henna designing, Rangoli designing, etc)<br>• Create an awareness on the traditional beliefs &amp; practices associated with the festival<br>• Get visual impact via various performances</td></tr></tbody></table>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<table style="width:100%">
+<thead>
+<tr>
+<th>Cultural</th>
+<th>Objectives</th></tr></thead>
+<tbody>
+<tr>
+<td>MTL Fortnight Cultural Activity<ul><li>Pot-Painting / Agal Vilakku (Clay Lamp) Painting</li></ul></td>
+<td>
+    <ul>
+    <li>Understand the significance of Pongal in Indian culture</li>
+    <li>Design their own Pongal Pots / Agal Vilakku and get to bring their ‘designer’ pots / vilakku back home</li>
+    <li>Bring forth their artistic talents through designing their own Pongal Pot / Agal Vilakku</li>
+    <li>Enhance their creativity</li> 
+    <li>Take pride in creating a self-designed Pongal pot / Agal Vilakku</li> 
+    </ul>
+</td>
+</tr>
+<tr>
+<td>MTL Fortnight Cultural Activity<ul><li>Indian Traditional Games Workshop</li></ul></td>
+<td>
+    <ul>
+    <li>Learn some traditional indoor and outdoor games</li>
+    <li>Bring forth their talents in playing these traditional games</li>
+    <li>Develop skills like strategy, logical thinking, concentration</li>
+    <li>Be a better team player</li> 
+    <li>Have an awareness on Tamil Language and its culture through fun-filled games</li> 
+    <li>Learn how traditional Indian games are a good form of physical and mental exercise</li>     
+    </ul>
+</td>
+</tr>
+<tr>
+<td>MTL Fortnight Cultural Activity<ul><li>Cultural Campg</li></ul></td>
+<td>
+    <ul>
+    <li>Familiarize pupils with Indian Culture</li>
+    <li>Give pupils an opportunity to be able to learn outside classroom</li>
+    <li>Expose pupils to the art of flower tying and kolam designing</li>
+    <li>Create an opportunity for pupils to have a feel of learning traditional Indian music & centre broadcast</li> 
+    </ul>
+</td>
+</tr>
+<tr>
+<td>Recess Activities<br>(Odd Weeks)</td>
+<td>
+    <ul>
+    <li>Experience the cultural aspects of the language</li>   
+    </ul>
+</td>
+</tr>
+<tr>
+<td>Deepavali Fiesta<br>(Recess Activities) / Deepavali Show (Hall Celebrations)</td>
+<td>
+    <ul>
+    <li>Experience the cultural aspects of the festival</li>
+    <li>Learn to appreciate the culture of other races</li>
+    <li>Cultivate tolerance level amongst the multi-racial & multi-ethnic society prevalent in Singapore</li>
+    <li>Get an opportunity to try on & purchase traditional accessories (Ornaments, Henna cones, etc) & goodies (Murukku, Sweetmeat, etc)</li> 
+    <li>Indulge in traditional artwork (Henna designing, Rangoli designing, etc)</li> 
+    <li>Create an awareness on the traditional beliefs & practices associated with the festival</li>
+    <li>Get visual impact via various performances</li>
+    </ul>
+</td>
+</tr>
+</tbody>
+</table>
 
 ### Outdoor Activities - Academic
 
