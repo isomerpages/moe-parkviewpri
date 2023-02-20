@@ -160,4 +160,42 @@ table, th, td {
 
 ### Outdoor Activities - Cultural
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Cultural</th><th style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Objectives</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Learning Journey to<br>Harvest Festival (Pongal) at Little India<br></td><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Discover the educational aspects of the Harvest Festival (Ponggal)<br>• Get an awareness of the Cultural and Social aspect of the Festival<br>• See and learn about the traditional ways in which the Harvest Festival is celebrated by all Indians in Singapore homes<br>• Discover the rich and vibrant Indian heritage<br>• Come in close contact with live cows and learn about their significance in the Harvest Festival<br>• Acquire additional knowledge about the Harvest Festival</td></tr><tr><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Amazing Race @<br>Little India<br></td><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Get an awareness of the Indian culture and traditions by visiting some of the shops that depict these aspects<br>• Discover the rich and vibrant Indian heritage<br>• See and learn about the ways traditional vegetarian cuisines are prepared and served<br>• Indulge in the tastes of traditional vegetarian meal on banana leaf<br>• Develop better communication skills when they interact with the sales personnels in the shops</td></tr><tr><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Learning Journey to<br>Festivals of Indian<br>Ethnic Groups<br></td><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Have an awareness on the richness of Indian culture<br>• Learn about the various Indian culture and traditions of the different language groups<br>• Have hands-on experience playing games and participating in quizzes<br>• Participate and experience the richness of Indian culture<br>• Experience outdoor learning</td></tr><tr><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Learning Journey to<br>Hari Raya Bazaar<br></td><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Discover the educational aspects of Hari Raya Puasa<br>• Get an awareness of the Cultural and Social aspect of the Festival<br>• Discover the rich and vibrant Muslim heritage<br>• Learn the significance &amp; acquire additional knowledge about Hari Raya celebration in a multi-racial society</td></tr><tr><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Learning Journey to<br>Deepavali Fair<br></td><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Have an awareness on the richness of Indian culture<br>• Learn about the various Indian culture and traditions of the different language groups<br>• Understand the customary practices<br>• Know more about the traditional costumes, accessories, etc<br>• Have an opportunity to contribute to the less fortunate through SINDA (Donating at the ‘Project Give’ booths</td></tr></tbody></table>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<table style="width:100%">
+<thead>
+<tr>
+<th>Cultural</th>
+<th>Objectives</th></tr></thead>
+<tbody>
+<tr>
+<td>Learning Journey to Indian Heritage Centre
+</td>
+<td>
+    <ul>
+    <li>Discover the rich and vibrant Indian heritage</li>
+    <li>Learn more about the origins of our history and way of life</li>
+    <li>Have hands-on experience playing games and participating in quizzes</li>
+    <li>Participate and experience the richness of Indian culture</li> 
+    <li>Experience outdoor learning</li> 
+    </ul>
+</td>
+</tr>
+<tr>
+<td>Learning Journey to Deepavali Fair
+</td>
+<td>
+    <ul>
+    <li>Have an awareness on the richness of Indian culture</li>
+    <li>Learn about the various Indian culture and traditions of the different language groups</li>
+    <li>Understand the customary practices</li>
+    <li>Know more about the traditional costumes, accessories, etc</li> 
+    <li>Have an opportunity to contribute to the less fortunate through SINDA (Donating at the ‘Project Give’ booths</li>    
+    </ul>
+</td>
+</tr>
+</tbody>
+</table>
