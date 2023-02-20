@@ -6,7 +6,51 @@ third_nav_title: Tamil Mother Tongue
 ---
 ### Indoor Activities - Academic
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Academic</th><th style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Objectives</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Reading Mum Programme<br></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Enhance reading skills<br>• Boost confidence in picture description</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Buddy Reading Programme</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Enhance reading skills through peer coaching</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">MTL Fortnight Cultural Activities<br></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Acquire &amp; enjoy the literacy aspect of the language<br>• Showcase talents through various literacy activities &amp; competitions</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Recess Activities<br>(Odd Weeks)<br></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Experience the rich literacy of the language</td></tr></tbody></table>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<table style="width:100%">
+<thead>
+<tr>
+<th>Aacdemic</th>
+<th>Objectives</th></tr></thead>
+<tbody>
+<tr>
+<td>Reading Mum Programme</td>
+<td>
+    <ul>
+    <li>Enhance reading skills</li>
+    <li>Boost confidence in picture description</li>  
+    </ul>
+</td>
+</tr>
+<tr>
+<td>Buddy Reading Programme</td>
+<td>
+    <ul>
+    <li>Enhance reading skills through peer coaching</li>  
+    </ul>
+</td>
+</tr>
+<tr>
+<td>MTL Fortnight Cultural Activities</td>
+<td>
+    <ul>
+    <li>Acquire & enjoy the literacy aspect of the language</li>
+    <li> Showcase talents through various literacy activities & competitions</li>  
+    </ul>
+</td>
+</tr>
+<tr>
+<td>Recess Activities<br>(Odd Weeks)</td>
+<td>
+    <ul>
+    <li>Experience the rich literacy of the language</li>  
+    </ul>
+</tbody>
+</table>
 
 ### Indoor Activities - Cultural
 
