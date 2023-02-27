@@ -4,4 +4,79 @@ permalink: /about-us/our-people/executive-and-administrative-staff-eas/
 description: ""
 third_nav_title: Our People
 ---
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 729px" class="tg"><colgroup><col style="width: 241px"><col style="width: 240px"><col style="width: 248px"></colgroup><thead><tr><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Mdm%20Teo%20Chui%20Ping.jpg" alt="tn.Mdm Teo Chui Ping_optimisedforweb.jpg.2.jpg" width="176" height="263"><br><span style="font-weight:bold;font-style:inherit">Mdm Teo Chui Ping</span><br><span style="font-weight:400;font-style:inherit;color:#162837">Administration Manager</span><br><a href="mailto:Teo_Chui_ping@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#08A7F0">Teo_Chui_ping</span></a><br><a href="mailto:Teo_Chui_ping@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Mr_Ng_Tee_Tee.jpg" alt="tn.Mr_Ng_Tee_Tee_optimisedforweb.jpg.2.jpg" width="176" height="263"><br><span style="font-weight:bold;font-style:inherit">Mr Ng Tee Tee</span><br><span style="font-weight:400;font-style:inherit;color:#162837">Operations Manager</span><br><a href="mailto:ng_tee_tee@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#08A7F0">ng_tee_tee</span></a><br><a href="mailto:ng_tee_tee@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Mdm_Nurul_Aony_Binte_Suhaimi.jpg" alt="tn.Mdm_Nurul_Aony_Binte_Suhaimi_optimisedforweb.jpg.2.jpg" width="176" height="263"><br><span style="font-weight:bold;font-style:inherit">Mdm Nurul Ainy</span><br><span style="font-weight:bold;font-style:inherit">Binte Suhaimi</span><br><span style="font-weight:400;font-style:inherit;color:#162837">Administrative Executive</span><br><a href="mailto:nurul_ainy_suhaimi@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#08A7F0">nurul_ainy_suhaimi</span></a><br><a href="mailto:nurul_ainy_suhaimi@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#08A7F0">schools.gov.sg</span></a></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Fok%20Lai%20Beng%20Jenny.jpg" alt="Fok Lai Beng Jenny_optimisedforweb.jpg" width="176" height="263"><br><span style="font-weight:bold;font-style:inherit">Miss Fok Lai</span><br><span style="font-weight:bold;font-style:inherit">Beng Jenny</span><br><span style="font-weight:400;font-style:inherit;color:#162837">Corporate support officer</span><br><a href="mailto:fok_lai_beng@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#08A7F0">fok_lai_beng</span></a><br><a href="mailto:fok_lai_beng@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Sanjevita_Martin_optimisedforweb.jpg" alt="Sanjevita_Martin_optimisedforweb.jpg" width="176" height="263"><br><span style="font-weight:bold;font-style:inherit">Miss Sanjevita Martin</span><br><span style="font-weight:400;font-style:inherit;color:#162837">ICT Manager</span><br><br><a href="mailto:sanjevita_martin_rubin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#08A7F0">sanjevita_martin_rubin</span></a><br><a href="mailto:sanjevita_martin_rubin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Mdm_Lee_Gek_Yeong_Irene_optimisedforweb.jpg" alt="tn.Mdm_Lee_Gek_Yeong_Irene_optimisedforweb.jpg.2.jpg" width="176" height="263"><br><span style="font-weight:bold;font-style:inherit">Mdm Lee Gek</span><br><span style="font-weight:bold;font-style:inherit">Yeong Irene</span><br><span style="font-weight:400;font-style:inherit;color:#162837">Corporate Support Officer</span><br><a href="mailto:lee_gek_yeong@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#08A7F0">lee_gek_yeong</span></a><br><a href="mailto:lee_gek_yeong@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></td></tr><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Mdm_Asleena_Bte_Adbul_Hamid_optimisedforweb.jpg" alt="tn.Mdm_Asleena_Bte_Adbul_Hamid_optimisedforweb.jpg.2.jpg" width="176" height="263"><br><span style="font-weight:bold;font-style:inherit">Mdm Asleena Bte</span><br><span style="font-weight:bold;font-style:inherit">Abdul Hamid</span><br><span style="font-weight:400;font-style:inherit;color:#162837">Operations Support Officer</span></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Mdm%20Kamariah.jpg" alt="Mdm Kamariah .jpg" width="176" height="263"><br><span style="font-weight:bold;font-style:inherit">Mdm Kamariah</span><br><span style="font-weight:bold;font-style:inherit">Bte Abdullah</span><br><span style="font-weight:400;font-style:inherit;color:#162837">Operations Support Officer</span></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Mr_Abdul_Rashid%20Lim_optimisedforweb.jpg" alt="tn.Mr_Abdul_Rashid Lim_optimisedforweb.jpg.2.jpg" width="176" height="263"><br><span style="font-weight:bold;font-style:inherit">Mr Abdul Rashid Lim</span><br><span style="font-weight:400;font-style:inherit;color:#162837">Operations Support Officer</span></td></tr><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Mr_Seu_Kum_Kwing,Ronnie_optimisedforweb.jpg" alt="tn.Mr_Seu_Kum_Kwing,Ronnie_optimisedforweb.jpg.2.jpg" width="176" height="263"><br><span style="font-weight:bold;font-style:inherit">Mr Ronnie Seu</span><br><span style="font-weight:bold;font-style:inherit">Kum Kwong</span><br><span style="font-weight:400;font-style:inherit;color:#162837">Operations Support Officer</span></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="/images/Lee%20Been%20Lan_optimisedforweb.jpg" alt="Lee Been Lan_optimisedforweb.jpg" width="176" height="263"><br><span style="font-weight:bold;font-style:inherit">Mdm Lee Bee Lan</span><br><span style="font-weight:400;font-style:inherit;color:#162837">Operations Support Officer</span></td><td style="border-color:#ffffff;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr></tbody></table>
+
+<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px" class="tg">
+	<thead>
+		<tr>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="" width="175" height="225">
+				<br>Mdm Teo Chui Ping<br><br>Administration Manager<br>
+				<br>
+				<a href="mailto:teo_chui_ping@schools.gov.sg">teo_chui_ping<br>@schools.gov.sg</a></a><br>
+</th>
+			
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="" width="175" height="225">
+				<br>Mr Ng Tee Tee<br><br>Operations Manager<br><br><br>
+				<a href="mailto:ng_tee_tee@schools.gov.sg">ng_tee_tee<br>@schools.gov.sg</a></a><br>
+</th>
+			
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="" width="175" height="225">
+				<br>Miss Sanjevita Martin<br><br>ICT Manager<br><br>
+				<br>
+				<a href="mailto:sanjevita_martin_rubin@schools.gov.sg">sanjevita_martin_rubin<br>@schools.gov.sg</a></a><br>
+</th></tr>
+	</thead>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="" width="175" height="225">
+				<br>Mdm Nurul Ainy<br>Binte Suhaimi<br><br>Administrative Executive<br>
+				<br>
+				<a href="mailto:nurul_ainy_suhaimi@schools.gov.sg">nurul_ainy_suhaimi<br>@schools.gov.sg</a></a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="" width="175" height="225">
+				<br>Miss Fok Lai<br>Beng Jenny<br><br>Corporate support officer<br><br>
+				<a href="mailto:fok_lai_beng@schools.gov.sg">fok_lai_beng<br>@schools.gov.sg</a></a><br>
+</th>
+			
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="" width="175" height="225">
+				<br>Mdm Lee Gek<br>Yeong Irene<br><br>Corporate Support Officer<br><br>
+				<a href="mailto:lee_gek_yeong@schools.gov.sg">lee_gek_yeong<br>@schools.gov.sg</a></a><br>
+</th>			
+			</tbody>
+			</table>
+			
+### Operational Support Officers
+
+<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px" class="tg">
+	<thead>
+		<tr>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="" width="175" height="225">
+				<br>Mdm Asleena Bte Abdul Hamid<br><br>
+</th>
+			
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="" width="175" height="225">
+				<br>Mdm Kamariah Bte Abdullah<br><br>
+</th>
+			
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="" width="175" height="225">
+				<br>Mr Abdul Rashid Lim<br><br>
+</th></tr>
+	</thead>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="" width="175" height="225">
+				<br>Mr Ronnie Seu Kum Kwong<br><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="" width="175" height="225">
+				<br>Mdm Lee Bee Lan<br><br>
+</th>
