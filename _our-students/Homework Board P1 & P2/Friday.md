@@ -14,7 +14,7 @@ src="/images/Our%20Students/HW%20Board/Friday/4.jpeg" alt="" style="width:70%"><
 <img src="/images/Our%20Students/HW%20Board/Friday/5.jpeg" alt="" style="width:70%"><br>
 <img
 src="/images/Our%20Students/HW%20Board/Friday/6.jpeg" alt="" style="width:70%"><br>
-<img src="/images/Our%20Students/HW%20Board/Friday/7.jpeg" alt="" style="width:70%"><br>
+<img src="/images/Our%20Students/HW%20Board/Friday/7.jpeg" alt="" style="width:70%">
 	
 <h3>Primary 2</h3>
 <img src="/images/Our%20Students/HW%20Board/Friday/8.jpeg" alt="" style="width:70%"><br>
@@ -25,7 +25,7 @@ src="/images/Our%20Students/HW%20Board/Friday/9.jpeg" alt="" style="width:70%"><
 src="/images/Our%20Students/HW%20Board/Friday/11.jpeg" alt="" style="width:70%"><br>
 <img src="/images/Our%20Students/HW%20Board/Friday/12.jpeg" alt="" style="width:70%"><br>
 <img
-src="/images/Our%20Students/HW%20Board/Friday/13.jpeg" alt="" style="width:70%"><br>
+src="/images/Our%20Students/HW%20Board/Friday/13.jpeg" alt="" style="width:70%">
 
 <h3>MT Tamil</h3>
 <img src="/images/Our%20Students/HW%20Board/Friday/14.jpeg" alt="" style="width:70%"><br>
