@@ -16,7 +16,7 @@ src="/images/Our%20Students/HW%20Board/Tuesday/4.jpeg" alt="" style="width:70%">
 src="/images/Our%20Students/HW%20Board/Tuesday/6.jpeg" alt="" style="width:70%"><br>
 <img src="/images/Our%20Students/HW%20Board/Tuesday/7.jpeg" alt="" style="width:70%">
 	
-<h3><center>Primary 2</h3></center>
+<h3><center>Primary 2</center></h3>
 <img src="/images/Our%20Students/HW%20Board/Tuesday/8.jpeg" alt="" style="width:70%"><br>
 <img
 src="/images/Our%20Students/HW%20Board/Tuesday/9.jpeg" alt="" style="width:70%"><br>
