@@ -9,7 +9,7 @@ third_nav_title: Our People
 		<tr>
 			<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="" alt="" width="175" height="225">
-				<br>Ms Ivy Rose<br><br>ICT Trainer
+				<br><br><br>ICT Trainer
 				<br>
 			</th>
 			
@@ -38,4 +38,3 @@ third_nav_title: Our People
 				<br>Mdm Minachi<br><br>Teacher Assistant (Sci)
 				<br>
 </th>
-
