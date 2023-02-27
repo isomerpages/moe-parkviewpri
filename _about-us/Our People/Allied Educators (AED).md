@@ -4,4 +4,32 @@ permalink: /about-us/our-people/allied-educators-aed/
 description: ""
 third_nav_title: Our People
 ---
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="https://staging.dtkb9ih383sl3.amplifyapp.com/images/Mrs_Felicia_Tan_optimisedforweb.jpg" alt="Mrs_Felicia_Tan_optimisedforweb.jpg" width="196" height="295"><br><span style="font-weight:bold;font-style:inherit">Ms Felicia Tan Chuan</span><br><span style="font-weight:bold;font-style:inherit">Siang</span><br><span style="font-weight:400;font-style:inherit;color:#162837">Senior SEN officer</span><br><a href="mailto:tan_chuan_siang@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#08A7F0">tan_chuan_siang</span></a><br><a href="mailto:tan_chuan_siang@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="https://staging.dtkb9ih383sl3.amplifyapp.com/images/Mdm%20Chong%20Yi-Tinn_optimisedforweb.jpg" alt="Mdm Chong Yi-Tinn_optimisedforweb.jpg" width="195" height="291"><br><span style="font-weight:bold;font-style:inherit">Mdm Chong Yi-Tinn</span><br><span style="font-weight:400;font-style:inherit;color:#162837">AED (Counselling)</span><br><br><a href="mailto:chong_yi-tinn@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#08A7F0">chong_yi-tinn</span></a><br><a href="mailto:chong_yi-tinn@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><img src="https://staging.dtkb9ih383sl3.amplifyapp.com/images/Ms%20Janice%20Cheng%20Lai%20May_optimisedforweb.jpg" alt="Ms Janice Cheng Lai May_optimisedforweb.jpg" width="208" height="310"><br><span style="font-weight:bold;font-style:inherit">Ms Janice Cheng</span><br><span style="font-weight:bold;font-style:inherit">Lai May</span><br><span style="font-weight:400;font-style:inherit;color:#162837">SEN officer</span><br><a href="mailto:janice_cheng_lai_may@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#08A7F0">janice_cheng_lai_</span></a><br><a href="mailto:janice_cheng_lai_may@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:underline;color:#08A7F0">may@schools.gov.sg</span></a></td></tr></thead></table>
+<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px" class="tg">
+	<thead>
+		<tr>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="" width="175" height="225">
+				<br>Ms Felicia Tan Chuan Siang<br><br>Senior SEN officer<br><br>
+				<a href="mailto:tan_chuan_siang@schools.gov.sg">tan_chuan_siang<br>@schools.gov.sg</a></a><br>
+</th>
+			
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="" width="175" height="225">
+				<br>Mdm Chong Yi-Tinn<br><br><br>AED (Counselling)<br><br>
+				<a href="mailto:chong_yi-tinn@schools.gov.sg">chong_yi-tinn<br>@schools.gov.sg</a></a><br>
+</th>
+			
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="" width="175" height="225">
+				<br>Ms Janice Cheng Lai May<br><br>SEN officer<br><br>
+				<a href="mailto:janice_cheng_lai_may@schools.gov.sg">janice_cheng_lai_may<br>@schools.gov.sg</a></a><br>
+</th></tr>
+	</thead>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="" width="175" height="225">
+				<br>Ms Amirah Binte Azlan<br><br>SEN officer<br><br>
+				<a href="mailto:Amirah_Azlan@schools.gov.sg">amirah_azlan<br>@schools.gov.sg</a></a><br>
+</th>
+
+            
