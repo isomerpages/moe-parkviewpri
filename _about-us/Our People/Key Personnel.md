@@ -73,7 +73,6 @@ third_nav_title: Our People
 				<br>
 </th>
 			</tr>
-			</tbody>
 			</table>
 
 ### Year Heads
