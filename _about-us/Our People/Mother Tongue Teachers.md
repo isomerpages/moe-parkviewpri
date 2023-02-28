@@ -157,10 +157,6 @@ third_nav_title: Our People
 				<br>
 			</th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img>
-				<br>
-				<br></a>
-				<br>
 			</th>
 </tr>
 	</thead>
