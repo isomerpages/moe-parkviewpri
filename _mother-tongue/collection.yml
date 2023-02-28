@@ -1,0 +1,22 @@
+collections:
+  mother-tongue:
+    output: true
+    order:
+      - Chinese Mother Tongue/我们的骄傲.md
+      - Chinese Mother Tongue/各项活动.md
+      - Chinese Mother Tongue/学习资源.md
+      - Chinese Mother Tongue/执教老师.md
+      - Chinese Mother Tongue/English Version.md
+      - Chinese Mother Tongue/.keep
+      - Malay Mother Tongue/Our Teachers.md
+      - Malay Mother Tongue/Programmes.md
+      - Malay Mother Tongue/Enrichment.md
+      - Malay Mother Tongue/Useful Resources.md
+      - Malay Mother Tongue/Assessment.md
+      - Malay Mother Tongue/.keep
+      - Tamil Mother Tongue/Academic.md
+      - Tamil Mother Tongue/Programmes.md
+      - Tamil Mother Tongue/Hall of fame.md
+      - Tamil Mother Tongue/Gallery.md
+      - Tamil Mother Tongue/Useful Links.md
+      - Tamil Mother Tongue/.keep

@@ -1,32 +1,24 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Park View Primary
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Park View Primary School
+      background: /images/pvps.gif
+      button: Contact Us
+      url: /contact-us/
+      key_highlights:
+        - title: Latest News
+          description: ""
+          url: ""
+        - title: Letters to Parents
+          description: Letters to Parents - 05
+          url: /files/2023%20Letter%20to%20Parents/PVPS-2023-05.pdf
+        - title: Homework Board
+          description: Click to view the HW board
+          url: /our-students/homework-board-p1-n-p2/
 ---
-

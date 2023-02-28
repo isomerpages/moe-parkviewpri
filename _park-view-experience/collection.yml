@@ -1,0 +1,20 @@
+collections:
+  park-view-experience:
+    output: true
+    order:
+      - E book.md
+      - Programme for Active Learning/Programme for Active Learning (PAL).md
+      - Programme for Active Learning/Visual Arts Module.md
+      - Programme for Active Learning/Outdoor Education Module.md
+      - Programme for Active Learning/Sports and Creative Movements Module.md
+      - Programme for Active Learning/.keep
+      - Applied Learning Programme.md
+      - PVPS 25th Anniversary.md
+      - Park View Gallery/2023.md
+      - Park View Gallery/2022.md
+      - Park View Gallery/2021.md
+      - Park View Gallery/2020.md
+      - Park View Gallery/2019.md
+      - Park View Gallery/2018.md
+      - Park View Gallery/Video Gallery.md
+      - Park View Gallery/.keep
