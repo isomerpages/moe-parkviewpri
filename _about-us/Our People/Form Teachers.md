@@ -295,14 +295,88 @@ Mr Lee Eng Tiong<br>
 </tr>
 </tbody></table>
 
+#### Primary 4
 
+<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px">
 
-### Primary 4
+<tbody><tr>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>4 Respect<br>(4R1)<br>
+<img height="225" width="175" src="">
+Mr Muslim Bin Mohamed Amin<br>
+<a href="mailto:muslim_mohamed_amin@schools.gov.sg">muslim_mohamed_amin<br>@schools.gov.sg</a><br>
+</th>
 
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>4 Respect<br>(4R1)<br>
+<img height="225" width="175" src="">
+Mdm Teo Siew Yeun<br>
+<a href="mailto:teo_siew_yeun@schools.gov.sg">teo_siew_yeun<br>@schools.gov.sg</a><br>
+</th>
 
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>4 Responsibility<br>(4R2)<br>
+<img height="225" width="175" src="">
+Miss Emily Ambrose<br>
+<a href="mailto:Emily_Ambrosey@schools.gov.sg">emily_ambrose<br>@schools.gov.sg</a><br>
+</th>
+	
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>4 Responsibility<br>(4R2)<br>
+<img height="225" width="175" src="">
+Mdm Kimberly Jean Aeria<br>
+<a href="mailto:kimberly_jean_aeria@schools.gov.sg">kimberly_jean_aeria<br>@schools.gov.sg</a><br>
+</th>
+</tr>
 
+<tr>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>4 Resilience<br>(4R3)<br>
+<img height="225" width="175" src="">
+Mrs Ling<br>
+<a href="mailto:julie_wong@schools.gov.sg">julie_wong<br>@schools.gov.sg</a><br>
+</th>
 
-<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 859px"><colgroup><col style="width: 212px"><col style="width: 220px"><col style="width: 215px"><col style="width: 212px"></colgroup><thead><tr><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4 Respect(4R1)<br><img height="266" width="175" alt="muslim_optimisedforweb.jpg" src="/images/muslim_optimisedforweb.jpg"><br><span style="background-color:initial">Mr Muslim Bin </span><br>Mohamed Amin<br><br><a rel="noopener noreferrer" target="_blank" href="mailto:muslim_mohamed_amin@schools.gov.sg"><span style="text-decoration:underline;color:#08A7F0">muslim_mohamed_<br>amin@schools.gov.sg</span></a></th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4Respect(4R1)<br><img height="265" width="177" alt="Mdm_Teo_Siew_Yeun_optimisedforweb.jpg" src="/images/Mdm_Teo_Siew_Yeun_optimisedforweb.jpg"><br><span style="font-weight:400;color:#162837">Mdm Teo Siew Yeun</span><br><br><a rel="noopener noreferrer" target="_blank" href="mailto:teo_siew_yeun@schools.gov.sg"><span style="text-decoration:underline;color:#08A7F0">teo_siew_yeun<br>@schools.gov.sg</span></a></th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4 Responsibility(4R2)<br><img height="263" width="175" alt="Emily ambrose_optimisedforweb.jpg" src="/images/Emily%20ambrose_optimisedforweb.jpg"><br><span style="background-color:initial">Miss Emily Amb</span>rose <br><br><a href="mailto:Emily_Ambrose@schools.gov.sg"><span style="text-decoration:underline;color:#08A7F0">Emily_Ambrose<br>@schools.gov.sg</span></a></th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4 Responsibility(4R2)<br><img height="262" width="157" alt="Miss Kimberly Jean Aeria 2 edited  cropped.jpg" src="/images/Miss%20Kimberly%20Jean%20Aeria%202%20edited%20%20cropped.jpg"><br><span style="font-weight:400;color:#162837">Mdm Kimberly</span><br><span style="font-weight:400;color:#162837">Jean Aeria</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:kimberly_jean_aeria@schools.gov.sg"><span style="text-decoration:underline;color:#08A7F0">kimberly_jean_aeria<br>@schools.gov.sg</span></a></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4 Resilience(4R3)<br><img height="269" width="175" alt="Mdm Julie Wong-Optimesed for web.jpg" src="/images/Mdm%20Julie%20Wong-Optimesed%20for%20web.jpg"><br><span style="background-color:initial">Mdm Julie Wong </span><br><span style="font-weight:400;color:#162837">(Mrs Ling)</span><br><a rel="noopener noreferrer" target="_blank" href="mailto:julie_wong@schools.gov.sg"><span style="text-decoration:underline;color:#08A7F0">julie_wong<br>@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4 Integrity(4I)<br><img height="270" width="180" alt="Ms Zatty 5.png" src="/images/zatty.jpg"><br><span style="background-color:initial">Mdm Zatty Sabrina Bte </span><br>Mohd Razif<br><br><a rel="noopener noreferrer" target="_blank" href="mailto:zatty_sabrina_mohd_razif@schools.gov.sg"><span style="text-decoration:underline;color:#08A7F0">zatty_sabrina_mohd_razif<br>@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4 Integrity(4I)<br><img height="270" width="175" alt="Mrs Helen Chong.jpg" src="/images/Mrs%20Helen%20Chong.jpg"><br><span style="background-color:initial">Mrs Helen Chong</span><br><br><br><a href="mailto:helen_low_kwee_fong@schools.gov.sg"><span style="text-decoration:underline;color:#08A7F0">helen_low_kwee_<br>fong@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4 Care(4C)<br><img height="269" width="175" alt="Kirthi_optimisedforweb.jpg" src="/images/Kirthi_optimisedforweb.jpg"><span style="background-color:initial">#Miss Kirthi Shihilpa</span><br>Pillai <br><br><br><a rel="noopener noreferrer" target="_blank" href="mailto:Kirthi_Shihlpa_Pillai@schools.gov.sg"><span style="text-decoration:underline;color:#08A7F0">Kirthi_Shihlpa_Pillai<br>@schools.gov.sg</span></a></td></tr><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4 Care(4C)<br><br><img height="278" width="162" alt="MdmHanim.jpeg" src="/images/MdmHanim.jpeg"><br><span style="font-weight:400;color:#162837">Mdm Norhanim</span><br><span style="font-weight:400;color:#162837">Bte Hashim</span><br><br><a rel="noopener noreferrer" target="_blank" href="mailto:norhanim_hashim@schools.gov.sg"><span style="text-decoration:underline;color:#08A7F0">norhanim_hashim<br>@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><br><br><br><br><br><br><br><br><br><br><br></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><br><br><br></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><br><br></td></tr></tbody></table>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>4 Integrity<br>(4I)<br>
+<img height="225" width="175" src="">
+Mdm Zatty Sabrina<br>
+<a href="mailto:zatty_sabrina_mohd_razif@schools.gov.sg">zatty_sabrina_mohd_razif<br>@schools.gov.sg</a><br>
+</th>
+	
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>4 Integrity<br>(4I)<br>
+<img height="225" width="175" src="">
+Mrs Helen Chong<br>
+<a href="mailto:helen_low_kwee_fong@schools.gov.sg">helen_low_kwee_fong<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>4 Care<br>(4C)<br>
+<img height="225" width="175" src="">
+Miss Kirthi Shihilpa Pillai<br>
+<a href="mailto:Kirthi_Shihlpa_Pillai@schools.gov.sg">kirthi_shihlpa_pillai<br>@schools.gov.sg</a><br>
+</th>
+</tr>
+
+<tr>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>4 Care<br>(4C)<br>
+<img height="225" width="175" src="">
+Mdm Norhanim Bte Hashim<br>
+<a href="mailto:norhanim_hashim@schools.gov.sg">norhanim_hashim<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+</th>
+</tr>
+</tbody></table>
 
 #### Primary 5
 
