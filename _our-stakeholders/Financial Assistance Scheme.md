@@ -20,32 +20,25 @@ b) His or her family’s per capita income (PCI) as at the time of application 
 
 <a href="/files/2023%20FAS/2022%20Financial%20Assistance%20Scheme%20FAS%20Brochure.pdf">Click Here</a> for more information on Financial Assistance Scheme (FAS) 2023<br>
 
+<b>Application form</b> can be obtained either from the School General Office or via the link below:<br><a href="/files/2023%20FAS/GGAS_Application%20Form.pdf">MOE FAS Application Form</a> <br>
 
-<b>Application form</b> can be obtained either from the School General Office or via the link below;
-[MOE FAS Application Form](/files/2023%20FAS/GGAS_Application%20Form.pdf)
-
-Application via hardcopy form is required for:
-
-a) families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)   
-b) family with more than 5 children in GGAS   
-c) family with more than 4 unmarried children not in GGAS   
-d) family with more than 3 grandparents in the household</font>
-
-<font face="arial, sans-serif" size="4">
-To apply for FAS 2023, interested students must submit the completed FAS application form by <b>4 November 2022</b>: </font>
-<font face="arial, sans-serif" size="4">
-	
-*   Send the hardcopy form and supporting documents to the school’s General Office; or
-*   Scan the form and all supporting documents, and email it to the school (Email address: [pvps@moe.edu.sg](mailto:pvps@moe.edu.sg)); or
-*   Submit the application via the eFAS Application: [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)</font>
+Application via hardcopy form is required for:<br>  
+a) families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)<br>  
+b) family with more than 5 children in GGAS<br>  
+c) family with more than 4 unmarried children not in GGAS<br>     
+d) family with more than 3 grandparents in the household<br>  
 
 
+To apply for FAS 2023, interested students must submit the completed FAS application form by <b>4 November 2022</b>: 
+
+<ul>	
+<li>Send the hardcopy form and supporting documents to the school’s General Office; or</li>
+<li>Scan the form and all supporting documents, and email it to the school (Email address: [pvps@moe.edu.sg](mailto:pvps@moe.edu.sg)); or</li>
+<li>Submit the application via the eFAS Application: <a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a></li></ul>
+<br>
 <img src="/images/QR%20Code.jpg" style="width:25%">
+<br>
 
-<font face="arial, sans-serif" size="4">
-	
-Thank you!   
-**_School Administration_**   
-**_Park View Primary School_**
+Thank you!<br>
+<b><i>School Administration<br>Park View Primary School</b></i>
 
-</font>
