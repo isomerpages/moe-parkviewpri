@@ -20,14 +20,16 @@ b) His or her family’s per capita income (PCI) as at the time of application 
 
 <a href="/files/2023%20FAS/2022%20Financial%20Assistance%20Scheme%20FAS%20Brochure.pdf">Click Here</a> for more information on Financial Assistance Scheme (FAS) 2023<br>
 
-<b>Application form</b> can be obtained either from the School General Office or via the link below:<br><a href="/files/2023%20FAS/GGAS_Application%20Form.pdf">MOE FAS Application Form</a> <br>
+<b>Application form</b> can be obtained either from the School General Office or via the link below:<br><a href="/files/2023%20FAS/GGAS_Application%20Form.pdf">MOE FAS Application Form</a><br>
 
-Application via hardcopy form is required for:<br>  
-a) families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)<br>  
-b) family with more than 5 children in GGAS<br>  
-c) family with more than 4 unmarried children not in GGAS<br>     
-d) family with more than 3 grandparents in the household<br>  
+Application via hardcopy form is required for:<br>
 
+<ul>
+<b> a.</b> families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others)<br>
+<b> b.</b> family with more than 5 children in GGAS<br>
+<b> c.</b> family with more than 4 unmarried children not in GGAS<br>
+<b> d.</b> family with more than 3 grandparents in the household
+</ul> 
 
 To apply for FAS 2023, interested students must submit the completed FAS application form by <b>4 November 2022</b>: 
 
@@ -41,4 +43,3 @@ To apply for FAS 2023, interested students must submit the completed FAS applica
 
 Thank you!<br>
 <b><i>School Administration<br>Park View Primary School</b></i>
-
