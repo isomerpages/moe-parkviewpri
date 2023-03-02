@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Park View Primary School
       background: /images/pvps.gif
       button: Contact Us
       url: /contact-us/
