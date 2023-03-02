@@ -22,8 +22,7 @@ A 3-prong approach – Support, Enrich and Stretch is adopted in achieving this 
 <img src="/images/Curriculum/Mother%20Tongue/MT_Table.jpg" style="width:100%">
 
 ### Strategies
-
-The strategies adopted by the department include:
+##### The strategies adopted by the department include:
 <ul>
 <li>Harness the use of varied strategies such as Cooperative Learning strategies and ICT in engaging students in their learning.</li>
 <li>Create platforms and opportunities that nurture students to be proficient users of the mother tongue language and develop their 21st century competencies.</li>
