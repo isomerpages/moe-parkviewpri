@@ -154,8 +154,9 @@ Mdm Shi Rui<br>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 <br>2 Resilience<br>(2R3)<br>
 <img height="225" width="175" src="">
-Mdm Zahrah Bte Md Abbasn<br>
-<a href="mailto:zahrah_mohamed_abbas@schools.gov.sg">zahrah_mohamed_<br>abbas<br>@schools.gov.sg</a><br>
+Mdm Zahrah Bte Md Abbas<br>
+<a href="mailto:zahrah_mohamed_abbas@schools.gov.sg">zahrah_
+mohamed_abbas<br>@schools.gov.sg</a><br>
 </th>
 
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
