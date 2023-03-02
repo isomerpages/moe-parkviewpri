@@ -146,7 +146,7 @@ Miss Khairina Binte Omar<br>
 <br>2 Responsibility<br>(2R2)<br>
 <img height="225" width="175" src="">
 Mdm Shi Rui<br>
-<a href="mailto:shi_rui@schools.gov.sg">shi_ruis<br>@schools.gov.sg</a>br&gt;
+<a href="mailto:shi_rui@schools.gov.sg">shi_ruis<br>@schools.gov.sg</a>
 </th>
 </tr>
 
@@ -155,7 +155,7 @@ Mdm Shi Rui<br>
 <br>2 Resilience<br>(2R3)<br>
 <img height="225" width="175" src="">
 Mdm Zahrah Bte Md Abbasn<br>
-<a href="mailto:zahrah\_mohamed\_abbas@schools.gov.sg">zahrah\_mohamed\_abbas<br>@schools.gov.sg</a><br>
+<a href="mailto:zahrah_mohamed_abbas@schools.gov.sg">zahrah_mohamed_<br>abbas<br>@schools.gov.sg</a><br>
 </th>
 
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
@@ -176,7 +176,7 @@ Mdm Shirin Bt Osman<br>
 <br>2 Integrity<br>(2I)<br>
 <img height="225" width="175" src="">
 Mdm Lim Hwee Tin Tina<br>
-<a href="mailto:lim_hwee_tin_a@schools.gov.sg">lim_hwee_tin_a<br>@schools.gov.sg</a><br>
+<a href="mailto:lim_hwee_tin_a@schools.gov.sg">lim_hwee_<br>tin_a<br>@schools.gov.sg</a><br>
 </th>
 </tr>
 
@@ -199,7 +199,7 @@ Mdm Yeo Peck Hui Patricia<br>
 <br>2 Harmony<br>(2H)<br>
 <img height="225" width="175" src="">
 Miss Lee Siew Kiang<br>
-<a href="mailto:lee_siew_kiang@schools.gov.sg">lee_siew_kiang<br>@schools.gov.sg</a><br>
+<a href="mailto:lee_siew_kiang@schools.gov.sg">lee_siew_<br>kiang<br>@schools.gov.sg</a><br>
 </th>
 
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
@@ -228,7 +228,7 @@ Miss June Quek<br>
 <br>3 Respect<br>(3R1)<br>
 <img height="225" width="175" src="">
 Ms Joyce Low<br>
-<a href="mailto:lu_huishu_joyce@schools.gov.sg">lu_huishu_joyce<br>@schools.gov.sg</a><br>
+<a href="mailto:lu_huishu_joyce@schools.gov.sg">lu_huishu_<br>joyce<br>@schools.gov.sg</a><br>
 </th>
 
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
@@ -258,21 +258,21 @@ Mr Azmi Bin Kasim<br>
 <br>3 Integrity<br>(3I)<br>
 <img height="225" width="175" src="">
 Mdm Nur Farizah Binte Roslan<br>
-<a href="mailto:nur_farizah_roslan@schools.gov.sg">nur_farizah_roslan<br>@schools.gov.sg</a><br>
+<a href="mailto:nur_farizah_roslan@schools.gov.sg">nur_farizah_<br>roslan<br>@schools.gov.sg</a><br>
 </th>
 	
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 <br>3 Integrity<br>(3I)<br>
 <img height="225" width="175" src="">
 Mdm Angeline Loo<br>
-<a href="mailto:loo_nga_hoonangeline@schools.gov.sg">loo_nga_hoonangeline<br>@schools.gov.sg</a><br>
+<a href="mailto:loo_nga_hoonangeline@schools.gov.sg">loo_nga_<br>hoonangeline<br>@schools.gov.sg</a><br>
 </th>
 
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 <br>3 Care<br>(3C)<br>
 <img height="225" width="175" src="">
 Miss Lee Shu Qi Charlene<br>
-<a href="mailto:lee_shu_qi_charlene@schools.gov.sg">lee_shu_qi_charlene<br>@schools.gov.sg</a><br>
+<a href="mailto:lee_shu_qi_charlene@schools.gov.sg">lee_shu_qi_<br>charlene<br>@schools.gov.sg</a><br>
 </th>
 </tr>
 
@@ -304,14 +304,14 @@ Mr Lee Eng Tiong<br>
 <br>4 Respect<br>(4R1)<br>
 <img height="225" width="175" src="">
 Mr Muslim Bin Mohamed Amin<br>
-<a href="mailto:muslim_mohamed_amin@schools.gov.sg">muslim_mohamed_amin<br>@schools.gov.sg</a><br>
+<a href="mailto:muslim_mohamed_amin@schools.gov.sg">muslim_mohamed_<br>amin<br>@schools.gov.sg</a><br>
 </th>
 
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 <br>4 Respect<br>(4R1)<br>
 <img height="225" width="175" src="">
 Mdm Teo Siew Yeun<br>
-<a href="mailto:teo_siew_yeun@schools.gov.sg">teo_siew_yeun<br>@schools.gov.sg</a><br>
+<a href="mailto:teo_siew_yeun@schools.gov.sg">teo_siew_<br>yeun<br>@schools.gov.sg</a><br>
 </th>
 
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
@@ -325,7 +325,7 @@ Miss Emily Ambrose<br>
 <br>4 Responsibility<br>(4R2)<br>
 <img height="225" width="175" src="">
 Mdm Kimberly Jean Aeria<br>
-<a href="mailto:kimberly_jean_aeria@schools.gov.sg">kimberly_jean_aeria<br>@schools.gov.sg</a><br>
+<a href="mailto:kimberly_jean_aeria@schools.gov.sg">kimberly_jean_<br>aeria<br>@schools.gov.sg</a><br>
 </th>
 </tr>
 
@@ -341,21 +341,21 @@ Mrs Ling<br>
 <br>4 Integrity<br>(4I)<br>
 <img height="225" width="175" src="">
 Mdm Zatty Sabrina<br>
-<a href="mailto:zatty_sabrina_mohd_razif@schools.gov.sg">zatty_sabrina_mohd_razif<br>@schools.gov.sg</a><br>
+<a href="mailto:zatty_sabrina_mohd_razif@schools.gov.sg">zatty_sabrina_<br>mohd_razif<br>@schools.gov.sg</a><br>
 </th>
 	
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 <br>4 Integrity<br>(4I)<br>
 <img height="225" width="175" src="">
 Mrs Helen Chong<br>
-<a href="mailto:helen_low_kwee_fong@schools.gov.sg">helen_low_kwee_fong<br>@schools.gov.sg</a><br>
+<a href="mailto:helen_low_kwee_fong@schools.gov.sg">helen_low_<br>kwee_fong<br>@schools.gov.sg</a><br>
 </th>
 
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 <br>4 Care<br>(4C)<br>
 <img height="225" width="175" src="">
 Miss Kirthi Shihilpa Pillai<br>
-<a href="mailto:Kirthi_Shihlpa_Pillai@schools.gov.sg">kirthi_shihlpa_pillai<br>@schools.gov.sg</a><br>
+<a href="mailto:Kirthi_Shihlpa_Pillai@schools.gov.sg">kirthi_shihlpa_<br>pillai<br>@schools.gov.sg</a><br>
 </th>
 </tr>
 
@@ -364,7 +364,7 @@ Miss Kirthi Shihilpa Pillai<br>
 <br>4 Care<br>(4C)<br>
 <img height="225" width="175" src="">
 Mdm Norhanim Bte Hashim<br>
-<a href="mailto:norhanim_hashim@schools.gov.sg">norhanim_hashim<br>@schools.gov.sg</a><br>
+<a href="mailto:norhanim_hashim@schools.gov.sg">norhanim_<br>hashim<br>@schools.gov.sg</a><br>
 </th>
 
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
@@ -387,7 +387,7 @@ Mdm Norhanim Bte Hashim<br>
 <br>5 Respect<br>(5R1)<br>
 <img height="225" width="175" src="">
 Mrs Ang<br>
-<a href="mailto:seah_sock_luang_adeline@schools.gov.sg">seah_sock_luang_adeline<br>@schools.gov.sg</a><br>
+<a href="mailto:seah_sock_luang_adeline@schools.gov.sg">seah_sock_<br>luang_adeline<br>@schools.gov.sg</a><br>
 </th>
 
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
@@ -401,14 +401,14 @@ Mrs Arul<br>
 <br>5 Responsibility<br>(5R2)<br>
 <img height="225" width="175" src="">
 Mdm Pavani D/O Krishna Samy<br>
-<a href="mailto:pavani_krishna_samy@schools.gov.sg">pavani_krishna_samy<br>@schools.gov.sg</a><br>
+<a href="mailto:pavani_krishna_samy@schools.gov.sg">pavani_krishna_<br>samy<br>@schools.gov.sg</a><br>
 </th>
 	
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 <br>5 Responsibility<br>(5R2)<br>
 <img height="225" width="175" src="">
 Mr Darvinder Singh<br>
-<a href="mailto:darvinder_singh_karam_singh@schools.gov.sg">darvinder_singh_karam_singh<br>@schools.gov.sg</a><br>
+<a href="mailto:darvinder_singh_karam_singh@schools.gov.sg">darvinder_singh_<br>karam_singh<br>@schools.gov.sg</a><br>
 </th>
 </tr>
 
@@ -417,7 +417,7 @@ Mr Darvinder Singh<br>
 <br>5 Resilience<br>(5R3)<br>
 <img height="225" width="175" src="">
 Mdm Farah Binte Abdul Rashid<br>
-<a href="mailto:farah_abdul_rashid@schools.gov.sg">farah_abdul_rashid<br>@schools.gov.sg</a><br>
+<a href="mailto:farah_abdul_rashid@schools.gov.sg">farah_abdul_<br>rashid<br>@schools.gov.sg</a><br>
 </th>
 
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
@@ -454,7 +454,7 @@ Mrs Lim<br>
 <br>5 Harmony<br>(5H)<br>
 <img height="225" width="175" src="">
 Mdm Nur Faizah Binte Abdan<br>
-<a href="mailto:nur_faizah_abdan@schools.gov.sg">nur_faizah_abdan<br>@schools.gov.sg</a><br>
+<a href="mailto:nur_faizah_abdan@schools.gov.sg">nur_faizah_<br>abdan<br>@schools.gov.sg</a><br>
 </th>
 
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
@@ -478,8 +478,8 @@ Miss Veronica Poon Sook Yee<br>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 <br>6 Respect<br>(6R1)<br>
 <img height="225" width="175" src="">
-Mdm Nurfarhanna Bte Hazmi<br>
-<a href="mailto:nurfarhannah_hazmi@schools.gov.sg">nurfarhannah_hazmi<br>@schools.gov.sg</a><br>
+Mdm Nurfarhannah Bte Hazmi<br>
+<a href="mailto:nurfarhannah_hazmi@schools.gov.sg">nurfarhannah_<br>hazmi<br>@schools.gov.sg</a><br>
 </th>
 
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
@@ -493,7 +493,7 @@ Mr Watson Teh Chiew Hwa<br>
 <br>6 Responsibility<br>(6R2)<br>
 <img height="225" width="175" src="">
 Miss Chua Shuan Kwee<br>
-<a href="mailto:chua_shuan_kwee@schools.gov.sg">chua_shuan_kwee<br>@schools.gov.sg</a><br>
+<a href="mailto:chua_shuan_kwee@schools.gov.sg">chua_shuan_<br>kwee<br>@schools.gov.sg</a><br>
 </th>
 	
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
@@ -516,14 +516,14 @@ Mdm Wang Luning<br>
 <br>6 Resilience<br>(6R3)<br>
 <img height="225" width="175" src="">
 Mr Justin Luo YanZhong<br>
-<a href="mailto:justin_luo_yanzhong@schools.gov.sg">justin_luo_yanzhong<br>@schools.gov.sg</a><br>
+<a href="mailto:justin_luo_yanzhong@schools.gov.sg">justin_luo_<br>yanzhong<br>@schools.gov.sg</a><br>
 </th>
 	
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 <br>6 Integrity<br>(6I)<br>
 <img height="225" width="175" src="">
 Miss Sherylene Soh Siew Yin<br>
-<a href="mailto:sherylene_soh_siew_yin@schools.gov.sg">sherylene_soh_siew_yin<br>@schools.gov.sg</a><br>
+<a href="mailto:sherylene_soh_siew_yin@schools.gov.sg">sherylene_soh_<br>siew_yin<br>@schools.gov.sg</a><br>
 </th>
 
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
