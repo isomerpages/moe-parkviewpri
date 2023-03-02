@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Mother Tongue/.keep
       - English/.keep
       - English/English.md
       - English/School Library Policy.md
