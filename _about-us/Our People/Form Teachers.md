@@ -73,14 +73,14 @@ Mdm Zubaidah Bte Othman<br>
 <br>1 Care<br>(1C)<br>
 <img height="225" width="175" src="">
 Mrs Bek Tan Xiu Ling<br>
-<a href="mailto:tan\_xiulingn@schools.gov.sg">tan\_xiuling<br>@schools.gov.sg</a><br>
+<a href="mailto:tan_xiulingn@schools.gov.sg">tan_xiuling<br>@schools.gov.sg</a><br>
 </th>
 	
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 <br>1 Care<br>(1C)<br>
 <img height="225" width="175" src="/images/Our%20People/P1%20Teachers/Miss%20Grace%20Yeo.jpg">
 Mrs Grace Teh<br>
-<a href="mailto:grace_yeo_jie_xin@schools.gov.sg">grace_yeo_jie_xin<br>@schools.gov.sg</a><br>
+<a href="mailto:grace_yeo_jie_xin@schools.gov.sg">grace_yeo_<br>jie_xin<br>@schools.gov.sg</a><br>
 </th>
 
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
@@ -93,7 +93,7 @@ Mdm Quek Shi Rui<br>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 <br>1 Harmony<br>(1H)<br>
 <img height="225" width="175" src="/images/Our%20People/P1%20Teachers/Mrs%20Evie%20Goh.jpg">
-Ms Evie Goh<br href="mailto:evie_quah@schools.gov.sg">evie_quah<br>@schools.gov.sg<br>
+	Ms Evie Goh<br><a href="mailto:evie_quah@schools.gov.sg">evie_quah<br>@schools.gov.sg</a><br>
 </th>
 </tr>
 
