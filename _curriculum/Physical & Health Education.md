@@ -13,7 +13,7 @@ To enable and encourage our students to be active after leaving school, with a g
 
 ### Framework
 
-<img src="/images/framework_pe-FA.jpg" style="width:75%">
+<img src="/images/Curriculum/PE/PE%20-%20Framework.jpg" style="width:75%">
 
 #### Enable Health and Fitness for life
 <ul>
