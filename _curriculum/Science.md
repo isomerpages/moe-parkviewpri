@@ -108,6 +108,50 @@ For pupils to have meaningful learning in science, it is important that they be 
 
 ![](/images/kids%20garden.png)
 
+#### Learning Journey to Singapore Science Centre
+
+<p align="justify">
+P1 to P5 students will go on a learning journey to the Singapore Science Centre every year to attend practical laboratory session or lecture demonstration on the topics that they learn in their primary science education. The Science Centre enrichment programmes complement the school science curriculum with hands-on and inspiring learning experiences. The enrichment programmes aim to:</p>
+
+<ul><li>provide students with experiences which build on their interest in and stimulate their curiosity about their environment</li>
+
+<li>provide engaging and meaningful acquisition of scientific knowledge</li>
+
+<li>inculcate the spirit of scientific inquiry through the application of different process skills such as observing, comparing, classifying, analysing, inferring, evaluating and investigating.</li></ul>
+
+
+#### P6: Ecology Learning Journey & Coastal Cleanup
+
+<p align="justify">P6 students will go on an Ecology Learning Journey to Pasir Ris Beach. The students will also get to experience a coastal clean-up at the beach after exploring the mudflat and mangrove swamp.</p>
+
+The objectives of the learning journey are to:
+
+<ul><li>Increase students’ awareness of the ecosystem of the seashore community in Singapore</li>
+
+<li>Learn about the diversity of life on the seashore and selected animals and plants’ adaptations to life on the seashore</li>
+
+<li>Relate and extend students’ Science knowledge to real life experiences so as to provide them with a deeper understanding about life around them</li>
+
+<li>Integrate a meaningful Community Involvement Project (CIP) where students take meaningful actions to protect the environment.</li></ul>
+
+#### P6: P4 & P5 Science Olympiad Training 
+
+<p align="justify">P4 and P5 students are selected to participate in Science Olympiad training.</p>
+
+The objectives of the programme are as follows:
+
+<ul><li>To develop students' interest, creativity, analytical thinking skill, spirit of learning through discovery and challenge in Science
+
+<li>To expose students’ with secondary science syllabus in attempt to broaden their knowledge of Science
+
+<li>To prepare selected students for Primary Science Olympiad competitions.</li></ul>
+
+<p align="justify">The training sessions are based on the broad science themes in the elementary science curriculum. These lessons focused on introducing Physics, Chemistry and Biology to students as well as to enhance their general knowledge.</p>
+
+<p align="justify">Selected P5 students may have the opportunity to participate in the Raffles Science Olympiad Competition (RSO) or the NUS High Singapore Primary Science Olympiad (SPSO).</p>
+
+#### P6: P4 & P5 Science Olympiad Training 
+
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Assessment of Learning</th><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Assessment for Learning</th><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Assessment as Learning</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• CA<br><br>• SA<br><br>• Prelim<br><br>• PSLE<br><br>• Diagnostic Test for Baseline<br><br>• Science Practical Assessment (SPA@PVPS)<br><br>• Performance Tasks<br></td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Topical Reviews<br><br>• Performance Tasks<br><br>• Science Practical Assessment (SPA@PVPS)<br><br>• Quizes<br><br>• Mindmapping<br></td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Science Journals<br><br>• Pupils' Reflections</td></tr></tbody></table>
 
 
