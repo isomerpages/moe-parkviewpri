@@ -4,7 +4,7 @@ permalink: /curriculum/Aesthetics/Art/
 description: ""
 third_nav_title: Aesthetics
 ---
-### **Exposure**
+#### Exposure
 <style type="text/css">
 	p {font-size:18px;font-family: arial, sans-serif;text-align: justify;}
 </style>
@@ -27,36 +27,36 @@ third_nav_title: Aesthetics
 	
 <p>Head of Aesthetics Miss Lim Hwee Tin felt that this exposure is just the tip of an iceberg and she hopes this experience would spark the interest in art for students and open the doors to more art activities.</p>
 	
-#### <u>Assembly Programmes</u>
-##### <i>The Art of Marbling via Zoom</i>
+#### Assembly Programmes
+##### The Art of Marbling via Zoom
 
 <img src="/images/Curriculum/Aesthetics/Art/TheArtofMarblingviaZoom.jpg" alt="The Art of Marbling via Zoom" style="width:90%;">
 
-##### <i>Art Explorers Assembly Talk by Art Outreach Singapore</i>
+##### Art Explorers Assembly Talk by Art Outreach Singapore
 	
 <img src="/images/Curriculum/Aesthetics/Art/ArtExplorersAssemblyTalkbyArtOutreachSingapore.png" alt="Art Explorers Assembly Talk by Art Outreach Singapore" style="width:90%;">
 	
-### **Experience**
+#### Experience
 	
 Students learn best through hands-on participation in various arts forms. Through our modular art activities, students are equipped with a range of art making techniques and skills.
 
-##### <i>Art Modular Programmes (P3 - P6)</i>
+##### Art Modular Programmes (P3 - P6)
 	
 <img style="width:90%" alt="Art Modular Programmes (P3 - P6)" src="/images/Curriculum/Aesthetics/Art/ArtModularProgrammes(P3-P6).jpg">
 <br>
 	<img style="width:90%" alt="Art Modular Programmes (P3 - P6)" src="/images/Curriculum/Aesthetics/Art/ArtModularProgrammes(P3 P6)_1.png">
 	
-##### <i>Digital Art Programmes</i>
+##### Digital Art Programmes
 
 <img style="width:90%" alt="Digital Art Programmes" src="/images/Curriculum/Aesthetics/Art/DigitalArtProgrammes.jpg">
 <br>
 <img style="width:90%" alt="" src="/images/Curriculum/Aesthetics/Art/DigitalArtProgrammes_1.jpg">
  
-### **Excursion**
+#### Excursion
 	
 <p>The school expands and extends the learning environment of the students beyond the classrooms by bringing them to visit museums, galleries, and theatres.</p>
 	
-#### <u>Place-based Learning</u>
+##### Place-based Learning
 ##### <i>Roving Art Truck</i>
 
 <p>How would it be like to encounter art on a truck? Follow Thumbs Up to visit the Roving Art Truck parked at Park View Primary!
