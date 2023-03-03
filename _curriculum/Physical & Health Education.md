@@ -71,16 +71,33 @@ Through adventure challenges and activities, pupils get to:
 
 ##### PVPS Family Run & Walk Challenge
 
+<p align="justify">To deepen the enjoyment of active and healthy living, encourage students and their family members to stay active, and to promote family bonding through participation in physical activities together, the PE department organizes the yearly PVPS Family Run & Walk Challenge where the students (accompanied by an adult family member at all times) would run and/or walk a specific distance within the stipulated time period. Screenshots of the runs will be submitted via a google form for tabulation after every workout. Students who accomplish the Challenge will win prizes that include medals, water bottles, finisher tees, etc.</p>
+
 ##### PVPS Olympics
 
+<p align="justify">PVPS Olympics, one of the key sporting events in the school is a series of events leading up to the culmination of the PVPS Olympics Day where pupils represent their houses and battle it out to be crowned Champion House of the year.</p>
+<p align="justify">The aims of the event are to provide a platform for pupils from different classes and levels to mingle, forge friendships and to demonstrate qualities such as sportsmanship, teamwork and fair play. The PVPS Olympics put to test both individual competencies and team camaraderie through various sports events </p>
+
 ##### P1 Orientation Programme (Telematch)
+
+<p align="justify">During P1 Orientation Week, the PE department organizes a Telematch for the P1 pupils. It is a type of class-based games and sports that is played in a fun setting, with the pupils working together to complete various tasks or activities. Telematch challenges may test the pupils' physical agility, fundamental movement skills, balance, coordination, speed, and endurance, as well as their mental skills, such as problem-solving, strategic thinking, and communication.</p>
 
 #### School Programmes
 
 ##### Health Awareness Week
+
 ###### Active Friday
+
+<p align="justify">The promotion of a healthy lifestyle in a fun and structured way with a whole school approach on Fridays via workouts as part of morning assembly and promoting eating fruits and vegetables during recess by collecting of Fruittie and Veggie cards. The programme also empowers students by involving them in workouts, monitoring and rewarding their peers' consumption of fruits and vegetables.</p>
+
+<p align="justify">The key focus is to encourage students to be active and motivate them to incorporate fruits and vegetables in their diets when they are in school. Additionally, the objective is to encourage students to make healthy habits parts of their own healthy lifestyle beyond school. Selected Student Ambassadors can display their leadership qualities and take ownership of helping their peers in cultivating a healthy lifestyle via the workout and Fruittie Veggie cards.</p>
+
 ###### Unstructured Play / Recess Play
 
+<p align="justify">Children’s unstructured play has been recognized as a major agent in young children’s development and learning. Through play, children learn societal roles, norms, and values and develop physical and cognitive competencies, creativity, self-worth and efficacy. It specifically helps creativity and imagination, problem-solving abilities and social skills. Furthermore, children also report being happiest when at play.</p>
+
+<p align="justify">In Park View Primary School, unstructured play is designed with the 3Is in mind – Intentional, Inclusive and Inspiring. We intentionally provide the environment and space to allow our students to develop physically through play, and to develop socially and emotionally through playing with others. Unstructured play takes place on every school day during the recesses at various venues in the school – Parade Square, Sheltered Court and the Football Field. Students choose the equipment they want to play with, who they want to play with and how they want to play. 
+Hence, play becomes inclusive as students determine the level of play based on their skill and fitness level. Through engaging in unstructured play and interacting with their peers, we hope that students will inspire one another to lead an active and healthy life.</p>
 
 
 ### Useful Resources
