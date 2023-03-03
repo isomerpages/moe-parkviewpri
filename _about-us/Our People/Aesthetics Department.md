@@ -4,10 +4,9 @@ permalink: /about-us/our-people/aesthetics-department/
 description: ""
 third_nav_title: Our People
 ---
-### ART
+#### ART
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px" class="tg">
-	<thead>
 		<tr>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/Mdm_Lim_Hwee_Tin_optimisedforweb.jpg" width="175" height="225">
@@ -34,15 +33,11 @@ Binte Saharudin<br><br>
 				<br>Kirthi Shihlpa Pillai<br><br>
 				<a href="mailto:Kirthi_Shihlpa_Pillai@schools.gov.sg">Kirthi_Shihlpa_Pillai<br>@schools.gov.sg</a><br>
 </th>
+</table>
 
-
+#### Music
+	
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px" class="tg">
-	<thead>
-		<tr>
-
-### Music
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px" class="tg">
-	<thead>
 		<tr>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/Miss_Grace_Yeo_Jie_Xin_optimisedforweb.jpg" width="175" height="225">
@@ -66,4 +61,4 @@ Binte Saharudin<br><br>
 		<tr>
 			
 </tr>
-	</thead>
+	</table>

@@ -4,38 +4,535 @@ permalink: /about-us/our-people/form-teachers/
 description: ""
 third_nav_title: Our People
 ---
-### Primary One
+#### Primary 1
+
+<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px">
+
+<tbody><tr>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>1 Respect<br>(1R1)<br>
+<img height="225" width="175" src="/images/Our%20People/P1%20Teachers/Mrs%20Celine%20Lim.jpg">
+Mrs Celine Lim<br>
+<a href="mailto:neo_sie_ling@schools.gov.sg">neo_sie_ling<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>1 Respect<br>(1R1)<br>
+<img height="225" width="175" src="/images/Our%20People/P1%20Teachers/Miss%20Chang%20Tian%20Tian.jpg">
+Miss Chang<br>Tian Tian<br>
+<a href="mailto:chang_tiantian@schools.gov.sg">chang_tiantian<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>1 Responsibility<br>(1R2)<br>
+<img height="225" width="175" src="/images/Our%20People/P1%20Teachers/Mdm%20Sharina.jpg">
+Mdm Sharina<br>
+<a href="mailto:sharina_mohd_tahale@schools.gov.sg">sharina_mohd_<br>tahale@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>1 Responsibility<br>(1R2)<br>
+<img height="225" width="175" src="/images/Our%20People/P1%20Teachers/Mdm%20Wong%20Peh%20Yan.jpg">
+Mdm Wong Peh Yan<br>
+<a href="mailto:wong_peh_yan@schools.gov.sg">wong_peh_yan<br>@schools.gov.sg</a><br>
+</th>
+</tr>
+
+<tr>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>1 Resilience<br>(1R3)<br>
+<img height="225" width="175" src="/images/Our%20People/P1%20Teachers/Mdm%20Tan%20Poh%20Soon.jpg">
+Mdm Tan Poh Soon<br>
+<a href="mailto:tan_poh_soon@schools.gov.sg">tan_poh_soon<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>1 Resilience<br>(1R3)<br>
+<img height="225" width="175" src="/images/Our%20People/P1%20Teachers/Mdm%20Hazel%20Cheong.jpg">
+Mrs Hazel Cheong<br>
+<a href="mailto:tan_kar_tiang@schools.gov.sg">tan_kar_tiang<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>1 Integrity<br>(1I)<br>
+<img height="225" width="175" src="/images/Our%20People/P1%20Teachers/Miss%20Goh%20Phoebe.jpg">
+Miss Goh Phoebe<br>
+<a href="mailto:phoebe_goh@schools.gov.sg">phoebe_goh<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>1 Integrity<br>(1I)<br>
+<img height="225" width="175" src="/images/Our%20People/P1%20Teachers/Mdm%20Zubaidah.jpg">
+Mdm Zubaidah Bte Othman<br>
+<a href="mailto:zubaidah_othman@schools.gov.sg">zubaidah_othman<br>@schools.gov.sg</a><br>
+</th>
+</tr>
+
+<tr>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>1 Care<br>(1C)<br>
+<img height="225" width="175" src="">
+Mrs Bek Tan Xiu Ling<br>
+<a href="mailto:tan_xiulingn@schools.gov.sg">tan_xiuling<br>@schools.gov.sg</a><br>
+</th>
+	
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>1 Care<br>(1C)<br>
+<img height="225" width="175" src="/images/Our%20People/P1%20Teachers/Miss%20Grace%20Yeo.jpg">
+Mrs Grace Teh<br>
+<a href="mailto:grace_yeo_jie_xin@schools.gov.sg">grace_yeo_<br>jie_xin<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>1 Harmony<br>(1H)<br>
+<img height="225" width="175" src="/images/Our%20People/P1%20Teachers/Mdm%20Quek%20Shi%20Rui.jpg">
+Mdm Quek Shi Rui<br>
+<a href="mailto:quek_shi_rui@schools.gov.sg">quek_shi_rui<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>1 Harmony<br>(1H)<br>
+<img height="225" width="175" src="/images/Our%20People/P1%20Teachers/Mrs%20Evie%20Goh.jpg">
+	Ms Evie Goh<br><a href="mailto:evie_quah@schools.gov.sg">evie_quah<br>@schools.gov.sg</a><br>
+</th>
+</tr>
+
+<tr>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>1 Gratitude<br>(1G)<br>
+<img height="225" width="175" src="/images/Our%20People/P1%20Teachers/Mdm%20Pang%20Cui%20Ling.jpg">
+Mrs Ong<br>
+<a href="mailto:pang_cui_ling@schools.gov.sg">pang_cui_ling<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>1 Gratitude<br>(1G)<br>
+<img height="225" width="175" src="/images/Our%20People/P1%20Teachers/Mdm%20Nailul%20Azmi.jpg">
+Mdm Nailul Azmi Bte Ismail<br>
+<a href="mailto:nailul_azmi_ismail@schools.gov.sg">nailul_azmi_<br>ismail@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;"></th><th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;"></th>
+</tr>
+
+</tbody></table>
+
+#### Primary 2
+
+<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px">
+<tbody><tr>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>2 Respect<br>(2R1)<br>
+<img height="225" width="175" src="">
+Mrs Jareen Wong<br>
+<a href="mailto:ng_kah_leng@schools.gov.sg">ng_kah_leng<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>2 Respect<br>(2R1)<br>
+<img height="225" width="175" src="">
+Mr Jordan Toh Yuexuan<br>
+<a href="mailto:@schools.gov.sg"></a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>2 Responsibility<br>(2R2)<br>
+<img height="225" width="175" src="">
+Miss Khairina Binte Omar<br>
+<a href="mailto:khairina_omar@schools.gov.sg">khairina_omar<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>2 Responsibility<br>(2R2)<br>
+<img height="225" width="175" src="">
+Mdm Shi Rui<br>
+<a href="mailto:shi_rui@schools.gov.sg">shi_ruis<br>@schools.gov.sg</a>
+</th>
+</tr>
+
+<tr>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>2 Resilience<br>(2R3)<br>
+<img height="225" width="175" src="">
+Mdm Zahrah Bte Md Abbas<br>
+<a href="mailto:zahrah_mohamed_abbas@schools.gov.sg">zahrah_
+mohamed_abbas<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>2 Resilience<br>(2R3)<br>
+<img height="225" width="175" src="">
+Muhammad Izdihar Bin Othman<br>
+<a href="mailto:@schools.gov.sg"></a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>2 Integrity<br>(2I)<br>
+<img height="225" width="175" src="">
+Mdm Shirin Bt Osman<br>
+<a href="mailto:shirin_osman@schools.gov.sg">shirin_osman<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>2 Integrity<br>(2I)<br>
+<img height="225" width="175" src="">
+Mdm Lim Hwee Tin Tina<br>
+<a href="mailto:lim_hwee_tin_a@schools.gov.sg">lim_hwee_<br>tin_a<br>@schools.gov.sg</a><br>
+</th>
+</tr>
+
+<tr>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>2 Care<br>(2C)<br>
+<img height="225" width="175" src="">
+Mdm Valarmathi<br>
+<a href="mailto:valarmathi_a@schools.gov.sg">valarmathi_a<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>2 Care<br>(2C)<br>
+<img height="225" width="175" src="">
+Mdm Yeo Peck Hui Patricia<br>
+<a href="mailto:yeo_peck_hui@schools.gov.sg">yeo_peck_hui<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>2 Harmony<br>(2H)<br>
+<img height="225" width="175" src="">
+Miss Lee Siew Kiang<br>
+<a href="mailto:lee_siew_kiang@schools.gov.sg">lee_siew_<br>kiang<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>2 Harmony<br>(2H)<br>
+<img height="225" width="175" src="">
+Mrs Nelly Tan<br>
+<a href="mailto:teo_siok_eng@schools.gov.sg">teo_siok_eng<br>@schools.gov.sg</a><br>
+</th>
+</tr>
+
+</tbody></table>
+
+#### Primary 3
+
+<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px">
+
+<tbody><tr>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>3 Respect<br>(3R1)<br>
+<img height="225" width="175" src="">
+Miss June Quek<br>
+<a href="mailto:quek_siew_lan@schools.gov.sg">quek_siew_lan<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>3 Respect<br>(3R1)<br>
+<img height="225" width="175" src="">
+Ms Joyce Low<br>
+<a href="mailto:lu_huishu_joyce@schools.gov.sg">lu_huishu_<br>joyce<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>3 Responsibility<br>(3R2)<br>
+<img height="225" width="175" src="">
+Mrs Quek<br>
+<a href="mailto:sham_pui_yue@schools.gov.sg">sham_pui_yue<br>@schools.gov.sg</a><br>
+</th>
+	
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>3 Responsibility<br>(3R2)<br>
+<img height="225" width="175" src="">
+Miss Low Kin Eng<br>
+<a href="mailto:low_kin_eng@schools.gov.sg">low_kin_eng<br>@schools.gov.sg</a><br>
+</th>
+</tr>
+
+<tr>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>3 Resilience<br>(3R3)<br>
+<img height="225" width="175" src="">
+Mr Azmi Bin Kasim<br>
+<a href="mailto:azmi_kasim@schools.gov.sg">azmi_kasim<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>3 Integrity<br>(3I)<br>
+<img height="225" width="175" src="">
+Mdm Nur Farizah Binte Roslan<br>
+<a href="mailto:nur_farizah_roslan@schools.gov.sg">nur_farizah_<br>roslan<br>@schools.gov.sg</a><br>
+</th>
+	
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>3 Integrity<br>(3I)<br>
+<img height="225" width="175" src="">
+Mdm Angeline Loo<br>
+<a href="mailto:loo_nga_hoonangeline@schools.gov.sg">loo_nga_<br>hoonangeline<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>3 Care<br>(3C)<br>
+<img height="225" width="175" src="">
+Miss Lee Shu Qi Charlene<br>
+<a href="mailto:lee_shu_qi_charlene@schools.gov.sg">lee_shu_qi_<br>charlene<br>@schools.gov.sg</a><br>
+</th>
+</tr>
+
+<tr>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>3 Care<br>(3C)<br>
+<img height="225" width="175" src="">
+Mr Lee Eng Tiong<br>
+<a href="mailto:lee_eng_tiong@schools.gov.sg">lee_eng_tiong<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+</th>
+</tr>
+</tbody></table>
+
+#### Primary 4
+
+<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px">
+
+<tbody><tr>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>4 Respect<br>(4R1)<br>
+<img height="225" width="175" src="">
+Mr Muslim Bin Mohamed Amin<br>
+<a href="mailto:muslim_mohamed_amin@schools.gov.sg">muslim_mohamed_<br>amin<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>4 Respect<br>(4R1)<br>
+<img height="225" width="175" src="">
+Mdm Teo Siew Yeun<br>
+<a href="mailto:teo_siew_yeun@schools.gov.sg">teo_siew_<br>yeun<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>4 Responsibility<br>(4R2)<br>
+<img height="225" width="175" src="">
+Miss Emily Ambrose<br>
+<a href="mailto:Emily_Ambrosey@schools.gov.sg">emily_ambrose<br>@schools.gov.sg</a><br>
+</th>
+	
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>4 Responsibility<br>(4R2)<br>
+<img height="225" width="175" src="">
+Mdm Kimberly Jean Aeria<br>
+<a href="mailto:kimberly_jean_aeria@schools.gov.sg">kimberly_jean_<br>aeria<br>@schools.gov.sg</a><br>
+</th>
+</tr>
+
+<tr>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>4 Resilience<br>(4R3)<br>
+<img height="225" width="175" src="">
+Mrs Ling<br>
+<a href="mailto:julie_wong@schools.gov.sg">julie_wong<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>4 Integrity<br>(4I)<br>
+<img height="225" width="175" src="">
+Mdm Zatty Sabrina<br>
+<a href="mailto:zatty_sabrina_mohd_razif@schools.gov.sg">zatty_sabrina_<br>mohd_razif<br>@schools.gov.sg</a><br>
+</th>
+	
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>4 Integrity<br>(4I)<br>
+<img height="225" width="175" src="">
+Mrs Helen Chong<br>
+<a href="mailto:helen_low_kwee_fong@schools.gov.sg">helen_low_<br>kwee_fong<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>4 Care<br>(4C)<br>
+<img height="225" width="175" src="">
+Miss Kirthi Shihilpa Pillai<br>
+<a href="mailto:Kirthi_Shihlpa_Pillai@schools.gov.sg">kirthi_shihlpa_<br>pillai<br>@schools.gov.sg</a><br>
+</th>
+</tr>
+
+<tr>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>4 Care<br>(4C)<br>
+<img height="225" width="175" src="">
+Mdm Norhanim Bte Hashim<br>
+<a href="mailto:norhanim_hashim@schools.gov.sg">norhanim_<br>hashim<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+</th>
+</tr>
+</tbody></table>
+
+#### Primary 5
+
+<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px">
+
+<tbody><tr>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>5 Respect<br>(5R1)<br>
+<img height="225" width="175" src="">
+Mrs Ang<br>
+<a href="mailto:seah_sock_luang_adeline@schools.gov.sg">seah_sock_<br>luang_adeline<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>5 Respect<br>(5R1)<br>
+<img height="225" width="175" src="">
+Mrs Arul<br>
+<a href="mailto:m_anitha@schools.gov.sg">m_anitha<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>5 Responsibility<br>(5R2)<br>
+<img height="225" width="175" src="">
+Mdm Pavani D/O Krishna Samy<br>
+<a href="mailto:pavani_krishna_samy@schools.gov.sg">pavani_krishna_<br>samy<br>@schools.gov.sg</a><br>
+</th>
+	
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>5 Responsibility<br>(5R2)<br>
+<img height="225" width="175" src="">
+Mr Darvinder Singh<br>
+<a href="mailto:darvinder_singh_karam_singh@schools.gov.sg">darvinder_singh_<br>karam_singh<br>@schools.gov.sg</a><br>
+</th>
+</tr>
+
+<tr>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>5 Resilience<br>(5R3)<br>
+<img height="225" width="175" src="">
+Mdm Farah Binte Abdul Rashid<br>
+<a href="mailto:farah_abdul_rashid@schools.gov.sg">farah_abdul_<br>rashid<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>5 Resilience<br>(5R3)<br>
+<img height="225" width="175" src="">
+Mdm Chen ShuangShuang<br>
+<a href="mailto:chen_shuangshuang@schools.gov.sg">chen_shuangshuang<br>@schools.gov.sg</a><br>
+</th>
+	
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>5 Integrity<br>(5I)<br>
+<img height="225" width="175" src="">
+Mr Kang Yong Ngee<br>
+<a href="mailto:kang_yong_ngee@schools.gov.sg">kang_yong_ngee<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>5 Care<br>(5C)<br>
+<img height="225" width="175" src="">
+Mr Jerry Chua Chun Wei<br>
+<a href="mailto:chua_chun_wei@schools.gov.sg">chua_chun_wei<br>@schools.gov.sg</a><br>
+</th>
+</tr>
+
+<tr>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>5 Care<br>(5C)<br>
+<img height="225" width="175" src="">
+Mrs Lim<br>
+<a href="mailto:ho_qingxi_natalie@schools.gov.sg">ho_qingxi_natalie<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>5 Harmony<br>(5H)<br>
+<img height="225" width="175" src="">
+Mdm Nur Faizah Binte Abdan<br>
+<a href="mailto:nur_faizah_abdan@schools.gov.sg">nur_faizah_<br>abdan<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>5 Harmony<br>(5H)<br>
+<img height="225" width="175" src="">
+Miss Veronica Poon Sook Yee<br>
+<a href="mailto:poon_sook_yee@schools.gov.sg">poon_sook_yee<br>@schools.gov.sg</a><br>
+</th>
+
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+</th>
+</tr>
+</tbody></table>
 
 
+#### Primary 6
 
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 775px" class="tg"><colgroup><col style="width: 191px"><col style="width: 204px"><col style="width: 182px"><col style="width: 198px"></colgroup><thead><tr><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Respect(1R1)<br><img src="/images/Mrs_Celine_Lim_optimisedforweb.jpg" alt="Mrs_Celine_Lim_optimisedforweb.jpg" width="168" height="251"><br><span style="background-color:initial">Mrs Celine Lim</span><br><a href="mailto:neo_sie_ling@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">neo_sie_ling<br>@schools.gov.sg</span></a></th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Respect(1R1)<br><img src="/images/Miss%20Chang%20Tian%20Tian.jpeg" alt="Miss Chang Tian Tian.jpeg" width="185" height="246"><br><span style="background-color:initial">Miss Chang</span><br><span style="font-weight:400;color:#162837">Tian Tian</span><br><a href="mailto:Chang_Tiantian@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">Chang_Tiantian<br>@schools.gov.sg</span></a></th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1Responsibility(1R2)<br><img src="/images/sharina%20final.jpg" alt="sharina final.jpg" width="168" height="244"><br><span style="background-color:initial">Mdm Sharina Bte </span><br><span style="background-color:initial">Mohamed Tahale</span><br><a href="mailto:sharina_mohd_tahale@schools.moe.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0;background-color:initial">sharina_mohd_tahale<br>@schools.gov.sg</span></a></th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1Responsibility(1R2)<br><img src="/images/Wong%20Peh%20Yan_optimisedforweb.jpg" alt="Wong Peh Yan_optimisedforweb.jpg" width="165" height="245"><br><span style="background-color:initial">Mdm Wong Peh Yan</span><br><a href="mailto:wong_peh_yan@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">wong_peh_yan<br>@schools.gov.sg</span></a></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Resilience(1R3)<br><img src="/images/Mdm_Tan_Poh_Soon_optimisedforweb.jpg" alt="Mdm_Tan_Poh_Soon_optimisedforweb.jpg" width="168" height="251"><br><span style="background-color:initial">Mdm Tan Poh Soon</span><br><br><a href="mailto:tan_poh_soon@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0;background-color:initial">tan_poh_soon<br>@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Resilience(1R3)<br><img src="/images/IMG_7629.jpeg" alt="tn.IMG_7629.JPG.mid.jpg" width="168" height="251"><br><span style="font-weight:400;color:#162837">Mrs Hazel</span><br><span style="font-weight:400;color:#162837">Cheong</span><br><a href="mailto:tan_kar_tiang@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">tan_kar_tiang<br>@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Integrity(1I)<br><img src="/images/Miss_Goh_Phoebe_optimisedforweb.jpg" alt="tn.Miss_Goh_Phoebe_optimisedforweb.jpg.mid.jpg" width="171" height="255"><br><span style="font-weight:400;color:#162837">Miss Goh Phoebe</span><br><a href="mailto:phoebe_goh@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">phoebe_goh<br>@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Integrity(1I)<br><img src="/images/Mdm%20Zubaidah%20cropped.jpg" alt="Mdm Zubaidah cropped.jpg" width="168" height="250"><br><span style="background-color:initial">Mdm Zubaidah</span><br><span style="font-weight:400;color:#162837">Bte Othman</span><br><a href="mailto:zubaidah_othman@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">zubaidah_othman<br>@schools.gov.sg</span></a></td></tr><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Care(1C)<br><img src="/images/Mdm_Tan_Xiu_Ling(Mrs%20Bek)_optimisedforweb.jpg" alt="Mdm_Tan_Xiu_Ling(Mrs Bek)_optimisedforweb.jpg" width="168" height="251"><br><span style="background-color:initial">Mrs Bek Tan Xiu Ling</span><br><a href="mailto:tan_xiuling@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">tan_xiuling<br>@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Care(1C)<br><img src="/images/Miss_Grace_Yeo_Jie_Xin_optimisedforweb.jpg" alt="Miss_Grace_Yeo_Jie_Xin_optimisedforweb.jpg" width="168" height="251"><br><span style="font-weight:400;color:#162837">Mrs Grace Teh</span><br><a href="mailto:grace_yeo_jie_xin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">grace_yeo_jie_xin<br>@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="background-color:initial">1 Harmony(1H)</span><br><img src="/images/Mdm%20Quek%20Shi%20Rui_optimisedforweb.jpg" alt="Mdm Quek Shi Rui_optimisedforweb.jpg" width="168" height="251"><br><span style="background-color:initial">Mdm Quek Shi Rui</span><br><a href="mailto:quek_shi_rui@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">quek_shi_rui<br>@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">1 Harmony(1H)<br><img src="/images/Mrs%20Evie%20Goh%209%20cropped.jpg" alt="Mrs Evie Goh 9 cropped.jpg" width="168" height="247"><br><span style="background-color:initial">Ms Evie Goh</span><br><a href="mailto:evie_quah@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">evie_quah<br>@schools.gov.sg</span></a><br></td></tr><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="background-color:initial"> 1 Gratitude(1G)</span><br><img src="/images/Miss_wong_Pau_Hui_optimisedforweb%20(1).jpg" alt="Miss_wong_Pau_Hui_optimisedforweb (1).jpg" width="168" height="251"><br><span style="background-color:initial">Mrs Ong</span><br><a href="mailto:pang_cui_ling@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">pang_cui_ling<br>@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="background-color:initial">  1 Gratitude(1G)</span><br><img src="/images/Nainul_optimisedforweb.jpg" alt="Nainul_optimisedforweb.jpg" width="168" height="251"><br><span style="font-weight:400;color:#162837">Mdm Nailul Azmi</span><br><span style="font-weight:400;color:#162837">Bte Ismail</span><br><a href="mailto:nailul_azmi_ismail@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0;background-color:initial">nailul_azmi_ismail<br>@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> <br><br><br></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> <br><br></td></tr></tbody></table>
+<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px">
 
+<tbody><tr>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>6 Respect<br>(6R1)<br>
+<img height="225" width="175" src="">
+Mdm Nurfarhannah Bte Hazmi<br>
+<a href="mailto:nurfarhannah_hazmi@schools.gov.sg">nurfarhannah_<br>hazmi<br>@schools.gov.sg</a><br>
+</th>
 
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>6 Respect<br>(6R1)<br>
+<img height="225" width="175" src="">
+Mr Watson Teh Chiew Hwa<br>
+<a href="mailto:teh_chiew_hwa_watson@schools.gov.sg">teh_chiew_hwa_watson<br>@schools.gov.sg</a><br>
+</th>
 
-### Primary Two
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>6 Responsibility<br>(6R2)<br>
+<img height="225" width="175" src="">
+Miss Chua Shuan Kwee<br>
+<a href="mailto:chua_shuan_kwee@schools.gov.sg">chua_shuan_<br>kwee<br>@schools.gov.sg</a><br>
+</th>
+	
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>6 Responsibility<br>(6R2)<br>
+<img height="225" width="175" src="">
+Mrs Yeo<br>
+<a href="mailto:sim_shiyu@schools.gov.sg">sim_shiyu<br>@schools.gov.sg</a><br>
+</th>
+</tr>
 
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 785px" class="tg"><colgroup><col style="width: 184px"><col style="width: 195px"><col style="width: 203px"><col style="width: 203px"></colgroup><thead><tr><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">2 Respect(2R1)</span><br><img src="/images/Mdm_Ng_Kah_Leng(Jareen).jpg" alt="Jareen wong.jpg" width="173" height="252"><br><span style="color:#162837">Mrs Jareen </span><span style="background-color:initial">Wong</span><br><br><a href="mailto:ng_kah_leng@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">ng_kah_leng<br>@schools.gov.sg</span></a></th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">2 Responsibility</span><span style="font-weight:bold;background-color:initial">(2R2)</span><br><img src="/images/Khairina_optimisedforweb.jpg" alt="Khairina_optimisedforweb.jpg" width="169" height="253"><br><span style="background-color:initial">Miss Khairina</span><br><span style="background-color:initial">Binte Omar</span><br><br><a href="mailto:khairina_omar@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">khairina_omar<br>@schools.gov.sg</span></a></th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2 Responsibility(2R2)<br><img src="/images/Mdm%20Shi%20rui%202.jpg" alt="Mdm Shi rui 2.jpg" width="173" height="252"><br><span style="font-weight:400">Mdm Shi Rui</span><br><br><br><a href="mailto:Shi_rui@school.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">shi_rui<br>@schools.gov.sg</span></a></th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2 Resilience(2R3)<br><img src="/images/Mdm_Zarah_Bte_Md_Abbas_optimisedforweb.jpg" alt="Mdm_Zarah_Bte_Md_Abbas_optimisedforweb.jpg" width="169" height="252"><br><span style="font-weight:400;color:#162837">Mdm Zahrah Bte</span><br><span style="font-weight:400;color:#162837">Md Abbas</span><br><br><a href="mailto:zahrah_mohamed_abbas@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">zahrah_mohamed_<br>abbas@schools.gov.sg</span></a></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2 Integrity(2I)<br><img src="/images/MDM%20SHIRIN%20CROP%20VER.jpg" alt="MDM SHIRIN CROP VER.jpg" width="173" height="259"><br><span style="font-weight:400;color:#162837">Mdm Shirin Bte</span><br><span style="font-weight:400;color:#162837">Osman</span><br><a href="mailto:shirin_osman@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">shirin_osman<br>@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2 Integrity(2I)<br><img src="/images/Mdm_Lim_Hwee_Tin_optimisedforweb.jpg" alt="Mdm_Lim_Hwee_Tin_optimisedforweb.jpg" width="167" height="250"><br><span style="font-weight:400;color:#162837">Mdm Lim Hwee</span><br><span style="font-weight:400;color:#162837"> Tin Tina</span><br><a href="mailto:lim_hwee_tin_a@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">lim_hwee_tin_a<br>@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">2 Care(2C)</span><br><img src="/images/Mdm%20Patricia%20Yeo_optimisedforweb.jpg" alt="Mdm Patricia Yeo_optimisedforweb.jpg" width="166" height="248"><br><span style="background-color:initial">Mdm Patricia Yeo</span><br><br><a href="mailto:yeo_peck_hui@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">yeo_peck_hui<br>@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">2 Care(2C)</span><br><img src="/images/Mdm%20valarmathi.jpg" alt="Mdm valarmathi.jpg" width="166" height="248"><br><span style="background-color:initial">Mdm Valarmathi</span><br><br><a href="mailto:valarmathi_a@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">valarmathi_a<br>@schools.gov.sg</span></a></td></tr><tr><td style="border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">2 Harmony(2H)<br><img src="/images/Miss_Lee_siew_Kiang_optimisedforweb.jpg" alt="Miss_Lee_siew_Kiang_optimisedforweb.jpg" width="173" height="258"><br><span style="font-weight:400;color:#162837">Miss Lee Siew Kiang</span><br><br><br><a href="mailto:lee_siew_kiang@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">lee_siew_kiang<br>@schools.gov.sg</span></a><br></td><td style="border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">2 Harmony(2H)</span><br><img src="/images/Mrs_Nelly_Tan_optimisedforweb.jpg" alt="Mrs_Nelly_Tan_optimisedforweb.jpg" width="173" height="258"><br><span style="background-color:initial">Mrs Nelly Tan</span><br><span style="background-color:initial">Teo Siok Eng</span><br><br><a href="mailto:teo_siok_eng@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">teo_siok_eng<br>@schools.gov.sg</span></a></td><td style="border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><br><br><br><br></td><td style="border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><br><br></td></tr></tbody></table>
+<tr>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>6 Resilience<br>(6R3)<br>
+<img height="225" width="175" src="">
+Mdm Wang Luning<br>
+<a href="mailto:wang_luning@schools.gov.sg">wang_luning<br>@schools.gov.sg</a><br>
+</th>
 
-### Primary 3
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>6 Resilience<br>(6R3)<br>
+<img height="225" width="175" src="">
+Mr Justin Luo YanZhong<br>
+<a href="mailto:justin_luo_yanzhong@schools.gov.sg">justin_luo_<br>yanzhong<br>@schools.gov.sg</a><br>
+</th>
+	
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>6 Integrity<br>(6I)<br>
+<img height="225" width="175" src="">
+Miss Sherylene Soh Siew Yin<br>
+<a href="mailto:sherylene_soh_siew_yin@schools.gov.sg">sherylene_soh_<br>siew_yin<br>@schools.gov.sg</a><br>
+</th>
 
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 839px" class="tg"><colgroup><col style="width: 207px"><col style="width: 215px"><col style="width: 210px"><col style="width: 207px"></colgroup><thead><tr><th style="border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3 Respect(3R1)<br><br><img src="/images/June%20Quek%20Siew%20Lan_optimisedforweb.jpg" alt="June Quek Siew Lan_optimisedforweb.jpg" width="172" height="257"><br><span style="font-weight:400;color:#162837">Miss June Quek</span><br><span style="font-weight:400;color:#162837">Siew Lan</span><br><br><a href="mailto:quek_siew_lan@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">quek_siew_lan<br>@schools.gov.sg</span></a></th><th style="border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3 Respect(3R1)<br><img src="/images/Ms%20Joyce%20Low_optimisedforweb1.jpg" alt="Ms Joyce Low_optimisedforweb.jpg" width="185" height="276"><br><span style="background-color:initial">Ms Joyce Low</span><br><br><br><a href="mailto:lu_huishu_joyce@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">lu_huishu_joyce<br>@schools.gov.sg</span></a></th><th style="border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="background-color:initial">3 Responsibility(3R2)</span><br><img src="/images/Ms%20Catherine%20Sham.jpg" alt="Ms Catherine Sham.jpg" width="185" height="277"><br><span style="font-weight:400;color:#162837">Mrs Quek</span><br><br><br><a href="mailto:sham_pui_yue@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">sham_pui_yue<br>@schools.gov.sg</span></a></th><th style="border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3 Responsibility(3R2)<br><img src="/images/Low%20kin%20eng.jpg" alt="Low kin eng.jpg" width="185" height="276"><br><span style="background-color:initial">Miss Low Kin Eng</span><br><br><br><a href="mailto:low_kin_eng@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#08A7F0">low_kin_eng<br>@schools.gov.sg</span></a></th></tr></thead><tbody><tr><td style="border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3 Resilience(3R3)<br><img src="/images/Mr%20Azmi_optimisedforweb.jpg" alt="Mr Azmi_optimisedforweb.jpg" width="178" height="266"><br><span style="font-weight:400;color:#162837">Mr Azmi bin Kasim</span><br><br><a href="mailto:azmi_kasim@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">azmi_kasim<br>@schools.gov.sg</span></a></td><td style="border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3 Integrity(3I)<br><img src="/images/Mdm%20Nur%20Farizah_optimisedforweb.jpg" alt="Mdm Nur Farizah_optimisedforweb.jpg" width="178" height="266"><br><span style="font-weight:400;color:#162837">Mdm Nur Farizah</span><br><span style="font-weight:400;color:#162837">Binte Roslan</span><br><a href="mailto:nur_farizah_roslan@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">nur_farizah_roslan<br>@schools.gov.sg</span></a></td><td style="border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3 Integrity(3I)<br><img src="/images/Mdm%20Angeline%20Loo%20Nga%20Hoon-Optimesed%20for%20web.jpg" alt="Mdm Angeline Loo Nga Hoon-Optimesed for web.jpg" width="185" height="269"><br><span style="font-weight:400;color:#162837">Mdm Angeline Loo </span><br><span style="font-weight:400;color:#162837">Nga Hoon</span><br><span style="text-decoration:underline;color:#08A7F0">loo_nga_hoonangeline<br>@schools.gov.sg</span></a></td><td style="border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3 Care(3C)<br><img src="/images/Charlene_optimisedforweb.jpg" alt="Charlene_optimisedforweb.jpg" width="178" height="266"><br><span style="background-color:initial">Miss Lee Shu Qi</span><br><br>Charlene<br><a href="mailto:Lee_Shu_Qi_Charlene@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">Lee_Shu_Qi_Charlene<br>@schools.gov.sg</span></a></td></tr><tr><td style="border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">3 Care(3C)<br><br><img src="/images/Lee%20Eng%20Tiong_optimisedforweb.jpg" alt="Lee Eng Tiong_optimisedforweb.jpg" width="178" height="266"><br><span style="font-weight:400;color:#162837">Mr Lee Eng Tiong</span><br><br><a href="mailto:lee_eng_tiong@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">lee_eng_tiong<br>@schools.gov.sg</span></a></td><td style="border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><br><br><br><br></td><td style="border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><br></td><td style="border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><br></td></tr></tbody></table>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<br>6 Integrity<br>(6I)<br>
+<img height="225" width="175" src="">
+Ms Pamela See Yuen Heng<br>
+<a href="mailto:see_yuen_heng@schools.gov.sg">see_yuen_heng<br>@schools.gov.sg</a><br>
+</th>
+</tr>
 
-
-### Primary 4
-
-
-
-
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 859px" class="tg"><colgroup><col style="width: 212px"><col style="width: 220px"><col style="width: 215px"><col style="width: 212px"></colgroup><thead><tr><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4 Respect(4R1)<br><img src="/images/muslim_optimisedforweb.jpg" alt="muslim_optimisedforweb.jpg" width="175" height="266"><br><span style="background-color:initial">Mr Muslim Bin </span><br>Mohamed Amin<br><br><a href="mailto:muslim_mohamed_amin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">muslim_mohamed_<br>amin@schools.gov.sg</span></a></th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4Respect(4R1)<br><img src="/images/Mdm_Teo_Siew_Yeun_optimisedforweb.jpg" alt="Mdm_Teo_Siew_Yeun_optimisedforweb.jpg" width="177" height="265"><br><span style="font-weight:400;color:#162837">Mdm Teo Siew Yeun</span><br><br><a href="mailto:teo_siew_yeun@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">teo_siew_yeun<br>@schools.gov.sg</span></a></th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4 Responsibility(4R2)<br><img src="/images/Emily%20ambrose_optimisedforweb.jpg" alt="Emily ambrose_optimisedforweb.jpg" width="175" height="263"><br><span style="background-color:initial">Miss Emily Amb</span>rose <br><br><a href="mailto:Emily_Ambrose@schools.gov.sg"><span style="text-decoration:underline;color:#08A7F0">Emily_Ambrose<br>@schools.gov.sg</span></a></th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4 Responsibility(4R2)<br><img src="/images/Miss%20Kimberly%20Jean%20Aeria%202%20edited%20%20cropped.jpg" alt="Miss Kimberly Jean Aeria 2 edited  cropped.jpg" width="157" height="262"><br><span style="font-weight:400;color:#162837">Mdm Kimberly</span><br><span style="font-weight:400;color:#162837">Jean Aeria</span><br><a href="mailto:kimberly_jean_aeria@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">kimberly_jean_aeria<br>@schools.gov.sg</span></a></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4 Resilience(4R3)<br><img src="/images/Mdm%20Julie%20Wong-Optimesed%20for%20web.jpg" alt="Mdm Julie Wong-Optimesed for web.jpg" width="175" height="269"><br><span style="background-color:initial">Mdm Julie Wong </span><br><span style="font-weight:400;color:#162837">(Mrs Ling)</span><br><a href="mailto:julie_wong@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">julie_wong<br>@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4 Integrity(4I)<br><img src="/images/zatty.jpg" alt="Ms Zatty 5.png" width="180" height="270"><br><span style="background-color:initial">Mdm Zatty Sabrina Bte </span><br>Mohd Razif<br><br><a href="mailto:zatty_sabrina_mohd_razif@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">zatty_sabrina_mohd_razif<br>@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4 Integrity(4I)<br><img src="/images/Mrs%20Helen%20Chong.jpg" alt="Mrs Helen Chong.jpg" width="175" height="270"><br><span style="background-color:initial">Mrs Helen Chong</span><br><br><br><a href="mailto:helen_low_kwee_fong@schools.gov.sg"><span style="text-decoration:underline;color:#08A7F0">helen_low_kwee_<br>fong@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4 Care(4C)<br><img src="/images/Kirthi_optimisedforweb.jpg" alt="Kirthi_optimisedforweb.jpg" width="175" height="269"><span style="background-color:initial">#Miss Kirthi Shihilpa</span><br>Pillai <br><br><br><a href="mailto:Kirthi_Shihlpa_Pillai@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">Kirthi_Shihlpa_Pillai<br>@schools.gov.sg</span></a></td></tr><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">4 Care(4C)<br><br><img src="/images/MdmHanim.jpeg" alt="MdmHanim.jpeg" width="162" height="278"><br><span style="font-weight:400;color:#162837">Mdm Norhanim</span><br><span style="font-weight:400;color:#162837">Bte Hashim</span><br><br><a href="mailto:norhanim_hashim@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">norhanim_hashim<br>@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><br><br><br><br><br><br><br><br><br><br><br></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><br><br><br></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><br><br></td></tr></tbody></table>
-
-
-### Primary Five
-
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 875px" class="tg"><colgroup><col style="width: 216px"><col style="width: 224px"><col style="width: 219px"><col style="width: 216px"></colgroup><thead><tr><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">5 Respect(5R1)<br><img src="/images/Adeline%20Ang_optimisedforweb.jpg" alt="Adeline Ang_optimisedforweb.jpg" width="167" height="250"><br><span style="background-color:initial">Mdm Adeline Ang</span><br><a href="mailto:seah_sock_luang_adeline@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0;background-color:initial">seah_sock_luang_adeline</span></a><br><a href="mailto:seah_sock_luang_adeline@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0;background-color:initial">@schools.gov.sg</span></a></th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">5 Respect(5R1)<br><img src="/images/IMG_9053.jpg" alt="IMG_9053.JPG" width="168" height="252"><br><span style="font-weight:400;color:#162837">Mdm Anitha</span><br><span style="font-weight:400;color:#162837">Aruljothi</span><br><a href="mailto:m_anitha@schools.gov.sg"><span style="text-decoration:underline;color:#08A7F0">m_anitha</span></a><br><a href="mailto:m_anitha@schools.gov.sg"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">5 Responsibility(5R2)<br><img src="/images/MRS%20PAVANI%20FINAL.jpg" alt="MRS PAVANI FINAL.jpg" width="172" height="255"><br><span style="font-weight:400;color:#162837">Mdm Pavani D/O Krishna Samy</span><br><a href="mailto:pavani_krishna_samy@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">pavani_krishna_samy</span></a><br><a href="mailto:pavani_krishna_samy@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">5 Responsibility(5R2)<br><img src="/images/MR%20DARVINDER%20EDITER%20FINAL.jpg" alt="MR DARVINDER EDITER FINAL.jpg" width="172" height="255"><br><span style="font-weight:400;color:#162837">Mr Darvinder Singh</span><br><span style="font-weight:400;color:#162837">S/O K Singh</span><br><a href="mailto:darvinder_singh_karam_singh@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">darvinder_singh_karam</span></a><br><a href="mailto:darvinder_singh_karam_singh@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">_singh</span></a><a href="mailto:darvinder_singh_karam_singh@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0;background-color:initial">@schools.gov.sg</span></a></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">5 Resilience(5R3)<br><img src="/images/Mdm_Farah_Binte_Abdul_Rashid_optimisedforweb.jpg" alt="Mdm_Farah_Binte_Abdul_Rashid_optimisedforweb.jpg" width="173" height="279"><br><br><span style="background-color:initial">Mdm Farah Binte</span><br><br><span style="font-weight:400;color:#162837">Abdul Rashid</span><br><br><a href="mailto:farah_abdul_rashid@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">farah_abdul_rashid</span></a><br><a href="mailto:farah_abdul_rashid@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a><br></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">5 Resilience(5R3)<br><img src="/images/Mdm_Chen_ShuangShuang_optimisedforweb.jpg" alt="Mdm_Chen_ShuangShuang_optimisedforweb.jpg" width="164" height="279"><br><span style="background-color:initial">Mdm Chen </span><br><br><span style="font-weight:400;color:#162837">ShuangShuang</span><br><a href="mailto:chen_shuangshuang@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">chen_shuangshuang</span></a><br><a href="mailto:chen_shuangshuang@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a><br></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">5 Integrity(5I)<br><img src="/images/Mr_Kang_Yong_Ngee_optimisedforweb.jpg" alt="Mr_Kang_Yong_Ngee_optimisedforweb.jpg" width="173" height="280"><br><span style="background-color:initial">Mr Kang Yong Ngee</span><br><br><br><a href="mailto:kang_yong_ngee@schools.gov.sg"><span style="text-decoration:underline;color:#08A7F0">kang_yong_ngee</span></a><br><a href="mailto:kang_yong_ngee@schools.gov.sg"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">5 Care(5C)<br><img src="/images/Mr%20Jerry%20Chua_optimisedforweb.jpg" alt="Mr Jerry Chua_optimisedforweb.jpg" width="173" height="279"><span style="background-color:initial">#Mr Jerry Chua</span><br><br><span style="font-weight:400;color:#162837">Chun Wei</span><br><a href="mailto:chua_chun_wei@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">chua_chun_wei</span></a><br><a href="mailto:chua_chun_wei@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a><br></td></tr><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"> 5 Care(5C)<img src="/images/Miss_Ho_Qingxi_Natalie_optimisedforweb.jpg" alt="Miss_Ho_Qingxi_Natalie_optimisedforweb.jpg" width="166" height="248"><br><span style="font-weight:400;color:#162837">Mrs Natalie Lim</span><br><br><br><a href="mailto:ho_qingxi_natalie@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">ho_qingxi_natalie</span></a><br><a href="mailto:ho_qingxi_natalie@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">  5 Harmony(5H)<img src="/images/Mdm%20Nur%20Faizah%20Binte-Optimised%20for%20web.jpg" alt="Mdm Nur Faizah Binte-Optimised for web.jpg" width="165" height="247"><br><span style="font-weight:400;color:#162837">Mdm Nur Faizah</span><br><span style="font-weight:400;color:#162837">Binte</span><span style="background-color:initial"> Abdan</span><br><br><a href="mailto:Nur_Faizah_Abdan@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">Nur_Faizah_Abdan</span></a><br><a href="mailto:Nur_Faizah_Abdan@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"> 5 Harmony(5H)<br><img src="/images/Miss_Veronica_Poon_optimisedforweb.jpg" alt="Miss_Veronica_Poon_optimisedforweb.jpg" width="167" height="249"><br><span style="background-color:initial">Miss Veronica Poon</span><br><span style="font-weight:400;color:#162837">Sook Yee</span><br><br><a href="mailto:poon_sook_yee@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">poon_sook_yee</span></a><br><a href="mailto:poon_sook_yee@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> <br><br></td></tr></tbody></table>
-
-
-### Primary 6
-
-
-
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 875px" class="tg"><colgroup><col style="width: 216px"><col style="width: 224px"><col style="width: 219px"><col style="width: 216px"></colgroup><thead><tr><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">6 Respect(6R1)<br><img src="/images/Mdm%20Hannah%20cropped.jpg" alt="Mdm Hannah cropped.jpg" width="155" height="254"><br><span style="background-color:initial">Mdm Nurfarhanna</span><br> Bte Hazmi<br><a href="mailto:nurfarhannah_hazmi@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">nurfarhannah_hazmi</span></a><br><a href="mailto:nurfarhannah_hazmi@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">6 Respect(6R1)<br><img src="/images/Mr%20Watson%20Tay%20cropped.jpg" alt="Mr Watson Tay cropped.jpg" width="172" height="255"><br><span style="background-color:initial">Mr Watson Teh</span><br><span style="font-weight:400;color:#162837">Chiew </span><span style="background-color:initial">Hwa</span><br><a href="mailto:teh_chiew_hwa_watson@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">teh_chiew_hwa_watson</span></a><br><a href="mailto:teh_chiew_hwa_watson@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a><br></th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">6 Responsibility(6R2)<br><img src="/images/Miss%20Chua%20Shuan%20Kwee%20cropped.jpg" alt="Miss Chua Shuan Kwee cropped.jpg" width="171" height="255"><br><span style="background-color:initial">Miss Chua Shuan</span><br><span style="font-weight:400;color:#162837">Kwee</span><br><a href="mailto:chua_shuan_kwee@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">chua_shuan_kwee</span></a><br><a href="mailto:chua_shuan_kwee@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">6 Responsibility(6R2)<br><br><img src="/images/Mdm_Sim_Shiyu_optimisedforweb.jpg" alt="Mdm_Sim_Shiyu_optimisedforweb.jpg" width="170" height="255"><br><span style="background-color:initial">Mrs Yeo</span><br><br><a href="mailto:sim_shiyu@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">sim_shiyu</span></a><br><a href="mailto:sim_shiyu@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a><br></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">6 Resilience(6R3)<br><br><img src="/images/Mdm_Wang_Luning_optimisedforweb.jpg" alt="Mdm_Wang_Luning_optimisedforweb.jpg" width="165" height="249"><br><span style="font-weight:400;color:#162837">Mdm Wang Luning</span><br><a href="mailto:wang_luning@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">wang_luning</span></a><br><a href="mailto:wang_luning@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">6 Resilience(6R3)<br><img src="/images/Mr%20Justin%20Luo%20Yanzhong_optimisedforweb.jpg" alt="Mr Justin Luo Yanzhong_optimisedforweb.jpg" width="166" height="248"><br><span style="font-weight:400;color:#162837">Mr Justin Luo</span><br><span style="font-weight:400;color:#162837">Yanzhong</span><br><a href="mailto:justin_luo_yanzhong@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">justin_luo_yanzhong</span></a><br><a href="mailto:justin_luo_yanzhong@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="background-color:initial">6 Integrity(6I)</span><br><img src="/images/Sherylene%20Soh_optimisedforweb.jpg" alt="Sherylene Soh_optimisedforweb.jpg" width="168" height="250"><br><span style="background-color:initial">Miss Sherylene Soh</span><br>Siew Yin<br><a href="mailto:sherylene_soh_siew_yin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">sherylene_soh_siew_yin</span></a><br><a href="mailto:sherylene_soh_siew_yin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">6 Integrity(6I)<br><img src="/images/Miss%20Pamela%20See%20cropped.jpg" alt="Miss Pamela See cropped.jpg" width="170" height="252"><br><br><span style="background-color:initial">Ms Pamela See</span><br><span style="font-weight:400;color:#162837">Yuen Heng</span><br><a href="mailto:see_yuen_heng@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">see_yuen_heng</span></a><br><a href="mailto:see_yuen_heng@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#08A7F0">@schools.gov.sg</span></a></td></tr></tbody></table>
+</tbody></table>

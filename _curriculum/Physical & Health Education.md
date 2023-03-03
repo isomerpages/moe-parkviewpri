@@ -3,135 +3,459 @@ title: Physical & Health Education
 permalink: /curriculum/physical-n-health-education/
 description: ""
 ---
-# **Physical & Health Education** 
-
 ### Vision
 
 To enable our students to demonstrate individually and with others the physical skills, practices, and values to enjoy a lifetime of active, healthy living.
 
-
 ### Mission
 
-To enable and encourage our students to be active after leaving school, with a greater focus on building a strong foundation in fundamental movement skills (FMS) and broad-based development through a range of enjoyable and varied physical activities.  
+To enable and encourage our students to be active after leaving school, with a greater focus on building a strong foundation in fundamental movement skills (FMS) and broad-based development through a range of enjoyable and varied physical activities.
 
 ### Framework
 
-<img src="/images/framework_pe-FA.jpg" style="width:50%">
+<img src="/images/Curriculum/PE/PE%20-%20Framework.jpg" style="width:75%">
 
-**Enable Health and Fitness for life**
+#### Enable Health and Fitness for life
+<ul>
+<li>Provide platforms for students to choose, experience and engage in physical activities through participation in sports and health-related programmes and activities.</li></ul>
 
-*   Provide platforms for students to choose, experience and engage in physical activities through participation in sports and health-related programmes and activities.
+#### Deepening Enjoyment of Active and Healthy Living
+<ul>
+<li>Expose students to a range of sports and games skills through sporting events/programmes and PE lessons.</li>
+<li>Enhance students’ sports experience through the school’s Learning for Life Programme (LLP) – Sports Experiential Programme.</li>
+<li>Enhance holistic assessment of student learning and physical development via PE Holistic Development Profile (HDP):</li></ul>
 
-**Deepening Enjoyment of Active and Healthy Living**
-
-*   Expose students to a range of sports and games skills through sporting events/programmes and PE lessons.
-*   Enhance students’ sports experience through the school’s Learning for Life Programme (LLP) – Sports Experiential Programme.
-*   Enhance holistic assessment of student learning and physical development via PE Holistic Development Profile (HDP):
-
-\- self and peer assessment (subject-based/learning outcomes)
-
+\- self and peer assessment (subject-based/learning outcomes)<br>
 \- self and peer assessment (in Values, SEL & 21CC)
 
+### Enrichment Programme
 
-* [Enrichment Programme](#EnrichmentProgramme)
-* [School Events](#SchoolEvents)
-* [School Programme](#SchoolProgramme)
-* [Useful Resources](#UsefulResources)
+##### P1 Jump Rope Enrichment
+
+<p align="justify">Jump Rope is a sport for all ages and abilities. It helps the development and improvement of psychomotor skills, coordination, agility, flexibility, stamina and endurance. It is also proven to strength bones and joints. Beside all these benefits, Jump Rope can also increase self-esteem and confidence when skippers increase their skill levels and develop performing skills.</p>
+
+<p align="justify">Our Jump Rope Program is aimed to introduce the essential jump rope skills and equips the P1 pupils with the right skills and improve the overall fitness and stamina of the skippers and at the same time develop their coordination, teamwork and leadership skills.</p>
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.column img {
+  margin-top: 12px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+<body>
+<!-- Photo Grid -->
+<div class="row"> 
+<div class="column">
+<img src="/images/Curriculum/PE/Jump%20Rope_1.jpg" style="width:100%"></div>
+  
+<div class="column">
+<img src="/images/Curriculum/PE/Jump%20Rope_2.jpg" style="width:100%">
+</div>
+</div>
+</body>
+
+##### P2 Wushu Enrichment
+
+<p align="justify">Wushu Enrichment is a programme customised for P2 pupils. It aims to introduce our pupils to basic martial arts through engaging lessons. Throughout the programme, emphasis will be placed on hand and leg movements and coordination. Pupils will then be able to perform a basic routine.</p>
+
+<p align="justify">The programme also seeks to inculcate values of Respect, Discipline and Perseverance in the pupils. Pupils reap the benefits of improved focus and better conduct. Our Parent Support Group partners the school in facilitating the values education segment together with the Wushu coaches during lessons.</p>
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.column img {
+  margin-top: 12px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+<body>
+<!-- Photo Grid -->
+<div class="row"> 
+<div class="column">
+<img src="/images/Curriculum/PE/Wushu_1.jpg" style="width:100%"></div>
+  
+<div class="column">
+<img src="/images/Curriculum/PE/Wushu_2.jpg" style="width:100%">
+</div>
+</div>
+</body>
+
+##### P5 Outdoor Adventure Learning Camp (Residential)
+
+<p align="justify">P5 Outdoor Adventure Learning Camp (Residential)
+As part of the National Outdoor Adventure Education (OAE) Master Plan, all Primary 5 students participate in an Outdoor Adventure Learning Camp. Through the camp, students develop social emotional competencies including self-awareness, social awareness, self-management, relationship management and responsible decision making. They will also learn to manage one’s safety during outdoor activities and demonstrate responsible decision making towards self, others and the community and environment.</p>
+
+During the camp, pupils will participate in activities and games that include:
+
+<ul>
+<li>Teambuilding activities</li>
+<li>Low/Middle/High Elements</li>
+<li>Walking/Nature Scavenger Hunt</li>
+<li>Kayaking/Dragon-Boating</li>
+<li>Campfire, etc.</li></ul>
+
+Through adventure challenges and activities, pupils get to:
+<ul>
+<li>Overcome their fears and limitations</li>
+<li>Challenge themselves</li>
+<li>Grow in confidence and self-esteem</li>
+<li>Step outside their comfort zone</li>
+<li>Develop an appreciation for nature</li>
+<li>Manage risk and learn to reflect</li>
+<li>Develop team-building and leadership skills</li></ul>
 
 
-<h3><a name="Enrichment Programme"></a>Enrichment Programme</h3>
+<style>
+* {
+  box-sizing: border-box;
+}
 
-<b>P1 & P2 Wushu Enrichment Programme</b>
+body {
+  margin: 0;
+  font-family: Arial;
+}
 
-Wushu Enrichment is a programme customised for P1 and P2 pupils. It aims to introduce our pupils to basic martial arts through engaging lessons. Throughout the programme, emphasis will be placed on hand and leg movements and coordination. Pupils will then be able to perform a basic routine.
+.header {
+  text-align: center;
+  padding: 32px;
+}
 
-The programme also seeks to inculcate values of Respect, Discipline and Perseverance in the pupils. Pupils reap the benefits of improved focus and better conduct. Our Parent Support Group partners the school in facilitating the values education segment together with the Wushu coaches during lessons.
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
 
-<img src="/images/ep1.jpg">
+.column img {
+  margin-top: 12px;
+}
 
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
 
-<b>P4 and P5 Outdoor Adventure Learning</b>
+<body>
+	<img src="/images/Curriculum/PE/P5%20Outdoor%20Adventure%20Learning%20Camp_1.png" style="width:100%">
+<!-- Photo Grid -->
+<div class="row"> 
+<div class="column">
+<img src="/images/Curriculum/PE/P5%20Outdoor%20Adventure%20Learning%20Camp_2.png" style="width:100%">
+<img src="/images/Curriculum/PE/P5%20Outdoor%20Adventure%20Learning%20Camp_3.png" style="width:100%"></div>
+  
+<div class="column">
+<img src="/images/Curriculum/PE/P5%20Outdoor%20Adventure%20Learning%20Camp_4.png" style="width:100%">
+<img src="/images/Curriculum/PE/P5%20Outdoor%20Adventure%20Learning%20Camp_5.png" style="width:100%"></div>
+</div>
+</body>
 
-<b>Camp Odyssey and Camp Valor</b>
+### School Events
 
-The school believes in taking learning outdoors to enrich the curriculum and make learning fun and meaningful. Every year, Camp Odyssey and Camp Valor are conducted concurrently for the P4 and P5 pupils as a form of lead up to the ultimate camp experience for P6 - Overseas Cultural Immersion Camp.
+##### PVPS Family Run & Walk Challenge
 
-![](/images/ep2.jpg)
+<p align="justify">To deepen the enjoyment of active and healthy living, encourage students and their family members to stay active, and to promote family bonding through participation in physical activities together, the PE department organizes the yearly PVPS Family Run & Walk Challenge where the students (accompanied by an adult family member at all times) would run and/or walk a specific distance within the stipulated time period. Screenshots of the runs will be submitted via a google form for tabulation after every workout. Students who accomplish the Challenge will win prizes that include medals, water bottles, finisher tees, etc.</p>
 
-During the camps, pupils learn useful skills such as topography, tent-pitching and conflict management. They also have the opportunities to take part in activities such as dragon boating, Challenge Ropes Course and team-building games. Through adventure challenges and activities, pupils get to:
+<style>
+* {
+  box-sizing: border-box;
+}
 
-*   Overcome their fears and limitations
-*   Challenge themselves
-*   Grow in confidence and self-esteem
-*   Step outside their comfort zone
-*   Develop an appreciation for nature
-*   Manage risk and learn to reflect
-*   Develop team-building and leadership skills
+body {
+  margin: 0;
+  font-family: Arial;
+}
 
+.header {
+  text-align: center;
+  padding: 32px;
+}
 
-**P6 Motivation Camp**
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
 
-**P6 Camp Endeavour**
+.column img {
+  margin-top: 12px;
+}
 
-The annual P6 camp serves as a motivation and reward for all P6 students who have met the expectations and requirements set by the school and their teachers. It is also an opportunity for the cohort and teachers to spend quality time together. The school has decided to explore one of our local popular attractions – Sentosa, instead of going overseas to Batam. It is a good bonding time for our P6 cohort as they engage themselves in fun-filled activities such as team-building games, laser tag games and go-kart style activity at Skyline Luge with their school mates and teachers. Pupils also learn about the ‘Leave No Trace’ principles through interacting with nature and the outdoors. The highlight of the camp is the opportunity to sleep in the Underwater World Singapore as they fall asleep looking at the colourful marine life in the tanks.
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
 
-![](/images/ep4.jpg)
+<body>
+<!-- Photo Grid -->
+<div class="row"> 
+<div class="column">
+<img src="/images/Curriculum/PE/PVPS%20Family%20Run%20&%20Walk%20Challenge_1.png" style="width:100%">
+<img src="/images/Curriculum/PE/PVPS%20Family%20Run%20&%20Walk%20Challenge_3.png" style="width:100%"></div>
+  
+<div class="column">
+<img src="/images/Curriculum/PE/PVPS%20Family%20Run%20&%20Walk%20Challenge_2.png" style="width:100%">
+<img src="/images/Curriculum/PE/PVPS%20Family%20Run%20&%20Walk%20Challenge_4.png" style="width:100%">
+</div>
+</div>
+</body>
 
+##### PVPS Olympics
 
-<h3><a name="School Events"></a>School Events</h3>
+<p align="justify">PVPS Olympics, one of the key sporting events in the school is a series of events leading up to the culmination of the PVPS Olympics Day where pupils represent their houses and battle it out to be crowned Champion House of the year.</p>
+<p align="justify">The aims of the event are to provide a platform for pupils from different classes and levels to mingle, forge friendships and to demonstrate qualities such as sportsmanship, teamwork and fair play. The PVPS Olympics put to test both individual competencies and team camaraderie through various sports events </p>
 
+<style>
+* {
+  box-sizing: border-box;
+}
 
+body {
+  margin: 0;
+  font-family: Arial;
+}
 
+.header {
+  text-align: center;
+  padding: 32px;
+}
 
-**PVPS Family Run & Walk Challenge 2021**  
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
 
-****PVPS Olympics for (P3  to P6)****
+.column img {
+  margin-top: 12px;
+}
 
-PVPS Olympics, one of the key sporting events in the school, is usually held on the second last day of school to cap off Semester 1. A series of events lead up to the culmination of the PVPS Olympics day where pupils from Primary 3 to Primary 6 represent their houses and battle it out to be crowned Champion House of the year.
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
 
-The aims of the event are to provide a platform for pupils from different classes and levels to mingle, forge friendships and to demonstrate qualities such as sportsmanship, teamwork and fair play. The PVPS Olympics put to test both individual competencies and team camaraderie through sports and several competitions such as Best Banner, Best Mascots, and Best Cheering.
+<body>
+	<img src="/images/Curriculum/PE/PVPS%20Olympics_2.png">
+<!-- Photo Grid -->
+<div class="row"> 
+<div class="column">
+<img src="/images/Curriculum/PE/PVPS%20Olympics_1.png">
+<img src="/images/Curriculum/PE/PVPS%20Olympics_3.png"></div>
+  
+<div class="column">
+<img src="/images/Curriculum/PE/PVPS%20Olympics_4.png">
+<img src="/images/Curriculum/PE/PVPS%20Olympics_5.png"></div>
+</div>
+</body>
 
+##### P1 Orientation Programme (Telematch)
 
+<p align="justify">During P1 Orientation Week, the PE department organizes a Telematch for the P1 pupils. It is a type of class-based games and sports that is played in a fun setting, with the pupils working together to complete various tasks or activities. Telematch challenges may test the pupils' physical agility, fundamental movement skills, balance, coordination, speed, and endurance, as well as their mental skills, such as problem-solving, strategic thinking, and communication.</p>
 
-![](/images/olympics.jpg)
+<style>
+* {
+  box-sizing: border-box;
+}
 
+body {
+  margin: 0;
+  font-family: Arial;
+}
 
-**Mini Olympics for (P1 & P2)**     
-**Telematch & Campfire (for P1)**
+.header {
+  text-align: center;
+  padding: 32px;
+}
 
-**ACES DAY**
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
 
-ACES Day are held on the eve of Children’s Day. The event was used to signify the end of the year-round competition between the various Houses. The event will be led by our resident Aerobics enthusiast, Mr Azmi and will be assisted by Hope Ambassadors and pupils from the Fun and Fitness Programme. It is always the aim for the school to move in unison to the sound of the music to display the school value ‘Synergy for Success’.
+.column img {
+  margin-top: 12px;
+}
 
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
 
-<h3><a name="School Programmes"></a>School Programmes</h3>
+<body>
+	<img src="/images/Curriculum/PE/P1%20Orientation%20Programme%20(Telematch)_3.jpg">
+<!-- Photo Grid -->
+<div class="row"> 
+<div class="column">
+<img src="/images/Curriculum/PE/P1%20Orientation%20Programme%20(Telematch)_2.jpg"></div>
+  
+<div class="column">
+<img src="/images/Curriculum/PE/P1%20Orientation%20Programme%20(Telematch)_1.jpg"></div>
+</div>
+</body>
 
-**P1 & P2 PAL (Sports and Creative Movements)**
+#### School Programmes
 
-**Fun and Fitness Programme**
+##### Health Awareness Week
 
-The Fun and Fitness Programme aims to motivate our pupils to maintain a healthy weight through participating in physical activites. During recess time, pupils will be engaged in activities conducted by PE teachers and students leaders. Each session lasts for 15 minutes. It is a weight management programme that helps the pupils to be involved in games and cardio. Pupils are also educated on healthy eating habits and will have the opportunity to take part in events organized by external organizations such as POSB kids run.
+###### Active Friday
 
+<p align="justify">The promotion of a healthy lifestyle in a fun and structured way with a whole school approach on Fridays via workouts as part of morning assembly and promoting eating fruits and vegetables during recess by collecting of Fruittie and Veggie cards. The programme also empowers students by involving them in workouts, monitoring and rewarding their peers' consumption of fruits and vegetables.</p>
 
-![](/images/FUN%20AND%20FITNESS.jpg)
+<p align="justify">The key focus is to encourage students to be active and motivate them to incorporate fruits and vegetables in their diets when they are in school. Additionally, the objective is to encourage students to make healthy habits parts of their own healthy lifestyle beyond school. Selected Student Ambassadors can display their leadership qualities and take ownership of helping their peers in cultivating a healthy lifestyle via the workout and Fruittie Veggie cards.</p>
 
+<style>
+* {
+  box-sizing: border-box;
+}
 
+body {
+  margin: 0;
+  font-family: Arial;
+}
 
-**Health Awareness Week**
+.header {
+  text-align: center;
+  padding: 32px;
+}
 
-**Active Friday**
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
 
-**Unstructured Play / Recess Play**
+.column img {
+  margin-top: 12px;
+}
 
-**P6 Inter-Class Games**
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
 
+<body>
+<!-- Photo Grid -->
+<div class="row"> 
+<div class="column">
+<img src="/images/Curriculum/PE/Active%20Friday_1.png" style="width:100%"></div>
+  
+<div class="column">
+<img src="/images/Curriculum/PE/Active%20Friday_2.png" style="width:100%">
+</div>
+</div>
+</body>
 
+###### Unstructured Play / Recess Play
 
+<p align="justify">Children’s unstructured play has been recognized as a major agent in young children’s development and learning. Through play, children learn societal roles, norms, and values and develop physical and cognitive competencies, creativity, self-worth and efficacy. It specifically helps creativity and imagination, problem-solving abilities and social skills. Furthermore, children also report being happiest when at play.</p>
 
+<p align="justify">In Park View Primary School, unstructured play is designed with the 3Is in mind – Intentional, Inclusive and Inspiring. We intentionally provide the environment and space to allow our students to develop physically through play, and to develop socially and emotionally through playing with others. Unstructured play takes place on every school day during the recesses at various venues in the school – Parade Square, Sheltered Court and the Football Field. Students choose the equipment they want to play with, who they want to play with and how they want to play. 
+Hence, play becomes inclusive as students determine the level of play based on their skill and fitness level. Through engaging in unstructured play and interacting with their peers, we hope that students will inspire one another to lead an active and healthy life.</p>
 
+<style>
+* {
+  box-sizing: border-box;
+}
 
-<h3><a name="Useful Resources"></a>Useful Resources</h3>
+body {
+  margin: 0;
+  font-family: Arial;
+}
 
+.header {
+  text-align: center;
+  padding: 32px;
+}
 
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
 
-[PE Syllabus](https://www.moe.gov.sg/primary/curriculum/syllabus)
+.column img {
+  margin-top: 12px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+<body>
+	<img src="/images/Curriculum/PE/Recess%20Play_1.jpg">
+<!-- Photo Grid -->
+<div class="row"> 
+<div class="column">
+<img src="/images/Curriculum/PE/Recess%20Play_3.jpg"></div>
+  
+<div class="column">
+<img src="/images/Curriculum/PE/Recess%20Play_2.jpg"></div>
+</div>
+</body>
+
+### Useful Resources
+<a href="https://www.moe.gov.sg/primary/curriculum/syllabus">PE Syllabus</a>

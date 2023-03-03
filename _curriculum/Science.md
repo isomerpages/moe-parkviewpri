@@ -3,341 +3,287 @@ title: Science
 permalink: /curriculum/science/
 description: ""
 ---
-# **Science**
+#### Department Goal
+To inculcate the spirit of scientific inquiry and 21st CC skills in students.
 
-### Framework
+#### Department Focus
+<ul><li>Provide students with experiences which build on their interest and stimulate their curiosity about their environment.</li>
+<li>Provide students with opportunities to develop skills, habits of mind and attitudes necessary for scientific inquiry.</li>
+<li>Enable students to appreciate how Science influences people and the environment around them.</li></ul>
 
-![](/images/science%20framework%20model.bmp)
+#### Framework
+<img src="/images/Curriculum/Science/Science%20Framework.png" style="width:75%">
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#70AD47;border-color:#32cb00;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2"><span style="color:white">Focus for Each Level</span></th></tr></thead><tbody><tr><td style="background-color:#E2EFD9;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P1 &amp; P2</td><td style="background-color:#E2EFD9;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">·       Nature (Plants and Animals)</td></tr><tr><td style="background-color:#FFF;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P3</td><td style="background-color:#FFF;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Diversity of living and non-living things<br>• Diversity of materials<br>• Cycles in plants and animals<br>• Plant system<br>• Human system</td></tr><tr><td style="background-color:#E2EFD9;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P4</td><td style="background-color:#E2EFD9;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Magnets<br>• Cycles in matter<br>• Heat<br>• Light</td></tr><tr><td style="background-color:#FFF;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P5</td><td style="background-color:#FFF;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Cycles in Water<br>• Reproduction in plants and animals<br>• Plant and human respiratory and circulatory systems<br>• Cell system<br>• Electrical system<br>• Photosynthesis</td></tr><tr><td style="background-color:#E2EFD9;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P6</td><td style="background-color:#E2EFD9;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Energy conversion<br>• Forces<br>• Interaction within the environment</td></tr></tbody></table>
+#### Key Programmes
+##### Focus for Science Teaching & learning
 
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#70AD47;border-color:#32cb00;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2"><span style="color:white">Focus for Each Level</span></th></tr></thead><tbody><tr><td style="background-color:#E2EFD9;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P1 &amp; P2</td><td style="background-color:#E2EFD9;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><ul><li>Nature (Plants and Animals)</li></ul></td></tr><tr><td style="background-color:#FFF;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P3 <i>(with effect from 2023)</i></td><td style="background-color:#FFF;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><ul><li>Diversity of living and non-living things</li><li>Cycles in plants and animals</li><li>Diversity of Materials</li><li>Magnets</li></ul></td></tr><tr><td style="background-color:#E2EFD9;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P4</td><td style="background-color:#E2EFD9;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><ul><li>Magnets</li><li>Cycles in matter</li><li> Heat</li><li>Light</li></td></tr><tr><td style="background-color:#FFF;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P5</td><td style="background-color:#FFF;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><ul><li>Reproduction in plants and animals</li><li>Electrical System</li><li>Human Respiratory and Circulatory Systems</li><li>Plant Transport System</li><li>Cycles in Water</li><li>Cell System</li><li>Photosynthesis</li></td></tr><tr><td style="background-color:#E2EFD9;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P6</td><td style="background-color:#E2EFD9;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><ul><li>Energy Forms and Energy Conversion</li><li>Interaction of Forces</li><li>Interaction within the environment</li></td></tr></tbody></table>
 
+#### Approaches
 
+<p align="justify">The Science Department programmes are planned using a 3-pronged approach of ‘Supporting’, ‘Enriching’ and ‘Stretching’ each student in the journey of learning Science. Under each approach, customised programmes are planned, implemented and reviewed to ensure its effectiveness and relevance for different profile of students.</p>
 
 
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#70AD47;border-color:#70ad47;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:white">SUPPORT</span></th><th style="background-color:#70AD47;border-color:#70ad47;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:white">ENRICH</span></th><th style="background-color:#70AD47;border-color:#70ad47;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:white">STRETCH</span></th></tr></thead><tbody><tr><td style="background-color:#E2EFD9;border-color:#70ad47;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<ul><li>P3-P5 Remediation Programme</li>
+<li>P6 Pull-Out Programme (LP)</li> 
+<li>Differentiated curriculum & resources</li></ul><br>
+<span style="color:black"> </span><br><span style="color:black"> </span><br> <br> <br> <br> <br> <br> <br> <br> <br> </td><td style="background-color:#E2EFD9;border-color:#70ad47;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<ul><li>P6 Enrich Programme</li>
+<li>School-based Instructional Packages</li>
+<li>P3-P5 Performance Tasks</li>
+<li>Blended Learning Approach & Inquiry-based Lessons</li>
+<li>P1 &P2 PAL OE & LJs</li>
+<li>P3-P6 LJs</li>
+<li>P3 Budding Scientists (For selected students)</li>
+<li>Integration of TLC-FA strategies</li>
+<li>Use of Self & Peer Assessments for feedback</li></ul></span><br><span style="color:black"> </span></td><td style="background-color:#E2EFD9;border-color:#70ad47;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<ul><li>P4 & P5 Science Olympiad</li>
+<li>P4 & P5 E2K Programme</li>
+<li>P6 DNA Programme</li>
+<li>Science Competitions</li>
+<li>Differentiated curriculum & resources</li>
+<li>Pull-Out Programme (MP)</li></ul> </span></td></tr></tbody></table>
 
-### Approaches
+#### Resources
+##### Science Wall
+<p align="justify">
+Our Science wall reflects how the three main human systems in our body, Digestive System, Circulatory System and Respiratory System, work together to ensure our body can function properly with the help of energy. There is a detailed explanation with key concepts of how each human system works. The extensive graphics also provide better understanding of the concepts for visual learners. Each human system is also accompanied by an interactive activity.</p>
 
-The Science Department programmes are planned using a 3-pronged approach of ‘Supporting’, ‘Enriching’ and ‘Stretching’ each student in the journey of learning Science. Under each approach, customised programmes are planned, implemented and reviewed to ensure its effectiveness and relevance for different profile of students.
+<img src="/images/Curriculum/Science/Science_1.jpg" style="width:100%">
 
+##### Science Garden
+<p align="justify">
+For pupils to have meaningful learning in science, it is important that they be allowed to experience the process of seeking answers to problems. This requires pupils to physically explore and discover knowledge, be it within their environment or in a laboratory. Besides having two indoor science laboratories, the Science Department has recently created an integrated learning trail weaving through the open spaces in the school.</p>
 
+<p align="justify">There are different thematic gardens simulating various natural environments.</p>
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#70AD47;border-color:#70ad47;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:white">SUPPORT</span></th><th style="background-color:#70AD47;border-color:#70ad47;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:white">ENRICH</span></th><th style="background-color:#70AD47;border-color:#70ad47;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:white">STRETCH</span></th></tr></thead><tbody><tr><td style="background-color:#E2EFD9;border-color:#70ad47;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• <span style="color:black">P3-P6 Remediation Programme</span><br><br>• <span style="color:black">P6 Pull-Out Programme (LP) </span><br><br>•<span style="color:#162837"> </span>Differentiated curriculum<br><span style="color:black"> </span><br><span style="color:black"> </span><br> <br> <br> <br> <br> <br> <br> <br> <br> </td><td style="background-color:#E2EFD9;border-color:#70ad47;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• <span style="color:black">School-based Instructional Packages</span><br><br>• <span style="color:black">P3-P5 Performance Tasks</span><br><br>• <span style="color:black">Inquiry-based Lessons</span><br><br>• <span style="color:black">Blended Learning</span><br><br>• <span style="color:black">P1 &amp; P2 PAL OE &amp; LJs</span><br><br>• <span style="color:black">P3 Adopt a Plot</span><br><br>• <span style="color:black">P3-P6 LJs</span><br><br>• <span style="color:black">P3 Budding Scientists (For selected students)</span><br><br>• <span style="color:black">Integration of TLC-FA strategies</span><br><br>• <span style="color:black">Self &amp; Peer Assessments</span><br><span style="color:black"> </span></td><td style="background-color:#E2EFD9;border-color:#70ad47;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• P4 &amp; P5 Science Olympiad<br> <br>• P4 &amp; P5 E2K Programme<br> <br>• P6 DNA Programme<br> <br>• Science Competitions<br> <br>• <span style="color:black">Differentiated curriculum</span><br><span style="color:black"> </span><br>• <span style="color:black">P6 Pull-Out Programme</span> <span style="color:black">(MP) </span></td></tr></tbody></table>
+<p align="justify"><b>Blooms@Energy Hub</b> is a floral garden characterized by an explosion of colours and fragrances. It comprises a flowering and butterfly garden.</p>
 
+<p align="justify"><b>Food@ Energy Hub</b> has a herbs and spices garden and a mini vegetable plot with local fruit trees planted around the school.</p>
 
+<p align="justify"><b>Desert@Energy Hub</b> located at the back of the school building houses desert flora with a variety of cactus.</p>
 
-### Assessment
+<p align="justify"><b>Rainforest@Energy Hub</b> showcases a slice of a tropical rainforest complete with a fernery garden and an eco-pond surrounded by lush tropical vegetation. A leaf litter habitat is also set up in the fernery garden for pupils to have first-hand experience in studying the conditions of a leaf litter habitat.</p>
 
+<p align="justify"><b>The Energy Pavilion</b> is an outdoor classroom amid the shrubs and creepers. It is a place where teachers can carry out their lessons or briefing before adjourning to the gardens for practical sessions.</p>
 
+<p align="justify">With the launch of the different “Hubs”, pupils can now just make a short trip down to see the plants that they study about in their books. This hands-on experience allows them to understand their lessons better. It is always good to be near Mother Nature.</p>
 
-
-
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Assessment of Learning</th><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Assessment for Learning</th><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Assessment as Learning</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• CA<br><br>• SA<br><br>• Prelim<br><br>• PSLE<br><br>• Diagnostic Test for Baseline<br><br>• Science Practical Assessment (SPA@PVPS)<br><br>• Performance Tasks<br></td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Topical Reviews<br><br>• Performance Tasks<br><br>• Science Practical Assessment (SPA@PVPS)<br><br>• Quizes<br><br>• Mindmapping<br></td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Science Journals<br><br>• Pupils' Reflections</td></tr></tbody></table>
-
-
-
-* [Environment](#Environment)  
-* [Resources](#Resources)
-* [Achievements](#Achievements)
-* [Enrichment Programmes](#EnrichmentProgrammes)
-
-<h3><a name="Environment"></a>Environment</h3>
-
-<img src="/images/hand-leaf_logo.jpg" style="width:50%">
-
-
-**Environment Care in PVPS**
-
-Park View wants to instill a strong sense of environmental conservation and promote awareness. The school provides opportunities to staff and students to apply knowledge, skills and values of care, protect and improve the environment through awareness and actions.
-
-The school adopts the following **5Is Approach** to fulfil our Sustainability and Environment Commitment:  
-
-**Inclusivity** – Everyone has a part to play; a whole-school approach involving all staff and students
-
-**Improvement** – Improve the environmental footprints and leave behind a greener future for the next generation.
-
-**Involvement** – Engage community partners such as NParks, NEA and parents to develop and support environmentally responsible actions together
-
-**Intrinsic** – Promote a mind-set where everyone is intrinsically motivated to sustain environmental efforts and caring for the environment becomes a part of us.
-
-**Influence** – Every PVPS staff / student will become Eco stewards, inspiring sustainability efforts beyond self & school
-
-![](/images/environment.jpg)
-
-
-### Recycling Corners
-
-To inculcate the culture of recycling in every student and staff, the school has set up various recycling points to make recycling a stone’s throw away. We have the recycling bins at the Recycling Corner for the different recyclables, reusable cartons in classrooms for paper, carton boxes in the staffroom, staff lounge and photocopying room for paper. A recycling corner was set up in the canteen and also behind the flagpole to encourage pupils to recycle paper and plastic bottles.
-
-![](/images/recycle.jpg)
-
-
-<h3><a name="Resources"></a>Resources</h3>
-
-
-### Science Wall
-
-Our Science wall reflects how the three main human systems in our body, Digestive System, Circulatory System and Respiratory System, work together to ensure our body can function properly with the help of energy. There is a detailed explanation with key concepts of how each human system works. The extensive graphics also provide better understanding of the concepts for visual learners. Each human system is also accompanied by an interactive activity.
-
-![](/images/Science-Wall.jpg)
-
-### Science Garden
-
-  
-
-For pupils to have meaningful learning in science, it is important that they be allowed to experience the process of seeking answers to problems. This requires pupils to physically explore and discover knowledge, be it within their environment or in a laboratory. Besides having two indoor science laboratories, the Science Department has recently created an integrated learning trail weaving through the open spaces in the school.
-
-  
-
-  
-
-There are different thematic gardens simulating various natural environments.
-
-  
-
-**Blooms@Energy Hub** is a floral garden characterized by an explosion of colours and fragrances. It comprises a flowering and butterfly garden.
-
-  
-
-**Food@ Energy Hub** has a herbs and spices garden and a mini vegetable plot with local fruit trees planted around the school.
-
-  
-
-**Desert@Energy Hub** located at the back of the school building houses desert flora with a variety of cactus.
-
-  
-
-**Rainforest@Energy Hub** showcases a slice of a tropical rainforest complete with a fernery garden and an eco-pond surrounded by lush tropical vegetation. A leaf litter habitat is also set up in the fernery garden for pupils to have first-hand experience in studying the conditions of a leaf litter habitat.
-
-**The Energy Pavilion** is an outdoor classroom amid the shrubs and creepers. It is a place where teachers can carry out their lessons or briefing before adjourning to the gardens for practical sessions.
-
-With the launch of the different “Hubs”, pupils can now just make a short trip down to see the plants that they study about in their books. This hands-on experience allows them to understand their lessons better. It is always good to be near Mother Nature.
-
-
-**Blooms@Energy Hub**   
-**Blooming Garden**
+<b>Blooms@Energy Hub</b><br>
+<b>Blooming Garden</b>
 
 ![](/images/BloomingGarden.jpg)
 
-**Food@ Energy Hub**  
-**Herbs and Spices Garden**
+<b>Food@ Energy Hub</b><br>
+<b>Herbs and Spices Garden</b>
 
 ![](/images/Herbs-and-Spices-Garden.jpg)
 
-
-**Vegetable Plots**
+<b>Vegetable Plots</b>
 
 ![](/images/Vegetables-Garden.jpg)
 
-**Fruit Trees**
+<b>Fruit Trees</b>
 
 ![](/images/Fruit-Trees.jpg)
 
-**Desert@Energy Hub**   
-**Cactus Garden**
+<b>Desert@Energy Hub</b><br>
+<b>Cactus Garden</b>
 
 ![](/images/Cactus-Garden.jpg)
 
-**Rainforest@Energy Hub**  
-**Fernery Garden**
+<b>Rainforest@Energy Hub</b><br>
+<b>Fernery Garden</b>
 
 ![](/images/Fernery-Garden.jpg)
 
-**Energy Pavilion**   
-**Outdoor Classroom**
+<b>Energy Pavilion</b><br> 
+<b>Outdoor Classroom</b>
 
 ![](/images/OutdoorClassroom.jpg)
 
-**School Pond**
+<b>School Pond</b><br>
 
 ![](/images/Sch_pond.jpg)
 
 ![](/images/kids%20garden.png)
 
-<h3><a name="Achievements"></a>Achievements</h3>
+#### Learning Journey to Singapore Science Centre
 
-### Our Achievements in Science Competitions
+<p align="justify">
+P1 to P5 students will go on a learning journey to the Singapore Science Centre every year to attend practical laboratory session or lecture demonstration on the topics that they learn in their primary science education. The Science Centre enrichment programmes complement the school science curriculum with hands-on and inspiring learning experiences. The enrichment programmes aim to:</p>
 
- **Singapore Primary Science Olympiad 2021**
+<ul><li>provide students with experiences which build on their interest in and stimulate their curiosity about their environment</li>
 
- **Gold Award**    
-Tit Shao Ze
+<li>provide engaging and meaningful acquisition of scientific knowledge</li>
 
-**Silver Award**   
-Koh Zi Le Zach   
-Deeptanshu Raj Appasani
+<li>inculcate the spirit of scientific inquiry through the application of different process skills such as observing, comparing, classifying, analysing, inferring, evaluating and investigating.</li></ul>
 
-**Bronze Award**  
-Chong Xiao Kuan   
-Peng Xingqing
+<img src="/images/Curriculum/Science/Science_3.png" style="width:100%">
 
-**Merit Award**    
-Aldana Candace Judilla  
-Cheng Choi Yi Cerise     
-Germaine Cheong Ting Li   
-Haziq Rayyan Bin Mohammed Hairulnizam   
-Ren Zhi Hsien     
-Shaistah Nadia Binte Mohamed Hasim     
-Jessica Xiao Jing Han     
-Zhu Lixuan   
-Lozano Arieanna Zoei Rodriguez   
-Neha Awan
+#### P6: Ecology Learning Journey & Coastal Cleanup
 
+<p align="justify">P6 students will go on an Ecology Learning Journey to Pasir Ris Beach. The students will also get to experience a coastal clean-up at the beach after exploring the mudflat and mangrove swamp.</p>
 
-**Raffles Science Olympiad 2021**    
+The objectives of the learning journey are to:
 
- **Merit Award**   
-Jessica Xiao Jing Han
+<ul><li>Increase students’ awareness of the ecosystem of the seashore community in Singapore</li>
 
+<li>Learn about the diversity of life on the seashore and selected animals and plants’ adaptations to life on the seashore</li>
 
-### Our Achievements in Environment
+<li>Relate and extend students’ Science knowledge to real life experiences so as to provide them with a deeper understanding about life around them</li>
 
-**Community In Bloom Award (Silver)**
+<li>Integrate a meaningful Community Involvement Project (CIP) where students take meaningful actions to protect the environment.</li></ul>
 
-<img src="/images/1Community-in-Bloom%20(1).jpg" style="width:25%">
+<img src="/images/Curriculum/Science/Science_4.png" style="width:100%">
 
-NParks has been spearheading the Community In Bloom (CIB) programme to create gardening communities within housing estates, educational institutions and organisations in Singapore by partnering various stakeholders including residents, government agencies, grassroots organisations, schools and organisations.
+#### P6: P4 & P5 Science Olympiad Training 
 
-  
+<p align="justify">P4 and P5 students are selected to participate in Science Olympiad training.</p>
+
+The objectives of the programme are as follows:
+
+<ul><li>To develop students' interest, creativity, analytical thinking skill, spirit of learning through discovery and challenge in Science
+
+<li>To expose students’ with secondary science syllabus in attempt to broaden their knowledge of Science
+
+<li>To prepare selected students for Primary Science Olympiad competitions.</li></ul>
+
+<p align="justify">The training sessions are based on the broad science themes in the elementary science curriculum. These lessons focused on introducing Physics, Chemistry and Biology to students as well as to enhance their general knowledge.</p>
+
+<p align="justify">Selected P5 students may have the opportunity to participate in the Raffles Science Olympiad Competition (RSO) or the NUS High Singapore Primary Science Olympiad (SPSO).</p>
+
+<img src="/images/Curriculum/Science/Science_5.png" style="width:100%">
+
+#### P4 and P5 Science E2K Programme
+
+<p align="justify">P4 and P5 students are selected to participate in the Science E2K programme.</p>
+
+The objectives of the programme are as follows:
+
+<ul><li>To develop scientific inquiry process skills among primary students in Science</li>
+
+<li>To acquire habits, attitudes and dispositions of scientists</li>
+
+<li>To nurture other 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective and communication skills</li></ul>
+
+<p align="justify">The E2K Science Programme is a science enrichment programme for upper primary students who demonstrate interest and ability in science. The programme is adapted from Israel’s E2K Programme which is developed by the Israel Centre for Excellence through Education (ICEE).</p>
+
+<p align="justify">The lessons are based on the broad science themes in the elementary science curriculum. The students will collect and use evidence to address scientifically oriented questions, formulate explanations from evidence to address the questions and evaluate their explanations.</p>
+
+<img src="/images/Curriculum/Science/Science_6.png" style="width:100%">
+
+#### P6 DNA Science Enrichment Programme
+
+<p align="justify">In this programme, selected P6 studdents are provided the opportunity to conduct simulated forensic investigation activities where DNA is analysed as evidence. Through such hands-on activities, students get to extend the learning of scientific investigation skills outside classroom setting for scientific inquiry. In doing so, it is hoped that they are able to relate their Science knowledge to real life experiences so as to provide them with a deeper understanding about life around them.</p>
+
+The objectives of the programme are as follows:
+
+<ul><li>Introduction to laboratory techniques
+
+<li>Introduction to chromatography to separate components in an ink mixture
+
+<li>Using of apparatus in the extraction of solutes
+
+<li>Analyse blood stains & understand how blood stains are used to solve mystery.</li></ul>
+
+<img src="/images/Curriculum/Science/Science_7.png" style="width:100%">
+
+#### P3 Budding Scientists Programme
+
+<p align="justify">The Budding Scientists Programme is a new enrichment programme planned for our P3 students. With the main aim of enabling our beginning Science learners to transit seamlessly into their journey of learning Science, the Department members came together to pool our experiences and resources into planning an in-house enrichment programme for our young charges.</p>
+
+The objectives of the programme are as follows:
+
+<ul><li>To develop students’ interest and creativity, through discovery and hands-on experiments in Science;
+<li>To learn through inquiry to clarify misconceptions in Science;
+<li>To broaden their knowledge of Science and create awareness of the natural phenomenon in the world.</li></ul>
+
+<p align="justify">Our P3s were highly enthused and thoroughly enjoyed the activities planned for them. From the enriching experience, they can have a better grasp of how Scientists conduct experiments, as they learnt how to go about designing and conducting a fair experiment.</p>
+
+<img src="/images/Curriculum/Science/Science_18.jpg" style="width:100%">
+
+#### Environment Care in PVPS
+
+<p align="justify">Park View wants to instill a strong sense of environmental conservation and promote environmental awareness. The school provides opportunities to staff and students to apply knowledge, skills and values of care to protect and improve the environment.</p>
+
+The school adopts the following <b>5Is Approach</b> to fulfil our Sustainability and Environment Commitment:
+
+<b>Inclusivity</b> – Everyone has a part to play; a whole-school approach involving all staff and students
+
+<b>Improvement</b> – Improve the environmental footprints and leave behind a greener future for the next generation.
+
+<b>Involvement</b> – Engage community partners such as NParks, NEA and parents to develop and support environmentally responsible actions together
+
+<b>Intrinsic</b> – Promote a mind-set where everyone is intrinsically motivated to sustain environmental efforts and caring for the environment becomes a part of us.
+
+<b>Influence</b> – Every PVPS staff / student will become Eco stewards, inspiring sustainability efforts beyond self & school
+
+<img src="/images/Curriculum/Science/Science_9.png" style="width:100%">
+
+#### Recycling Corners
+
+<p align="justify">To inculcate the culture of recycling in every student and staff, the school has set up various recycling points to make recycling a stone’s throw away. We have the recycling bins at the Recycling Corner for the different recyclables, reusable cartons in classrooms for paper, carton boxes in the staffroom, staff lounge and photocopying room for paper. A recycling corner was set up in the canteen and also behind the flagpole to encourage students to recycle paper and plastic bottles.</p>
+
+<img src="/images/Curriculum/Science/Science_10.jpg" style="width:100%">
+
+#### Achievements
+##### Our Achievements in Science Competitions
+<b>Raffles Science Olympiad 2022</b><br>
+<b>Certificates of Participation Awarded to:</b>
+
+Ahmad Alhady Bin Shahrunizam (5R3)<br>
+Bhatia Vedansh (5R3)<br>
+Koka Menaja Sathya Sai Durga (5R3)<br>
+Por Luo Xi J'nise (5R3)<br>
+Sukrit Nautiya of 5R3
+
+<img src="/images/Curriculum/Science/Science_11.jpg" style="width:50%">
+
+##### Our Achievements in Environment
+###### Community in Bloom Award
+
+<img src="/images/Curriculum/Science/Science_12.jpg" style="width:30%">
+
+<p align="justify">NParks has been spearheading the Community In Bloom (CIB) programme to create gardening communities within housing estates, educational institutions and organisations in Singapore by partnering various stakeholders including residents, government agencies, grassroots organisations, schools and organisations.</p>
 
 Community In Bloom Awards aims to:
 
-*   Recognise and reward gardening efforts by community gardening groups
-*   Motivate and encourage community gardeners to enjoy gardening as a fun and healthy activity
-*   Set & improve the standards of community gardens located in communal spaces
-*   Spread the gardening bug to others in the community so that they too can discover the joy of gardening
+<ul><li>Recognise and reward gardening efforts by community gardening groups</li>
 
-Congratulations to Park View Primary School on being awarded the Community In Bloom (GOLD) in 2019!
+<li>Motivate and encourage community gardeners to enjoy gardening as a fun and healthy activity</li>
 
-**Singapore School Green Awards 2021**
+<li>Set & improve the standards of community gardens located in communal spaces</li>
 
-The Singapore School Green Awards (SGA) is a voluntary environmental programme which serves as a platform for pupils to develop and showcase their environmental efforts, through customised activities which will help them gain better understanding of the environment.
+<li>Spread the gardening bug to others in the community so that they too can discover the joy of gardening</li></ul>
 
- Students also engage or participate in various environmental programmes and/or activities to raise awareness about environmental issues within and/or to external communities and organisations.
+<p align="justify">Congratulations to Park View Primary School on being awarded the Community In Bloom (GOLD) in 2019!</p>
 
-Park View Primary School has once again achieved the Vanda Miss Joaquim Sustained Achievement Award in 2021.
+###### Singapore School Green Awards 2022
 
-![](/images/sci.jpg)
+<p align="justify">The Singapore School Green Awards (SGA) is a voluntary environmental programme which serves as a platform for students to develop and showcase their environmental efforts, through customised activities which will help them gain better understanding of the environment.</p>
 
-**Building and Construction Authority Green Mark Award**
+<p align="justify">Students also engage or participate in various environmental programmes and/or activities to raise awareness about environmental issues within and/or to external communities and organisations.</p>
 
-<img src="/images/green%20mark.jpg" style="width:25%">
+<p align="justify">Park View Primary School has once again achieved the Vanda Miss Joaquim Sustained Achievement Award in 2022.</p>
 
-The BCA Green Mark awards recognises developers, building owners and individuals who have made outstanding achievements in environmental sustainability in the built environment.
+<img src="/images/Curriculum/Science/Science_13.png" style="width:30%">
+<img src="/images/Curriculum/Science/Science_14.png" style="width:50%">
+<img src="/images/Curriculum/Science/Science_15.jpg" style="width:80%">
 
-Congratulations to Park View Primary School on being awarded the BCA Green Mark Award (GOLD) 2021 based on the Green Mark for Existing Schools (Version 2).
+###### Building and Construction Authority Green Mark Award
 
-![](/images/green.jpg)
+<img src="/images/Curriculum/Science/Science_16.jpg" style="width:20%">
 
-<h3><a name="Enrichment Programmes"></a>Enrichment Programmes</h3>
+<p align="justify">The BCA Green Mark awards recognises developers, building owners and individuals who have made outstanding achievements in environmental sustainability in the built environment.</p>
 
+<p align="justify">Congratulations to Park View Primary School on being awarded the BCA Green Mark Award (GOLD) 2021 based on the Green Mark for Existing Schools (Version 2).</p>
 
-### Singapore Science Centre Learning Journey
+<img src="/images/Curriculum/Science/Science_17.png" style="width:100%">
 
-P1 to P5 pupils will go on a learning journey to the Singapore Science Centre every year to attend practical laboratory session or lecture demonstration on the topics that they learn in their primary science education. The Science Centre enrichment programmes complement the school science curriculum with hands-on and inspiring learning experiences. The enrichment programmes aim to:
+###### Community in Nature Award 2022
 
-*   provide pupils with experiences which build on their interest in and stimulate their curiosity about their environment;
-*   provide engaging and meaningful aquisation of scientific knowledge;
-*   inculcate the spirit of scientific inquiry through the application of different process skills such as observing, comparing, classifying, analysing, inferring, evaluting and investigating.
+<p align="justify">Park View Primary was awarded the Certificate of Participation in the 2022 Community in Nature Schools Award.</p>
 
-![](/images/SDC.jpg)
-
-### P3 Singapore Zoological Gardens Learning Journey
-
-The P3 pupils went on a learning journey to Singapore Zoological Gardens. The objectives of the learning journey are to:
-
-*   engage pupils in experiential learning of the characteristics of different animals;
-*   learn more about endangered animals;
-*   promote wildlife conservation.
-  
-
-### P5 Marine Life Park Learning Journey
-
-
-The P5 pupils went on a learning journey to the Marine Life Park at Resort World Sentosa to enrich the pupils in learning of Science.
-
-The objectives of the visit are to:
-
-*   Introduce pupils to endangered marine animals and have a better understanding about marine life conservation;
-*   Understand how various marine animals adapt themselves to life underwater;
-*   Increase pupils’ awareness of the marine biodiversity and marine habitats.
-
-![](/images/RWS5.png)
-
-### P6: Ecology Trip & Coastal Cleanup
-
-The P6 pupils went on a learning journey on Ecology to Pasir Ris Beach. The pupils also did coastal clean-up at the beach after exploring the mudflat.
-
-The objectives of the learning journey are to:
-
-*   Increase pupils’ awareness of the ecosystem of the seashore community in Singapore;
-*   Learn about the diversity of life on the seashore and selected animals and plants’ adaptations to life on the seashore;
-*   Relate and extend pupils’ Science knowledge to real life experiences so as to provide pupils with a deeper understanding about life around them;
-*   Integrate a meaningful Community Involvement Project (CIP) where pupils take action for the environment.
-
-![](/images/P6-EcologyTrip.jpg)
-
-### P4 and P5 Science Olympiad Training
-
-  
-
-Selected P4 and P5 pupils participated in Science Olympiad training.
-
-  
-
-The objectives of the programme are as follows:
-
-  
-
-*   To develop pupils' interest, creativity, analytical thinking skill, spirit of learning
-*   through discovery and challenge in Science;
-*   To expose pupils’ with secondary science syllabus in attempt to broaden their
-*   knowledge of Science;
-*   To prepare selected pupils for Primary Science Olympiad competitions.
-
-The lessons are based on the broad science themes in the elementary science curriculum. These lessons focused on introducing Physics, Chemistry and Biology to pupils as well as to enhance their general knowledge.
-
-Selected P5 pupils may have the opportunity to participate in the Raffles Science Olympiad Competiton(RSO) or the NUS HIgh Singapore Primary Science Olympiad (SPSO).
-
-![](/images/olympiad%20traid.jpg)
-
-### P4 and P5 Science E2K Programme
-
-Selected P4 and P5 students are selected to participate in Science E2K programme.
-
-The objectives of the programme are as follows:
-
-*   To develop scientific inquiry process skills among primary pupils in science
-*   To acquire habits, attitudes and dispositions of scientists
-*   To nurture other important 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective and communication skills
-
-The E2K Science Programme is a science enrichment programme for upper primary students who demonstrate interest and ability in science. The programme is adapted from Israel’s E2K Programme which is developed by the Israel Centre for Excellence through Education (ICEE).
-
-The lessons are based on the broad science themes in the elementary science curriculum. The students will collect and use evidence to address scientifically oriented questions, formulate explanations from evidence to address the questions and evaluate their explanations.
-
-![](/images/E2K.jpg)
-
-### P6: Ecology Learning Journey & Coastal Cleanup  
-
-The P6 students went on a learning journey on Ecology to Pasir Ris Beach. The students also did coastal clean-up at the beach after exploring the mudflat.
-
-The objectives of the learning journey are to:
-
-*   Increase students’ awareness of the ecosystem of the seashore community in Singapore;
-*   Learn about the diversity of life on the seashore and selected animals and plants’ adaptations to life on the seashore;
-*   Relate and extend students’ Science knowledge to real life experiences so as to provide students with a deeper understanding about life around them;
-*   Integrate a meaningful Community Involvement Project (CIP) where students take action for the environment.
-
-![](/images/coastal.jpg)
-
-### P6 DNA Science Enrichment Programme  
-
-Selected P6 pupils went through a 6-hour DNA Science Enrichment. The pupils played roles as Junior Crime Scene Investigators with emphasis on DNA Extraction & DNA Fingerprinting. The objectives of the programme are as follows:
-
-*   Introduction to laboratory techniques;
-*   Introduction to DNA as genetic material;
-*   Using of apparatus in the extraction of DNA;
-*   Analyse thumbprint & understand how thumbprints are used to solve mystery.
-
-![](/images/dna.jpg)
+<img src="/images/Curriculum/Science/Science_8.jpg" style="width:100%">

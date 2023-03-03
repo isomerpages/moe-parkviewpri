@@ -2,8 +2,6 @@ collections:
   latest-news:
     output: true
     order:
-      - 2021 SLS Avatar Competition Winners.md
       - What is Your Child Learning in Social Studies.md
       - Parents Gateway User Guide.md
       - Rules for Video Conferencing SLS Support for HBL.md
-      - 2022 PTC Online Reg User Guide for Parents.md
