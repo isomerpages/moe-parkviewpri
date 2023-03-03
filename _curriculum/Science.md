@@ -3,9 +3,8 @@ title: Science
 permalink: /curriculum/science/
 description: ""
 ---
-### Framework
 #### Department Goal
-To inculcate the spirit of scientific inquiry and 21st CC skills in students 
+To inculcate the spirit of scientific inquiry and 21st CC skills in students.
 
 #### Department Focus
 <ul>
@@ -13,6 +12,7 @@ To inculcate the spirit of scientific inquiry and 21st CC skills in students
 <li>Provide students with opportunities to develop skills, habits of mind and attitudes necessary for scientific inquiry.</li>
 <li>Enable students to appreciate how Science influences people and the environment around them.</li></ul>
 
+#### Framework
 <img src="/images/Curriculum/Science/Science%20Framework.png" style="width:75%">
 
 #### Key Programmes
