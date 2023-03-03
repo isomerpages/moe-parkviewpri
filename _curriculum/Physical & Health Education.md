@@ -32,13 +32,29 @@ To enable and encourage our students to be active after leaving school, with a g
 
 ##### P1 Jump Rope Enrichment
 
-<p align="justify">Jump Rope is a sport for all ages and abilities. It helps the development and improvement of psychomotor skills, coordination, agility, flexibility, stamina and endurance. It is also proven to strength bones and joints. Beside all these benefits, Jump Rope can also increase self-esteem and confidence when skippers increase their skill levels and develop performing skills.
+<p align="justify">Jump Rope is a sport for all ages and abilities. It helps the development and improvement of psychomotor skills, coordination, agility, flexibility, stamina and endurance. It is also proven to strength bones and joints. Beside all these benefits, Jump Rope can also increase self-esteem and confidence when skippers increase their skill levels and develop performing skills.</p>
 
 
-<p align="justify">Our Jump Rope Program is aimed to introduce the essential jump rope skills and equips the P1 pupils with the right skills and improve the overall fitness and stamina of the skippers and at the same time develop their coordination, teamwork and leadership skills. 
+<p align="justify">Our Jump Rope Program is aimed to introduce the essential jump rope skills and equips the P1 pupils with the right skills and improve the overall fitness and stamina of the skippers and at the same time develop their coordination, teamwork and leadership skills. </p>
 
-<img src="/images/ep1.jpg">
+##### 2 Wushu Enrichment
 
+
+##### P5 Outdoor Adventure Learning Camp (Residential)
+
+### School Events
+
+##### PVPS Family Run & Walk Challenge
+
+##### PVPS Olympics
+
+##### P1 Orientation Programme (Telematch)
+
+#### School Programmes
+
+##### Health Awareness Week
+###### Active Friday
+###### Unstructured Play / Recess Play
 
 <b>P4 and P5 Outdoor Adventure Learning</b>
 
@@ -120,8 +136,5 @@ The Fun and Fitness Programme aims to motivate our pupils to maintain a healthy 
 
 
 
-<h3><a name="Useful Resources"></a>Useful Resources</h3>
-
-
-
-[PE Syllabus](https://www.moe.gov.sg/primary/curriculum/syllabus)
+### Useful Resources
+<a href="https://www.moe.gov.sg/primary/curriculum/syllabus">PE Syllabus</a>
