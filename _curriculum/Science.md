@@ -150,7 +150,81 @@ The objectives of the programme are as follows:
 
 <p align="justify">Selected P5 students may have the opportunity to participate in the Raffles Science Olympiad Competition (RSO) or the NUS High Singapore Primary Science Olympiad (SPSO).</p>
 
-#### P6: P4 & P5 Science Olympiad Training 
+#### P4 and P5 Science E2K Programme
+
+<p align="justify">P4 and P5 students are selected to participate in the Science E2K programme.</p>
+
+The objectives of the programme are as follows:
+
+<ul><li>To develop scientific inquiry process skills among primary students in Science</li>
+
+<li>To acquire habits, attitudes and dispositions of scientists</li>
+
+<li>To nurture other 21st century competencies such as resilience and resourcefulness, critical and inventive thinking, and effective and communication skills</li></ul>
+
+<p align="justify">The E2K Science Programme is a science enrichment programme for upper primary students who demonstrate interest and ability in science. The programme is adapted from Israel’s E2K Programme which is developed by the Israel Centre for Excellence through Education (ICEE).</p>
+
+<p align="justify">The lessons are based on the broad science themes in the elementary science curriculum. The students will collect and use evidence to address scientifically oriented questions, formulate explanations from evidence to address the questions and evaluate their explanations.</p>
+
+#### P6 DNA Science Enrichment Programme
+
+<p align="justify">In this programme, selected P6 studdents are provided the opportunity to conduct simulated forensic investigation activities where DNA is analysed as evidence. Through such hands-on activities, students get to extend the learning of scientific investigation skills outside classroom setting for scientific inquiry. In doing so, it is hoped that they are able to relate their Science knowledge to real life experiences so as to provide them with a deeper understanding about life around them.</p>
+
+The objectives of the programme are as follows:
+
+<ul><li>Introduction to laboratory techniques
+
+<li>Introduction to chromatography to separate components in an ink mixture
+
+<li>Using of apparatus in the extraction of solutes
+
+<li>Analyse blood stains & understand how blood stains are used to solve mystery.</li></ul>
+
+#### P3 Budding Scientists Programme
+
+<p align="justify">The Budding Scientists Programme is a new enrichment programme planned for our P3 students. With the main aim of enabling our beginning Science learners to transit seamlessly into their journey of learning Science, the Department members came together to pool our experiences and resources into planning an in-house enrichment programme for our young charges.</p>
+
+The objectives of the programme are as follows:
+
+<ul><li>To develop students’ interest and creativity, through discovery and hands-on experiments in Science;
+<li>To learn through inquiry to clarify misconceptions in Science;
+<li>To broaden their knowledge of Science and create awareness of the natural phenomenon in the world.</li></ul>
+
+<p align="justify">Our P3s were highly enthused and thoroughly enjoyed the activities planned for them. From the enriching experience, they can have a better grasp of how Scientists conduct experiments, as they learnt how to go about designing and conducting a fair experiment.</p>
+
+
+#### Environment Care in PVPS
+
+<p align="justify">Park View wants to instill a strong sense of environmental conservation and promote environmental awareness. The school provides opportunities to staff and students to apply knowledge, skills and values of care to protect and improve the environment.</p>
+
+The school adopts the following <b>5Is Approach</b> to fulfil our Sustainability and Environment Commitment:
+
+<b>Inclusivity</b> – Everyone has a part to play; a whole-school approach involving all staff and students
+
+<b>Improvement</b> – Improve the environmental footprints and leave behind a greener future for the next generation.
+
+<b>Involvement</b> – Engage community partners such as NParks, NEA and parents to develop and support environmentally responsible actions together
+
+<b>Intrinsic</b> – Promote a mind-set where everyone is intrinsically motivated to sustain environmental efforts and caring for the environment becomes a part of us.
+
+<b>Influence</b> – Every PVPS staff / student will become Eco stewards, inspiring sustainability efforts beyond self & school
+
+#### Recycling Corners
+
+<p align="justify">To inculcate the culture of recycling in every student and staff, the school has set up various recycling points to make recycling a stone’s throw away. We have the recycling bins at the Recycling Corner for the different recyclables, reusable cartons in classrooms for paper, carton boxes in the staffroom, staff lounge and photocopying room for paper. A recycling corner was set up in the canteen and also behind the flagpole to encourage students to recycle paper and plastic bottles.</p>
+
+#### Achievements
+##### Our Achievements in Science Competitions
+<b>Raffles Science Olympiad 2022</b><br>
+<b>Certificates of Participation Awarded to:</b>
+
+Ahmad Alhady Bin Shahrunizam (5R3)<br>
+Bhatia Vedansh (5R3)<br>
+Koka Menaja Sathya Sai Durga (5R3)<br>
+Por Luo Xi J'nise (5R3)<br>
+Sukrit Nautiya of 5R3
+
+##### Our Achievements in Environment
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Assessment of Learning</th><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Assessment for Learning</th><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Assessment as Learning</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• CA<br><br>• SA<br><br>• Prelim<br><br>• PSLE<br><br>• Diagnostic Test for Baseline<br><br>• Science Practical Assessment (SPA@PVPS)<br><br>• Performance Tasks<br></td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Topical Reviews<br><br>• Performance Tasks<br><br>• Science Practical Assessment (SPA@PVPS)<br><br>• Quizes<br><br>• Mindmapping<br></td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Science Journals<br><br>• Pupils' Reflections</td></tr></tbody></table>
 
