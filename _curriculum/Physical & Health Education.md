@@ -155,6 +155,52 @@ Through adventure challenges and activities, pupils get to:
 <li>Develop team-building and leadership skills</li></ul>
 
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.column img {
+  margin-top: 12px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+<body>
+	<img src="/images/Curriculum/PE/P5%20Outdoor%20Adventure%20Learning%20Camp_1.png" style="width:100%">
+<!-- Photo Grid -->
+<div class="row"> 
+<div class="column">
+<img src="/images/Curriculum/PE/P5%20Outdoor%20Adventure%20Learning%20Camp_2.png" style="width:100%">
+<img src="/images/Curriculum/PE/P5%20Outdoor%20Adventure%20Learning%20Camp_3.png" style="width:100%"></div>
+  
+<div class="column">
+<img src="/images/Curriculum/PE/P5%20Outdoor%20Adventure%20Learning%20Camp_4.png" style="width:100%">
+<img src="/images/Curriculum/PE/P5%20Outdoor%20Adventure%20Learning%20Camp_5.png" style="width:100%"></div>
+</div>
+</body>
+
 ### School Events
 
 ##### PVPS Family Run & Walk Challenge
