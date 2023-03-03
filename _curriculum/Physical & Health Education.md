@@ -3,49 +3,39 @@ title: Physical & Health Education
 permalink: /curriculum/physical-n-health-education/
 description: ""
 ---
-# **Physical & Health Education** 
-
 ### Vision
 
 To enable our students to demonstrate individually and with others the physical skills, practices, and values to enjoy a lifetime of active, healthy living.
 
-
 ### Mission
 
-To enable and encourage our students to be active after leaving school, with a greater focus on building a strong foundation in fundamental movement skills (FMS) and broad-based development through a range of enjoyable and varied physical activities.  
+To enable and encourage our students to be active after leaving school, with a greater focus on building a strong foundation in fundamental movement skills (FMS) and broad-based development through a range of enjoyable and varied physical activities.
 
 ### Framework
 
-<img src="/images/framework_pe-FA.jpg" style="width:50%">
+<img src="/images/framework_pe-FA.jpg" style="width:75%">
 
-**Enable Health and Fitness for life**
+#### Enable Health and Fitness for life
+<ul>
+<li>Provide platforms for students to choose, experience and engage in physical activities through participation in sports and health-related programmes and activities.</li></ul>
 
-*   Provide platforms for students to choose, experience and engage in physical activities through participation in sports and health-related programmes and activities.
+#### Deepening Enjoyment of Active and Healthy Living
+<ul>
+<li>Expose students to a range of sports and games skills through sporting events/programmes and PE lessons.</li>
+<li>Enhance students’ sports experience through the school’s Learning for Life Programme (LLP) – Sports Experiential Programme.</li>
+<li>Enhance holistic assessment of student learning and physical development via PE Holistic Development Profile (HDP):</li></ul>
 
-**Deepening Enjoyment of Active and Healthy Living**
+<li><b>self and peer assessment (subject-based/learning outcomes)</b></li>
+<li><b>self and peer assessment (in Values, SEL & 21CC)</b></li>
 
-*   Expose students to a range of sports and games skills through sporting events/programmes and PE lessons.
-*   Enhance students’ sports experience through the school’s Learning for Life Programme (LLP) – Sports Experiential Programme.
-*   Enhance holistic assessment of student learning and physical development via PE Holistic Development Profile (HDP):
+### Enrichment Programme
 
-\- self and peer assessment (subject-based/learning outcomes)
+##### P1 Jump Rope Enrichment
 
-\- self and peer assessment (in Values, SEL & 21CC)
-
-
-* [Enrichment Programme](#EnrichmentProgramme)
-* [School Events](#SchoolEvents)
-* [School Programme](#SchoolProgramme)
-* [Useful Resources](#UsefulResources)
+<p align="justify">Jump Rope is a sport for all ages and abilities. It helps the development and improvement of psychomotor skills, coordination, agility, flexibility, stamina and endurance. It is also proven to strength bones and joints. Beside all these benefits, Jump Rope can also increase self-esteem and confidence when skippers increase their skill levels and develop performing skills.
 
 
-<h3><a name="Enrichment Programme"></a>Enrichment Programme</h3>
-
-<b>P1 & P2 Wushu Enrichment Programme</b>
-
-Wushu Enrichment is a programme customised for P1 and P2 pupils. It aims to introduce our pupils to basic martial arts through engaging lessons. Throughout the programme, emphasis will be placed on hand and leg movements and coordination. Pupils will then be able to perform a basic routine.
-
-The programme also seeks to inculcate values of Respect, Discipline and Perseverance in the pupils. Pupils reap the benefits of improved focus and better conduct. Our Parent Support Group partners the school in facilitating the values education segment together with the Wushu coaches during lessons.
+<p align="justify">Our Jump Rope Program is aimed to introduce the essential jump rope skills and equips the P1 pupils with the right skills and improve the overall fitness and stamina of the skippers and at the same time develop their coordination, teamwork and leadership skills. 
 
 <img src="/images/ep1.jpg">
 
