@@ -25,15 +25,14 @@ To enable and encourage our students to be active after leaving school, with a g
 <li>Enhance students’ sports experience through the school’s Learning for Life Programme (LLP) – Sports Experiential Programme.</li>
 <li>Enhance holistic assessment of student learning and physical development via PE Holistic Development Profile (HDP):</li></ul>
 
-<li><b>self and peer assessment (subject-based/learning outcomes)</b></li>
-<li><b>self and peer assessment (in Values, SEL & 21CC)</b></li>
+\- self and peer assessment (subject-based/learning outcomes)<br>
+\- self and peer assessment (in Values, SEL & 21CC)
 
 ### Enrichment Programme
 
 ##### P1 Jump Rope Enrichment
 
 <p align="justify">Jump Rope is a sport for all ages and abilities. It helps the development and improvement of psychomotor skills, coordination, agility, flexibility, stamina and endurance. It is also proven to strength bones and joints. Beside all these benefits, Jump Rope can also increase self-esteem and confidence when skippers increase their skill levels and develop performing skills.</p>
-
 
 <p align="justify">Our Jump Rope Program is aimed to introduce the essential jump rope skills and equips the P1 pupils with the right skills and improve the overall fitness and stamina of the skippers and at the same time develop their coordination, teamwork and leadership skills. </p>
 
