@@ -38,7 +38,13 @@ To inculcate the spirit of scientific inquiry and 21st CC skills in students
 <li>P3-P6 LJs</li>
 <li>P3 Budding Scientists (For selected students)</li>
 <li>Integration of TLC-FA strategies</li>
-<li>Use of Self & Peer Assessments for feedback</li></ul></span><br><span style="color:black"> </span></td><td style="background-color:#E2EFD9;border-color:#70ad47;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• P4 &amp; P5 Science Olympiad<br> <br>• P4 &amp; P5 E2K Programme<br> <br>• P6 DNA Programme<br> <br>• Science Competitions<br> <br>• <span style="color:black">Differentiated curriculum</span><br><span style="color:black"> </span><br>• <span style="color:black">P6 Pull-Out Programme</span> <span style="color:black">(MP) </span></td></tr></tbody></table>
+<li>Use of Self & Peer Assessments for feedback</li></ul></span><br><span style="color:black"> </span></td><td style="background-color:#E2EFD9;border-color:#70ad47;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<ul><li>P4 & P5 Science Olympiad</li>
+<li>P4 & P5 E2K Programme</li>
+<li>P6 DNA Programme</li>
+<li>Science Competitions</li>
+<li>Differentiated curriculum & resources</li>
+<li>Pull-Out Programme (MP)</li></ul> </span></td></tr></tbody></table>
 
 
 
