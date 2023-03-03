@@ -308,6 +308,50 @@ body {
 
 <p align="justify">During P1 Orientation Week, the PE department organizes a Telematch for the P1 pupils. It is a type of class-based games and sports that is played in a fun setting, with the pupils working together to complete various tasks or activities. Telematch challenges may test the pupils' physical agility, fundamental movement skills, balance, coordination, speed, and endurance, as well as their mental skills, such as problem-solving, strategic thinking, and communication.</p>
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.column img {
+  margin-top: 12px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+<body>
+	<img src="/images/Curriculum/PE/P1%20Orientation%20Programme%20(Telematch)_3.jpg">
+<!-- Photo Grid -->
+<div class="row"> 
+<div class="column">
+<img src="/images/Curriculum/PE/P1%20Orientation%20Programme%20(Telematch)_2.jpg"></div>
+  
+<div class="column">
+<img src="/images/Curriculum/PE/P1%20Orientation%20Programme%20(Telematch)_1.jpg"></div>
+</div>
+</body>
+
 #### School Programmes
 
 ##### Health Awareness Week
