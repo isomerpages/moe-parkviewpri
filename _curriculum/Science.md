@@ -7,8 +7,7 @@ description: ""
 To inculcate the spirit of scientific inquiry and 21st CC skills in students.
 
 #### Department Focus
-<ul>
-<li>Provide students with experiences which build on their interest and stimulate their curiosity about their environment.</li>
+<ul><li>Provide students with experiences which build on their interest and stimulate their curiosity about their environment.</li>
 <li>Provide students with opportunities to develop skills, habits of mind and attitudes necessary for scientific inquiry.</li>
 <li>Enable students to appreciate how Science influences people and the environment around them.</li></ul>
 
