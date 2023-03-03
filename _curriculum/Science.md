@@ -55,22 +55,59 @@ Our Science wall reflects how the three main human systems in our body, Digestiv
 <p align="justify">
 For pupils to have meaningful learning in science, it is important that they be allowed to experience the process of seeking answers to problems. This requires pupils to physically explore and discover knowledge, be it within their environment or in a laboratory. Besides having two indoor science laboratories, the Science Department has recently created an integrated learning trail weaving through the open spaces in the school.</p>
 
-There are different thematic gardens simulating various natural environments.
+<p align="justify">There are different thematic gardens simulating various natural environments.</p>
 
-<b>Blooms@Energy Hub</b> is a floral garden characterized by an explosion of colours and fragrances. It comprises a flowering and butterfly garden.
+<p align="justify"><b>Blooms@Energy Hub</b> is a floral garden characterized by an explosion of colours and fragrances. It comprises a flowering and butterfly garden.</p>
 
-<b>Food@ Energy Hub</b> has a herbs and spices garden and a mini vegetable plot with local fruit trees planted around the school.
+<p align="justify"><b>Food@ Energy Hub</b> has a herbs and spices garden and a mini vegetable plot with local fruit trees planted around the school.</p>
 
-<b>Desert@Energy Hub</b> located at the back of the school building houses desert flora with a variety of cactus.
+<p align="justify"><b>Desert@Energy Hub</b> located at the back of the school building houses desert flora with a variety of cactus.</p>
 
-<b>Rainforest@Energy Hub</b> showcases a slice of a tropical rainforest complete with a fernery garden and an eco-pond surrounded by lush tropical vegetation. A leaf litter habitat is also set up in the fernery garden for pupils to have first-hand experience in studying the conditions of a leaf litter habitat.
+<p align="justify"><b>Rainforest@Energy Hub</b> showcases a slice of a tropical rainforest complete with a fernery garden and an eco-pond surrounded by lush tropical vegetation. A leaf litter habitat is also set up in the fernery garden for pupils to have first-hand experience in studying the conditions of a leaf litter habitat.</p>
 
-<b>The Energy Pavilion</b> is an outdoor classroom amid the shrubs and creepers. It is a place where teachers can carry out their lessons or briefing before adjourning to the gardens for practical sessions.
+<p align="justify"><b>The Energy Pavilion</b> is an outdoor classroom amid the shrubs and creepers. It is a place where teachers can carry out their lessons or briefing before adjourning to the gardens for practical sessions.</p>
 
-With the launch of the different “Hubs”, pupils can now just make a short trip down to see the plants that they study about in their books. This hands-on experience allows them to understand their lessons better. It is always good to be near Mother Nature.
+<p align="justify">With the launch of the different “Hubs”, pupils can now just make a short trip down to see the plants that they study about in their books. This hands-on experience allows them to understand their lessons better. It is always good to be near Mother Nature.</p>
 
-**Blooms@Energy Hub**  
-**Blooming Garden**
+<b>Blooms@Energy Hub</b><br>
+<b>Blooming Garden</b>
+
+![](/images/BloomingGarden.jpg)
+
+<b>Food@ Energy Hub</b><br>
+<b>Herbs and Spices Garden</b>
+
+![](/images/Herbs-and-Spices-Garden.jpg)
+
+<b>Vegetable Plots</b>
+
+![](/images/Vegetables-Garden.jpg)
+
+<b>Fruit Trees</b>
+
+![](/images/Fruit-Trees.jpg)
+
+<b>Desert@Energy Hub</b><br>
+<b>Cactus Garden</b>
+
+![](/images/Cactus-Garden.jpg)
+
+<b>Rainforest@Energy Hub</b><br>
+<b>Fernery Garden</b>
+
+![](/images/Fernery-Garden.jpg)
+
+<b>Energy Pavilion</b><br> 
+<b>Outdoor Classroom</b>
+
+![](/images/OutdoorClassroom.jpg)
+
+<b>School Pond</b><br>
+
+![](/images/Sch_pond.jpg)
+
+![](/images/kids%20garden.png)
+
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Assessment of Learning</th><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Assessment for Learning</th><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Assessment as Learning</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• CA<br><br>• SA<br><br>• Prelim<br><br>• PSLE<br><br>• Diagnostic Test for Baseline<br><br>• Science Practical Assessment (SPA@PVPS)<br><br>• Performance Tasks<br></td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Topical Reviews<br><br>• Performance Tasks<br><br>• Science Practical Assessment (SPA@PVPS)<br><br>• Quizes<br><br>• Mindmapping<br></td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Science Journals<br><br>• Pupils' Reflections</td></tr></tbody></table>
 
 
@@ -153,45 +190,7 @@ There are different thematic gardens simulating various natural environments.
 With the launch of the different “Hubs”, pupils can now just make a short trip down to see the plants that they study about in their books. This hands-on experience allows them to understand their lessons better. It is always good to be near Mother Nature.
 
 
-**Blooms@Energy Hub**   
-**Blooming Garden**
 
-![](/images/BloomingGarden.jpg)
-
-**Food@ Energy Hub**  
-**Herbs and Spices Garden**
-
-![](/images/Herbs-and-Spices-Garden.jpg)
-
-
-**Vegetable Plots**
-
-![](/images/Vegetables-Garden.jpg)
-
-**Fruit Trees**
-
-![](/images/Fruit-Trees.jpg)
-
-**Desert@Energy Hub**   
-**Cactus Garden**
-
-![](/images/Cactus-Garden.jpg)
-
-**Rainforest@Energy Hub**  
-**Fernery Garden**
-
-![](/images/Fernery-Garden.jpg)
-
-**Energy Pavilion**   
-**Outdoor Classroom**
-
-![](/images/OutdoorClassroom.jpg)
-
-**School Pond**
-
-![](/images/Sch_pond.jpg)
-
-![](/images/kids%20garden.png)
 
 <h3><a name="Achievements"></a>Achievements</h3>
 
