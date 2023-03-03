@@ -36,6 +36,49 @@ To enable and encourage our students to be active after leaving school, with a g
 
 <p align="justify">Our Jump Rope Program is aimed to introduce the essential jump rope skills and equips the P1 pupils with the right skills and improve the overall fitness and stamina of the skippers and at the same time develop their coordination, teamwork and leadership skills.</p>
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.column img {
+  margin-top: 12px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+<body>
+<!-- Photo Grid -->
+<div class="row"> 
+<div class="column">
+<img src="/images/Curriculum/PE/Jump%20Rope_1.jpg" style="width:100%"></div>
+  
+<div class="column">
+<img src="/images/Curriculum/PE/Jump%20Rope_2.jpg" style="width:100%">
+</div>
+</body>
+
 ##### P2 Wushu Enrichment
 
 <p align="justify">Wushu Enrichment is a programme customised for P2 pupils. It aims to introduce our pupils to basic martial arts through engaging lessons. Throughout the programme, emphasis will be placed on hand and leg movements and coordination. Pupils will then be able to perform a basic routine.</p>
