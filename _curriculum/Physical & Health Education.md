@@ -258,6 +258,52 @@ body {
 <p align="justify">PVPS Olympics, one of the key sporting events in the school is a series of events leading up to the culmination of the PVPS Olympics Day where pupils represent their houses and battle it out to be crowned Champion House of the year.</p>
 <p align="justify">The aims of the event are to provide a platform for pupils from different classes and levels to mingle, forge friendships and to demonstrate qualities such as sportsmanship, teamwork and fair play. The PVPS Olympics put to test both individual competencies and team camaraderie through various sports events </p>
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.column img {
+  margin-top: 12px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+<body>
+	<img src="/images/Curriculum/PE/PVPS%20Olympics_2.png">
+<!-- Photo Grid -->
+<div class="row"> 
+<div class="column">
+<img src="/images/Curriculum/PE/PVPS%20Olympics_1.png">
+<img src="/images/Curriculum/PE/PVPS%20Olympics_3.png"></div>
+  
+<div class="column">
+<img src="/images/Curriculum/PE/PVPS%20Olympics_4.png">
+<img src="/images/Curriculum/PE/PVPS%20Olympics_5.png"></div>
+</div>
+</body>
+
 ##### P1 Orientation Programme (Telematch)
 
 <p align="justify">During P1 Orientation Week, the PE department organizes a Telematch for the P1 pupils. It is a type of class-based games and sports that is played in a fun setting, with the pupils working together to complete various tasks or activities. Telematch challenges may test the pupils' physical agility, fundamental movement skills, balance, coordination, speed, and endurance, as well as their mental skills, such as problem-solving, strategic thinking, and communication.</p>
