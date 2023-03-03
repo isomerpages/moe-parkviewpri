@@ -12,7 +12,6 @@ All students are covered under the GPA Insurance Plan which provides 24-hour wo
 With effect from 2022, all student accident insurance claims submission are to be submitted electronically.  Parents/students are to submit their claims online and check the claims status through the online portal. </p>
 	
 <b>Online Submission</b>
-	
 
 <ol>
 <li>Go to Income’s GPA portal at <a href="https://studentgpa.incomegroupins.com.sg/">https://studentgpa.incomegroupins.com.sg</a>
