@@ -34,12 +34,38 @@ To enable and encourage our students to be active after leaving school, with a g
 
 <p align="justify">Jump Rope is a sport for all ages and abilities. It helps the development and improvement of psychomotor skills, coordination, agility, flexibility, stamina and endurance. It is also proven to strength bones and joints. Beside all these benefits, Jump Rope can also increase self-esteem and confidence when skippers increase their skill levels and develop performing skills.</p>
 
-<p align="justify">Our Jump Rope Program is aimed to introduce the essential jump rope skills and equips the P1 pupils with the right skills and improve the overall fitness and stamina of the skippers and at the same time develop their coordination, teamwork and leadership skills. </p>
+<p align="justify">Our Jump Rope Program is aimed to introduce the essential jump rope skills and equips the P1 pupils with the right skills and improve the overall fitness and stamina of the skippers and at the same time develop their coordination, teamwork and leadership skills.</p>
 
-##### 2 Wushu Enrichment
+##### P2 Wushu Enrichment
 
+<p align="justify">Wushu Enrichment is a programme customised for P2 pupils. It aims to introduce our pupils to basic martial arts through engaging lessons. Throughout the programme, emphasis will be placed on hand and leg movements and coordination. Pupils will then be able to perform a basic routine.</p>
+
+<p align="justify">The programme also seeks to inculcate values of Respect, Discipline and Perseverance in the pupils. Pupils reap the benefits of improved focus and better conduct. Our Parent Support Group partners the school in facilitating the values education segment together with the Wushu coaches during lessons.</p>
 
 ##### P5 Outdoor Adventure Learning Camp (Residential)
+
+<p align="justify">P5 Outdoor Adventure Learning Camp (Residential)
+As part of the National Outdoor Adventure Education (OAE) Master Plan, all Primary 5 students participate in an Outdoor Adventure Learning Camp. Through the camp, students develop social emotional competencies including self-awareness, social awareness, self-management, relationship management and responsible decision making. They will also learn to manage one’s safety during outdoor activities and demonstrate responsible decision making towards self, others and the community and environment.</p>
+
+During the camp, pupils will participate in activities and games that include:
+
+<ul>
+<li>Teambuilding activities</li>
+<li>Low/Middle/High Elements</li>
+<li>Walking/Nature Scavenger Hunt</li>
+<li>Kayaking/Dragon-Boating</li>
+<li>Campfire, etc.</li></ul>
+
+Through adventure challenges and activities, pupils get to:
+<ul>
+<li>Overcome their fears and limitations</li>
+<li>Challenge themselves</li>
+<li>Grow in confidence and self-esteem</li>
+<li>Step outside their comfort zone</li>
+<li>Develop an appreciation for nature</li>
+<li>Manage risk and learn to reflect</li>
+<li>Develop team-building and leadership skills</li></ul>
+
 
 ### School Events
 
