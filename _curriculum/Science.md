@@ -47,8 +47,30 @@ To inculcate the spirit of scientific inquiry and 21st CC skills in students
 <li>Pull-Out Programme (MP)</li></ul> </span></td></tr></tbody></table>
 
 #### Resources
+##### Science Wall
+<p align="justify">
+Our Science wall reflects how the three main human systems in our body, Digestive System, Circulatory System and Respiratory System, work together to ensure our body can function properly with the help of energy. There is a detailed explanation with key concepts of how each human system works. The extensive graphics also provide better understanding of the concepts for visual learners. Each human system is also accompanied by an interactive activity.</p>
 
+##### Science Garden
+<p align="justify">
+For pupils to have meaningful learning in science, it is important that they be allowed to experience the process of seeking answers to problems. This requires pupils to physically explore and discover knowledge, be it within their environment or in a laboratory. Besides having two indoor science laboratories, the Science Department has recently created an integrated learning trail weaving through the open spaces in the school.</p>
 
+There are different thematic gardens simulating various natural environments.
+
+<b>Blooms@Energy Hub</b> is a floral garden characterized by an explosion of colours and fragrances. It comprises a flowering and butterfly garden.
+
+<b>Food@ Energy Hub</b> has a herbs and spices garden and a mini vegetable plot with local fruit trees planted around the school.
+
+<b>Desert@Energy Hub</b> located at the back of the school building houses desert flora with a variety of cactus.
+
+<b>Rainforest@Energy Hub</b> showcases a slice of a tropical rainforest complete with a fernery garden and an eco-pond surrounded by lush tropical vegetation. A leaf litter habitat is also set up in the fernery garden for pupils to have first-hand experience in studying the conditions of a leaf litter habitat.
+
+<b>The Energy Pavilion</b> is an outdoor classroom amid the shrubs and creepers. It is a place where teachers can carry out their lessons or briefing before adjourning to the gardens for practical sessions.
+
+With the launch of the different “Hubs”, pupils can now just make a short trip down to see the plants that they study about in their books. This hands-on experience allows them to understand their lessons better. It is always good to be near Mother Nature.
+
+**Blooms@Energy Hub**  
+**Blooming Garden**
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Assessment of Learning</th><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Assessment for Learning</th><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Assessment as Learning</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• CA<br><br>• SA<br><br>• Prelim<br><br>• PSLE<br><br>• Diagnostic Test for Baseline<br><br>• Science Practical Assessment (SPA@PVPS)<br><br>• Performance Tasks<br></td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Topical Reviews<br><br>• Performance Tasks<br><br>• Science Practical Assessment (SPA@PVPS)<br><br>• Quizes<br><br>• Mindmapping<br></td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Science Journals<br><br>• Pupils' Reflections</td></tr></tbody></table>
 
 
