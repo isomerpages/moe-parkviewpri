@@ -207,6 +207,52 @@ body {
 
 <p align="justify">To deepen the enjoyment of active and healthy living, encourage students and their family members to stay active, and to promote family bonding through participation in physical activities together, the PE department organizes the yearly PVPS Family Run & Walk Challenge where the students (accompanied by an adult family member at all times) would run and/or walk a specific distance within the stipulated time period. Screenshots of the runs will be submitted via a google form for tabulation after every workout. Students who accomplish the Challenge will win prizes that include medals, water bottles, finisher tees, etc.</p>
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.column img {
+  margin-top: 12px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+<body>
+<!-- Photo Grid -->
+<div class="row"> 
+<div class="column">
+<img src="/images/Curriculum/PE/PVPS%20Family%20Run%20&%20Walk%20Challenge_1.png" style="width:100%">
+<img src="/images/Curriculum/PE/PVPS%20Family%20Run%20&%20Walk%20Challenge_3.png" style="width:100%"></div>
+  
+<div class="column">
+<img src="/images/Curriculum/PE/PVPS%20Family%20Run%20&%20Walk%20Challenge_2.png" style="width:100%">
+<img src="/images/Curriculum/PE/PVPS%20Family%20Run%20&%20Walk%20Challenge_4.png" style="width:100%">
+</div>
+</div>
+</body>
+
 ##### PVPS Olympics
 
 <p align="justify">PVPS Olympics, one of the key sporting events in the school is a series of events leading up to the culmination of the PVPS Olympics Day where pupils represent their houses and battle it out to be crowned Champion House of the year.</p>
