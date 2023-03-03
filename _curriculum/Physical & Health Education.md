@@ -362,6 +362,50 @@ body {
 
 <p align="justify">The key focus is to encourage students to be active and motivate them to incorporate fruits and vegetables in their diets when they are in school. Additionally, the objective is to encourage students to make healthy habits parts of their own healthy lifestyle beyond school. Selected Student Ambassadors can display their leadership qualities and take ownership of helping their peers in cultivating a healthy lifestyle via the workout and Fruittie Veggie cards.</p>
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.column img {
+  margin-top: 12px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+<body>
+<!-- Photo Grid -->
+<div class="row"> 
+<div class="column">
+<img src="/images/Curriculum/PE/Active%20Friday_1.png" style="width:100%"></div>
+  
+<div class="column">
+<img src="/images/Curriculum/PE/Active%20Friday_2.png" style="width:100%">
+</div>
+</div>
+</body>
+
 ###### Unstructured Play / Recess Play
 
 <p align="justify">Children’s unstructured play has been recognized as a major agent in young children’s development and learning. Through play, children learn societal roles, norms, and values and develop physical and cognitive competencies, creativity, self-worth and efficacy. It specifically helps creativity and imagination, problem-solving abilities and social skills. Furthermore, children also report being happiest when at play.</p>
@@ -369,6 +413,49 @@ body {
 <p align="justify">In Park View Primary School, unstructured play is designed with the 3Is in mind – Intentional, Inclusive and Inspiring. We intentionally provide the environment and space to allow our students to develop physically through play, and to develop socially and emotionally through playing with others. Unstructured play takes place on every school day during the recesses at various venues in the school – Parade Square, Sheltered Court and the Football Field. Students choose the equipment they want to play with, who they want to play with and how they want to play. 
 Hence, play becomes inclusive as students determine the level of play based on their skill and fitness level. Through engaging in unstructured play and interacting with their peers, we hope that students will inspire one another to lead an active and healthy life.</p>
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.column img {
+  margin-top: 12px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+<body>
+	<img src="/images/Curriculum/PE/Recess%20Play_1.jpg">
+<!-- Photo Grid -->
+<div class="row"> 
+<div class="column">
+<img src="/images/Curriculum/PE/Recess%20Play_3.jpg"></div>
+  
+<div class="column">
+<img src="/images/Curriculum/PE/Recess%20Play_2.jpg"></div>
+</div>
+</body>
 
 ### Useful Resources
 <a href="https://www.moe.gov.sg/primary/curriculum/syllabus">PE Syllabus</a>
