@@ -4,14 +4,7 @@ permalink: /our-stakeholders/alumni/news-n-events/
 description: ""
 third_nav_title: Alumni
 ---
-# **News & Events**
-
 ![](/images/alumni%20write%20up.png)
-
-### CNY Hall Decorations
-
-![](/images/%20CNY%20Hall%20Decorations.jpg)
-
 
 ### CNY Lo Hei Preparation
 
