@@ -51,6 +51,8 @@ To inculcate the spirit of scientific inquiry and 21st CC skills in students.
 <p align="justify">
 Our Science wall reflects how the three main human systems in our body, Digestive System, Circulatory System and Respiratory System, work together to ensure our body can function properly with the help of energy. There is a detailed explanation with key concepts of how each human system works. The extensive graphics also provide better understanding of the concepts for visual learners. Each human system is also accompanied by an interactive activity.</p>
 
+<img src="/images/Curriculum/Science/Science_1.jpg" style="width:100%">
+
 ##### Science Garden
 <p align="justify">
 For pupils to have meaningful learning in science, it is important that they be allowed to experience the process of seeking answers to problems. This requires pupils to physically explore and discover knowledge, be it within their environment or in a laboratory. Besides having two indoor science laboratories, the Science Department has recently created an integrated learning trail weaving through the open spaces in the school.</p>
@@ -119,6 +121,7 @@ P1 to P5 students will go on a learning journey to the Singapore Science Centre 
 
 <li>inculcate the spirit of scientific inquiry through the application of different process skills such as observing, comparing, classifying, analysing, inferring, evaluating and investigating.</li></ul>
 
+<img src="/images/Curriculum/Science/Science_3.png" style="width:100%">
 
 #### P6: Ecology Learning Journey & Coastal Cleanup
 
@@ -133,6 +136,8 @@ The objectives of the learning journey are to:
 <li>Relate and extend students’ Science knowledge to real life experiences so as to provide them with a deeper understanding about life around them</li>
 
 <li>Integrate a meaningful Community Involvement Project (CIP) where students take meaningful actions to protect the environment.</li></ul>
+
+<img src="/images/Curriculum/Science/Science_4.png" style="width:100%">
 
 #### P6: P4 & P5 Science Olympiad Training 
 
@@ -150,6 +155,8 @@ The objectives of the programme are as follows:
 
 <p align="justify">Selected P5 students may have the opportunity to participate in the Raffles Science Olympiad Competition (RSO) or the NUS High Singapore Primary Science Olympiad (SPSO).</p>
 
+<img src="/images/Curriculum/Science/Science_5.png" style="width:100%">
+
 #### P4 and P5 Science E2K Programme
 
 <p align="justify">P4 and P5 students are selected to participate in the Science E2K programme.</p>
@@ -166,6 +173,8 @@ The objectives of the programme are as follows:
 
 <p align="justify">The lessons are based on the broad science themes in the elementary science curriculum. The students will collect and use evidence to address scientifically oriented questions, formulate explanations from evidence to address the questions and evaluate their explanations.</p>
 
+<img src="/images/Curriculum/Science/Science_6.png" style="width:100%">
+
 #### P6 DNA Science Enrichment Programme
 
 <p align="justify">In this programme, selected P6 studdents are provided the opportunity to conduct simulated forensic investigation activities where DNA is analysed as evidence. Through such hands-on activities, students get to extend the learning of scientific investigation skills outside classroom setting for scientific inquiry. In doing so, it is hoped that they are able to relate their Science knowledge to real life experiences so as to provide them with a deeper understanding about life around them.</p>
@@ -180,6 +189,8 @@ The objectives of the programme are as follows:
 
 <li>Analyse blood stains & understand how blood stains are used to solve mystery.</li></ul>
 
+<img src="/images/Curriculum/Science/Science_7.png" style="width:100%">
+
 #### P3 Budding Scientists Programme
 
 <p align="justify">The Budding Scientists Programme is a new enrichment programme planned for our P3 students. With the main aim of enabling our beginning Science learners to transit seamlessly into their journey of learning Science, the Department members came together to pool our experiences and resources into planning an in-house enrichment programme for our young charges.</p>
@@ -192,6 +203,7 @@ The objectives of the programme are as follows:
 
 <p align="justify">Our P3s were highly enthused and thoroughly enjoyed the activities planned for them. From the enriching experience, they can have a better grasp of how Scientists conduct experiments, as they learnt how to go about designing and conducting a fair experiment.</p>
 
+<img src="/images/Curriculum/Science/Science_18.jpg" style="width:100%">
 
 #### Environment Care in PVPS
 
@@ -209,9 +221,13 @@ The school adopts the following <b>5Is Approach</b> to fulfil our Sustainability
 
 <b>Influence</b> – Every PVPS staff / student will become Eco stewards, inspiring sustainability efforts beyond self & school
 
+<img src="/images/Curriculum/Science/Science_9.png" style="width:100%">
+
 #### Recycling Corners
 
 <p align="justify">To inculcate the culture of recycling in every student and staff, the school has set up various recycling points to make recycling a stone’s throw away. We have the recycling bins at the Recycling Corner for the different recyclables, reusable cartons in classrooms for paper, carton boxes in the staffroom, staff lounge and photocopying room for paper. A recycling corner was set up in the canteen and also behind the flagpole to encourage students to recycle paper and plastic bottles.</p>
+
+<img src="/images/Curriculum/Science/Science_10.jpg" style="width:100%">
 
 #### Achievements
 ##### Our Achievements in Science Competitions
@@ -224,8 +240,12 @@ Koka Menaja Sathya Sai Durga (5R3)<br>
 Por Luo Xi J'nise (5R3)<br>
 Sukrit Nautiya of 5R3
 
+<img src="/images/Curriculum/Science/Science_11.jpg" style="width:50%">
+
 ##### Our Achievements in Environment
 ###### Community in Bloom Award
+
+<img src="/images/Curriculum/Science/Science_12.jpg" style="width:30%">
 
 <p align="justify">NParks has been spearheading the Community In Bloom (CIB) programme to create gardening communities within housing estates, educational institutions and organisations in Singapore by partnering various stakeholders including residents, government agencies, grassroots organisations, schools and organisations.</p>
 
@@ -249,12 +269,22 @@ Community In Bloom Awards aims to:
 
 <p align="justify">Park View Primary School has once again achieved the Vanda Miss Joaquim Sustained Achievement Award in 2022.</p>
 
+<img src="/images/Curriculum/Science/Science_13.png" style="width:30%">
+<img src="/images/Curriculum/Science/Science_14.png" style="width:50%">
+<img src="/images/Curriculum/Science/Science_15.jpg" style="width:80%">
+
 ###### Building and Construction Authority Green Mark Award
+
+<img src="/images/Curriculum/Science/Science_16.jpg" style="width:20%">
 
 <p align="justify">The BCA Green Mark awards recognises developers, building owners and individuals who have made outstanding achievements in environmental sustainability in the built environment.</p>
 
 <p align="justify">Congratulations to Park View Primary School on being awarded the BCA Green Mark Award (GOLD) 2021 based on the Green Mark for Existing Schools (Version 2).</p>
 
+<img src="/images/Curriculum/Science/Science_17.png" style="width:100%">
+
 ###### Community in Nature Award 2022
 
 <p align="justify">Park View Primary was awarded the Certificate of Participation in the 2022 Community in Nature Schools Award.</p>
+
+<img src="/images/Curriculum/Science/Science_8.jpg" style="width:100%">
