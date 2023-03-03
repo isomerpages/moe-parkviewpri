@@ -77,6 +77,7 @@ body {
 <div class="column">
 <img src="/images/Curriculum/PE/Jump%20Rope_2.jpg" style="width:100%">
 </div>
+</div>
 </body>
 
 ##### P2 Wushu Enrichment
@@ -85,6 +86,7 @@ body {
 
 <p align="justify">The programme also seeks to inculcate values of Respect, Discipline and Perseverance in the pupils. Pupils reap the benefits of improved focus and better conduct. Our Parent Support Group partners the school in facilitating the values education segment together with the Wushu coaches during lessons.</p>
 
+	
 ##### P5 Outdoor Adventure Learning Camp (Residential)
 
 <p align="justify">P5 Outdoor Adventure Learning Camp (Residential)
