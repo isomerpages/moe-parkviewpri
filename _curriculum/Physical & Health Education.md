@@ -86,7 +86,50 @@ body {
 
 <p align="justify">The programme also seeks to inculcate values of Respect, Discipline and Perseverance in the pupils. Pupils reap the benefits of improved focus and better conduct. Our Parent Support Group partners the school in facilitating the values education segment together with the Wushu coaches during lessons.</p>
 
-	
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.column img {
+  margin-top: 12px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+<body>
+<!-- Photo Grid -->
+<div class="row"> 
+<div class="column">
+<img src="/images/Curriculum/PE/Wushu_1.jpg" style="width:100%"></div>
+  
+<div class="column">
+<img src="/images/Curriculum/PE/Wushu_2.jpg" style="width:100%">
+</div>
+</div>
+</body>
+
 ##### P5 Outdoor Adventure Learning Camp (Residential)
 
 <p align="justify">P5 Outdoor Adventure Learning Camp (Residential)
