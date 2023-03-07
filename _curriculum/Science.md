@@ -17,18 +17,80 @@ To inculcate the spirit of scientific inquiry and 21st CC skills in students.
 #### Key Programmes
 ##### Focus for Science Teaching & learning
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#70AD47;border-color:#32cb00;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2"><span style="color:white">Focus for Each Level</span></th></tr></thead><tbody><tr><td style="background-color:#E2EFD9;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P1 &amp; P2</td><td style="background-color:#E2EFD9;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><ul><li>Nature (Plants and Animals)</li></ul></td></tr><tr><td style="background-color:#FFF;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P3 <i>(with effect from 2023)</i></td><td style="background-color:#FFF;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><ul><li>Diversity of living and non-living things</li><li>Cycles in plants and animals</li><li>Diversity of Materials</li><li>Magnets</li></ul></td></tr><tr><td style="background-color:#E2EFD9;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P4</td><td style="background-color:#E2EFD9;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><ul><li>Magnets</li><li>Cycles in matter</li><li> Heat</li><li>Light</li></td></tr><tr><td style="background-color:#FFF;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P5</td><td style="background-color:#FFF;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><ul><li>Reproduction in plants and animals</li><li>Electrical System</li><li>Human Respiratory and Circulatory Systems</li><li>Plant Transport System</li><li>Cycles in Water</li><li>Cell System</li><li>Photosynthesis</li></td></tr><tr><td style="background-color:#E2EFD9;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P6</td><td style="background-color:#E2EFD9;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><ul><li>Energy Forms and Energy Conversion</li><li>Interaction of Forces</li><li>Interaction within the environment</li></td></tr></tbody></table>
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+<thead>
+<tr>
+<th style="background-color:#70AD47;border-color:#32cb00;border-style:solid;border-width:1px;color:#FFF;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2"><span style="color:white">Focus for Each Level</span>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="background-color:#E2EFD9;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P1 & P2</td>
+<td style="background-color:#E2EFD9;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<ul>
+<li>Nature (Plants and Animals)</li></ul>
+</td>
+</tr>
+<tr>
+<td style="background-color:#FFF;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P3 <i>(with effect from 2023)</i>
+</td>
+<td style="background-color:#FFF;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<ul>
+<li>Diversity of living and non-living things</li>
+<li>Cycles in plants and animals</li>
+<li>Diversity of Materials</li>
+<li>Magnets</li></ul>
+</td>
+</tr>
+<tr>
+<td style="background-color:#E2EFD9;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P4</td><td style="background-color:#E2EFD9;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><ul>
+<li>Magnets</li>
+<li>Cycles in matter</li>
+<li> Heat</li>
+<li>Light</li></ul>
+</td>
+</tr>
+<tr>
+<td style="background-color:#FFF;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P5</td><td style="background-color:#FFF;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<ul>
+<li>Reproduction in plants and animals</li>
+<li>Electrical System</li><li>Human Respiratory and Circulatory Systems</li>
+<li>Plant Transport System</li><li>Cycles in Water</li>
+<li>Cell System</li>
+<li>Photosynthesis</li></ul>
+</td></tr><tr><td style="background-color:#E2EFD9;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P6</td><td style="background-color:#E2EFD9;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<ul>
+<li>Energy Forms and Energy Conversion</li>
+<li>Interaction of Forces</li>
+<li>Interaction within the environment</li></ul>
+</td>
+</tr>
+</tbody>
+</table>
 
 #### Approaches
 
 <p align="justify">The Science Department programmes are planned using a 3-pronged approach of ‘Supporting’, ‘Enriching’ and ‘Stretching’ each student in the journey of learning Science. Under each approach, customised programmes are planned, implemented and reviewed to ensure its effectiveness and relevance for different profile of students.</p>
 
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#70AD47;border-color:#70ad47;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:white">SUPPORT</span></th><th style="background-color:#70AD47;border-color:#70ad47;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:white">ENRICH</span></th><th style="background-color:#70AD47;border-color:#70ad47;border-style:solid;border-width:1px;color:#FFF;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:white">STRETCH</span></th></tr></thead><tbody><tr><td style="background-color:#E2EFD9;border-color:#70ad47;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+<thead>
+<tr>
+<th style="background-color:#70AD47;border-color:#70ad47;border-style:solid;border-width:1px;color:#FFF;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:white">SUPPORT</span></th>
+<th style="background-color:#70AD47;border-color:#70ad47;border-style:solid;border-width:1px;color:#FFF;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:white">ENRICH</span></th>
+<th style="background-color:#70AD47;border-color:#70ad47;border-style:solid;border-width:1px;color:#FFF;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="color:white">STRETCH</span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="background-color:#E2EFD9;border-color:#70ad47;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <ul><li>P3-P5 Remediation Programme</li>
 <li>P6 Pull-Out Programme (LP)</li> 
-<li>Differentiated curriculum & resources</li></ul><br>
-<span style="color:black"> </span><br><span style="color:black"> </span><br> <br> <br> <br> <br> <br> <br> <br> <br> </td><td style="background-color:#E2EFD9;border-color:#70ad47;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<li>Differentiated curriculum & resources</li></ul>
+<span style="color:black"></span><span style="color:black"></span>
+</td>
+<td style="background-color:#E2EFD9;border-color:#70ad47;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <ul><li>P6 Enrich Programme</li>
 <li>School-based Instructional Packages</li>
 <li>P3-P5 Performance Tasks</li>
@@ -37,13 +99,19 @@ To inculcate the spirit of scientific inquiry and 21st CC skills in students.
 <li>P3-P6 LJs</li>
 <li>P3 Budding Scientists (For selected students)</li>
 <li>Integration of TLC-FA strategies</li>
-<li>Use of Self & Peer Assessments for feedback</li></ul></span><br><span style="color:black"> </span></td><td style="background-color:#E2EFD9;border-color:#70ad47;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<li>Use of Self & Peer Assessments for feedback</li></ul>
+</td>
+<td style="background-color:#E2EFD9;border-color:#70ad47;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <ul><li>P4 & P5 Science Olympiad</li>
 <li>P4 & P5 E2K Programme</li>
 <li>P6 DNA Programme</li>
 <li>Science Competitions</li>
 <li>Differentiated curriculum & resources</li>
-<li>Pull-Out Programme (MP)</li></ul> </span></td></tr></tbody></table>
+<li>Pull-Out Programme (MP)</li></ul>
+</td>
+</tr>
+</tbody>
+</table>
 
 #### Resources
 ##### Science Wall
