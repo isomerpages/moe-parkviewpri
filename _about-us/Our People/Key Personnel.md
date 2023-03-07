@@ -208,7 +208,7 @@ ShuangShuang<br>ST - MT - CL
 				<br>Mdm Nohanim Bte Hashim<br>ST - MT - ML
 				<br>
 				<a href="mailto:norhanim_hashim
-@schools.gov.sg">norhanim_hashim<br>@schools.gov.sg</a></a>
+@schools.gov.sg">norhanim_hashim<br>@schools.gov.sg</a>
 				<br>
 			</th></tr>
 	</thead>
