@@ -19,4 +19,4 @@ third_nav_title: English
 	
 <li><a href="https://parkviewpri.moe.edu.sg/ReadatPVPS/">Read@PVPS
 	
-<li><a href="(https://parkviewpri.moe.edu.sg/English-Programmes/">English Programmes
+<li><a href="https://parkviewpri.moe.edu.sg/English-Programmes/">English Programmes
