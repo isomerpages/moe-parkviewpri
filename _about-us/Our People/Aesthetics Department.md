@@ -59,6 +59,4 @@ Binte Saharudin<br><br>
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px" class="tg">
 	<thead>
 		<tr>
-			
 </tr>
-	</table>
