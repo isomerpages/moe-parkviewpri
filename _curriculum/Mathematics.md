@@ -3,23 +3,18 @@ title: Mathematics
 permalink: /curriculum/mathematics/
 description: ""
 ---
-# **Mathematics**
-
 ### Mathematics Framework
 
 ![](/images/Math_FW.jpg)
 
-The teaching and learning of mathematics aims primarily to equip pupils with a firm foundation of knowledge and skills in mathematics. The central focus of our mathematics framework is problem solving, which is supported by five interrelated dimensions: concepts, skills, processes, attitudes and metacognition. Excellence in mathematics anchors in problem solving, and through problem solving, pupils are developed into thinkers and problem solvers, who are independent, engaged, creative and critical.
+The teaching and learning of mathematics aims primarily to equip students with a firm foundation of knowledge and skills in mathematics. The central focus of our mathematics framework is problem solving, which is supported by five interrelated dimensions: concepts, skills, processes, attitudes and metacognition. Excellence in mathematics anchors in problem solving, and through problem solving, students are developed into thinkers and problem solvers, who are independent, engaged, creative and critical.
 
 To achieve our vision, our approach is Delivery, Interest, Application and Assessment (DIAA). The four approaches play specific roles to realize our desired outcomes:  
 
-*   Cultivate and enhance pupils’ interest to keep them connected, motivated and driven in problem solving.
-*   Equip pupils with a strong foundation in concepts, skills, thinking process and metacognition through various effective instructional programmes, pedagogy and learning experiences.
-*   Provide opportunity and exposure for pupils to use and apply mathematics in challenging tasks, non-routine questions, investigations and real life problem.
-*   Adopt a holistic approach to assessment to facilitate effective instructional planning and to account for pupils’ progress and support their learning.
-
-
-
+*   Cultivate and enhance students' interest to keep them connected, motivated and driven in problem solving.
+*   Equip students with a strong foundation in concepts, skills, thinking process and metacognition through various effective instructional programmes, pedagogy and learning experiences.
+*   Provide opportunity and exposure for students to use and apply mathematics in challenging tasks, non-routine questions, investigations and real life problem.
+*   Adopt a holistic approach to assessment to facilitate effective instructional planning and to account for students’ progress and support their learning.
 
 
 
@@ -27,7 +22,7 @@ To achieve our vision, our approach is Delivery, Interest, Application and Asses
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="3">APPROACHES</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">SUPPORT</td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">ENRICH</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">STRETCH</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• P1-P2 LSM<br>• P3-P6 Baseline Remediation<br>• Weekly Remedial Lessons<br>• Math Pull Out Programme<br>• Math Buddy Programme<br>• Heartware Tuition Programme</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Activity-based<br>• learning (ABL)<br>• P1-P6 STAR Math Problem Solving Heuristics Package<br>• P1-P2 Mental Maths Programme<br>• Financial Literacy (P1 - P6)<br>• Math Recess Activity<br>• Math Investigation Task (P3 - P4)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• P1-P2 Math Model Drawing Package<br>• P4-P6 Math Olympiad Training<br>• P3 - P5 Math Modelling<br>• Math Competitions<br>• E2K (P4&amp;P5)</td></tr></tbody></table>
 
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Assessment<br>OF Learning</th><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Assessment<br>FOR Learning</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Assessment<br>AS Learning</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• CA (P6)<br>• SA<br>• Prelim<br>• PSLE<br>• Mock Exam<br>• Diagnostic Test for Baseline skills<br>• Diagnostic Test for LSM</td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Topical Review<br>• Maths Performance Task<br>• Responses in Class<br>• Homework</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Math Journal<br>• Pupils’ Reflection</td></tr></tbody></table>
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Assessment<br>OF Learning</th><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Assessment<br>FOR Learning</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Assessment<br>AS Learning</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• CA (P6)<br>• SA<br>• Prelim<br>• PSLE<br>• Mock Exam<br>• Diagnostic Test for Baseline skills<br>• Diagnostic Test for LSM</td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Topical Review<br>• Maths Performance Task<br>• Responses in Class<br>• Homework</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Math Journal<br>• Students’ Reflection</td></tr></tbody></table>
 
 
 
@@ -59,7 +54,7 @@ The Mathematics department adopts the STAR approach, a 4-phased structured proce
 
 <h5>TARGET GROUP</h5>
 
-Selected Primary 4 to Primary 5 pupils with high ability in Mathematics.
+Selected Primary 4 to Primary 5 students with high ability in Mathematics.
 
 <h5>DESCRIPTION</h5>
 
@@ -69,27 +64,27 @@ The E2K Mathematics Programme is a Mathematics enrichment programme for Primary 
 
 ### Financial Literacy Programme
 
-Park View Primary School embarked on the whole-school Financial Literacy Programme by the Math Department to educate our pupils on the importance of money management.
+Park View Primary School embarked on the whole-school Financial Literacy Programme by the Math Department to educate our students on the importance of money management.
 
-The objective is to equip our pupils with the relevant knowledge, skills and attitudes/ values to cope with the financial landscape of the 21st century.
+The objective is to equip our students with the relevant knowledge, skills and attitudes/ values to cope with the financial landscape of the 21st century.
 
 ![](/images/collage2.jpg)
 
 ### Activity-Based Learning
 
-In activity-based lessons, pupils are involved in experiential learning through hands-on activities. Pupils learn to work together in groups, involve in meaningful discussions, helping one another in discovering the answers and accepting each other’s strengths and weaknesses. On the other hand, the teachers play the role of facilitator, observer, listener and guiding pupils in the problem solving activities.
+In activity-based lessons, students are involved in experiential learning through hands-on activities. Students learn to work together in groups, involve in meaningful discussions, helping one another in discovering the answers and accepting each other’s strengths and weaknesses. On the other hand, the teachers play the role of facilitator, observer, listener and guiding students in the problem solving activities.
 
-Since pupils work in small groups, pupils tend to be less shy and they are usually willing to make mistakes. They take responsibility of their own learning through group discussions.
+Since students work in small groups, pupils tend to be less shy and they are usually willing to make mistakes. They take responsibility of their own learning through group discussions.
 
-Activity-based lesson is one of the strategies to instil passion and interest in all pupils in the learning of mathematical problem solving. It encourages pupils to apply what they have learnt, through the activities they carry out, many of which usually relate to real life situation. Activity based lessons provide pupils with platform to stay engaged and learn creatively. Pupils take responsibility in their learning actively rather than passive receivers of information and knowledge.  
+Activity-based lesson is one of the strategies to instil passion and interest in all students in the learning of mathematical problem solving. It encourages pupils to apply what they have learnt, through the activities they carry out, many of which usually relate to real life situation. Activity based lessons provide students with platform to stay engaged and learn creatively. Students take responsibility in their learning actively rather than passive receivers of information and knowledge.  
 
-This is in line with the Mathematics Department Vision: Every Park View pupil is an independent and engaged problem solver, and a creative and critical thinker, who strives for excellence.
+This is in line with the Mathematics Department Vision: Every Park View student is an independent and engaged problem solver, and a creative and critical thinker, who strives for excellence.
 
 ![](/images/ABL.jpg)
 
 ### Mental Maths Programme / Abacus
 
-The objectives of the Mental Maths Programme are to develop pupils' thinking and analytical skills and enhance pupils' concentration, memory skills and systematic computational skills. The programme focuses on number bonding, place values, multiplication tables.
+The objectives of the Mental Maths Programme are to develop students' thinking and analytical skills and enhance students' concentration, memory skills and systematic computational skills. The programme focuses on number bonding, place values, multiplication tables.
 
 ![](/images/enrichment1.jpg)
 
@@ -101,13 +96,13 @@ The focus of the training is to:
 
   
 
-*   Engage pupils in thinking activities by discussing and solving non-routine problems;
-*   Equip pupils with the necessary problem solving skills and mathematical knowledge for higher order problem solving
-*   stimulate pupils’ interest and enthusiasm for problem solving;
-*   introduce pupils to the process, thinking skills and techniques that are required to solve Math Olympiad-like non-routine problems and
-*   instil in pupils the spirit of learning by discovery
+*   Engage students in thinking activities by discussing and solving non-routine problems;
+*   Equip students with the necessary problem solving skills and mathematical knowledge for higher order problem solving
+*   stimulate students’ interest and enthusiasm for problem solving;
+*   introduce students to the process, thinking skills and techniques that are required to solve Math Olympiad-like non-routine problems and
+*   instil in students the spirit of learning by discovery
 
-Through the training sessions, pupils experience the satisfaction, pleasure, fun and thrill of discovery associated with creative problem solving.
+Through the training sessions, students experience the satisfaction, pleasure, fun and thrill of discovery associated with creative problem solving.
 
 The topics covered at the various levels are as follow:
 
