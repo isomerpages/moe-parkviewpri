@@ -122,7 +122,7 @@ Our Science wall reflects how the three main human systems in our body, Digestiv
 
 ##### Science Garden
 <p align="justify">
-For students to have meaningful learning in science, it is important that they be allowed to experience the process of seeking answers to problems. This requires pupils to physically explore and discover knowledge, be it within their environment or in a laboratory. Besides having two indoor science laboratories, the Science Department has recently created an integrated learning trail weaving through the open spaces in the school.</p>
+For students to have meaningful learning in science, it is important that they be allowed to experience the process of seeking answers to problems. This requires students to physically explore and discover knowledge, be it within their environment or in a laboratory. Besides having two indoor science laboratories, the Science Department has recently created an integrated learning trail weaving through the open spaces in the school.</p>
 
 <p align="justify">There are different thematic gardens simulating various natural environments.</p>
 
@@ -136,7 +136,7 @@ For students to have meaningful learning in science, it is important that they b
 
 <p align="justify"><b>The Energy Pavilion</b> is an outdoor classroom amid the shrubs and creepers. It is a place where teachers can carry out their lessons or briefing before adjourning to the gardens for practical sessions.</p>
 
-<p align="justify">With the launch of the different “Hubs”, pupils can now just make a short trip down to see the plants that they study about in their books. This hands-on experience allows them to understand their lessons better. It is always good to be near Mother Nature.</p>
+<p align="justify">With the launch of the different “Hubs”, students can now just make a short trip down to see the plants that they study about in their books. This hands-on experience allows them to understand their lessons better. It is always good to be near Mother Nature.</p>
 
 <b>Blooms@Energy Hub</b><br>
 <b>Blooming Garden</b>
