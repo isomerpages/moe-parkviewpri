@@ -122,7 +122,7 @@ Our Science wall reflects how the three main human systems in our body, Digestiv
 
 ##### Science Garden
 <p align="justify">
-For pupils to have meaningful learning in science, it is important that they be allowed to experience the process of seeking answers to problems. This requires pupils to physically explore and discover knowledge, be it within their environment or in a laboratory. Besides having two indoor science laboratories, the Science Department has recently created an integrated learning trail weaving through the open spaces in the school.</p>
+For students to have meaningful learning in science, it is important that they be allowed to experience the process of seeking answers to problems. This requires pupils to physically explore and discover knowledge, be it within their environment or in a laboratory. Besides having two indoor science laboratories, the Science Department has recently created an integrated learning trail weaving through the open spaces in the school.</p>
 
 <p align="justify">There are different thematic gardens simulating various natural environments.</p>
 
@@ -132,7 +132,7 @@ For pupils to have meaningful learning in science, it is important that they be 
 
 <p align="justify"><b>Desert@Energy Hub</b> located at the back of the school building houses desert flora with a variety of cactus.</p>
 
-<p align="justify"><b>Rainforest@Energy Hub</b> showcases a slice of a tropical rainforest complete with a fernery garden and an eco-pond surrounded by lush tropical vegetation. A leaf litter habitat is also set up in the fernery garden for pupils to have first-hand experience in studying the conditions of a leaf litter habitat.</p>
+<p align="justify"><b>Rainforest@Energy Hub</b> showcases a slice of a tropical rainforest complete with a fernery garden and an eco-pond surrounded by lush tropical vegetation. A leaf litter habitat is also set up in the fernery garden for students to have first-hand experience in studying the conditions of a leaf litter habitat.</p>
 
 <p align="justify"><b>The Energy Pavilion</b> is an outdoor classroom amid the shrubs and creepers. It is a place where teachers can carry out their lessons or briefing before adjourning to the gardens for practical sessions.</p>
 
