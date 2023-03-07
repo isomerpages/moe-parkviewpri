@@ -34,7 +34,7 @@ To enable and encourage our students to be active after leaving school, with a g
 
 <p align="justify">Jump Rope is a sport for all ages and abilities. It helps the development and improvement of psychomotor skills, coordination, agility, flexibility, stamina and endurance. It is also proven to strength bones and joints. Beside all these benefits, Jump Rope can also increase self-esteem and confidence when skippers increase their skill levels and develop performing skills.</p>
 
-<p align="justify">Our Jump Rope Programme is aimed to introduce the essential jump rope skills and equips the P1 pupils with the right skills and improve the overall fitness and stamina of the skippers and at the same time develop their coordination, teamwork and leadership skills.</p>
+<p align="justify">Our Jump Rope Programme is aimed to introduce the essential jump rope skills and equips the P1 students with the right skills and improve the overall fitness and stamina of the skippers and at the same time develop their coordination, teamwork and leadership skills.</p>
 
 <style>
 * {
@@ -82,9 +82,9 @@ body {
 
 ##### P2 Wushu Enrichment
 
-<p align="justify">Wushu Enrichment is a programme customised for P2 pupils. It aims to introduce our pupils to basic martial arts through engaging lessons. Throughout the programme, emphasis will be placed on hand and leg movements and coordination. Pupils will then be able to perform a basic routine.</p>
+<p align="justify">Wushu Enrichment is a programme customised for P2 students. It aims to introduce our students to basic martial arts through engaging lessons. Throughout the programme, emphasis will be placed on hand and leg movements and coordination. Students will then be able to perform a basic routine.</p>
 
-<p align="justify">The programme also seeks to inculcate values of Respect, Discipline and Perseverance in the pupils. Pupils reap the benefits of improved focus and better conduct. Our Parent Support Group partners the school in facilitating the values education segment together with the Wushu coaches during lessons.</p>
+<p align="justify">The programme also seeks to inculcate values of Respect, Discipline and Perseverance in the students. Students reap the benefits of improved focus and better conduct. Our Parent Support Group partners the school in facilitating the values education segment together with the Wushu coaches during lessons.</p>
 
 <style>
 * {
@@ -135,7 +135,7 @@ body {
 <p align="justify">P5 Outdoor Adventure Learning Camp (Residential)
 As part of the National Outdoor Adventure Education (OAE) Master Plan, all Primary 5 students participate in an Outdoor Adventure Learning Camp. Through the camp, students develop social emotional competencies including self-awareness, social awareness, self-management, relationship management and responsible decision making. They will also learn to manage one’s safety during outdoor activities and demonstrate responsible decision making towards self, others and the community and environment.</p>
 
-During the camp, pupils will participate in activities and games that include:
+During the camp, students will participate in activities and games that include:
 
 <ul>
 <li>Teambuilding activities</li>
@@ -144,7 +144,7 @@ During the camp, pupils will participate in activities and games that include:
 <li>Kayaking/Dragon-Boating</li>
 <li>Campfire, etc.</li></ul>
 
-Through adventure challenges and activities, pupils get to:
+Through adventure challenges and activities, students get to:
 <ul>
 <li>Overcome their fears and limitations</li>
 <li>Challenge themselves</li>
@@ -255,8 +255,8 @@ body {
 
 ##### PVPS Olympics
 
-<p align="justify">PVPS Olympics, one of the key sporting events in the school is a series of events leading up to the culmination of the PVPS Olympics Day where pupils represent their houses and battle it out to be crowned Champion House of the year.</p>
-<p align="justify">The aims of the event are to provide a platform for pupils from different classes and levels to mingle, forge friendships and to demonstrate qualities such as sportsmanship, teamwork and fair play. The PVPS Olympics put to test both individual competencies and team camaraderie through various sports events </p>
+<p align="justify">PVPS Olympics, one of the key sporting events in the school is a series of events leading up to the culmination of the PVPS Olympics Day where students represent their houses and battle it out to be crowned Champion House of the year.</p>
+<p align="justify">The aims of the event are to provide a platform for students from different classes and levels to mingle, forge friendships and to demonstrate qualities such as sportsmanship, teamwork and fair play. The PVPS Olympics put to test both individual competencies and team camaraderie through various sports events </p>
 
 <style>
 * {
@@ -306,7 +306,7 @@ body {
 
 ##### P1 Orientation Programme (Telematch)
 
-<p align="justify">During P1 Orientation Week, the PE department organizes a Telematch for the P1 pupils. It is a type of class-based games and sports that is played in a fun setting, with the pupils working together to complete various tasks or activities. Telematch challenges may test the pupils' physical agility, fundamental movement skills, balance, coordination, speed, and endurance, as well as their mental skills, such as problem-solving, strategic thinking, and communication.</p>
+<p align="justify">During P1 Orientation Week, the PE department organizes a Telematch for the P1 students. It is a type of class-based games and sports that is played in a fun setting, with the students working together to complete various tasks or activities. Telematch challenges may test the students' physical agility, fundamental movement skills, balance, coordination, speed, and endurance, as well as their mental skills, such as problem-solving, strategic thinking, and communication.</p>
 
 <style>
 * {
