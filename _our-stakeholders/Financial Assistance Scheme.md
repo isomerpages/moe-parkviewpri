@@ -5,12 +5,12 @@ description: ""
 ---
 ### MOE Financial Assistance Scheme (MOE FAS)
 
-The objective of the MOE FAS is to help financially <b>needy</b> Singaporean students in Government and Government-aided schools to meet basic schooling expenses.
-Student must be a Singapore citizen enrolled in a Government or Government-aided school and meets either one of the following criteria:
+<p align="justify">The objective of the MOE FAS is to help financially <b>needy</b> Singaporean students in Government and Government-aided schools to meet basic schooling expenses.
+Student must be a Singapore citizen enrolled in a Government or Government-aided school and meets either one of the following criteria:</p>
 <p align="justify">
-a) His or her family’s gross household income (GHI) as at the time of application does not exceed $3,000 per month; or
+a) His or her family’s gross household income (GHI) as at the time of application does not exceed $3,000 per month; or</p>
 <p align="justify">
-b) His or her family’s per capita income (PCI) as at the time of application does not exceed $750 per month. PCI = Monthly GHI / No. of members in the household
+b) His or her family’s per capita income (PCI) as at the time of application does not exceed $750 per month. PCI = Monthly GHI / No. of members in the household</p>
 
 <b>Types of benefits provided under MOE FAS (Primary School):</b>
 
