@@ -15,7 +15,7 @@ b) His or her family’s per capita income (PCI) as at the time of application 
 <b>Types of benefits provided under MOE FAS (Primary School):</b>
 
 <img src="/images/FAS%20-%20Types%20of%20benefits.png">
-*If the FAS application approval is not from January, the transport subsidy will be pro-rated accordingly from the month after your application is approved to December of the same year. </font>
+*If the FAS application approval is not from January, the transport subsidy will be pro-rated accordingly from the month after your application is approved to December of the same year. 
 <br><br>^Subsidies for school meals purchased and consumed in school.
 
 <a href="/files/2023%20FAS/2022%20Financial%20Assistance%20Scheme%20FAS%20Brochure.pdf">Click Here</a> for more information on Financial Assistance Scheme (FAS) 2023<br>
@@ -35,7 +35,7 @@ To apply for FAS 2023, interested students must submit the completed FAS applica
 
 <ul>	
 <li>Send the hardcopy form and supporting documents to the school’s General Office; or</li>
-<li>Scan the form and all supporting documents, and email it to the school (Email address: [pvps@moe.edu.sg](mailto:pvps@moe.edu.sg)); or</li>
+<li>Scan the form and all supporting documents, and email it to the school (Email address: <a href="pvps@moe.edu.sg">pvps@moe.edu.sg</a>or</li>
 <li>Submit the application via the eFAS Application: <a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a></li></ul>
 <br>
 <img src="/images/QR%20Code.jpg" style="width:25%">
