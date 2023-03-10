@@ -59,7 +59,7 @@ third_nav_title: Our People
 			<th style="border:1px solid black;">Email Address</th>
 		</tr>
 	</thead>
-	<tbody>
+<tbody>
 		<tr>
             <td style="border:1px solid black;">Mdm Norhanim</td>
 			<td style="border:1px solid black;"><a href="norhanim_hashim@schools.gov.sg">norhanim_hashim@schools.gov.sg</a></td>
@@ -69,22 +69,21 @@ third_nav_title: Our People
 			<td style="border:1px solid black;"><a href="nailul_azmi_ismail@schools.gov.sg">nailul_azmi_ismail@schools.gov.sg</a></td>
 		</tr>
 		<tr>
-		<tr>
             <td style="border:1px solid black;">Mdm Nurfarhannah</td>
 			<td style="border:1px solid black;"><a href="nurfarhannah_hazmi@schools.gov.sg">nurfarhannah_hazmi@schools.gov.sg</a></td>
-		</tr>
-
+</tr>
+	<tr>
             <td style="border:1px solid black;">Mdm Zubaidah</td>
 			<td style="border:1px solid black;"><a href="zubaidah_othman@schools.gov.sg">zubaidah_othman@schools.gov.sg</a></td>
-		</tr>
-        <tr>
+</tr>
+<tr>
             <td style="border:1px solid black;">Mdm Nur Farizah</td>
 			<td style="border:1px solid black;"><a href="nur_farizah_roslan@schools.gov.sg">nur_farizah_roslan@schools.gov.sg</a></td>
-		</tr>
-        <tr>
+</tr>
+<tr>
             <td style="border:1px solid black;">Mdm Nurhazimah</td>
 			<td style="border:1px solid black;"><a href="nurhazimah_abdul_halim@schools.gov.sg">nurhazimah_abdul_halim@schools.gov.sg</a></td>
-		</tr>
+</tr>
 	</tbody>
 </table>
 
