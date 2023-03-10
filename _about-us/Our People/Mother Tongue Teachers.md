@@ -52,61 +52,43 @@ third_nav_title: Our People
 
 #### Malay Language
 
-
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px" class="tg">
+<table>
 	<thead>
 		<tr>
-			<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Mdm%20Nohanim.jpeg" width="175" height="225">
-				<br>Mdm Norhanim
-				<br>
-				<a href="mailto:norhanim_hashim@schools.gov.sg">norhanim_hashim<br>@schools.gov.sg</a>
-				<br>
-			</th>
-			
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Nainul_optimisedforweb.jpg" alt="Nainul_optimisedforweb.jpg" width="175" height="225">
-				<br>Mdm Nailul Azmi
-				<br>
-				<a href="mailto:nailul_azmi_ismail@schools.gov.sg">nailul_azmi_ismail<br>@schools.gov.sg</a>
-				<br>
-			</th>
-			
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Mdm%20Hannah.jpg" width="175" height="225">
-				<br>Mdm Hannah
-				<br>
-				<a href="mailto:nurfarhannah_hazmi@schools.gov.sg">nurfarhannah_hazmi<br>@schools.gov.sg</a>
-				<br>
-			</th></tr>
+        	<th style="border:1px solid black;">Name of Teacher</th>
+			<th style="border:1px solid black;">Email Address</th>
+		</tr>
 	</thead>
+	<tbody>
+		<tr>
+            <td style="border:1px solid black;">Mdm Norhanim</td>
+			<td style="border:1px solid black;"><a href="norhanim_hashim@schools.gov.sg">norhanim_hashim@schools.gov.sg</a></td>
+		</tr>
+		<tr>
+            <td style="border:1px solid black;">Mdm Nailul Azmi</td>
+			<td style="border:1px solid black;"><a href="nailul_azmi_ismail@schools.gov.sg">nailul_azmi_ismail@schools.gov.sg</a></td>
+		</tr>
+		<tr>
+		<tr>
+            <td style="border:1px solid black;">Mdm Nurfarhannah</td>
+			<td style="border:1px solid black;"><a href="nurfarhannah_hazmi@schools.gov.sg">nurfarhannah_hazmi@schools.gov.sg</a></td>
+		</tr>
 
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Mdm%20Zubaidah%20cropped.jpg" alt="Mdm Zubaidah cropped.jpg" width="175" height="225">
-				<br>Mdm Zubaidah
-				<br>
-				<a href="mailto:zubaidah_othman@schools.gov.sg">zubaidah_othman<br>@schools.gov.sg</a>
-				<br>
-</th>
+            <td style="border:1px solid black;">Mdm Zubaidah</td>
+			<td style="border:1px solid black;"><a href="zubaidah_othman@schools.gov.sg">zubaidah_othman@schools.gov.sg</a></td>
+		</tr>
+        <tr>
+            <td style="border:1px solid black;">Mdm Nur Farizah</td>
+			<td style="border:1px solid black;"><a href="nur_farizah_roslan@schools.gov.sg">nur_farizah_roslan@schools.gov.sg</a></td>
+		</tr>
+        <tr>
+            <td style="border:1px solid black;">Mdm Nurhazimah</td>
+			<td style="border:1px solid black;"><a href="nurhazimah_abdul_halim@schools.gov.sg">nurhazimah_abdul_halim@schools.gov.sg</a></td>
+		</tr>
+	</tbody>
+</table>
 
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Mdm%20Nur%20Farizah_optimisedforweb.jpg" alt="Mdm Nur Farizah_optimisedforweb.jpg" width="175" height="225">
-				<br>Mdm Nur Farizah
-				<br>
-				<a href="mailto:nur_farizah_roslan@schools.gov.sg">nur_farizah_roslan<br>@schools.gov.sg</a>
-				<br></th>
-			
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Mdm%20Nurhazimah%20FINAL.jpg" alt="Mdm Nurhazimah FINAL.jpg" width="175" height="225">
-				<br>Mdm Nurhazimah
-				<br>
-				<a href="mailto:Nurhazimah_Abdul_Halim@schools.gov.s">Nurhazimah_Abdul<br>_Halim@schools.gov.sg</a><br>
-			</th>
-			</tr></tbody>
-			</table>
-
-### Tamil Language
+#### Tamil Language
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px" class="tg">
 	<thead>
