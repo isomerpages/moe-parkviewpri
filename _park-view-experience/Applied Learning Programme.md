@@ -7,4 +7,4 @@ description: ""
 
 <img src="/images/Innovation.png" width="100%">
 <br>
-<img src="/images/Design%20thinking%20poster.jpg" width="100%">
+<img src="/images/Launch%20Poster%20for%20Website.jpg" width="100%">
