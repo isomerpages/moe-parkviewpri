@@ -11,32 +11,30 @@ They are taken on outdoor trips which are slightly different from the usual lear
 #### <u>Primary 1 Outdoor Education</u>
 ##### PVPS In Bloom
 
-<img src="/images/Park%20View%20Experience/tree.jpg" style="width:30%">
+<img src="/images/Park%20View%20Experience/tree.jpg" style="width:20%">
 
-<b>PVPS</b> in Bloom is Park View Primary School’s PAL Outdoor Education module. Park View Primary’s teachers specially designed this module for their students.
+<p align="justify"><b>PVPS</b> in Bloom is Park View Primary School’s PAL Outdoor Education module. Park View Primary’s teachers specially designed this module for their students.</p>
 
 ##### The aims of this module are:
-
-</li>Provide learning experiences for our students beyond the classrooms by going into the community and natural environments.</li>
-</li>Make learning more interesting and easier to understand through experiential learning activities in authentic setting.</li>
-</li>Develop students’ Social Emotional learning competencies through fun and meaningful learning activities. They not only learn more about their community and natural environment, they also learn about themselves and their friends.</li>
+<ul>
+<li>Provide learning experiences for our students beyond the classrooms by going into the community and natural environments.</li>
+<li>Make learning more interesting and easier to understand through experiential learning activities in authentic setting.</li>
+<li>Develop students’ Social Emotional learning competencies through fun and meaningful learning activities. They not only learn more about their community and natural environment, they also learn about themselves and their friends.</li></ul>
 
 #### <u>Primary 2 Outdoor Education</u>
 ##### Colourful Nature @ PVPS
-<img src="/images/Park%20View%20Experience/butterfly.jpg" style="width:60%">
+<img src="/images/Park%20View%20Experience/butterfly.jpg" style="width:20%">
 
-Colourful Nature @ PVPS is the PAL Outdoor Education module for the Primary 2 students in Park View Primary School. In Primary 2, students will learn more about insects, birds and fishes.
+<p align="justify">Colourful Nature @ PVPS is the PAL Outdoor Education module for the Primary 2 students in Park View Primary School. In Primary 2, students will learn more about insects, birds and fishes.</p>
 
 ##### The aims of this module are as follows: 
 
-* To engage in fun and meaningful learning activities such as observing insects and birds
-* To learn more about their adaptations of animals
-* To plan for an outdoor learning journey
-* To learn basic survival skills
-* To work in groups to explore the natural environment around them during their learning journey to Resort World Sentosa SEA Aquarium
-* To develop their Social Emotional Learning competencies, environmental awareness and outdoor skills which can be extended to their daily lives.
-
+<ul>
+<li>To engage in fun and meaningful learning activities such as observing insects and birds</li>
+<li>To learn more about their adaptations of animals</li>
+<li>To plan for an outdoor learning journey</li>
+<li>To learn basic survival skills</li>
+<li>To work in groups to explore the natural environment around them during their learning journey to Resort World Sentosa SEA Aquarium.</li>
+<li>To develop their Social Emotional Learning competencies, environmental awareness and outdoor skills which can be extended to their daily lives.</li></ul>
 
 <img src="/images/Park%20View%20Experience/PAL_OE_2023.jpg" style="width:100%">
-
----
