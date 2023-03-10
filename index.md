@@ -9,10 +9,10 @@ sections:
   - hero:
       background: /images/PVPS_gif.gif
       key_highlights:
-        - title: Contact Us
-          description: ""
-          url: https://parkviewpri.moe.edu.sg/about-us/Contact-Us/
         - title: Letter to Parents
           description: ""
           url: https://www.parkviewpri.moe.edu.sg/our-stakeholders/letter-to-parents/
+        - title: Contact Us
+          description: ""
+          url: https://parkviewpri.moe.edu.sg/about-us/Contact-Us/
 ---
