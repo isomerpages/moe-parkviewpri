@@ -137,86 +137,42 @@ third_nav_title: Our People
 
 #### Primary 4
 
-<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px">
-
-<tbody><tr>
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>4 Respect<br>(4R1)<br>
-<img height="225" width="175" src="">
-Mr Muslim Bin Mohamed Amin<br>
-<a href="mailto:muslim_mohamed_amin@schools.gov.sg">muslim_mohamed_<br>amin<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>4 Respect<br>(4R1)<br>
-<img height="225" width="175" src="">
-Mdm Teo Siew Yeun<br>
-<a href="mailto:teo_siew_yeun@schools.gov.sg">teo_siew_<br>yeun<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>4 Responsibility<br>(4R2)<br>
-<img height="225" width="175" src="">
-Miss Emily Ambrose<br>
-<a href="mailto:Emily_Ambrosey@schools.gov.sg">emily_ambrose<br>@schools.gov.sg</a><br>
-</th>
-	
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>4 Responsibility<br>(4R2)<br>
-<img height="225" width="175" src="">
-Mdm Kimberly Jean Aeria<br>
-<a href="mailto:kimberly_jean_aeria@schools.gov.sg">kimberly_jean_<br>aeria<br>@schools.gov.sg</a><br>
-</th>
-</tr>
-
-<tr>
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>4 Resilience<br>(4R3)<br>
-<img height="225" width="175" src="">
-Mrs Ling<br>
-<a href="mailto:julie_wong@schools.gov.sg">julie_wong<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>4 Integrity<br>(4I)<br>
-<img height="225" width="175" src="">
-Mdm Zatty Sabrina<br>
-<a href="mailto:zatty_sabrina_mohd_razif@schools.gov.sg">zatty_sabrina_<br>mohd_razif<br>@schools.gov.sg</a><br>
-</th>
-	
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>4 Integrity<br>(4I)<br>
-<img height="225" width="175" src="">
-Mrs Helen Chong<br>
-<a href="mailto:helen_low_kwee_fong@schools.gov.sg">helen_low_<br>kwee_fong<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>4 Care<br>(4C)<br>
-<img height="225" width="175" src="">
-Miss Kirthi Shihilpa Pillai<br>
-<a href="mailto:Kirthi_Shihlpa_Pillai@schools.gov.sg">kirthi_shihlpa_<br>pillai<br>@schools.gov.sg</a><br>
-</th>
-</tr>
-
-<tr>
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>4 Care<br>(4C)<br>
-<img height="225" width="175" src="">
-Mdm Norhanim Bte Hashim<br>
-<a href="mailto:norhanim_hashim@schools.gov.sg">norhanim_<br>hashim<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-</th>
-</tr>
-</tbody></table>
+<table>
+	<thead>
+		<tr>
+        	<th style="border:1px solid black;">Class</th>
+			<th style="border:1px solid black;">Name of Teacher</th>
+			<th style="border:1px solid black;">Email Address</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="border:1px solid black;">4 Respect<br>(4R1)</td>
+            <td style="border:1px solid black;">Mr Muslim<br>Mdm Teo Siew Yeun</td>
+			<td style="border:1px solid black;"><a href="muslim_mohamed_amin@schools.gov.sg">muslim_mohamed_amin@schools.gov.sg</a><br><a href="teo_siew_yeun@schools.gov.sg">teo_siew_yeun@schools.gov.sg</a></td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black;">4 Responsibility<br>(4R2)</td>
+            <td style="border:1px solid black;">Miss Emily Ambrose<br>Mdm Kimberly Jean Aeria</td>
+			<td style="border:1px solid black;"><a href="emily_ambrose@schools.gov.sg ">emily_ambrose@schools.gov.sg</a><br><a href="kimberly_jean_aeria@schools.gov.sg">kimberly_jean_aeria@schools.gov.sg</a></td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black;">4 Resilience<br>(4R3)</td>
+            <td style="border:1px solid black;">julie_wong@schools.gov.sg</td>
+			<td style="border:1px solid black;"><a href="nur_farizah_roslan@schools.gov.sg ">julie_wong@schools.gov.sg</a></td>
+		</tr>     
+		<tr>
+			<td style="border:1px solid black;">4 Integrity<br>(4I)</td>
+			<td style="border:1px solid black;">Mdm Zatty Sabrina<br>Mrs Helen Chong</td>
+			<td style="border:1px solid black;"><a href="zatty_sabrina_mohd_razif@schools.gov.sg ">zatty_sabrina_mohd_razif@schools.gov.sg</a><br><a href="helen_low_kwee_fong@schools.gov.sg ">helen_low_kwee_fong@schools.gov.sg</a></td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black;">4 Care<br>(4C)</td>
+            <td style="border:1px solid black;">Miss Kirthi Shihilpa Pillai<br>Mdm Norhanim</td>
+			<td style="border:1px solid black;"><a href="kirthi_shihilpa_pillai@schools.gov.sg ">kirthi_shihilpa_pillai@schools.gov.sg</a><br><a href="norhanim_hashim@schools.gov.sg">norhanim_hashim@schools.gov.sg</a></td>
+		</tr>
+	</tbody>
+</table>
 
 #### Primary 5
 
