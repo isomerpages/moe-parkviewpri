@@ -42,4 +42,4 @@ To apply for FAS 2023, interested students must submit the completed FAS applica
 <br>
 
 Thank you!<br>
-<b><i>School Administration<br>Park View Primary School</b></i>
+<b><i>School Administration<br>Park View Primary School</i></b>
