@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/pvps.gif
+      background: /images/Hero Banner (3).gif
       key_highlights:
         - title: Latest News
           description: ""
