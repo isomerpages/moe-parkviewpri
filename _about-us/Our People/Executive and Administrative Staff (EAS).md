@@ -8,7 +8,7 @@ third_nav_title: Our People
 	<thead>
 		<tr>
        <th style="border:1px solid black;">Designation</th>
-      <th style="border:1px solid black;">Name of Teacher</th>
+      <th style="border:1px solid black;">Name of Officer</th>
 			<th style="border:1px solid black;">Email Address</th>
 		</tr>
 	</thead>
