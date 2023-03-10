@@ -208,13 +208,13 @@ ShuangShuang<br>ST - MT - CL
 				<br>Mdm Nohanim Bte Hashim<br>ST - MT - ML
 				<br>
 				<a href="mailto:norhanim_hashim
-@schools.gov.sg">norhanim_hashim<br>@schools.gov.sg</a></a>
+@schools.gov.sg">norhanim_hashim<br>@schools.gov.sg</a>
 				<br>
 			</th></tr>
 	</thead>
 
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="https://parkviewpri.moe.edu.sg/qql/slot/u177/2021/About%20Us/Our%20People/Key%20Personnel/Teacher%20Leaders/tn.Mrs_Eileen_Yap_optimisedforweb.jpg.mid.jpg" alt="tn.Mrs_Eileen_Yap_optimisedforweb.jpg.mid.jpg" width="175" height="225">
+				<img src="/images/Mrs_Eileen_Yap_optimisedforweb.jpg" width="175" height="225">
 				<br>Mrs Eileen Yap<br>ST - Aesthetics
 				<br>
 				<a href="mailto:soh_chin_ping_eileen
