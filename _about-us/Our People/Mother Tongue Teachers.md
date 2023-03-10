@@ -4,85 +4,53 @@ permalink: /about-us/our-people/mother-tongue-teachers/
 description: ""
 third_nav_title: Our People
 ---
-### Chinese Teachers
+#### Chinese Teachers
 
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px" class="tg">
+<table>
 	<thead>
 		<tr>
-			<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Mdm_Teo_Siew_Yeun_optimisedforweb.jpg" alt="tn.Mdm_Teo_Siew_Yeun_optimisedforweb.jpg.mid.jpg" width="175" height="225">
-				<br>Mdm Teo Siew Yeun
-				<br>
-				<a href="mailto:teo_siew_yeun@schools.gov.sg">teo_siew_yeun<br>@schools.gov.sg</a>
-				<br>
-			</th>
-			
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Lee%20Eng%20Tiong_optimisedforweb.jpg" alt="Lee Eng Tiong_optimisedforweb.jpg" width="175" height="225">
-				<br>Mr Lee Eng Tiong
-				<br>
-				<a href="mailto:poon_sook_yee@schools.gov.sg">poon_sook_yee<br>@schools.gov.sg</a>
-				<br>
-			</th>
-			
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Miss%20Pamela%20See%20cropped.jpg" alt="Miss Pamela See cropped.jpg" width="175" height="225">
-				<br>Miss Pamela See
-				<br>
-				<a href="mailto:see_yuen_heng@schools.gov.sg">see_yuen_heng<br>@schools.gov.sg</a>
-				<br>
-			</th></tr>
+        	<th style="border:1px solid black;">Name of Teacher</th>
+			<th style="border:1px solid black;">Email Address</th>
+		</tr>
 	</thead>
+	<tbody>
+		<tr>
+            <td style="border:1px solid black;">Mdm Teo Siew Yeun</td>
+			<td style="border:1px solid black;"><a href="teo_siew_yeun@schools.gov.sg">teo_siew_yeun@schools.gov.sg</a></td>
+		</tr>
+		<tr>
+            <td style="border:1px solid black;">Mr Lee Eng Tiong</td>
+			<td style="border:1px solid black;"><a href="lee_eng_tiong@schools.gov.sg">lee_eng_tiong@schools.gov.sg</a></td>
+		</tr>
+		<tr>
+		<tr>
+            <td style="border:1px solid black;">Miss Pamela See</td>
+			<td style="border:1px solid black;"><a href="see_yuen_heng@schools.gov.sg">see_yuen_heng@schools.gov.sg</a></td>
+		</tr>
+		<tr>
+            <td style="border:1px solid black;">Mdm Wang Luning</td>
+			<td style="border:1px solid black;"><a href="wang_luning@schools.gov.sg">wang_luning@schools.gov.sg</a></td>
+		</tr>
+        <tr>
+            <td style="border:1px solid black;">Mdm Chen Shuang Shuang</td>
+			<td style="border:1px solid black;"><a href="chen_shuangshuang@schools.gov.sg">chen_shuangshuang@schools.gov.sg</a></td>
+		</tr>
+        <tr>
+            <td style="border:1px solid black;">Mdm Tan Poh Soon</td>
+			<td style="border:1px solid black;"><a href="tan_poh_soon@schools.gov.sg">tan_poh_soon@schools.gov.sg</a></td>
+		</tr>
+        <tr>
+            <td style="border:1px solid black;">Mdm Shi Rui</td>
+			<td style="border:1px solid black;"><a href="shi_rui@schools.gov.sg">shi_rui@schools.gov.sg</a></td>
+		</tr>
+       <tr>
+            <td style="border:1px solid black;">Miss Chang Tiantian</td>
+			<td style="border:1px solid black;"><a href="chang_tiantian@schools.gov.sg">chang_tiantian@schools.gov.sg</a></td>
+		</tr>
+	</tbody>
+</table>
 
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Mdm_Wang_Luning_optimisedforweb.jpg" alt="Mdm_Wang_Luning_optimisedforweb.jpg" width="175" height="225">
-				<br>Mdm Wang Luning
-				<br>
-				<a href="mailto:wang_luning@schools.gov.sg">wang_luning<br>@schools.gov.sg</a>
-				<br>
-</th>
-
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Mdm_Chen_ShuangShuang_optimisedforweb.jpg" alt="Mdm_Chen_ShuangShuang_optimisedforweb.jpg" width="175" height="225">
-				<br>Mdm Chen Shuang Shuang 
-				<br>
-				<a href="mailto:chen_shuangshuang@schools.gov.sg">chen_shuangshuang<br>@schools.gov.sg</a>
-				<br></th>
-			
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Mdm_Tan_Poh_Soon_optimisedforweb.jpg" alt="Mdm_Tan_Poh_Soon_optimisedforweb.jpg" width="175" height="225">
-				<br>Mdm Tan Poh Soon
-				<br>
-				<a href="mailto:tan_poh_soon@schools.gov.sg">tan_poh_soon<br>@schools.gov.sg</a>
-				<br>
-			</th>
-			
-<tr><th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Mdm%20Shi%20rui%202.jpg" width="175" height="225">
-				<br>Mdm Shi Rui 
-				<br>
-				<a href="mailto:shi_rui@schools.gov.sg">shi_rui<br>@schools.gov.sg</a>
-				<br>
-</th>
-			<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Miss%20Chang%20Tian%20Tian.jpg" width="175" height="225">
-				<br>Miss Chang Tiantian
-				<br>
-				<a href="mailto:chang_tiantian@schools.gov.sg">chang_tiantian<br>@schools.gov.sg</a>
-				<br>
-</th>
-			</tr>
-			</tbody>
-			</table>
-
-</tr>
-	</thead>
-
-
-
-
-### Malay Language
+#### Malay Language
 
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px" class="tg">
