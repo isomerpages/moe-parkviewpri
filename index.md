@@ -13,6 +13,6 @@ sections:
           description: ""
           url: ""
         - title: Letters to Parents
-          description: Letters to Parents - 05
-          url: /files/2023%20Letter%20to%20Parents/PVPS-2023-05.pdf
+          description: ""
+          url: https://www.parkviewpri.moe.edu.sg/our-stakeholders/letter-to-parents/
 ---
