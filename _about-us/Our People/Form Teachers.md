@@ -5,213 +5,96 @@ description: ""
 third_nav_title: Our People
 ---
 #### Primary 1
-
-<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px">
-
-<tbody><tr>
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>1 Respect<br>(1R1)<br>
-<img height="225" width="175" src="/images/Our%20People/P1%20Teachers/Mrs%20Celine%20Lim.jpg">
-Mrs Celine Lim<br>
-<a href="mailto:neo_sie_ling@schools.gov.sg">neo_sie_ling<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>1 Respect<br>(1R1)<br>
-<img height="225" width="175" src="/images/Our%20People/P1%20Teachers/Miss%20Chang%20Tian%20Tian.jpg">
-Miss Chang<br>Tian Tian<br>
-<a href="mailto:chang_tiantian@schools.gov.sg">chang_tiantian<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>1 Responsibility<br>(1R2)<br>
-<img height="225" width="175" src="/images/Our%20People/P1%20Teachers/Mdm%20Sharina.jpg">
-Mdm Sharina<br>
-<a href="mailto:sharina_mohd_tahale@schools.gov.sg">sharina_mohd_<br>tahale@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>1 Responsibility<br>(1R2)<br>
-<img height="225" width="175" src="/images/Our%20People/P1%20Teachers/Mdm%20Wong%20Peh%20Yan.jpg">
-Mdm Wong Peh Yan<br>
-<a href="mailto:wong_peh_yan@schools.gov.sg">wong_peh_yan<br>@schools.gov.sg</a><br>
-</th>
-</tr>
-
-<tr>
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>1 Resilience<br>(1R3)<br>
-<img height="225" width="175" src="/images/Our%20People/P1%20Teachers/Mdm%20Tan%20Poh%20Soon.jpg">
-Mdm Tan Poh Soon<br>
-<a href="mailto:tan_poh_soon@schools.gov.sg">tan_poh_soon<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>1 Resilience<br>(1R3)<br>
-<img height="225" width="175" src="/images/Our%20People/P1%20Teachers/Mdm%20Hazel%20Cheong.jpg">
-Mrs Hazel Cheong<br>
-<a href="mailto:tan_kar_tiang@schools.gov.sg">tan_kar_tiang<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>1 Integrity<br>(1I)<br>
-<img height="225" width="175" src="/images/Our%20People/P1%20Teachers/Miss%20Goh%20Phoebe.jpg">
-Miss Goh Phoebe<br>
-<a href="mailto:phoebe_goh@schools.gov.sg">phoebe_goh<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>1 Integrity<br>(1I)<br>
-<img height="225" width="175" src="/images/Our%20People/P1%20Teachers/Mdm%20Zubaidah.jpg">
-Mdm Zubaidah Bte Othman<br>
-<a href="mailto:zubaidah_othman@schools.gov.sg">zubaidah_othman<br>@schools.gov.sg</a><br>
-</th>
-</tr>
-
-<tr>
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>1 Care<br>(1C)<br>
-<img height="225" width="175" src="">
-Mrs Bek Tan Xiu Ling<br>
-<a href="mailto:tan_xiulingn@schools.gov.sg">tan_xiuling<br>@schools.gov.sg</a><br>
-</th>
-	
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>1 Care<br>(1C)<br>
-<img height="225" width="175" src="/images/Our%20People/P1%20Teachers/Miss%20Grace%20Yeo.jpg">
-Mrs Grace Teh<br>
-<a href="mailto:grace_yeo_jie_xin@schools.gov.sg">grace_yeo_<br>jie_xin<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>1 Harmony<br>(1H)<br>
-<img height="225" width="175" src="/images/Our%20People/P1%20Teachers/Mdm%20Quek%20Shi%20Rui.jpg">
-Mdm Quek Shi Rui<br>
-<a href="mailto:quek_shi_rui@schools.gov.sg">quek_shi_rui<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>1 Harmony<br>(1H)<br>
-<img height="225" width="175" src="/images/Our%20People/P1%20Teachers/Mrs%20Evie%20Goh.jpg">
-	Ms Evie Goh<br><a href="mailto:evie_quah@schools.gov.sg">evie_quah<br>@schools.gov.sg</a><br>
-</th>
-</tr>
-
-<tr>
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>1 Gratitude<br>(1G)<br>
-<img height="225" width="175" src="/images/Our%20People/P1%20Teachers/Mdm%20Pang%20Cui%20Ling.jpg">
-Mrs Ong<br>
-<a href="mailto:pang_cui_ling@schools.gov.sg">pang_cui_ling<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>1 Gratitude<br>(1G)<br>
-<img height="225" width="175" src="/images/Our%20People/P1%20Teachers/Mdm%20Nailul%20Azmi.jpg">
-Mdm Nailul Azmi Bte Ismail<br>
-<a href="mailto:nailul_azmi_ismail@schools.gov.sg">nailul_azmi_<br>ismail@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;"></th><th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;"></th>
-</tr>
-
-</tbody></table>
+<table>
+	<thead>
+		<tr>
+        	<th style="border:1px solid black;">Class</th>
+			<th style="border:1px solid black;">Name of Teacher</th>
+			<th style="border:1px solid black;">Email Address</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="border:1px solid black;">1 Respect<br>(1R1)</td>
+            <td style="border:1px solid black;">Mrs Celine Lim<br>Miss Chang Tian Tian</td>
+			<td style="border:1px solid black;"><a href="neo_sie_ling@schools.gov.sg">neo_sie_ling@schools.gov.sg</a><br><a href="chang_tiantian@schools.gov.sg">chang_tiantian@schools.gov.sg</a></td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black;">1 Responsibility<br>(1R2)</td>
+            <td style="border:1px solid black;">Mdm Sharina<br>Mdm Wong Peh Yan</td>
+			<td style="border:1px solid black;"><a href="sharina_mohd_tahale@schools.gov.sg ">sharina_mohd_tahale@schools.gov.sg </a><br><a href="wong_peh_yan@schools.gov.sg">wong_peh_yan@schools.gov.sg</a></td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black;">1 Resilience<br>(1R3)</td>
+            <td style="border:1px solid black;">Mdm Tan Poh Soon<br>Mrs Hazel Cheong</td>
+			<td style="border:1px solid black;"><a href="tan_poh_soon@schools.gov.sg ">tan_poh_soon@schools.gov.sg</a><br><a href="tan_kar_tiang@schools.gov.sg">tan_kar_tiang@schools.gov.sg</a></td>
+		</tr>     
+		<tr>
+			<td style="border:1px solid black;">1 Integrity<br>(1I)</td>
+            <td style="border:1px solid black;">Miss Goh Phoebe<br>Mdm Zubaidah</td>
+			<td style="border:1px solid black;"><a href="phoebe_goh@schools.gov.sg ">phoebe_goh@schools.gov.sg</a><br><a href="zubaidah_othman@schools.gov.sg">zubaidah_othman@schools.gov.sg</a></td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black;">1 Care<br>(1C)</td>
+            <td style="border:1px solid black;">Mrs Bek<br>Mrs Grace Teh</td>
+			<td style="border:1px solid black;"><a href="tan_xiuling@schools.gov.sg ">tan_xiuling@schools.gov.sg</a><br><a href="grace_yeo_jie_xin@schools.gov.sg">grace_yeo_jie_xin@schools.gov.sg</a></td>
+		</tr>
+      	<tr>
+			<td style="border:1px solid black;">1 Harmony<br>(1H)</td>
+            <td style="border:1px solid black;">Mrs Lim<br>Ms Evie Quah</td>
+			<td style="border:1px solid black;"><a href="quek_shi_rui@schools.gov.sg ">quek_shi_rui@schools.gov.sg</a><br><a href="evie_quah@schools.gov.sg">evie_quah@schools.gov.sg</a></td>
+		</tr>
+        <tr>
+			<td style="border:1px solid black;">Gratitude<br>(1G)</td>
+            <td style="border:1px solid black;">Mrs Ong<br>Mdm Nailul Azmi </td>
+			<td style="border:1px solid black;"><a href="pang_cui_ling@schools.gov.sg ">pang_cui_ling@schools.gov.sg</a><br><a href="nailul_azmi_ismail@schools.gov.sg">nailul_azmi_ismail@schools.gov.sg</a></td>
+		</tr>
+	</tbody>
+</table>
 
 #### Primary 2
 
-<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px">
-<tbody><tr>
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>2 Respect<br>(2R1)<br>
-<img height="225" width="175" src="">
-Mrs Jareen Wong<br>
-<a href="mailto:ng_kah_leng@schools.gov.sg">ng_kah_leng<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>2 Respect<br>(2R1)<br>
-<img height="225" width="175" src="">
-Mr Jordan Toh Yuexuan<br>
-<a href="mailto:@schools.gov.sg"></a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>2 Responsibility<br>(2R2)<br>
-<img height="225" width="175" src="">
-Miss Khairina Binte Omar<br>
-<a href="mailto:khairina_omar@schools.gov.sg">khairina_omar<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>2 Responsibility<br>(2R2)<br>
-<img height="225" width="175" src="">
-Mdm Shi Rui<br>
-<a href="mailto:shi_rui@schools.gov.sg">shi_ruis<br>@schools.gov.sg</a>
-</th>
-</tr>
-
-<tr>
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>2 Resilience<br>(2R3)<br>
-<img height="225" width="175" src="">
-Mdm Zahrah Bte Md Abbas<br>
-<a href="mailto:zahrah_mohamed_abbas@schools.gov.sg">zahrah_
-mohamed_abbas<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>2 Resilience<br>(2R3)<br>
-<img height="225" width="175" src="">
-Muhammad Izdihar Bin Othman<br>
-<a href="mailto:@schools.gov.sg"></a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>2 Integrity<br>(2I)<br>
-<img height="225" width="175" src="">
-Mdm Shirin Bt Osman<br>
-<a href="mailto:shirin_osman@schools.gov.sg">shirin_osman<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>2 Integrity<br>(2I)<br>
-<img height="225" width="175" src="">
-Mdm Lim Hwee Tin Tina<br>
-<a href="mailto:lim_hwee_tin_a@schools.gov.sg">lim_hwee_<br>tin_a<br>@schools.gov.sg</a><br>
-</th>
-</tr>
-
-<tr>
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>2 Care<br>(2C)<br>
-<img height="225" width="175" src="">
-Mdm Valarmathi<br>
-<a href="mailto:valarmathi_a@schools.gov.sg">valarmathi_a<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>2 Care<br>(2C)<br>
-<img height="225" width="175" src="">
-Mdm Yeo Peck Hui Patricia<br>
-<a href="mailto:yeo_peck_hui@schools.gov.sg">yeo_peck_hui<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>2 Harmony<br>(2H)<br>
-<img height="225" width="175" src="">
-Miss Lee Siew Kiang<br>
-<a href="mailto:lee_siew_kiang@schools.gov.sg">lee_siew_<br>kiang<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>2 Harmony<br>(2H)<br>
-<img height="225" width="175" src="">
-Mrs Nelly Tan<br>
-<a href="mailto:teo_siok_eng@schools.gov.sg">teo_siok_eng<br>@schools.gov.sg</a><br>
-</th>
-</tr>
-
-</tbody></table>
+<table>
+	<thead>
+		<tr>
+        	<th style="border:1px solid black;">Class</th>
+			<th style="border:1px solid black;">Name of Teacher</th>
+			<th style="border:1px solid black;">Email Address</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="border:1px solid black;">2 Respect<br>(2R1)</td>
+            <td style="border:1px solid black;">Mrs Jareen Wong<br>Mr Jordan Toh Yuexuan</td>
+			<td style="border:1px solid black;"><a href="ng_kah_leng@schools.gov.sg">ng_kah_leng@schools.gov.sg</a><br><a href="">""</a></td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black;">2 Responsibility<br>(2R2)</td>
+            <td style="border:1px solid black;">Miss Khairina<br>Mdm Shi Rui</td>
+			<td style="border:1px solid black;"><a href="khairina_omar@schools.gov.sg ">khairina_omar@schools.gov.sg</a><br><a href="shi_rui@schools.gov.sg">shi_rui@schools.gov.sg</a></td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black;">2 Resilience<br>(2R3)</td>
+            <td style="border:1px solid black;">Mdm Zahrah</td>
+			<td style="border:1px solid black;"><a href="zahrah_mohamed_abbas@schools.gov.sg ">zahrah_mohamed_abbas@schools.gov.sg</a></td>
+		</tr>     
+		<tr>
+			<td style="border:1px solid black;">2 Integrity<br>(2I)</td>
+            <td style="border:1px solid black;">Mdm Shirin<br>Mdm Lim Hwee Tin Tina</td>
+			<td style="border:1px solid black;"><a href="shirin_osman@schools.gov.sg ">shirin_osman@schools.gov.sg</a><br><a href="lim_hwee_tin_a@schools.gov.sg">lim_hwee_tin_a@schools.gov.sg</a></td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black;">2 Care<br>(2C)</td>
+            <td style="border:1px solid black;">Mdm Valarmathi<br>Mdm Yeo Peck Hui</td>
+			<td style="border:1px solid black;"><a href="valarmathi_a@schools.gov.sg ">valarmathi_a@schools.gov.sg</a><br><a href="yeo_peck_hui@schools.gov.sg">yeo_peck_hui@schools.gov.sg</a></td>
+		</tr>
+      	<tr>
+			<td style="border:1px solid black;">2 Harmony<br>(2H)</td>
+            <td style="border:1px solid black;">Miss Lee Siew Kiang<br>Mrs Nelly Tan</td>
+			<td style="border:1px solid black;"><a href="lee_siew_kiang@schools.gov.sg ">lee_siew_kiang@schools.gov.sg</a><br><a href="teo_siok_eng@schools.gov.sg">teo_siok_eng@schools.gov.sg</a></td>
+		</tr>
+	</tbody>
+</table>
 
 #### Primary 3
 
