@@ -4,30 +4,34 @@ permalink: /about-us/our-people/allied-educators-aed/
 description: ""
 third_nav_title: Our People
 ---
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px" class="tg">
+<table>
 	<thead>
 		<tr>
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="" width="175" height="225">
-				<br>Ms Felicia Tan Chuan Siang<br><br>Senior SEN officer<br><br>
-				<a href="mailto:tan_chuan_siang@schools.gov.sg">tan_chuan_siang<br>@schools.gov.sg</a><br>
-</th>
-			
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="" width="175" height="225">
-				<br>Mdm Chong Yi-Tinn<br><br><br>AED (Counselling)<br><br>
-				<a href="mailto:chong_yi-tinn@schools.gov.sg">chong_yi-tinn<br>@schools.gov.sg</a><br>
-</th>
-			
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="" width="175" height="225">
-				<br>Ms Janice Cheng Lai May<br><br>SEN officer<br><br>
-				<a href="mailto:janice_cheng_lai_may@schools.gov.sg">janice_cheng_lai_may<br>@schools.gov.sg</a><br>
-</th></tr>
+       <th style="border:1px solid black;">Designation</th>
+      <th style="border:1px solid black;">Name of Teacher</th>
+			<th style="border:1px solid black;">Email Address</th>
+		</tr>
 	</thead>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="" width="175" height="225">
-				<br>Ms Amirah Binte Azlan<br><br>SEN officer<br><br>
-				<a href="mailto:Amirah_Azlan@schools.gov.sg">amirah_azlan<br>@schools.gov.sg</a><br>
-</th>
+	<tbody>
+		<tr>
+        <td style="border:1px solid black;">Senior SEN officer</td>
+      <td style="border:1px solid black;">Ms Felicia Tan </td>
+			<td style="border:1px solid black;"><a href="tan_chuan_siang@schools.gov.sg">tan_chuan_siang@schools.gov.sg</a></td>
+		</tr>
+				<tr>
+        <td style="border:1px solid black;">AED (Counselling)</td>
+      <td style="border:1px solid black;">Mdm Chong Yi-Tinn</td>
+			<td style="border:1px solid black;"><a href="chong_yi-tinn@schools.gov.sg">chong_yi-tinn@schools.gov.sg</a></td>
+		</tr>
+				<tr>
+        <td style="border:1px solid black;">SEN officer</td>
+      <td style="border:1px solid black;">Ms Janice Cheng</td>
+			<td style="border:1px solid black;"><a href="janice_cheng_lai_may@schools.gov.sg">janice_cheng_lai_may@schools.gov.sg</a></td>
+		</tr>
+				<tr>
+        <td style="border:1px solid black;">SEN officer</td>
+      <td style="border:1px solid black;">Ms Amirah</td>
+			<td style="border:1px solid black;"><a href="amirah_azlan@schools.gov.sg">amirah_azlan@schools.gov.sg</a></td>
+		</tr>
+	</tbody>
+</table>
