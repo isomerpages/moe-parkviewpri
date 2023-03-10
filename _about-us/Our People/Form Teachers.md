@@ -98,86 +98,42 @@ third_nav_title: Our People
 
 #### Primary 3
 
-<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px">
-
-<tbody><tr>
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>3 Respect<br>(3R1)<br>
-<img height="225" width="175" src="">
-Miss June Quek<br>
-<a href="mailto:quek_siew_lan@schools.gov.sg">quek_siew_lan<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>3 Respect<br>(3R1)<br>
-<img height="225" width="175" src="">
-Ms Joyce Low<br>
-<a href="mailto:lu_huishu_joyce@schools.gov.sg">lu_huishu_<br>joyce<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>3 Responsibility<br>(3R2)<br>
-<img height="225" width="175" src="">
-Mrs Quek<br>
-<a href="mailto:sham_pui_yue@schools.gov.sg">sham_pui_yue<br>@schools.gov.sg</a><br>
-</th>
-	
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>3 Responsibility<br>(3R2)<br>
-<img height="225" width="175" src="">
-Miss Low Kin Eng<br>
-<a href="mailto:low_kin_eng@schools.gov.sg">low_kin_eng<br>@schools.gov.sg</a><br>
-</th>
-</tr>
-
-<tr>
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>3 Resilience<br>(3R3)<br>
-<img height="225" width="175" src="">
-Mr Azmi Bin Kasim<br>
-<a href="mailto:azmi_kasim@schools.gov.sg">azmi_kasim<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>3 Integrity<br>(3I)<br>
-<img height="225" width="175" src="">
-Mdm Nur Farizah Binte Roslan<br>
-<a href="mailto:nur_farizah_roslan@schools.gov.sg">nur_farizah_<br>roslan<br>@schools.gov.sg</a><br>
-</th>
-	
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>3 Integrity<br>(3I)<br>
-<img height="225" width="175" src="">
-Mdm Angeline Loo<br>
-<a href="mailto:loo_nga_hoonangeline@schools.gov.sg">loo_nga_<br>hoonangeline<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>3 Care<br>(3C)<br>
-<img height="225" width="175" src="">
-Miss Lee Shu Qi Charlene<br>
-<a href="mailto:lee_shu_qi_charlene@schools.gov.sg">lee_shu_qi_<br>charlene<br>@schools.gov.sg</a><br>
-</th>
-</tr>
-
-<tr>
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>3 Care<br>(3C)<br>
-<img height="225" width="175" src="">
-Mr Lee Eng Tiong<br>
-<a href="mailto:lee_eng_tiong@schools.gov.sg">lee_eng_tiong<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-</th>
-</tr>
-</tbody></table>
+<table>
+	<thead>
+		<tr>
+        	<th style="border:1px solid black;">Class</th>
+			<th style="border:1px solid black;">Name of Teacher</th>
+			<th style="border:1px solid black;">Email Address</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="border:1px solid black;">3 Respect<br>(3R1)</td>
+            <td style="border:1px solid black;">Miss June Quek<br>Ms Joyce Low</td>
+			<td style="border:1px solid black;"><a href="quek_siew_lan@schools.gov.sg">quek_siew_lan@schools.gov.sg</a><br><a href="lu_huishu_joyce@schools.gov.sg">lu_huishu_joyce@schools.gov.sg</a></td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black;">3 Responsibility<br>(3R2)</td>
+            <td style="border:1px solid black;">Mrs Quek<br>Miss Low Kin Eng</td>
+			<td style="border:1px solid black;"><a href="quek_shi_rui@schools.gov.sg ">quek_shi_rui@schools.gov.sg</a><br><a href="low_kin_eng@schools.gov.sg">low_kin_eng@schools.gov.sg</a></td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black;">3 Resilience<br>(3R3)</td>
+            <td style="border:1px solid black;">Mr Azmi</td>
+			<td style="border:1px solid black;"><a href="azmi_kasim@schools.gov.sg ">azmi_kasim@schools.gov.sg</a></td>
+		</tr>     
+		<tr>
+			<td style="border:1px solid black;">3 Integrity<br>(3I)</td>
+            <td style="border:1px solid black;">Mdm Nur Farizah<br>Mdm Angeline Loo</td>
+			<td style="border:1px solid black;"><a href="nur_farizah_roslan@schools.gov.sg ">nur_farizah_roslan@schools.gov.sg</a><br><a href="loo_nga_hoonangeline@schools.gov.sg">loo_nga_hoonangeline@schools.gov.sg</a></td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black;">3 Care<br>(3C)</td>
+            <td style="border:1px solid black;">Miss Charlene Lee<br>Mr Lee Eng Tiong</td>
+			<td style="border:1px solid black;"><a href="valarmathi_a@schools.gov.sg ">valarmathi_a@schools.gov.sg</a><br><a href="lee_eng_tiong@schools.gov.sg">lee_eng_tiong@schools.gov.sg</a></td>
+		</tr>
+	</tbody>
+</table>
 
 #### Primary 4
 
