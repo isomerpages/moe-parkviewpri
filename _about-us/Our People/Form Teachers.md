@@ -176,95 +176,47 @@ third_nav_title: Our People
 
 #### Primary 5
 
-<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px">
-
-<tbody><tr>
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>5 Respect<br>(5R1)<br>
-<img height="225" width="175" src="">
-Mrs Ang<br>
-<a href="mailto:seah_sock_luang_adeline@schools.gov.sg">seah_sock_<br>luang_adeline<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>5 Respect<br>(5R1)<br>
-<img height="225" width="175" src="">
-Mrs Arul<br>
-<a href="mailto:m_anitha@schools.gov.sg">m_anitha<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>5 Responsibility<br>(5R2)<br>
-<img height="225" width="175" src="">
-Mdm Pavani D/O Krishna Samy<br>
-<a href="mailto:pavani_krishna_samy@schools.gov.sg">pavani_krishna_<br>samy<br>@schools.gov.sg</a><br>
-</th>
-	
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>5 Responsibility<br>(5R2)<br>
-<img height="225" width="175" src="">
-Mr Darvinder Singh<br>
-<a href="mailto:darvinder_singh_karam_singh@schools.gov.sg">darvinder_singh_<br>karam_singh<br>@schools.gov.sg</a><br>
-</th>
-</tr>
-
-<tr>
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>5 Resilience<br>(5R3)<br>
-<img height="225" width="175" src="">
-Mdm Farah Binte Abdul Rashid<br>
-<a href="mailto:farah_abdul_rashid@schools.gov.sg">farah_abdul_<br>rashid<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>5 Resilience<br>(5R3)<br>
-<img height="225" width="175" src="">
-Mdm Chen ShuangShuang<br>
-<a href="mailto:chen_shuangshuang@schools.gov.sg">chen_shuangshuang<br>@schools.gov.sg</a><br>
-</th>
-	
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>5 Integrity<br>(5I)<br>
-<img height="225" width="175" src="">
-Mr Kang Yong Ngee<br>
-<a href="mailto:kang_yong_ngee@schools.gov.sg">kang_yong_ngee<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>5 Care<br>(5C)<br>
-<img height="225" width="175" src="">
-Mr Jerry Chua Chun Wei<br>
-<a href="mailto:chua_chun_wei@schools.gov.sg">chua_chun_wei<br>@schools.gov.sg</a><br>
-</th>
-</tr>
-
-<tr>
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>5 Care<br>(5C)<br>
-<img height="225" width="175" src="">
-Mrs Lim<br>
-<a href="mailto:ho_qingxi_natalie@schools.gov.sg">ho_qingxi_natalie<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>5 Harmony<br>(5H)<br>
-<img height="225" width="175" src="">
-Mdm Nur Faizah Binte Abdan<br>
-<a href="mailto:nur_faizah_abdan@schools.gov.sg">nur_faizah_<br>abdan<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>5 Harmony<br>(5H)<br>
-<img height="225" width="175" src="">
-Miss Veronica Poon Sook Yee<br>
-<a href="mailto:poon_sook_yee@schools.gov.sg">poon_sook_yee<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-</th>
-</tr>
-</tbody></table>
-
+<table>
+	<thead>
+		<tr>
+        	<th style="border:1px solid black;">Class</th>
+			<th style="border:1px solid black;">Name of Teacher</th>
+			<th style="border:1px solid black;">Email Address</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="border:1px solid black;">5 Respect<br>(5R1)</td>
+            <td style="border:1px solid black;">Mrs Ang<br>Mrs Arul</td>
+			<td style="border:1px solid black;"><a href="seah_sock_luang_adeline@schools.gov.sg">seah_sock_luang_adeline@schools.gov.sg</a><br><a href="m_anitha@schools.gov.sg">m_anitha@schools.gov.sg</a></td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black;">5 Responsibility<br>(5R2)</td>
+            <td style="border:1px solid black;">Mdm Pavani<br>Mr Darvinder Singh</td>
+			<td style="border:1px solid black;"><a href="pavani_krishna_samy@schools.gov.sg ">pavani_krishna_samy@schools.gov.sg</a><br><a href="darvinder_singh_karam_singh@schools.gov.sg">darvinder_singh_karam_singh@schools.gov.sg</a></td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black;">5 Resilience<br>(5R3)</td>
+            <td style="border:1px solid black;">Mdm Farah<br>Mdm Chen ShuangShuang</td>
+			<td style="border:1px solid black;"><a href="farah_abdul_rashid@schools.gov.sg ">farah_abdul_rashid@schools.gov.sg</a><br><a href="chen_shuangshuang@schools.gov.sg ">chen_shuangshuang@schools.gov.sg</a></td>
+		</tr>     
+		<tr>
+			<td style="border:1px solid black;">5 Integrity<br>(5I)</td>
+			<td style="border:1px solid black;">Mr Kang Yong Ngee</td>
+			<td style="border:1px solid black;"><a href="kang_yong_ngee@schools.gov.sg ">kang_yong_ngee@schools.gov.sg</a></td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black;">5 Care<br>(5C)</td>
+            <td style="border:1px solid black;">Mr Jerry Chua<br>Mrs Lim</td>
+			<td style="border:1px solid black;"><a href="chua_chun_wei@schools.gov.sg ">chua_chun_wei@schools.gov.sg</a><br><a href="ho_qingxi_natalie@schools.gov.sg">ho_qingxi_natalie@schools.gov.sg</a></td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black;">5 Harmony<br>(5H)</td>
+            <td style="border:1px solid black;">Mdm Nur Faizah<br>Miss Veronica Poon</td>
+			<td style="border:1px solid black;"><a href="nur_faizah_abdan@schools.gov.sg ">nur_faizah_abdan@schools.gov.sg</a><br><a href="poon_sook_yee@schools.gov.sg">poon_sook_yee@schools.gov.sg</a></td>
+		</tr>
+	</tbody>
+</table>
 
 #### Primary 6
 
