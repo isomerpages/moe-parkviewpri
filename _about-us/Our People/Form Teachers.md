@@ -220,66 +220,34 @@ third_nav_title: Our People
 
 #### Primary 6
 
-<table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px">
-
-<tbody><tr>
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>6 Respect<br>(6R1)<br>
-<img height="225" width="175" src="">
-Mdm Nurfarhannah Bte Hazmi<br>
-<a href="mailto:nurfarhannah_hazmi@schools.gov.sg">nurfarhannah_<br>hazmi<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>6 Respect<br>(6R1)<br>
-<img height="225" width="175" src="">
-Mr Watson Teh Chiew Hwa<br>
-<a href="mailto:teh_chiew_hwa_watson@schools.gov.sg">teh_chiew_hwa_watson<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>6 Responsibility<br>(6R2)<br>
-<img height="225" width="175" src="">
-Miss Chua Shuan Kwee<br>
-<a href="mailto:chua_shuan_kwee@schools.gov.sg">chua_shuan_<br>kwee<br>@schools.gov.sg</a><br>
-</th>
-	
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>6 Responsibility<br>(6R2)<br>
-<img height="225" width="175" src="">
-Mrs Yeo<br>
-<a href="mailto:sim_shiyu@schools.gov.sg">sim_shiyu<br>@schools.gov.sg</a><br>
-</th>
-</tr>
-
-<tr>
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>6 Resilience<br>(6R3)<br>
-<img height="225" width="175" src="">
-Mdm Wang Luning<br>
-<a href="mailto:wang_luning@schools.gov.sg">wang_luning<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>6 Resilience<br>(6R3)<br>
-<img height="225" width="175" src="">
-Mr Justin Luo YanZhong<br>
-<a href="mailto:justin_luo_yanzhong@schools.gov.sg">justin_luo_<br>yanzhong<br>@schools.gov.sg</a><br>
-</th>
-	
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>6 Integrity<br>(6I)<br>
-<img height="225" width="175" src="">
-Miss Sherylene Soh Siew Yin<br>
-<a href="mailto:sherylene_soh_siew_yin@schools.gov.sg">sherylene_soh_<br>siew_yin<br>@schools.gov.sg</a><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-<br>6 Integrity<br>(6I)<br>
-<img height="225" width="175" src="">
-Ms Pamela See Yuen Heng<br>
-<a href="mailto:see_yuen_heng@schools.gov.sg">see_yuen_heng<br>@schools.gov.sg</a><br>
-</th>
-</tr>
-
-</tbody></table>
+<table>
+	<thead>
+		<tr>
+        	<th style="border:1px solid black;">Class</th>
+			<th style="border:1px solid black;">Name of Teacher</th>
+			<th style="border:1px solid black;">Email Address</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="border:1px solid black;">6 Respect<br>(6R1)</td>
+            <td style="border:1px solid black;">Mdm Nurfarhannah<br>Mr Watson Teh</td>
+			<td style="border:1px solid black;"><a href="nurfarhannah_hazmi@schools.gov.sg">nurfarhannah_hazmi@schools.gov.sg</a><br><a href="teh_chiew_hwa_watson@schools.gov.sg">teh_chiew_hwa_watson@schools.gov.sg</a></td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black;">6 Responsibility<br>(6R2)</td>
+            <td style="border:1px solid black;">Miss Chua Shuan Kwee<br>Mrs Yeo</td>
+			<td style="border:1px solid black;"><a href="chua_shuan_kwee@schools.gov.sg">chua_shuan_kwee@schools.gov.sg</a><br><a href="sim_shiyu@schools.gov.sg">sim_shiyu@schools.gov.sg</a></td>
+		</tr>
+		<tr>
+			<td style="border:1px solid black;">6 Resilience<br>(6R3)</td>
+            <td style="border:1px solid black;">Mdm Wang Luning<br>Mr Justin Luo</td>
+			<td style="border:1px solid black;"><a href="wang_luning@schools.gov.sg">wang_luning@schools.gov.sg</a><br><a href="justin_luo_yanzhong@schools.gov.sg">justin_luo_yanzhong@schools.gov.sg</a></td>
+		</tr>     
+		<tr>
+			<td style="border:1px solid black;">5 Integrity<br>(5I)</td>
+			<td style="border:1px solid black;">Miss Sherylene Soh<br>Ms Pamela See</td>
+			<td style="border:1px solid black;"><a href="sherylene_soh_siew_yin@schools.gov.sg">sherylene_soh_siew_yin@schools.gov.sg</a><br><a href="see_yuen_heng@schools.gov.sg">see_yuen_heng@schools.gov.sg</a></td>
+		</tr>
+	</tbody>
+</table>
