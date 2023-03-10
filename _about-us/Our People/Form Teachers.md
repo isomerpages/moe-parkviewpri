@@ -158,8 +158,8 @@ third_nav_title: Our People
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">4 Resilience<br>(4R3)</td>
-            <td style="border:1px solid black;">julie_wong@schools.gov.sg</td>
-			<td style="border:1px solid black;"><a href="nur_farizah_roslan@schools.gov.sg ">julie_wong@schools.gov.sg</a></td>
+            <td style="border:1px solid black;">Mrs Ling</td>
+			<td style="border:1px solid black;"><a href="julie_wong@schools.gov.sg ">julie_wong@schools.gov.sg</a></td>
 		</tr>     
 		<tr>
 			<td style="border:1px solid black;">4 Integrity<br>(4I)</td>
