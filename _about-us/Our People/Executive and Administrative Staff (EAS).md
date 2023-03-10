@@ -49,33 +49,28 @@ Yeong Irene</td>
 </tbody>
 </table>
 			
-### Operational Support Officers
+#### Operational Support Officers
 
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px" class="tg">
+<table>
 	<thead>
 		<tr>
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="" width="175" height="225">
-				<br>Mdm Asleena Bte Abdul Hamid<br><br>
-</th>
-			
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="" width="175" height="225">
-				<br>Mdm Kamariah Bte Abdullah<br><br>
-</th>
-			
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="" width="175" height="225">
-				<br>Mr Abdul Rashid Lim<br><br>
-</th></tr>
+      <th style="border:1px solid black;">Name of Officer</th>
+		</tr>
 	</thead>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="" width="175" height="225">
-				<br>Mr Ronnie Seu Kum Kwong<br><br>
-</th>
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="" width="175" height="225">
-				<br>Mdm Lee Bee Lan<br><br>
-</th>
+	<tbody>
+		<tr>
+      <td style="border:1px solid black;">Mdm Kamariah Bte Abdullah</td>
+		</tr>
+        		<tr>
+      <td style="border:1px solid black;">Mdm Asleena Bte Abdul Hamid</td>
+		</tr>
+        		<tr>
+      <td style="border:1px solid black;">Mr Abdul Rashid Lim</td>
+		</tr>
+        		<tr>
+      <td style="border:1px solid black;">Mr Ronnie Seu Kum Kwong</td>
+		</tr>		<tr>
+      <td style="border:1px solid black;">Mdm Lee Bee Lan</td>
+		</tr>
+</tbody>
+</table>
