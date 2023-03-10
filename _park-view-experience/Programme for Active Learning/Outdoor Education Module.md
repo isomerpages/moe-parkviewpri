@@ -6,19 +6,20 @@ third_nav_title: Programme for Active Learning
 ---
 ### A synopsis of PAL Outdoor Education
 <p align="justify">In this module, students learn to observe how plants grow and develop a lively curiosity about how nature brings colour and variety to the environment. Basic outdoor skills are also being developed, like preparing for outdoor trips and how to deal with creatures and plants in our environment.
-They are taken on outdoor trips which are slightly different from the usual learning journeys. These learning activities are designed to challenge students to move out of their comfort zone to the natural environment to enable the appreciation and love for nature. At the end of every lesson, time will be set aside for the students to express and reflect on their learning experiences.
+They are taken on outdoor trips which are slightly different from the usual learning journeys. These learning activities are designed to challenge students to move out of their comfort zone to the natural environment to enable the appreciation and love for nature. At the end of every lesson, time will be set aside for the students to express and reflect on their learning experiences.</p>
 
 #### <u>Primary 1 Outdoor Education</u>
 ##### PVPS In Bloom
 
-<img src="/images/Park%20View%20Experience/tree.jpg" style="width:40%">
+<img src="/images/Park%20View%20Experience/tree.jpg" style="width:30%">
 
-**PVPS** in Bloom is Park View Primary School’s PAL Outdoor Education module. Park View Primary’s teachers specially designed this module for their students.
+<b>PVPS</b> in Bloom is Park View Primary School’s PAL Outdoor Education module. Park View Primary’s teachers specially designed this module for their students.
 
 ##### The aims of this module are:
-* Provide learning experiences for our students beyond the classrooms by going into the community and natural environments.
-* Make learning more interesting and easier to understand through experiential learning activities in authentic setting.
-* Develop students’ Social Emotional learning competencies through fun and meaningful learning activities. They not only learn more about their community and natural environment, they also learn about themselves and their friends.
+
+</li>Provide learning experiences for our students beyond the classrooms by going into the community and natural environments.</li>
+</li>Make learning more interesting and easier to understand through experiential learning activities in authentic setting.</li>
+</li>Develop students’ Social Emotional learning competencies through fun and meaningful learning activities. They not only learn more about their community and natural environment, they also learn about themselves and their friends.</li>
 
 #### <u>Primary 2 Outdoor Education</u>
 ##### Colourful Nature @ PVPS
