@@ -149,7 +149,7 @@ third_nav_title: Our People
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/Miss_Lee_siew_Kiang_optimisedforweb.jpg" alt="Miss_Lee_siew_Kiang_optimisedforweb.jpg" width="175" height="225">
 				<br>Miss Lee Siew Kiang<br>SH - ICT
-				<br>
+				<br><br>
 				<a href="mailto:lee_siew_kiang@schools.gov.sg">lee_siew_kiang<br>@schools.gov.sg</a>
 				<br>
 </th>
@@ -158,7 +158,7 @@ third_nav_title: Our People
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/Mr%20Justin%20Luo%20Yanzhong_optimisedforweb.jpg" alt="Mr Justin Luo Yanzhong_optimisedforweb.jpg" width="175" height="225">
 				<br>Mr Justin Luo<br>SH - Data Management
-				<br>
+				<br><br>
 				<a href="mailto:justin_luo_yanzhong@schools.gov.sg">justin_luo_yanzhong<br>@schools.gov.sg</a>
 				<br></th>
 			
@@ -180,7 +180,7 @@ third_nav_title: Our People
 <tr>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/Mrs%20Helen%20Chong.jpg" alt="Mrs Helen Chong.jpg" width="175" height="225">
-				<br>Mrs Chong Helen Low<br>LT - PE<br>
+				<br>Mrs Chong Helen Low<br>LT - PE<br><br>
 				<a href="mailto:helen_low_kwee_fong@schools.gov.sg">helen_low_kwee<br>@schools.gov.sg</a><br>
 </th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
@@ -198,7 +198,7 @@ ShuangShuang<br>ST - MT - CL<br>
 <tr>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/Mrs_Eileen_Yap_optimisedforweb.jpg" width="175" height="225">
-				<br>Mrs Eileen Yap<br>ST - Aesthetics<br>
+				<br>Mrs Eileen Yap<br>ST - Art<br>
 				<a href="mailto:soh_chin_ping_eileen@schools.gov.sg">soh_chin_ping_eileen<br>@schools.gov.sg</a><br>
 </th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
