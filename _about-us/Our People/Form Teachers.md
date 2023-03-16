@@ -115,7 +115,7 @@ third_nav_title: Our People
 		<tr>
 			<td style="border:1px solid black;">3 Responsibility<br>(3R2)</td>
             <td style="border:1px solid black;">Mrs Quek<br>Miss Low Kin Eng</td>
-			<td style="border:1px solid black;"><a href="quek_shi_rui@schools.gov.sg ">quek_shi_rui@schools.gov.sg</a><br><a href="low_kin_eng@schools.gov.sg">low_kin_eng@schools.gov.sg</a></td>
+			<td style="border:1px solid black;"><a href="sham_pui_yue@schools.gov.sg ">sham_pui_yue@schools.gov.sg</a><br><a href="low_kin_eng@schools.gov.sg">low_kin_eng@schools.gov.sg</a></td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">3 Resilience<br>(3R3)</td>
