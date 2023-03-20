@@ -4,8 +4,6 @@ permalink: /curriculum/cce/recognition-n-motivation/
 description: ""
 third_nav_title: CCE
 ---
-**Recognition & Motivation**
-============================
 
 
 1. [After thoughts, Best Wishes Corner (ABC)](/curriculum/cce/recognition-n-motivation/after-thoughts-best-wishes-corner-abc/)
