@@ -5,9 +5,6 @@ description: ""
 third_nav_title: CCE
 ---
 
-**Character Development**
-=========================
-
 
 1. [Values in Practice (VIP) Programme](/curriculum/cce/character-development/values-in-practice-vip-programme/)
 2. [Form Teacher Guidance Period (FTGP)](/curriculum/cce/character-development/form-teacher-guidance-period-ftgp/)
