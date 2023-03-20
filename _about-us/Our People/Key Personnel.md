@@ -65,7 +65,7 @@ third_nav_title: Our People
 				<br></th>
 	<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/Mr%20Justin%20Luo%20Yanzhong_optimisedforweb.jpg" alt="Mr Justin Luo Yanzhong_optimisedforweb.jpg" width="175" height="225">
-				<br>Mr Justin Luo<br>HOD ICT
+				<br>Mr Justin Luo<br>HOD - ICT
 				<br>
 				<a href="mailto:justin_luo_yanzhong@schools.gov.sg">justin_luo_yanzhong<br>@schools.gov.sg</a>
 				<br></th>
