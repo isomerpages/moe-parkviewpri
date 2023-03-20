@@ -42,7 +42,6 @@ third_nav_title: Our People
 				<br>
 </th>
 
-
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/Mdm_Lim_Hwee_Tin_optimisedforweb.jpg" alt="Mdm_Lim_Hwee_Tin_optimisedforweb.jpg" width="175" height="225">
 				<br>Mdm Lim Hwee Tina<br>HOD - Aesthetics CCA
@@ -63,14 +62,18 @@ third_nav_title: Our People
 				<br>Mrs Anitha Aruljothi<br>HOD - English
 				<br>
 				<a href="mailto:m_anitha@schools.gov.sg">m_anitha<br>@schools.gov.sg</a>
+				<br></th>
+	<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="/images/Mr%20Justin%20Luo%20Yanzhong_optimisedforweb.jpg" alt="Mr Justin Luo Yanzhong_optimisedforweb.jpg" width="175" height="225">
+				<br>Mr Justin Luo<br>HOD ICT
 				<br>
-</th>
-			<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<a href="mailto:justin_luo_yanzhong@schools.gov.sg">justin_luo_yanzhong<br>@schools.gov.sg</a>
+				<br></th>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/Miss%20Chua%20Shuan%20Kwee%20cropped.jpg" alt="Miss Chua Shuan Kwee cropped.jpg" width="175" height="225">
 				<br>Miss Chua Shuan<br>School Staff Developer
 				<br>
-				<a href="mailto:chua_shuan_kwee@schools.gov.sg">chua_shuan_kwee<br>@schools.gov.sg</a>
-				<br>
+				<a href="mailto:chua_shuan_kwee@schools.gov.sg">chua_shuan_kwee<br>@schools.gov.sg</a><br>
 </th>
 			</tr>
 			</table>
@@ -154,14 +157,6 @@ third_nav_title: Our People
 				<br>
 </th>
 
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Mr%20Justin%20Luo%20Yanzhong_optimisedforweb.jpg" alt="Mr Justin Luo Yanzhong_optimisedforweb.jpg" width="175" height="225">
-				<br>Mr Justin Luo<br>SH - Data Management
-				<br><br>
-				<a href="mailto:justin_luo_yanzhong@schools.gov.sg">justin_luo_yanzhong<br>@schools.gov.sg</a>
-				<br></th>
-			
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/Mr%20Watson%20Tay%20cropped.jpg" alt="Mr Watson Tay cropped.jpg" width="175" height="225">
 				<br>Mr Watson Teh<br>SH - Student Management
