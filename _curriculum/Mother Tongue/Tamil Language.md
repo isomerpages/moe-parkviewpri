@@ -4,7 +4,7 @@ permalink: /curriculum/mother-tongue/Tamil-Language/
 description: ""
 third_nav_title: Mother Tongue
 ---
-# Our Dedicated Teachers
+### Our Dedicated Teachers
  
 <table style="width:100%">
 
@@ -22,14 +22,14 @@ third_nav_title: Mother Tongue
   </tr>
 </table>
 
-# Our Focus
+### Our Focus
 <ul>
 <li>To create a conducive learning environment which promotes active & independent learning</li>
 <li>To enable pupils to acquire good command of Tamil Language where pupils can converse confidently</li>
 <li>To leverage on ICT to engage pupils in collaborative and self-directed learning which promotes higher order thinking skills</li>
 </ul>
 
-# Approaches
+### Approaches
 
 <style>
 table, th, td {
@@ -78,7 +78,7 @@ table, th, td {
   </tr>
 </table>
 
-# Assessment
+### Assessment
 
 <style>
 table, th, td {
