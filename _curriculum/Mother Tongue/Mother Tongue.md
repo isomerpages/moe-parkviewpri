@@ -29,7 +29,8 @@ A 3-prong approach – Support, Enrich and Stretch is adopted in achieving this 
 <li>Harness the use of varied strategies such as Cooperative Learning strategies and ICT in engaging students in their learning.</li>
 <li>Create platforms and opportunities that nurture students to be proficient users of the mother tongue language and develop their 21st century competencies.</li>
 <li>Adopt varied assessment modes and provide timely assessment and feedback (both formative and summative) to students and parents.</li>
-<li>Provide exposure opportunities to develop students’ cultural appreciation of the language.</li></ul>
+<li>Provide exposure opportunities to develop students’ cultural appreciation of the language.</li>
+</ul>
 
 #### Partnership
 
