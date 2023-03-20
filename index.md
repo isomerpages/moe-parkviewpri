@@ -7,12 +7,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/pvps.gif
+      background: /images/PVPS_gif.gif
       key_highlights:
-        - title: Latest News
+        - title: Letter to Parents
           description: ""
-          url: ""
-        - title: Letters to Parents
-          description: Letters to Parents - 05
-          url: /files/2023%20Letter%20to%20Parents/PVPS-2023-05.pdf
+          url: https://www.parkviewpri.moe.edu.sg/our-stakeholders/letter-to-parents/
+        - title: Contact Us
+          description: ""
+          url: https://parkviewpri.moe.edu.sg/about-us/Contact-Us/
 ---

@@ -3,17 +3,13 @@ title: Other Services
 permalink: /about-us/other-services/
 description: ""
 ---
-## Other Services
+#### School Dental Services  
 
-
-### <u>School Dental Services</u>  
-
-The school has its own dental clinic managed by a dentist therapist. All students in the school are seen by the dental therapist for routine check-up and dental treatment is provided as well.
-Dental Therapist - Mdm Tan
-
+<p align="justify">The school has its own dental clinic managed by a dentist therapist. All students in the school are seen by the dental therapist for routine check-up and dental treatment is provided as well.</p>
+Dental Therapist - Mdm Tan<br>
 Tel: 65816637
 
-####  <i>Opening Days and Hours</i>
+####  Opening Days and Hours
 
 Monday & Wednesday: 8:00 a.m. - 5:30 p.m.
 School Holidays (Selected Days Only): 8:00 a.m. - 5:30 p.m.
@@ -21,23 +17,23 @@ Lunch Hour: 1:00 p.m. - 2:00 p.m.
 
 <i>**However, the school dental clinic is closed till May/June 2022. For emergency treatment, please call the following clinic for advice:</i>
 
-School Dental Centre*
-Health Promotion Board
-#04-00
-3 Second Hospital Avenue
-Singapore 168937
-(opposite Outram MRT Station)
+School Dental Centre<br>
+Health Promotion Board<br>
+#04-00<br>
+3 Second Hospital Avenue<br>
+Singapore 168937<br>
+(opposite Outram MRT Station)<br>
 Tel: 6435 3782
- 
-*  Singaporean **may** have to **pay** for treatment
-*  Foreigners & Permanent Residents have to **pay** for treatment.
+
+<li>Singaporean <b>may</b> have to <b>pay</b> for treatment.</li>
+<li>Foreigners & Permanent Residents have to <b>pay</b> for treatment.</li>
 
 
 <table>
 	<thead>
 		<tr>
-			<th style="border:1px solid black;color:#2b5fce;" ><i>School Book Shop &amp; School Uniform Supplier</i></th>
-			<th style="border:1px solid black;color:#2b5fce;"><i>School Bus Services</i>
+			<th style="border:1px solid black;color:#2b5fce;">School Book Shop &amp; School Uniform Supplier</th>
+			<th style="border:1px solid black;color:#2b5fce;">School Bus Services
 			</th>
 		</tr>
 	</thead>

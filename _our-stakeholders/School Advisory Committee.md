@@ -9,7 +9,8 @@ The School Advisory Committee (SAC) is a key partner in education of Park View P
 
 #### Chairman
 
-<img src="/images/Mr%20Lim%20Bock%20Huat%20PBM_cropped.jpg" width="100%"><p align="center"><b>Mr Lim Bock Huat, PBM</b></p>
+<img src="/images/Mr%20Lim%20Bock%20Huat%20PBM_cropped.jpg" width="100%">
+<p align="center"><b>Mr Lim Bock Huat, PBM</b></p>
 
 #### Vice-Chairman
 

@@ -4,7 +4,7 @@ permalink: /about-us/our-people/mother-tongue-teachers/
 description: ""
 third_nav_title: Our People
 ---
-#### Chinese Teachers
+#### Chinese Language
 
 <table>
 	<thead>
@@ -102,6 +102,6 @@ third_nav_title: Our People
 		</tr>
 		<tr>
       <td style="border:1px solid black;">Mr Darvinder Singh</td>
-			<td style="border:1px solid black;"><a href="darvinder_singh_karam_singh@schools.gov.sg">darvinder_singh_karam_singh@schools.gov.sg</a></td>
+			<td style="border:1px solid black;"><a href="darvinder_singh_karam_singh@schools.gov.sg">darvinder_singh_karam_singh@schools.gov.sg</a></td></tr>
 </tbody>
 </table>
