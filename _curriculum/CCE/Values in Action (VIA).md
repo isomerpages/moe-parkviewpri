@@ -4,8 +4,7 @@ permalink: /curriculum/cce/values-in-action-via/
 description: ""
 third_nav_title: CCE
 ---
-**Values in Action (VIA)**
-==========================
+
 
 1. [Primary 1 to 6 : Project Shine!](/curriculum/cce/values-in-action-via/primary-1-6-project-shine/)
 2. [Primary 2 : CARE](/curriculum/cce/values-in-action-via/primary-2-care/)

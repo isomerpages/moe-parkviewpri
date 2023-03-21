@@ -4,7 +4,7 @@ permalink: /curriculum/mother-tongue/Chinese-Language/
 description: ""
 third_nav_title: Mother Tongue
 ---
-# 我们的骄傲
+### 我们的骄傲
 <br>
 <img src="/images/untitled.gif" style="width:30%" >
 
@@ -41,7 +41,7 @@ third_nav_title: Mother Tongue
 <img src="/images/Curriculum/Mother%20Tongue/CL/img_16.jpg" style="width:50%">
 <p>2019年，在佛光山硬笔书法比赛中，我校同学获得一个铜牌奖（林楚涵同学)，三个优胜奖（周朔丞、洪彦哲和殷明骏同学)，三个文化奖（乔生、马德和安娜同学）以及一个感谢奖（叶家仪同学)。</p><br>
 
-# 各项活动
+### 各项活动
 
 #### 农历新年庆祝活动
 
@@ -72,7 +72,7 @@ third_nav_title: Mother Tongue
 
 <img src="/images/Curriculum/Mother%20Tongue/CL/tab2_img_3.jpg" style="width:100%">
 
-# 学习资源
+### 学习资源
 
 <table>
 	<thead>
@@ -114,10 +114,10 @@ moe.edu.sg/login">Singapore Student Learning Space (SLS)</a></td>
 </tbody>
 </table>
 
-# 执教老师
+### 执教老师
 <img src="/images/Curriculum/Mother%20Tongue/CL/table2023.jpg" alt="执教老师">
 
-# English Version
+### English Version
 #### Department Members 2023
 
 <table>

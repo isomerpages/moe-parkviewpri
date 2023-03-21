@@ -42,7 +42,6 @@ third_nav_title: Our People
 				<br>
 </th>
 
-
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/Mdm_Lim_Hwee_Tin_optimisedforweb.jpg" alt="Mdm_Lim_Hwee_Tin_optimisedforweb.jpg" width="175" height="225">
 				<br>Mdm Lim Hwee Tina<br>HOD - Aesthetics CCA
@@ -63,14 +62,18 @@ third_nav_title: Our People
 				<br>Mrs Anitha Aruljothi<br>HOD - English
 				<br>
 				<a href="mailto:m_anitha@schools.gov.sg">m_anitha<br>@schools.gov.sg</a>
+				<br></th>
+	<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="/images/Mr%20Justin%20Luo%20Yanzhong_optimisedforweb.jpg" alt="Mr Justin Luo Yanzhong_optimisedforweb.jpg" width="175" height="225">
+				<br>Mr Justin Luo<br>HOD - ICT
 				<br>
-</th>
-			<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<a href="mailto:justin_luo_yanzhong@schools.gov.sg">justin_luo_yanzhong<br>@schools.gov.sg</a>
+				<br></th>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/Miss%20Chua%20Shuan%20Kwee%20cropped.jpg" alt="Miss Chua Shuan Kwee cropped.jpg" width="175" height="225">
 				<br>Miss Chua Shuan<br>School Staff Developer
 				<br>
-				<a href="mailto:chua_shuan_kwee@schools.gov.sg">chua_shuan_kwee<br>@schools.gov.sg</a>
-				<br>
+				<a href="mailto:chua_shuan_kwee@schools.gov.sg">chua_shuan_kwee<br>@schools.gov.sg</a><br>
 </th>
 			</tr>
 			</table>
@@ -139,38 +142,28 @@ third_nav_title: Our People
 			
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/Mdm%20Angeline%20Loo%20Nga%20Hoon-Optimesed%20for%20web.jpg" width="175" height="225">
-				<br>Mdm Angeline Loo<br>LH - Math
-				<br>
-				<a href="mailto:loo_nga_hoonangeline@schools.gov.sg">loo_nga_hoonangeline<br>@schools.gov.sg</a>
-				<br>
-			</th></tr>
+				<br>Mdm Angeline Loo<br>LH - Math<br>
+				<a href="mailto:loo_nga_hoonangeline@schools.gov.sg">loo_nga_hoonangeline<br>@schools.gov.sg</a><br>
+			</th>
+		</tr>
 	</thead>
-
+	
+<tr>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/Miss_Lee_siew_Kiang_optimisedforweb.jpg" alt="Miss_Lee_siew_Kiang_optimisedforweb.jpg" width="175" height="225">
 				<br>Miss Lee Siew Kiang<br>SH - ICT
 				<br><br>
-				<a href="mailto:lee_siew_kiang@schools.gov.sg">lee_siew_kiang<br>@schools.gov.sg</a>
-				<br>
+				<a href="mailto:lee_siew_kiang@schools.gov.sg">lee_siew_kiang<br>@schools.gov.sg</a><br>
 </th>
 
-
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Mr%20Justin%20Luo%20Yanzhong_optimisedforweb.jpg" alt="Mr Justin Luo Yanzhong_optimisedforweb.jpg" width="175" height="225">
-				<br>Mr Justin Luo<br>SH - Data Management
-				<br><br>
-				<a href="mailto:justin_luo_yanzhong@schools.gov.sg">justin_luo_yanzhong<br>@schools.gov.sg</a>
-				<br></th>
-			
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/Mr%20Watson%20Tay%20cropped.jpg" alt="Mr Watson Tay cropped.jpg" width="175" height="225">
 				<br>Mr Watson Teh<br>SH - Student Management
 				<br>
-				<a href="mailto:teh_chiew_hwa_watson@schools.gov.sg">teh_chiew_hwa_<br>watson@schools.gov.sg</a>
-				<br>
-			</th>
-			</tr>
-			</table>
+				<a href="mailto:teh_chiew_hwa_watson@schools.gov.sg">teh_chiew_hwa_<br>watson@schools.gov.sg</a><br>
+</th>
+</tr>
+</table>
 
 
 

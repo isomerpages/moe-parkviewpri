@@ -4,7 +4,7 @@ permalink: /curriculum/mother-tongue/Malay-Language/
 description: ""
 third_nav_title: Mother Tongue
 ---
-# Our Teachers
+### Our Teachers
 <img src="/images/Curriculum/Mother%20Tongue/Malay/DeptGoal.jpg" alt="Our ML Teachers">
 
 #### Department Goal
@@ -50,7 +50,7 @@ third_nav_title: Mother Tongue
 <br>
 <img src="/images/Curriculum/Mother%20Tongue/Malay/MLTeachers.jpg" alt="" style="width:80%">
 
-# Programmes
+### Programmes
 #### Key Programmes
 
 
@@ -149,4 +149,4 @@ third_nav_title: Mother Tongue
 
 <img src="/images/Malay%20MT%206.jpg" alt="Implementation in class" style="width:70%">
 
-**Click on the** [link](https://www.mtls.edu.sg/mlmoe/park-view/) **to view our poster for the MTL Symposium 2021.**	
+**Click on the** [link](https://www.mtls.edu.sg/mlmoe/park-view/) **to view our poster for the MTL Symposium 2021.**

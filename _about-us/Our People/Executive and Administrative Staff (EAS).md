@@ -49,7 +49,7 @@ Yeong Irene</td>
 </tbody>
 </table>
 			
-#### Operational Support Officers
+#### Operations Support Officers
 
 <table>
 	<thead>

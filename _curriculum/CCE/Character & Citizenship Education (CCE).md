@@ -4,8 +4,6 @@ permalink: /curriculum/cce/
 description: ""
 third_nav_title: CCE
 ---
-# **Character & Citizenship Education (CCE)**
-
 ### Character & Citizenship Education Department Framework
 
 ![](/images/PVPS%20Student%20Outcomes%20Framework%20v3_optimisedforweb.jpg)
