@@ -130,7 +130,7 @@ third_nav_title: Our People
 		<tr>
 			<td style="border:1px solid black;">3 Care<br>(3C)</td>
             <td style="border:1px solid black;">Miss Charlene Lee<br>Mr Lee Eng Tiong</td>
-			<td style="border:1px solid black;"><a href="valarmathi_a@schools.gov.sg ">valarmathi_a@schools.gov.sg</a><br><a href="lee_eng_tiong@schools.gov.sg">lee_eng_tiong@schools.gov.sg</a></td>
+			<td style="border:1px solid black;"><a href="lee_shu_qi_charlene@schools.gov.sg ">lee_shu_qi_charlene@schools.gov.sg</a><br><a href="lee_eng_tiong@schools.gov.sg">lee_eng_tiong@schools.gov.sg</a></td>
 		</tr>
 	</tbody>
 </table>
