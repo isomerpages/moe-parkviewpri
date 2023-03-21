@@ -142,30 +142,28 @@ third_nav_title: Our People
 			
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/Mdm%20Angeline%20Loo%20Nga%20Hoon-Optimesed%20for%20web.jpg" width="175" height="225">
-				<br>Mdm Angeline Loo<br>LH - Math
-				<br>
-				<a href="mailto:loo_nga_hoonangeline@schools.gov.sg">loo_nga_hoonangeline<br>@schools.gov.sg</a>
-				<br>
-			</th></tr>
+				<br>Mdm Angeline Loo<br>LH - Math<br>
+				<a href="mailto:loo_nga_hoonangeline@schools.gov.sg">loo_nga_hoonangeline<br>@schools.gov.sg</a><br>
+			</th>
+		</tr>
 	</thead>
-
+	
+<tr>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/Miss_Lee_siew_Kiang_optimisedforweb.jpg" alt="Miss_Lee_siew_Kiang_optimisedforweb.jpg" width="175" height="225">
 				<br>Miss Lee Siew Kiang<br>SH - ICT
 				<br><br>
-				<a href="mailto:lee_siew_kiang@schools.gov.sg">lee_siew_kiang<br>@schools.gov.sg</a>
-				<br>
+				<a href="mailto:lee_siew_kiang@schools.gov.sg">lee_siew_kiang<br>@schools.gov.sg</a><br>
 </th>
 
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/Mr%20Watson%20Tay%20cropped.jpg" alt="Mr Watson Tay cropped.jpg" width="175" height="225">
 				<br>Mr Watson Teh<br>SH - Student Management
 				<br>
-				<a href="mailto:teh_chiew_hwa_watson@schools.gov.sg">teh_chiew_hwa_<br>watson@schools.gov.sg</a>
-				<br>
-			</th>
-			</tr>
-			</table>
+				<a href="mailto:teh_chiew_hwa_watson@schools.gov.sg">teh_chiew_hwa_<br>watson@schools.gov.sg</a><br>
+</th>
+</tr>
+</table>
 
 
 
