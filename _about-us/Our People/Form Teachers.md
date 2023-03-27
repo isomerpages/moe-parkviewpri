@@ -245,7 +245,7 @@ third_nav_title: Our People
 			<td style="border:1px solid black;"><a href="wang_luning@schools.gov.sg">wang_luning@schools.gov.sg</a><br><a href="justin_luo_yanzhong@schools.gov.sg">justin_luo_yanzhong@schools.gov.sg</a></td>
 		</tr>     
 		<tr>
-			<td style="border:1px solid black;">5 Integrity<br>(5I)</td>
+			<td style="border:1px solid black;">6 Integrity<br>(6I)</td>
 			<td style="border:1px solid black;">Miss Sherylene Soh<br>Ms Pamela See</td>
 			<td style="border:1px solid black;"><a href="sherylene_soh_siew_yin@schools.gov.sg">sherylene_soh_siew_yin@schools.gov.sg</a><br><a href="see_yuen_heng@schools.gov.sg">see_yuen_heng@schools.gov.sg</a></td>
 		</tr>
