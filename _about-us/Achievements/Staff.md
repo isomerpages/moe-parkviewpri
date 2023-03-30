@@ -331,18 +331,118 @@ third_nav_title: Achievements
 
 ### LEAP AWARD
 
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Certificate of Commendation<br>(Listening Educator for Advancement and Progress Award)</th></tr></thead><tbody><tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mr Tay Lip Seng<br>Mdm Soh Chin Ping</td></tr></tbody></table>
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+	<thead>
+		<tr>
+			<th style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Certificate of Commendation<br>
+(Listening Educator for Advancement and Progress Award)</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Mr Tay Lip Seng<br>
+                Mdm Soh Chin Ping
+			</td>
+		</tr>
+             </tbody>
+             </table>
 
 
 ### MOE INNERGY AWARDS
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Bronze</th></tr></thead><tbody><tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Miss Rachel Lai - Body Percussion<br>Miss Grace Yeo - Body Percussion<br>Miss See Yuen Heng Pamela - Children’s Market (by Children for Children)<br>Mdm Pang Cui Ling - Children’s Market (by Children for Children)</td></tr></tbody></table>
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+	<thead>
+		<tr>
+			<th style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Bronze</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Miss Rachel Lai - Body Percussion<br>
+                Miss Grace Yeo - Body Percussion<br>
+                Miss See Yuen Heng Pamela - Children’s Market (by Children for Children)<br>
+                Mdm Pang Cui Ling - Children’s Market (by Children for Children
+			</td>
+		</tr>
+             </tbody>
+             </table>
 
 
 
-### OUTSTANDING CONTRIBUTION AWARDS
+### 2020 - OCA
 
-
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#D9F8FA;border-color:#efefef;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2"><span style="font-weight:bold;color:#162837;background-color:#D9F8FA">Team</span></th></tr></thead><tbody><tr><td style="background-color:#FAFAFA;border-color:#efefef;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2"><span style="color:#162837;background-color:#FAFAFA">National Day Celebrations and SBOR (3rd)</span></td></tr><tr><td style="background-color:#FAFAFA;border-color:#efefef;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mdm Nor Iqmalia Bte Saharudin<br>Miss Grace Yeo Jie Xin<br>Miss Rachel Lai<br>Mdm Nur Farizah Binte Roslan</td><td style="background-color:#FAFAFA;border-color:#efefef;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mdm Soh Chin Ping Eileen<br>Ms Tina Lim Hwee Tin<br>Mr Darvinder Singh<br> </td></tr><tr><td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#1A202C;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2">SWB Team (2nd)</td></tr><tr><td style="background-color:#FAFAFA;border-color:#efefef;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mdm Zubaidah Bte Othman<br>Ms Felicia Tan Chuan Siang<br>Miss Grace Yeo Jie Xin<br>Mrs Evie Goh<br>Miss June Quek Siew Lan<br>Mrs Wendy Chew</td><td style="background-color:#FAFAFA;border-color:#efefef;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mdm Patricia Yeo<br>Mdm Zahrah Bte Md Abbas<br>Mrs Eileen Yap<br>Mdm Shirin Bte Osman<br>Mdm Nurul Ainy</td></tr><tr><td style="background-color:#FFF;border-color:#efefef;border-style:solid;border-width:1px;color:#1A202C;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2">Contact Tracing Team (1st)</td></tr><tr><td style="background-color:#FAFAFA;border-color:#efefef;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mr Tay Lip Seng<br>Mr Chua Chun Wei<br>Mdm Teo Chui Ping<br>Mrs Hazel Cheong</td><td style="background-color:#FAFAFA;border-color:#efefef;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Miss Lee Siew Kiang<br>Mdm Eileen Soh Chin Ping<br>Miss Chua Shuan Kwee<br> </td></tr><tr><td style="background-color:#D9F8FA;border-color:#efefef;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2">Individual</td></tr><tr><td style="background-color:#FAFAFA;border-color:#efefef;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2">Mr Abdul Rashid Lim<br>Mr Tay Lip Seng<br>Miss Sanjevita Martin Rubin</td></tr></tbody></table>
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+	<thead>
+		<tr>
+			<th style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Team - Contact Tracing Team (1st)</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Mr Tay Lip Seng<br>
+                Mr Chua Chun Wei<br>
+                Mdm Teo Chui Ping<br>
+                Mrs Hazel Cheong<br>
+                Miss Lee Siew Kiang<br>
+                Mdm Eileen Soh Chin Ping<br>
+                Miss Chua Shuan Kwee
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Team - SWB Team (2nd)</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Mdm Zubaidah Bte Othman<br>
+                Ms Felicia Tan Chuan Siang<br>
+                Miss Grace Yeo Jie Xin<br>
+                Mrs Evie Goh<br>
+                Miss June Quek Siew Lan<br>
+                Mrs Wendy Chew<br>
+                Mdm Patricia Yeo<br>
+                Mdm Zahrah Bte Md Abbas<br>
+                Mrs Eileen Yap<br>
+                Mdm Shirin Bte Osman<br>
+                Mdm Nurul Ainy
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Team - SBOR (3rd)</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Mdm Soh Chin Ping Eileen<br>
+                Ms Tina Lim Hwee Tin<br>
+                Mr Darvinder Singh
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Team - National Day Celebration (3rd)</b>
+            </td>
+            </tr>
+            <tr>
+           <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+           Mdm Nor Iqmalia Bte Saharudin<br>
+           Miss Grace Yeo Jie Xin<br>
+           Miss Rachel Lai<br>
+           Mdm Nur Farizah Binte Roslan
+			</td>
+            </tr>
+            		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Individual Awardees</b>
+            </td>
+            </tr>
+            <tr>
+           <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+           Mr Abdul Rashid Lim<br>
+           Mr Tay Lip Seng<br>
+           Miss Sanjevita Martin Rubin
+			</td>
+            </tr>
+             </tbody>
+             </table>
