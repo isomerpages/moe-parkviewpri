@@ -4,14 +4,9 @@ permalink: /about-us/achievements/staff/
 description: ""
 third_nav_title: Achievements
 ---
+<p align="justify">At Park View, we place emphasis on staff development, devoting much resources into this area, so that our staff are well-equipped to look into the well-being and development of our students in the various domains, while growing themselves professionally and personally. We are proud of the following achievements of our staff at national level:</p>
 
-# **Staff**
-
-At Park View, we place emphasis on staff development, devoting much resources into this area, so that our staff are well-equipped to look into the well-being and development of our students in the various domains, while growing themselves professionally and personally. We are proud of the following achievements of our staff at national level:
-
-### 2022
-
-#### PVPS HALLMARK AWARDS
+### 2022 - PVPS HALLMARK AWARDS
 
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 429px" class="tg"><colgroup><col style="width: 429px"></colgroup><thead><tr><th style="background-color:#38fff8;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Caring Staff Awardees</th></tr></thead><tbody><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mrs Natalie Lim<br><br>Mr Tay Lip Seng</td></tr><tr><td style="background-color:#38fff8;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Competent Professional Awardees</td></tr><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mr Jahidin Bin Jemain<br><br>Ms Joyce Low<br><br>Mdm Pang Cui Ling<br><br>Mdm Adeline Ang</td></tr><tr><td style="background-color:#38fff8;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Collaborative Learner Awardees</td></tr><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mdm Kimberly Jean Aeria<br><br>Miss Phoebe Goh</td></tr><tr><td style="background-color:#38fff8;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Community Builder Awardees</td></tr><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mdm Pang Cui Ling<br><br>Mr Tay Lip Seng</td></tr><tr><td style="background-color:#38fff8;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Transformational Leader Awardees</td></tr><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Mdm Pang Cui Ling<br><br>Mr Tay Lip Seng</td></tr></tbody></table>
@@ -19,7 +14,7 @@ At Park View, we place emphasis on staff development, devoting much resources in
 
 
 
-### MOE SERVICE EXCELLENCE AWARDS
+2022 - MOE SERVICE EXCELLENCE AWARDS
 
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 425px" class="tg"><colgroup><col style="width: 425px"></colgroup><thead><tr><th style="background-color:#38fff8;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Platinum</th></tr></thead><tbody><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222"> Mr Tay Lip Seng</span><br><span style="color:#222">Mdm Pang Cui Ling</span></td></tr><tr><td style="background-color:#38fff8;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"> Gold</td></tr><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:400;color:#162837">Ms Jenny Fok</span><br><span style="font-weight:400;color:#162837">Mr Lee Ge Yeong</span><br>Mr Justin Luo Yanzhong<br>Mdm Nurul Ainy Binte Suhaimi<br>Miss Sanjevita Martin <span style="color:#222">Rubin</span><br>Mdm Sim Shiyu</td></tr><tr><td style="background-color:#38fff8;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Silver</td></tr><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"> Mr Abdul Rashid Lim<br><span style="font-weight:400;color:#162837">Mdm Asleena Bte </span><span style="color:#222">Abdul Hamid</span><br><span style="font-weight:400;color:#162837">Miss Phoebe Goh</span><br><span style="font-weight:400;color:#162837">Mdm Kamariah Bte Abdullah</span><br><span style="font-weight:400;color:#162837">Mdm Kimberly Jean Aeria</span><br><span style="font-weight:400;color:#162837">Miss Low Kin Eng</span><br><span style="font-weight:400;color:#162837">Mdm Nor Iqmalia Bte Saharudin</span><br>Mdm Adeline Ang<br>Ms Pamela See<br><span style="font-weight:400;color:#162837">Mdm Soh Chin Ping Eileen</span></td></tr></tbody></table>
@@ -41,7 +36,47 @@ At Park View, we place emphasis on staff development, devoting much resources in
 
 
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Caring Staff Awardees</th></tr></thead><tbody><tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:400;color:#162837">Ms Jenny Fok</span><br><span style="font-weight:400;color:#162837">Mr Jahidin Bin Jemain</span><br><span style="font-weight:400;color:#162837">Ms Janice Cheng Lai May</span><br><span style="font-weight:400;color:#162837">Mr Tay Lip Seng</span><br><span style="font-weight:400;color:#162837">Mrs Natalie Lim</span></td></tr><tr><td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Competent Professional Awardees</td></tr><tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:400;color:#162837">Ms Sanjevita</span><br><span style="font-weight:400;color:#162837">Ms Felicia Tan</span><br>Mr Jerry Chua<br>Mr Tay Lip Seng<br></td></tr><tr><td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Collaborative Learner Awardees</td></tr><tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:400;color:#162837">Mdm Chen Shuangshuang</span><br><span style="font-weight:400;color:#162837">Mrs Wendy Chew</span><br></td></tr><tr><td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Community Builder Awardees</td></tr><tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:400;color:#162837">Mdm Pang Cui Ling</span><br><span style="font-weight:400;color:#162837">Mrs Wendy Chew</span><br></td></tr><tr><td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Transformational Leader Awardees</td></tr><tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:400;color:#162837">Mdm Pang Cui Ling</span><br><span style="font-weight:400;color:#162837">Mrs Wendy Chew</span></td></tr></tbody></table>
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+	<thead>
+		<tr>
+			<th style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Caring Staff Awardees</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Ms Jenny Fok<br>
+				Mr Jahidin Bin Jemain<br>
+				Ms Janice Cheng Lai May<br>
+				Mr Tay Lip Seng<br>
+				Mrs Natalie Lim
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Competent Professional  
+				Awardees</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Ms Sanjevita<br>
+				Ms Felicia Tan<br>
+				Mr Jerry Chua<br>
+				Mr Tay Lip Seng<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Collaborative Learner Awardees</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Mdm Chen Shuangshuang<br>
+				Mrs Wendy Chew<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Community Builder Awardees</td></tr><tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:400;color:#162837">Mdm Pang Cui Ling</span><br><span style="font-weight:400;color:#162837">Mrs Wendy Chew</span><br></td></tr><tr><td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Transformational Leader Awardees</td></tr><tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:400;color:#162837">Mdm Pang Cui Ling</span><br><span style="font-weight:400;color:#162837">Mrs Wendy Chew</span></td></tr></tbody></table>
 
 
 
