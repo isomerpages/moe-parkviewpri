@@ -70,9 +70,52 @@ third_nav_title: Achievements
 ### 2022 - MSEA
 
 
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 425px" class="tg"><colgroup><col style="width: 425px"></colgroup><thead><tr><th style="background-color:#38fff8;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Platinum</th></tr></thead><tbody><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal"><span style="color:#222"> Mr Tay Lip Seng</span><br><span style="color:#222">Mdm Pang Cui Ling</span></td></tr><tr><td style="background-color:#38fff8;border-color:#ffffff;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"> Gold</td></tr><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:400;color:#162837">Ms Jenny Fok</span><br><span style="font-weight:400;color:#162837">Mr Lee Ge Yeong</span><br>Mr Justin Luo Yanzhong<br>Mdm Nurul Ainy Binte Suhaimi<br>Miss Sanjevita Martin <span style="color:#222">Rubin</span><br>Mdm Sim Shiyu</td></tr><tr><td style="background-color:#38fff8;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Silver</td></tr><tr><td style="background-color:#ffffff;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"> Mr Abdul Rashid Lim<br><span style="font-weight:400;color:#162837">Mdm Asleena Bte </span><span style="color:#222">Abdul Hamid</span><br><span style="font-weight:400;color:#162837">Miss Phoebe Goh</span><br><span style="font-weight:400;color:#162837">Mdm Kamariah Bte Abdullah</span><br><span style="font-weight:400;color:#162837">Mdm Kimberly Jean Aeria</span><br><span style="font-weight:400;color:#162837">Miss Low Kin Eng</span><br><span style="font-weight:400;color:#162837">Mdm Nor Iqmalia Bte Saharudin</span><br>Mdm Adeline Ang<br>Ms Pamela See<br><span style="font-weight:400;color:#162837">Mdm Soh Chin Ping Eileen</span></td></tr></tbody></table>
-
-
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+	<thead>
+		<tr>
+			<th style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Platinum</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Teo Chui Ping<br>
+                Tay Lip Seng
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Gold</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Fok Lai Beng<br>
+                Lee Gek Yeong<br>
+                Luo Yanzhong Justin<br>
+                Nurul Ainy Binte Suhaimi<br>
+                Sim Shiyu
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Silver</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Adbut Rashid Lim @ Lim Yong Kian<br>
+                Asleena Binte Abdul Hamid<br>
+                Goh Phoebe<br>
+                Kamariah Binte Abdullah<br>
+                Kimberly Jean Aeria<br>
+                Low Kin Eng<br>
+                Nor Iqmalia Binte Saharudin<br>
+                Seah Sock Luang Adeline<br>
+                See Yuen Heng<br>
+                Soh Chin Ping Eileen
+			</td>
+		</tr>
+             </tbody>
+             </table>
 
 ### 2022 -  OCA
 
@@ -162,11 +205,7 @@ third_nav_title: Achievements
              </tbody>
              </table>
 
-### 2021
-
-#### PVPS HALLMARK AWARDS
-
-
+### 2021 - PVPS HALLMARK AWARDS
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 	<thead>
@@ -230,19 +269,64 @@ third_nav_title: Achievements
              </table>
 
 
+### 2021 - MSEA
 
-### MOE SERVICE EXCELLENCE AWARDS
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+	<thead>
+		<tr>
+			<th style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Gold</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Miss Janice Cheng<br>
+                Mr Ng Tee Tee<br>
+                Mdm Pang Cui Ling<br>
+                Mr Tay Lip Seng<br>
+                Mdm Teo Chui Ping
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Silver</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Mrs Anitha Aruljothi<br>
+                Mr Darvinder Singh<br>
+                Mdm Zubaidah<br>
+                Miss Grace Yeo<br>
+                Mdm Nurul Ainy<br>
+                Miss Sanjevita Martin Rubin
+			</td>
+		</tr>
+             </tbody>
+             </table>
 
 
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Gold</th></tr></thead><tbody><tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:400;color:#162837">Miss Janice Cheng</span><br><span style="font-weight:400;color:#162837">Mr Ng Tee Tee</span><br><span style="font-weight:400;color:#162837">Mdm Pang Cui Ling</span><br><span style="font-weight:400;color:#162837">Mr Tay Lip Seng</span><br><span style="font-weight:400;color:#162837">Mdm Teo Chui Ping</span></td></tr><tr><td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Silver</td></tr><tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:400;color:#162837">Mrs Anitha Aruljothi</span><br><span style="font-weight:400;color:#162837">Mr Darvinder Singh</span><br><span style="font-weight:400;color:#162837">Mdm Zubaidah</span><br><span style="font-weight:400;color:#162837">Miss Grace Yeo</span><br><span style="font-weight:400;color:#162837">Mdm Nurul Ainy</span><br><span style="font-weight:400;color:#162837">Miss Sanjevita Martin Rubin</span></td></tr></tbody></table>
+### 2021 - NATIONAL DAY AWARDS
 
-
-
-#### NATIONAL DAY AWARDS
-
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold;color:#162837;background-color:#D9F8FA">Gold</span></th></tr></thead><tbody><tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:400;color:#162837">Mdm Teo Siew Yeun</span> <span style="color:#162837;background-color:#FAFAFA">- Commendation Medal</span><br><span style="color:#162837;background-color:#FAFAFA">Ms Chua Mei Li - Long Service Medal</span><br><span style="font-weight:400;color:#162837">Mdm Zubaidah</span> <span style="color:#162837;background-color:#FAFAFA">- Long Service Medal</span><br><span style="color:#162837;background-color:#FAFAFA">Mr Azmi Kasim - Long Service Medal</span><br><span style="color:#162837;background-color:#FAFAFA">Ms Chua Shuan Kwee - Long Service Medal</span><br><span style="color:#162837;background-color:#FAFAFA">Mrs Janet Koo-Wee Lian Neo - Long Service Medal</span></td></tr></tbody></table>
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+	<thead>
+		<tr>
+			<th style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Gold</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Mdm Teo Siew Yeun - Commendation Medal<br>
+                Ms Chua Mei Li - Long Service Medal<br>
+                Mdm Zubaidah - Long Service Medal<br>
+                Mr Azmi Kasim - Long Service Medal<br>
+                Ms Chua Shuan Kwee - Long Service Medal<br>
+                Mrs Janet Koo-Wee Lian Neo - Long Service Medal
+			</td>
+		</tr>
+             </tbody>
+             </table>
 
 
 ### LEAP AWARD
