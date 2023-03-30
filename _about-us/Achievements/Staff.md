@@ -6,6 +6,56 @@ third_nav_title: Achievements
 ---
 <p align="justify">At Park View, we place emphasis on staff development, devoting much resources into this area, so that our staff are well-equipped to look into the well-being and development of our students in the various domains, while growing themselves professionally and personally. We are proud of the following achievements of our staff at national level:</p>
 
+### 2022 - MSEA
+
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+	<thead>
+		<tr>
+			<th style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Platinum</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Teo Chui Ping<br>
+                Tay Lip Seng
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Gold</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Fok Lai Beng<br>
+                Lee Gek Yeong<br>
+                Luo Yanzhong Justin<br>
+                Nurul Ainy Binte Suhaimi<br>
+                Sim Shiyu
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Silver</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Adbut Rashid Lim @ Lim Yong Kian<br>
+                Asleena Binte Abdul Hamid<br>
+                Goh Phoebe<br>
+                Kamariah Binte Abdullah<br>
+                Kimberly Jean Aeria<br>
+                Low Kin Eng<br>
+                Nor Iqmalia Binte Saharudin<br>
+                Seah Sock Luang Adeline<br>
+                See Yuen Heng<br>
+                Soh Chin Ping Eileen
+			</td>
+		</tr>
+             </tbody>
+             </table>
+
 ### 2022 - PVPS HALLMARK AWARDS
 
 
@@ -64,56 +114,6 @@ third_nav_title: Achievements
              Tay Lip Seng
              </td>
              </tr>
-             </tbody>
-             </table>
-
-### 2022 - MSEA
-
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg">
-	<thead>
-		<tr>
-			<th style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Platinum</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-				Teo Chui Ping<br>
-                Tay Lip Seng
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Gold</b>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-				Fok Lai Beng<br>
-                Lee Gek Yeong<br>
-                Luo Yanzhong Justin<br>
-                Nurul Ainy Binte Suhaimi<br>
-                Sim Shiyu
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Silver</b>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-				Adbut Rashid Lim @ Lim Yong Kian<br>
-                Asleena Binte Abdul Hamid<br>
-                Goh Phoebe<br>
-                Kamariah Binte Abdullah<br>
-                Kimberly Jean Aeria<br>
-                Low Kin Eng<br>
-                Nor Iqmalia Binte Saharudin<br>
-                Seah Sock Luang Adeline<br>
-                See Yuen Heng<br>
-                Soh Chin Ping Eileen
-			</td>
-		</tr>
              </tbody>
              </table>
 
@@ -205,6 +205,43 @@ third_nav_title: Achievements
              </tbody>
              </table>
 
+### 2021 - MSEA
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+	<thead>
+		<tr>
+			<th style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Gold</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Miss Janice Cheng<br>
+                Mr Ng Tee Tee<br>
+                Mdm Pang Cui Ling<br>
+                Mr Tay Lip Seng<br>
+                Mdm Teo Chui Ping
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Silver</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Mrs Anitha Aruljothi<br>
+                Mr Darvinder Singh<br>
+                Mdm Zubaidah<br>
+                Miss Grace Yeo<br>
+                Mdm Nurul Ainy<br>
+                Miss Sanjevita Martin Rubin
+			</td>
+		</tr>
+             </tbody>
+             </table>
+
+
+
 ### 2021 - PVPS HALLMARK AWARDS
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
@@ -268,41 +305,6 @@ third_nav_title: Achievements
              </tbody>
              </table>
 
-
-### 2021 - MSEA
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg">
-	<thead>
-		<tr>
-			<th style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Gold</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-				Miss Janice Cheng<br>
-                Mr Ng Tee Tee<br>
-                Mdm Pang Cui Ling<br>
-                Mr Tay Lip Seng<br>
-                Mdm Teo Chui Ping
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Silver</b>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-				Mrs Anitha Aruljothi<br>
-                Mr Darvinder Singh<br>
-                Mdm Zubaidah<br>
-                Miss Grace Yeo<br>
-                Mdm Nurul Ainy<br>
-                Miss Sanjevita Martin Rubin
-			</td>
-		</tr>
-             </tbody>
-             </table>
 
 
 
