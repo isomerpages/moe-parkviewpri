@@ -53,8 +53,7 @@ third_nav_title: Achievements
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Competent Professional  
-				Awardees</b>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Competent Professional Awardees</b>
 			</td>
 		</tr>
 		<tr>
@@ -76,7 +75,27 @@ third_nav_title: Achievements
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Community Builder Awardees</td></tr><tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:400;color:#162837">Mdm Pang Cui Ling</span><br><span style="font-weight:400;color:#162837">Mrs Wendy Chew</span><br></td></tr><tr><td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Transformational Leader Awardees</td></tr><tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:400;color:#162837">Mdm Pang Cui Ling</span><br><span style="font-weight:400;color:#162837">Mrs Wendy Chew</span></td></tr></tbody></table>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Community Builder Awardees</b>
+            </td>
+            </tr>
+            <tr>
+           <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+           Mdm Pang Cui Ling<br>
+           Mrs Wendy Chew<br>
+           </td>
+           </tr>
+           <tr>
+           <td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Transformational Leader Awardees</b>
+			</td>
+            </tr>
+            <tr>
+             <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+             Mdm Pang Cui Ling<br>
+             Mrs Wendy Chew
+             </td>
+             </tr>
+             </tbody>
+             </table>
 
 
 
