@@ -41,7 +41,7 @@ body {
 <!-- Photo Grid -->
 <div class="row"> 
 <div class="column">
-<img src="/images/Curriculum/English/Joy%20of%20Learning/p1%20lea%206.jpg" style="width:100%"></div>
+<img src="/images/Curriculum/English/Joy%20of%20Learning/p1%20lea%207-min.png" style="width:100%"></div>
   
 <div class="column">
 <img src="/images/Curriculum/English/Joy%20of%20Learning/p1%20lea%206.jpg" style="width:100%">
@@ -50,9 +50,27 @@ body {
 
 <div class="row"> 
 <div class="column">
-<img src="/images/lea%20p5%201-min.jpg" style="width:100%"></div>
+<img src="/images/Curriculum/English/Joy%20of%20Learning/P2%20LEA%208-min.jpg" style="width:100%"></div>
   
 <div class="column">
-<img src="/images/Curriculum/English/Joy%20of%20Learning/P1%20LEA%203.jpg" style="width:100%">
+<img src="/images/Curriculum/English/Joy%20of%20Learning/p2%20lea%205.jpg" style="width:100%">
+</div>
+</div>
+
+<div class="row"> 
+<div class="column">
+<img src="/images/Curriculum/English/Joy%20of%20Learning/P3%20LEA%201-min.jpg" style="width:100%"></div>
+  
+<div class="column">
+<img src="/images/Curriculum/English/Joy%20of%20Learning/p3%20lea%203-min.jpeg" style="width:100%">
+</div>
+</div>
+
+<div class="row"> 
+<div class="column">
+<img src="/images/Curriculum/English/Joy%20of%20Learning/p4%20lea%204-min.jpeg" style="width:100%"></div>
+  
+<div class="column">
+<img src="/images/Curriculum/English/Joy%20of%20Learning/p4%20lea%205-min.jpeg" style="width:100%">
 </div>
 </div>
