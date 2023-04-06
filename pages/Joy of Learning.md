@@ -74,3 +74,12 @@ body {
 <img src="/images/Curriculum/English/Joy%20of%20Learning/p4%20lea%205-min.jpeg" style="width:100%">
 </div>
 </div>
+
+<div class="row"> 
+<div class="column">
+<img src="/images/Curriculum/English/Joy%20of%20Learning/p5%20lea%202-min.jpeg" style="width:100%"></div>
+  
+<div class="column">
+<img src="/images/Curriculum/English/Joy%20of%20Learning/p5%20lea%203-min.jpeg" style="width:100%">
+</div>
+</div>
