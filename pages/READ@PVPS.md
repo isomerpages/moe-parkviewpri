@@ -55,7 +55,7 @@ body {
 <img src="/images/Curriculum/English/Joy%20of%20Learning/book%20signing.jpeg" style="width:100%"></div>
   
 <div class="column">
-<img src="/images/Curriculum/English/Joy%20of%20Learning/mystery%20reader.jpeg" style="width:100%">
+<img src="/images/Curriculum/English/Joy%20of%20Learning/pic4_read.jpeg" style="width:100%">
 </div>
 </div>
 
@@ -64,7 +64,15 @@ body {
 <img src="/images/Curriculum/English/Joy%20of%20Learning/pic1_read.jpeg" style="width:100%"></div>
   
 <div class="column">
-<img src="/images/Curriculum/English/Joy%20of%20Learning/pic2_read.jpeg" style="width:100%">
+<img src="/images/Curriculum/English/Joy%20of%20Learning/pic5_read.jpeg" style="width:100%">
 </div>
 </div>
 
+<div class="column">
+<img src="/images/Curriculum/English/Joy%20of%20Learning/pic2_read.jpeg" style="width:100%">
+</div>
+
+
+<div class="column">
+<img src="/images/Curriculum/English/Joy%20of%20Learning/pic4_read.jpeg" style="width:100%">
+</div>
