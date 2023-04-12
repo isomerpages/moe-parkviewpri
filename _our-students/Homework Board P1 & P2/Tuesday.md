@@ -1,6 +1,6 @@
 ---
 title: Tuesday
-permalink: /our-students/homework-board-p1-and-p2/permalink/
+permalink: /our-students/homework-board-p1-and-p2/tuesday/
 description: ""
 third_nav_title: Homework Board P1 &amp; P2
 ---
