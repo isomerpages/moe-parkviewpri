@@ -10,8 +10,3 @@ Pupils are still expected to exercise personal responsibility in taking down the
 Parents are expected to check your child’s Handbook daily to monitor the homework assignments and take pro-active steps in building up the discipline of your child towards taking personal responsibility.</b></p>
 The Homework Board will be updated between <u>4pm ~ 6pm</u> daily. <br>
 PVPS Homework Boards are by the week (Monday to Friday).
-
-#### Primary 1
-
-
-#### Primary 2
