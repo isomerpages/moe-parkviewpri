@@ -13,7 +13,6 @@ PVPS Homework Boards are by the week (Monday to Friday).
 
 #### Primary 1
 
-<p style="text-align: left;"></p>
 <p style="height: 0px; text-align: left;"></p>
 <div style="text-align: center;">
   <b>&nbsp;1R1</b>
