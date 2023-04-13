@@ -15,8 +15,7 @@ PVPS Homework Boards are by the week (Monday to Friday).
 
 <p style="text-align: left;"></p>
 <p style="height: 0px; text-align: left;"></p>
-<div style="text-align: left;"><b>1R1</b>
-</div>
+<div style="text-align: left;"><b>1R1</b></div>
 <span><div style="text-align: center;">
     <a style="margin-left: 1em; margin-right: 1em;" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_tf-CiFIX2lnW-7jMCKTa6QwlNllSi6ad1vWRMOpdEuHwN2nVSQUnH15H4NH5Ug9qou-s8M7PsJSiOC_zCwLZQcoaFtD1ZD2mxf3BWJptj4biJJhvhmEdVUYnQ5Y5yilNGwRUddo_Y7SgQHgfrv3zQ5zni3S3TUxWeM8C3WzC8vs4nLEgVkibSYhW/s1167/01%20-%201R1.jpeg"><b><img width="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_tf-CiFIX2lnW-7jMCKTa6QwlNllSi6ad1vWRMOpdEuHwN2nVSQUnH15H4NH5Ug9qou-s8M7PsJSiOC_zCwLZQcoaFtD1ZD2mxf3BWJptj4biJJhvhmEdVUYnQ5Y5yilNGwRUddo_Y7SgQHgfrv3zQ5zni3S3TUxWeM8C3WzC8vs4nLEgVkibSYhW/w640-h640/01%20-%201R1.jpeg" height="640" data-original-width="1167" data-original-height="1166" border="0"></b></a>
   </div>
@@ -45,7 +44,6 @@ PVPS Homework Boards are by the week (Monday to Friday).
     <a style="margin-left: 1em; margin-right: 1em;" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyLT9Q9yWL6aFrufSD7ZSwsIuHFdyc28AlUoixyjesFrKzMxWMlqmOQMgDft0fT9WEGCX_guy6iavxu1JRmWIyc2jhDg856VzyVQnWnX4QO4NCnZB-gzjEIN0jISHSUngXL2kCnWdbduD0CuTuikemhsyJAmO5uruP_z1eJ7rPR9YvBTOFfMmGt1-p/s1492/07%20-%201G.jpeg"><b><img width="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyLT9Q9yWL6aFrufSD7ZSwsIuHFdyc28AlUoixyjesFrKzMxWMlqmOQMgDft0fT9WEGCX_guy6iavxu1JRmWIyc2jhDg856VzyVQnWnX4QO4NCnZB-gzjEIN0jISHSUngXL2kCnWdbduD0CuTuikemhsyJAmO5uruP_z1eJ7rPR9YvBTOFfMmGt1-p/w640-h640/07%20-%201G.jpeg" height="640" data-original-width="1491" data-original-height="1492" border="0"></b></a></div></span>
 <p></p>
 <div style="text-align: center;"></div>
-
 
 #### Primary 2
 
