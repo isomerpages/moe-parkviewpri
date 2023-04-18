@@ -3,7 +3,9 @@ title: Letter to Parents
 permalink: /our-stakeholders/letter-to-parents/
 description: ""
 ---
-* [Letter to Parents - 09](/files/2023%20Letter%20to%20Parents/pvps-2023-09%20(combined).pdf)
+* [Letter to Parents - 10](/files/2023%20Letter%20to%20Parents/pvps-2023-10.pdf)
+
+*  [Letter to Parents - 09](/files/2023%20Letter%20to%20Parents/pvps-2023-09%20(combined).pdf)
 
 * [Letter to Parents - 08](/files/2023%20Letter%20to%20Parents/pvps-2023-08.pdf)
 
