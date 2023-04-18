@@ -13,7 +13,6 @@ PVPS Homework Boards are by the week (Monday to Friday).
 
 #### Primary 1
 
-<p></p>
 <div class="separator" style="clear: both; text-align: center;">
   <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc44VCw3a-RdJtwfD_anbez7nr4WXVLgPTzWeCMfYxQ33JN4a23AFJzKgpT40YfUBGucI2rn5goW1_EUSrTQ9r4SbAzwgOT1ts9t6fdM55QRJdGtimPi-86Bj7Z8HQSrHLxjqUk4BwWXOoIT-zNJcyoLJgy2LL27BAIJucLtuifBDD0cIyEGK25PP6/s2048/01%20-%201R1.jpeg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="2048" data-original-width="1536" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhc44VCw3a-RdJtwfD_anbez7nr4WXVLgPTzWeCMfYxQ33JN4a23AFJzKgpT40YfUBGucI2rn5goW1_EUSrTQ9r4SbAzwgOT1ts9t6fdM55QRJdGtimPi-86Bj7Z8HQSrHLxjqUk4BwWXOoIT-zNJcyoLJgy2LL27BAIJucLtuifBDD0cIyEGK25PP6/s320/01%20-%201R1.jpeg" width="240"></a>
 </div>
