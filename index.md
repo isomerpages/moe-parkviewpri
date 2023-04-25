@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/PVPS_Hero Banner_4.jpg
+      background: /images/pvps_hero-banner_gif.gif
       key_highlights:
         - title: Letter to Parents
           description: ""
