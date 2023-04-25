@@ -33,3 +33,8 @@ third_nav_title: Park View Gallery
 
 <iframe src="https://www.youtube.com/embed/JspfHlaRSlk?controls=0" height="345" width="420">
 </iframe>
+
+#####  2022 Excel Fair
+
+<iframe src="https://www.youtube.com/embed/EPBwKXlpR3E?controls=0" height="345" width="420">
+</iframe>
