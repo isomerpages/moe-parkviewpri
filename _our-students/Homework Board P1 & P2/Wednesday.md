@@ -2,7 +2,7 @@
 title: Wednesday
 permalink: /our-students/homework-board-p1-and-p2/wednesday/
 description: ""
-third_nav_title: Homework Board P1 &amp; P2
+third_nav_title: Homework Board P1 & P2
 ---
 <p align="justify"><b>The online version of the homework boards serves as an additional channel for parents’ reference.<br>
 In cases where students may have forgotten to take down the homework assigned to them, the online version allows parents to help themselves to the information through this platform.<br>
