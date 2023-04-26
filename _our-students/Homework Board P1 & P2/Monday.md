@@ -67,6 +67,3 @@ PVPS Homework Boards are by the week (Monday to Friday).
   <a style="margin-left: 1em; margin-right: 1em;" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxVKhk3LHonOcJr6joUvspNpjhvEJo4u_YDANDYeluwq8YyCdwHtwufbh9wY0a5jLH2hG2BLfHGb2n_ww8E99FBrGZlyvMNXyxDShtKctiFrSRy7wJ7RcSKcUjD0ejO5uazTEBm8FNXWk6B2D-ZqiW8oX7z7KUdZhN4BsJn3o1xQu7IqqmmC-5bO1-/s2992/P2%20Tamil%20room.jpg"><img width="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxVKhk3LHonOcJr6joUvspNpjhvEJo4u_YDANDYeluwq8YyCdwHtwufbh9wY0a5jLH2hG2BLfHGb2n_ww8E99FBrGZlyvMNXyxDShtKctiFrSRy7wJ7RcSKcUjD0ejO5uazTEBm8FNXWk6B2D-ZqiW8oX7z7KUdZhN4BsJn3o1xQu7IqqmmC-5bO1-/w640-h640/P2%20Tamil%20room.jpg" height="640" data-original-width="2992" data-original-height="2992" border="0"></a>
 </div>
 <p></p>
-
-
-
