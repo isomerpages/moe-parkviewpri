@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/learning-festival-banner.gif
+      background: /images/learning-festival-banner_v2.gif
       key_highlights:
         - title: Letter to Parents
           description: ""
