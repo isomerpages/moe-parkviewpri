@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/learning-festival-banner_v2.gif
+      background: /images/pvps_learning-festival-banner.gif
       key_highlights:
         - title: Letter to Parents
           description: ""
