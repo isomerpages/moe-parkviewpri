@@ -14,7 +14,7 @@ third_nav_title: Our People
 	<tbody>
 		<tr>
       <td style="border:1px solid black;">ICT Trainer</td>
-<td style="border:1px solid black;">Mdm Tarin Ivy Rose Rodriguez</td>
+<td style="border:1px solid black;">Mr Tyson</td>
 		</tr>
 		 <tr>
       <td style="border:1px solid black;">Desktop Engineer</td>
