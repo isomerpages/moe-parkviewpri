@@ -84,10 +84,7 @@ third_nav_title: Our People
 			<td style="border:1px solid black;"><a href="nurhazimah_abdul_halim@schools.gov.sg">nurhazimah_abdul_halim@schools.gov.sg</a></td>
 		</tr>
 	<tr>
-		<td style="border:1px solid black;">Abdul Rahman Bin Omar</td>
-			<td style="border:1px solid black;"><a href="Abdul_Rahman_Omar@schools.gov.sg">Abdul_Rahman_Omar@schools.gov.sg</a></td>
-		</tr>
-</tbody>
+</tr></tbody>
 </table>
 
 #### Tamil Language
