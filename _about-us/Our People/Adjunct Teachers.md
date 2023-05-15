@@ -52,5 +52,9 @@ third_nav_title: Our People
       <td style="border:1px solid black;">Mdm Norinna</td>
 			<td style="border:1px solid black;"><a href="norinna_musari@schools.gov.sg">norinna_musari@schools.gov.sg</a></td>
 		</tr> 
-</tbody>
+		   <tr><td style="border:1px solid black;">Jeannie Yap</td>
+			<td style="border:1px solid black;"><a href="Jeannie_Yap_Tiew_Li_A@schools.gov.sg">Jeannie_Yap_Tiew_Li_A@schools.gov.sg
+
+</a></td>
+</tr></tbody>
 </table>
