@@ -83,7 +83,8 @@ third_nav_title: Our People
       <td style="border:1px solid black;">Mdm Nurhazimah</td>
 			<td style="border:1px solid black;"><a href="nurhazimah_abdul_halim@schools.gov.sg">nurhazimah_abdul_halim@schools.gov.sg</a></td>
 		</tr>
-</tbody>
+	<tr>
+</tr></tbody>
 </table>
 
 #### Tamil Language
