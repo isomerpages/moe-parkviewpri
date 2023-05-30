@@ -13,10 +13,6 @@ third_nav_title: Our People
 	</thead>
 	<tbody>
 		<tr>
-      <td style="border:1px solid black;">Ms How Yee Lee</td>
-			<td style="border:1px solid black;"><a href="how_yee_lee@schools.gov.sg">how_yee_lee@schools.gov.sg</a></td>
-		</tr>
-		<tr>
       <td style="border:1px solid black;">Mr Kenny Wong</td>
 			<td style="border:1px solid black;"><a href="wong_kai_keong@schools.gov.sg">wong_kai_keong@schools.gov.sg</a></td>
 		</tr>
