@@ -2,7 +2,6 @@ collections:
   our-stakeholders:
     output: true
     order:
-      - For Parents.md
       - School Advisory Committee.md
       - Letter to Parents.md
       - MTP 2023.md
