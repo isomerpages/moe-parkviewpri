@@ -2,6 +2,7 @@ collections:
   our-stakeholders:
     output: true
     order:
+      - For Parents/Parents Handbook.md
       - For Parents/MTP 2023.md
       - For Parents/Information for P1 (Y2023).md
       - For Parents/Insurance Claim.md
