@@ -6,8 +6,53 @@ third_nav_title: Achievements
 ---
 <p align="justify">At Park View, we place emphasis on staff development, devoting much resources into this area, so that our staff are well-equipped to look into the well-being and development of our students in the various domains, while growing themselves professionally and personally. We are proud of the following achievements of our staff at national level:</p>
 
-### 2022 - MSEA
+### NATIONAL AWARDS (COVID-19)
 
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+	<thead>
+		<tr>
+			<th style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">COVID-19 RESILIENCE MEDAL</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Ng Tee Tee<br>Teo Chui Ping<br>
+                Tay Lip Seng
+			</td>
+		</tr>
+             </tbody>
+             </table>
+
+### 2022 - National Day Awards
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+	<thead>
+		<tr>
+			<th style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">The Commendation Medal</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				       Soh Chin Ping Eileen
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>The Long Service Medal</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				        Zahrah Bte Mohamed Abbas
+			</td>
+		</tr>
+             </tbody>
+             </table>
+
+
+### 2022 - MSEA
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 	<thead>
