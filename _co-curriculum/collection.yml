@@ -2,12 +2,12 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Sports & Games/Hockey.md
-      - Sports & Games/Volleyball.md
-      - Sports & Games/Football.md
-      - Sports & Games/Netball.md
-      - Sports & Games/Wushu.md
       - Sports & Games/.keep
+      - Sports & Games/Football.md
+      - Sports & Games/Hockey.md
+      - Sports & Games/Netball.md
+      - Sports & Games/Volleyball.md
+      - Sports & Games/Wushu.md
       - Performing Arts/Performing Arts.md
       - Performing Arts/Creative Dance.md
       - Performing Arts/Guzheng.md
