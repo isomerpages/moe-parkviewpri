@@ -19,7 +19,7 @@ In Netball, we believe in developing each player to her fullest potential in the
 	</td>
 	</tr>
 	<tr>
-	<th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th>
+	<th style="border-color:#000000;solid;border-width:1px;">Training Dates</th>
 	<td style="border-color:#000000;solid;border-width:1px;"><u><b>Thursdays</b></u><br>P4 - P6 (School Team)<br>3.30pm – 5.30pm<br>Netball Court (Indoor Sports Hall)<br><br>
 	<u><b>Fridays</b></u>
 <br>7.30am to 9.00am (All members)<br>
