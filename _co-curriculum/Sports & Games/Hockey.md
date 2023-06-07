@@ -45,7 +45,7 @@ Mdm Zatty Sabrina
 	</td>
 	</tr>
 	<tr>
-	<th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th>
+	<th style="border-color:#000000;solid;border-width:1px;">Training Dates</th>
 	<td style="border-color:#000000;solid;border-width:1px;"><u><b>Tuesdays</b></u><br>P4, P5 &amp; P6 Boys<br>3.30pm – 5.30pm<br>Sheltered Court (ISH)<br><br>
 	<u><b>Fridays</b></u>
 <br>All students<br>
