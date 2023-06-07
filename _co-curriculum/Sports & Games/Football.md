@@ -4,7 +4,7 @@ permalink: /co-curriculum/Sports-and-Games/Football/
 description: ""
 third_nav_title: Sports & Games
 ---
-<p align="">Park View Primary School Football CCA was started in 1998. Since then, we have taken part in the East Zone SPSSC Inter-Primary Football Championships, National Inter-Primary Football Championships, numerous FAS-led tournaments and friendlies.
+<p align="justify">Park View Primary School Football CCA was started in 1998. Since then, we have taken part in the East Zone SPSSC Inter-Primary Football Championships, National Inter-Primary Football Championships, numerous FAS-led tournaments and friendlies.
 <br>
 At present, we have 76 active members, consisting of Primary 3 to Primary 6 boys, who train once or twice a week at the school field under the supervision of our coach, Mr. Fathi. We also have a dedicated team of teachers who supervise them during training sessions and accompany them out for tournaments and friendlies. 
 <br>
