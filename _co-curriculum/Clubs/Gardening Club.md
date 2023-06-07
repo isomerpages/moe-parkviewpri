@@ -4,8 +4,6 @@ permalink: /co-curriculum/Clubs/gardening-clubs/
 description: ""
 third_nav_title: Clubs
 ---
-# **Gardening Club**
-
 Park View Primary School Gardening Club has been established since 2013. It is currently run by Mdm Zahrah and Miss June Quek and has a strength of 33 students under their charge.
 
 The gardening members are given the opportunity to tend to the plants in the different gardening plots around the school like the spice garden, cactus garden, flowering garden and fern garden and learn about their adaption.&nbsp;
