@@ -8,7 +8,6 @@ third_nav_title: Sports & Games
 Wushu (武术) is a form of contemporary Chinese martial arts that blends elements of performance and martial application. Wushu training emphasizes quickness, explosive power, natural and relaxed movement. The wushu practitioner must combine flexibility with strength, speed with flawless technique, discipline and controlled execution. There are also opportunities for our students to develop SEL competencies through Internal School performance and National School Games Wushu Championship.</p>
 
 
-
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Miss Low Kin Eng(OIC)<br>  
 Mdm Chen Shuang Shuang
 	</td>
