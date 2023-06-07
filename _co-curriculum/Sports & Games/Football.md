@@ -18,7 +18,7 @@ Mr Muslim
 	</td>
 	</tr>
 	<tr>
-	<th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th>
+	<th style="border-color:#000000;solid;border-width:1px;">Training Dates</th>
 	<td style="border-color:#000000;solid;border-width:1px;"><u><b>Tuesdays</b><br></u>3.30pm – 5.30pm (Selected Students)<br>School Field<br><br>
 	<u><b>Fridays</b></u>
 <br>7.30am to 9.00am (All members)<br>
