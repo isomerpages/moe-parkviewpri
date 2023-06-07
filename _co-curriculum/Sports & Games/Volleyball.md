@@ -30,7 +30,7 @@ Mdm Patricia Yeo (Girls Team)
 	</td>
 	</tr>
 	<tr>
-	<th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th>
+	<th style="border-color:#000000;solid;border-width:1px;">Training Dates</th>
 	<td style="border-color:#000000;solid;border-width:1px;"><u><b>Tuesdays &amp; Thursdays</b></u><br>Boys &amp; Girls (Selected students)<br>3.30pm – 5.30pm<br>School Hall<br><br>
 	<u><b>Fridays</b></u>
 <br>Boys &amp; Girls (All students)
