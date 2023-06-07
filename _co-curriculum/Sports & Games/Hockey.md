@@ -38,25 +38,27 @@ The training usually ends with 2 sided games for the players to apply the skills
 <p align="justify">
 As the East Zone COE (Centre of Excellence), we have organised hockey events to promote the game of hockey in collaboration with Singapore Hockey Federation (SHF). East zone COE Hockey 3’s clinic and tournament was held in Sengkang Hockey stadium in January 2015.&nbsp; Indoor Hockey carnival was also held in Park View Primary School in November 2015. For both events, there were participation from schools not only from East zone. SHF was also involved in our&nbsp;school’s post exam activities for P6 pupils by providing umpires for the inter-class indoor hockey tournament.</p>
 
-<h4>Teachers-in-Charge</h4>
-Mr Azmi Bin Kasim (OIC)<br>  
-Mdm Tan Xiuling<br>
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Mr Azmi Bin Kasim (OIC)<br>  
+Mdm Tan Xiuling<br>  
 Mdm Zatty Sabrina
-
-<h4>Coaches</h4>
-Ms Syasya Rifqah bte Sanip
-
-<h4>Training Schedule</h4>
-
-<b><u>Tuesdays</u></b><br> 
-P4, P5 &amp; P6 Boys<br>
-3.30pm- 5.30pm<br>
-Sheltered Court (ISH)
-  
-<b><u>Fridays</u></b><br>
-All students<br>
-7.30am - 9.00am<br>
-Futsal Court
+	</td>
+	</tr>
+	<tr>
+	<th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th>
+	<td style="border-color:#000000;solid;border-width:1px;"><u><b>Tuesdays</b></u><br>P4, P5 &amp; P6 Boys<br>3.30pm – 5.30pm<br>Sheltered Court (ISH)<br><br>
+	<u><b>Fridays</b></u>
+<br>All students<br>
+<br>7.30am to 9.00am (All members)<br>
+Futsal Court<br>
+</td>
+</tr>
+	<tr>
+	<th style="border-color:#000000;solid;border-width:1px;">Coach</th>
+	<td style="border-color:#000000;solid;border-width:1px;">Ms Syasya Rifqah bte Sanip</td>
+	</tr>
+	</tbody>
+	</table>
 
 <h3>Achievements</h3>
 
