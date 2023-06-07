@@ -28,44 +28,45 @@ Students are allowed to bring and change into their own sport shoes during train
 
 <p align="justify">Girls with short or long hair are required to keep their hair tied or pinned up during training. Nails are also to be kept short for personal hygiene and safety.</p>
 
-<h4>Teachers-in-Charge</h4>
-Mrs Helen Chong (Boys Team)<br>  
-Mdm Angeline Loo (Boys Team) <br>
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Mrs Helen Chong (Boys Team)<br>  
+Mdm Angeline Loo (Boys Team)<br>
 Miss Phoebe Goh (Girls Team)<br>  
 Mdm Patricia Yeo (Girls Team)
-
-<h4>Coaches</h4>
-Mr Toh Zi Cong (Boys)<br>
-Ms Sheefa Khan (Girls)<br>
-
-<h4>Training Schedule</h4>
-
-<b><u>Tuesdays & Thursdays</u></b><br> 
-Boys & Girls (Selected students)<br>
-3.30pm- 5.30pm<br>
-School Hall
-  
-<b><u>Fridays</u></b><br>
-Boys & Girls (All students)<br>
-7.30am - 9.00am (All students)<br>
-School Hall
+	</td>
+	</tr>
+	<tr>
+	<th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th>
+	<td style="border-color:#000000;solid;border-width:1px;"><u><b>Tuesday &amp; Thursdays</b></u><br><br>Boys &amp; Girls (Selected students)<br>3.30pm – 5.30pm<br>School Hall<br><br>
+	<u><b>Fridays</b></u>
+<br>Boys &amp; Girls (All students)<br>
+<br>7.30am to 9.00am (All members)<br>
+School Hall)<br>
+</td>
+</tr>
+	<tr>
+	<th style="border-color:#000000;solid;border-width:1px;">Coach</th>
+	<td style="border-color:#000000;solid;border-width:1px;">Mr Toh Zi Cong (Boys)<br>  
+Ms Sheefa Khan (Girls)</td>
+	</tr>
+	</tbody>
+	</table>
 
 <h3>Achievements</h3>
 
-<h5 style="text-align:center;">2022 National School Games Volleyball Competition (Nationals)</h4>
+<h5 style="text-align:center;">2022 National School Games Volleyball Competition (Nationals)</h5>
 <p style="text-align:center;">Junior Boys - Top 10 in National (Tier 1 - National)</p>
 <p style="text-align:center;">Junior Girls - 2nd in Group (Tier 2 - National)</p>
 
-<h5 style="text-align:center;">2021 National School Games Volleyball Competition (Nationals)</h4>
+<h5 style="text-align:center;">2021 National School Games Volleyball Competition (Nationals)</h5>
 
 <p style="text-align:center;">Senior Boys- 4th</p>
 <p style="text-align:center;">No competition for Juniors due to Covid-19.</p>
 
-<h5 style="text-align:center;">2020 National School Games Volleyball Competition (Zonal)</h4>
+<h5 style="text-align:center;">2020 National School Games Volleyball Competition (Zonal)</h5>
 
 <p style="text-align:center;">No competition due to Covid-19.</p>
 
-<h5 style="text-align:center;">2019 National School Games Volleyball Competition (Zonal)</h4>
+<h5 style="text-align:center;">2019 National School Games Volleyball Competition (Zonal)</h5>
 
 <p style="text-align:center;">Senior Boys – 2nd</p>
 <p style="text-align:center;">Senior Girls – 1st</p>
