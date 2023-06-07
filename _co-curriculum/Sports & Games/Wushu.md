@@ -13,7 +13,7 @@ Mdm Chen Shuang Shuang
 	</td>
 	</tr>
 	<tr>
-	<th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th>
+	<th style="border-color:#000000;solid;border-width:1px;">Training Dates</th>
 	<td style="border-color:#000000;solid;border-width:1px;"><u><b>Mondays</b><br></u>3.30pm – 5.30pm (School Team)<br>ISH Level 6<br><br>
 	<u><b>Fridays</b></u>
 <br>7.30am to 9.00am<br>
