@@ -49,7 +49,7 @@ third_nav_title: Achievements
 			</td>
 		</tr>
 			<tr>
-			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Cognitive - Library Fiesta - Level Competitons (Participation) </b>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Cognitive - Library Fiesta - Level Competitons  </b>
 			</td>
 		</tr>
 		<tr>
@@ -82,7 +82,7 @@ third_nav_title: Achievements
 					</td>
 		</tr>
 		<tr>
-					<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - 7th National Primary School "Picture Book Creation" Competition (Participation)</b>
+					<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - 7th National Primary School "Picture Book Creation" Competition </b>
 			</td>
 		</tr>
 		<tr>
@@ -99,7 +99,7 @@ third_nav_title: Achievements
 					</td>
 		</tr>
 		<tr>
-			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - 5th Text Recital Competition For Primary &amp; Secondary Schools Lower Primary Group Category (Participation)</b>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - 5th Text Recital Competition For Primary &amp; Secondary Schools Lower Primary Group Category </b>
 			</td>
 		</tr>
 		<tr>
