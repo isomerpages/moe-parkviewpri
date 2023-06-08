@@ -4,8 +4,6 @@ permalink: /co-curriculum/clubs/info-comm-club/info/
 description: ""
 third_nav_title: Clubs
 ---
-Click [here](/co-curriculum/clubs/info-comm-club) for more information.
-
 PVPS Infocomm Club aims to excite students in a fun and meaningful way by helping them to learn new technology skills and to cultivate leadership and entrepreneurship capabilities at an early age.
 
 Our Infocomm Club programmes include Introduction to Photography and Video Making, which includes photo taking techniques, skills in shooting, lighting techniques and video editing. Students will also have the opportunity to produce a short motion video using props.
@@ -61,10 +59,13 @@ body {
 <!-- Photo Grid -->
 <div class="row"> 
 <div class="column">
-<img src="/images/Curriculum/PE/P5%20Outdoor%20Adventure%20Learning%20Camp_2.png" style="width:100%">
-<img src="/images/Curriculum/PE/P5%20Outdoor%20Adventure%20Learning%20Camp_3.png" style="width:100%"></div>
+<img src="images/CCA/Infocomm%20Club/infocom%20-%201.jpg" style="width:100%">
+<img src="images/CCA/Infocomm%20Club/infocom%20-%203.jpg" style="width:100%">
+	<img src="images/CCA/Infocomm%20Club/infocom%20-%205.jpg" style="width:100%"></div>
   
 <div class="column">
-<img src="/images/Curriculum/PE/P5%20Outdoor%20Adventure%20Learning%20Camp_4.png" style="width:100%">
-<img src="/images/Curriculum/PE/P5%20Outdoor%20Adventure%20Learning%20Camp_5.png" style="width:100%"></div>
+<img src="images/CCA/Infocomm%20Club/infocom%20-%202.jpg" style="width:100%">
+<img src="images/CCA/Infocomm%20Club/infocom%20-%204.jpg" style="width:100%"></div>
 </div>
+
+Click [here](/co-curriculum/clubs/info-comm-club) for more information.
