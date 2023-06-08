@@ -268,5 +268,18 @@ third_nav_title: Achievements
 					</td>
 		</tr>
 		<tr>
-	</tr></tbody>
+					<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - SYF Performing Arts Competition</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"> Guzheng (Participation)<br>Creative Dance (Participation)
+					</td>
+		</tr>
+		<tr>
+		<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - Active Contributor Award</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Goh Zong Kai - 1R2<br>Mohamed Iman Aliff Bin Abdul Karim - 1R2<br>Hanna Sophia Binte Muhammad Sophian - 2R3<br>Yana Panchmatiya - 3R1<br>Aadarsh Shrivastava - 3I<br>Wang Xiyuan - 4I<br>
+	</td></tr></tbody>
 </table>
