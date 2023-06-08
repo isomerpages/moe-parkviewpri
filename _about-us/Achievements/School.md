@@ -207,7 +207,7 @@ third_nav_title: Achievements
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> 1st in Junior Boys</b><br>Mikhail Zheng Xi Bin Muhd Zaid
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> 1st in Junior Boys</b><br>Mikhail Zheng Xi Bin Muhd Zaid - 2C
 					</td>
 		</tr>
 		<tr>
@@ -247,8 +247,8 @@ third_nav_title: Achievements
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Consolation Prize</b><br>Teo Zhi Xuan - 4R3<br><b>Consolation Prize</b><br>Leng Jih Xuan
-					</td>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Consolation Prize</b><br>Teo Zhi Xuan - 4R3<br>Leng Jih Xuan - 4R3 
+			</td>
 		</tr>
 		<tr>
 					<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - Art Competitions</b>
