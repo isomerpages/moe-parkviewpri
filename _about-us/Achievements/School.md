@@ -194,5 +194,14 @@ third_nav_title: Achievements
 		</tr>
 		<tr>
 			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Junior Division</b><br>(East Zone 4th Place)
+	</td>
+		</tr>
+		
+		<tr>
+					<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - Football National School Games </b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Junior Division</b><br>(Tier 2 Group Champion)
 	</td></tr></tbody>
   </table>
