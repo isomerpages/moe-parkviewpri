@@ -187,7 +187,6 @@ third_nav_title: Achievements
 			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Junior Division</b><br>(Tier 2 Group Champion)
 	</td>
 		</tr>
-		
 		<tr>
 					<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - Netball National School Games</b>
 			</td>
@@ -195,13 +194,37 @@ third_nav_title: Achievements
 		<tr>
 			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Junior Division</b><br>(East Zone 4th Place)
 	</td>
-		</tr>
-		
+		</tr>		
 		<tr>
-					<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - Football National School Games </b>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive -Wushu National School Games Senior Team</b>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Junior Division</b><br>(Tier 2 Group Champion)
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Individual of 5 - Duan Nanquan</b><br>Jayden Ong - 6I (Bronze)
+					</td>
+		</tr>		
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive -National Primary Schools Sport Climbing Championships</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> 1st in Junior Boys</b><br>Mikhail Zheng Xi Bin Muhd Zaid
+					</td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - Singapore International Children Art Competition</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Teo Zhi Xuan - 4R3 (Bronze)
+					</td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - Long Term Plan Review Art Competition</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>2nd Place</b><br>Teo Zhi Xuan - 4R3<br><b>Commendation Award</b><br>Emiley Abigail Lim - 2R1
 	</td></tr></tbody>
-  </table>
+</table>
+	
