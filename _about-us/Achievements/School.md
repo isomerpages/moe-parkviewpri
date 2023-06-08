@@ -4,7 +4,7 @@ permalink: /about-us/Achievements/school/
 description: ""
 third_nav_title: Achievements
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-BnL4DcAhJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
 
 #### 2022
 
@@ -22,30 +22,30 @@ third_nav_title: Achievements
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Cognitive - YMCA Plain English Speaking Award (Participation)</b>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Cognitive - YMCA Plain English Speaking Award </b>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-				Hu Bo Yue - 2C<br> Hannah Bte Muhammad Shafiq - 4C <br> Binal Sachinkumar Parekh - 4H <br> Sanaa J Darvinder - 5I <br> Isabelle Fong - 5R3
+				Hu Bo Yue - 2C (Participation)<br> Hannah Bte Muhammad Shafiq - 4C (Participation)<br> Binal Sachinkumar Parekh - 4H (Participation) <br> Sanaa J Darvinder - 5I (Participation) <br> Isabelle Fong - 5R3 (Participation)
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - Creative Writing Programme (Participation)</b>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-				Bawar Aliyah Sherise - 5R3<br>Isabelle Fong - 5R3 <br> Thient Wathone Kyaw, Yvonne - 5R3
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Cognitive - National English Writing Competition (Participation) </b>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - Creative Writing Programme </b>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-				Choo Si Jie - 3R3<br>Binal SachinKumar Parekh - 4H<br> Wu Yun-Hsuan - 5R3
+				Bawar Aliyah Sherise - 5R3 (Participation)<br>Isabelle Fong - 5R3 (Participation) <br> Thient Wathone Kyaw, Yvonne - 5R3 (Participation)
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Cognitive - National English Writing Competition </b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Choo Si Jie - 3R3 (Participation) <br>Binal SachinKumar Parekh - 4H (Participation)<br> Wu Yun-Hsuan - 5R3 (Participation)
 			</td>
 		</tr>
 			<tr>
@@ -87,7 +87,7 @@ third_nav_title: Achievements
 		</tr>
 		<tr>
 			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-				Koh Zi Le Zach - 6I <br>Teo Zhen Xun - 6I <br> Ong Jie Yang, Jayden - 6I <br> Lim Ding En Noah 6I
+				Koh Zi Le Zach - 6I <br>Teo Zhen Xun - 6I <br> Ong Jie Yang, Jayden - 6I <br> Lim Ding En Noah - 6I
 			</td>
 		</tr>
 		<tr>
@@ -95,8 +95,8 @@ third_nav_title: Achievements
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Individual </b><br>Wu Junqing - 2H (Silver Award)<br>
-				<br><b>Group</b><br>Yap Ing KeK Caleb - 2I<br>Feng Ruiyi - 2C<br>Tan Shaw Qy - 3C,<br> Li Xin Yi - 3R2
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Individual </b><br>Wu Junqing - 2H (Silver)<br>
+				<br><b>Group</b><br>Yap Ing KeK Caleb - 2I (Bronze)<br>Feng Ruiyi - 2C (Bronze)<br>Tan Shaw Qy - 3C (Bronze)<br> Li Xin Yi - 3R2 (Bronze)
 			 </td>
 		</tr>
 		<tr>
@@ -104,9 +104,8 @@ third_nav_title: Achievements
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Individual</b>  <br>Chen Yu-Fei - 4C (Bronze Award)<br><br><b>Group</b>
-	<br>Natathan Koh Zheng Xuan - 4C (Silver Award)<br>Goh Jing Xuan Gebevieve - 4H  (Silver Award)<br>Jian Fang Fei - 4R3 (Silver Award)<br>
-				<br>Arielle Cheong Hui En - 4R2 (Bronze Award)<br>Lin Huan Yu - 4R1(Bronze Award)<br>Zhang Hao Zhe - 4R2(Bronze Award) 
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Individual</b>  <br>Chen Yu-Fei - 4C (Bronze)<br><br><b>Group</b>
+	<br>Nathan Koh Zheng Xuan - 4C (Silver)<br>Goh Jing Xuan Genevieve - 4H  (Silver)<br>Jian Fang Fei - 4R3 (Silver)<br>Arielle Cheong Hui En - 4R2 (Bronze)<br>Lin Huan Yu - 4R1(Bronze)<br>Zhang Hao Zhe - 4R2(Bronze) 
 			</td>
 		</tr>
 		<tr>
@@ -121,12 +120,12 @@ third_nav_title: Achievements
 					</td>
 		</tr>
 		<tr>
-					<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Cognitive - Poi Ching School National Pri Schools Calligraphy Competition (Participation) </b>
+					<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Cognitive - Poi Ching School National Pri Schools Calligraphy Competition</b>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-				Shao Yun Qi - 3R2<br>Bai Zhao Jun - 3R2<br> Fang Jia Hang - 3I<br>Weng Li Xin - 4C<br>Zhang LuoYi - 4R3<br>Berlynn Tan Si Hui - 3C<br>Jaime Wong - 5R3
+				Shao Yun Qi - 3R2 (Participation)<br>Bai Zhao Jun - 3R2 (Participation)<br> Fang Jia Hang - 3I (Participation)<br>Weng Li Xin - 4C (Participation)<br>Zhang LuoYi - 4R3 (Participation)<br>Berlynn Tan Si Hui - 3C (Participation)<br>Jaime Wong - 5R3 (Participation)
 			</td>
 		</tr>
 			<tr>
@@ -134,21 +133,15 @@ third_nav_title: Achievements
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Silver</b> 
-				<br>Bhatia Ved
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Bhatia Vedansh - 5R3 (Silver)<br>Clarice Khew Tong Yu - 5R3 (Bronze)<br>Lim Joseph - 5R3 (Bronze)<br>Pan Junni 5R3 - (Bronze)
 				</td>
-		</tr>
-		<tr>
-			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-				Clarice Khew - 5R3 (Bronze)<br>Lim Joseph - 5R3 (Bronze)<br> Lim Joseph - 5R3(Bronze)<br>Pan Junni 5R3 (Bronze)
-			</td>
 		</tr>
 			<tr>
 			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Cognitive - Singapore Mathematical Olympial For Primary Schools </b>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Bronze</b><br>Jessica Jinghan 6I<br>TIT Shao 6I<br>Pan Junni - 5R3
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Jessica Xiao Jinghan - 6I (Bronze)<br>TIT Shao Ze - 6I (Bronze)<br>Shaistah Nadia Binte Mohamed Hasim - 6I (Bronze)
 					</td>
 		</tr>
 		<tr>
@@ -157,7 +150,7 @@ third_nav_title: Achievements
 		</tr>
 		<tr>
 			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-			Ahmad Alhady Bin Shahrunzam <br>Bhatia Vedansh<br>Koka Menaja Sathya Sai Durga<br>Por uo Xi J'nise,<br>Sukrit Nautiya
+			Ahmad Alhady Bin Shahrunzam (Participation)<br>Bhatia Vedansh (Participation)<br>Koka Menaja Sathya Sai Durga (Participation)<br>Por uo Xi J'nise (Participation)<br>Sukrit Nautiya (Participation)
 						</td>
 		</tr>
 		<tr>
@@ -182,9 +175,110 @@ third_nav_title: Achievements
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Junior Division</b><br>(2nd Position - Tier 2)<br><b>Junior Division</b><br>(Top 10 - Tier 1)
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Junior Division</b><br>(2nd Position - Tier 2)<br><b>Junior Division</b><br>(Top 10 - Tier 1)<br>
 						</td>
 		</tr>
 		<tr>
-	</tr></tbody>
-  </table>
+					<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - Football National School Games </b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Junior Division</b><br>(Tier 2 Group Champion)
+	</td>
+		</tr>
+		<tr>
+					<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - Netball National School Games</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Junior Division</b><br>(East Zone 4th Place)
+	</td>
+		</tr>		
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive -Wushu National School Games Senior Team</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Individual of 5 - Duan Nanquan</b><br>Jayden Ong - 6I (Bronze)
+					</td>
+		</tr>		
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive -National Primary Schools Sport Climbing Championships</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> 1st in Junior Boys</b><br>Mikhail Zheng Xi Bin Muhd Zaid - 2C
+					</td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - Singapore International Children Art Competition</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Teo Zhi Xuan - 4R3 (Bronze)
+					</td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - Long Term Plan Review Art Competition</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>2nd Place</b><br>Teo Zhi Xuan - 4R3<br><b>Commendation Award</b><br>Emiley Abigail Lim - 2R1
+	</td>
+		</tr>
+			<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - Staedtler Colouring Contest</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Consolation Prize</b><br>Teo Zhi Xuan - 4R3 
+					</td>
+		</tr>
+		<tr>
+					<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - Pasir Ris Our Home Colouring Contest</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>2nd Prize</b><br>Teo Zhi Xuan - 4R3 
+					</td>
+		</tr>
+		<tr>
+					<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive -Sing Chu Children's Day Competition </b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Consolation Prize</b><br>Teo Zhi Xuan - 4R3<br>Leng Jih Xuan - 4R3 
+			</td>
+		</tr>
+		<tr>
+					<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - Art Competitions</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">SOTA P6 Art Competition (Participation)<br><br>13th KAO International Environment Painting Contest for Children (Participation)<br><br>Draw My Stamp Story Art Competiton (Participation)<br><br>Singapore Mobility Gallery (Participation)
+					</td>
+		</tr>
+		<tr>
+					<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - Singapore Book of Records</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Largest Display Of String Art</b><br>1620 (String art)
+					</td>
+		</tr>
+		<tr>
+					<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - SYF Performing Arts Competition</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"> Guzheng (Participation)<br>Creative Dance (Participation)
+					</td>
+		</tr>
+		<tr>
+		<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - Active Contributor Award</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Goh Zong Kai - 1R2<br>Mohamed Iman Aliff Bin Abdul Karim - 1R2<br>Hanna Sophia Binte Muhammad Sophian - 2R3<br>Yana Panchmatiya - 3R1<br>Aadarsh Shrivastava - 3I<br>Wang Xiyuan - 4I<br>Lin Huanyu - 4R1<br>Aleyna Isabella Nur Alfino - 5R1<br>Theint Wathone Kyaw - 5R3<br>Tan Shi En Fion - 5R1<br>Batra Sarabsukh Singh - 6R3
+	</td></tr></tbody>
+</table>

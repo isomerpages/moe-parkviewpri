@@ -26,33 +26,51 @@ It also aims to promote awareness of the diversity of plants and to educate stud
 	</tbody>
 	</table>
 
+<style>
+* {
+  box-sizing: border-box;
+}
 
-### Achievements
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.column img {
+  margin-top: 12px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
 
 
-
-
-| **Event** 	| **Achievements** 	| **Year** 	|
-| ---	| ---	| ---	|
-| Community in Bloom    	| Gold 	| 2018 	|
-| Community in Bloom    	| Silver 	| 2016 	|
-| Community in Bloom     	| Bronze  	| 2014  	|
-
-
-
-![](/images/GC%201.jpeg)
-
-![](/images/GC2.jpeg)
-
-![](/images/GC3.jpeg)
-
-![](/images/GC4.jpeg)
-
-<img src="/images/gardening.jpg" style="width:70%">
-
-<img src="/images/Gardening1.jpg" style="width:70%">
-
-**Community In Bloom Awards in 2014 (Silver), 2016 (Silver) and 2018 (Gold)**
+<!-- Photo Grid -->
+<div class="row"> 
+<div class="column">
+<img src="/images/GC%201.jpeg" style="width:100%">
+<img src="/images/GC2.jpeg" style="width:100%">
+	<img src="/images/GC3.jpeg" style="width:100%"></div>
+  
+<div class="column">
+<img src="/images/GC4.jpeg" style="width:100%">
+<img src="/images/gardening.jpg" style="width:100%">
+<img src="/images/Gardening1.jpg" style="width:100%">
+</div>
 
 NParks has been spearheading the Community In Bloom (CIB) programme to create gardening communities within housing estates, educational institutions and organisations in Singapore by partnering various stakeholders including residents, government agencies, grassroots organisations, schools and organisations. Community In Bloom Awards aims to:
 
@@ -61,31 +79,50 @@ NParks has been spearheading the Community In Bloom (CIB) programme to create ga
 *   Set &amp; improve the standards of community gardens located in communal spaces
 *   Spread the gardening bug to others in the community so that they too can discover the joy of gardening
 
-<img src="/images/gardening%20club.jpg" style="width:70%">
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.column img {
+  margin-top: 12px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
 
 
-### Community Projects
-
-|  	|  	|  	|
-|---	|---	|---	|
-| SG 50 Garden Project orgainsed by Turf Club and New Paper 	| Gold 	| 2018 	|
-| NE Community Project “SG 50 CIB Gardens ‘2065’ “ 	| Silver 	| 2016 	|
-
-
-
-
-
-<img src="/images/Gardening_1.jpg" style="width:70%">
-
-<img src="/images/img-150624135549-0001.jpg" style="width:50%">
-
-
-<b>Gardeners after CCA Session</b>
-
-<img src="/images/Gardening_2.jpg" style="width:50%">
-
-<b>Visited Meridian Primary School</b>
-
-<img src="/images/Gardening_3.jpg" style="width:50%">
-		 
-<img src="/images/Gardening_4.jpg" style="width:50%">
+	
+<!-- Photo Grid -->
+<div class="row"> 
+<div class="column">
+<img src="/images/Gardening_1.jpg" style="width:100%">
+<img src="/images/img-150624135549-0001.jpg" style="width:100%">
+	<img src="/images/Gardening_2.jpg" style="width:100%"></div>
+  
+<div class="column">
+<img src="/images/Gardening_3.jpg" style="width:100%">
+<img src="/images/Gardening_4.jpg" style="width:100%">
+<img src="/images/gardening%20club.jpg" style="width:100%">
+</div></div></div>

@@ -57,6 +57,8 @@ third_nav_title: Our People
 </a></td></tr>	
 					 <tr><td style="border:1px solid black;">Abdul Rahman Bin Omar</td>
 			<td style="border:1px solid black;"><a href="Abdul_Rahman_Omar@schools.gov.sg">Abdul_Rahman_Omar@schools.gov.sg
-</a></td></tr>
+</a>
+		</td>
+		</tr>
 	</tbody>
 </table>
