@@ -26,7 +26,7 @@ To enable and encourage our students to be active after leaving school, with a g
 <li>Enhance holistic assessment of student learning and physical development via PE Holistic Development Profile (HDP):</li></ul>
 
 \- self and peer assessment (subject-based/learning outcomes)<br>
-\- self and peer assessment (in Values, SEL & 21CC)
+\- self and peer assessment (in Values, SEL &amp; 21CC)
 
 ### Enrichment Programme
 
@@ -68,7 +68,7 @@ body {
 }
 </style>
 
-<body>
+
 <!-- Photo Grid -->
 <div class="row"> 
 <div class="column">
@@ -78,7 +78,7 @@ body {
 <img src="/images/Curriculum/PE/Jump%20Rope_2.jpg" style="width:100%">
 </div>
 </div>
-</body>
+
 
 ##### P2 Wushu Enrichment
 
@@ -118,7 +118,7 @@ body {
 }
 </style>
 
-<body>
+
 <!-- Photo Grid -->
 <div class="row"> 
 <div class="column">
@@ -128,7 +128,7 @@ body {
 <img src="/images/Curriculum/PE/Wushu_2.jpg" style="width:100%">
 </div>
 </div>
-</body>
+
 
 ##### P5 Outdoor Adventure Learning Camp (Residential)
 
@@ -187,8 +187,8 @@ body {
 }
 </style>
 
-<body>
-	<img src="/images/Curriculum/PE/P5%20Outdoor%20Adventure%20Learning%20Camp_1.png" style="width:100%">
+
+	
 <!-- Photo Grid -->
 <div class="row"> 
 <div class="column">
@@ -199,13 +199,13 @@ body {
 <img src="/images/Curriculum/PE/P5%20Outdoor%20Adventure%20Learning%20Camp_4.png" style="width:100%">
 <img src="/images/Curriculum/PE/P5%20Outdoor%20Adventure%20Learning%20Camp_5.png" style="width:100%"></div>
 </div>
-</body>
+
 
 ### School Events
 
-##### PVPS Family Run & Walk Challenge
+##### PVPS Family Run &amp; Walk Challenge
 
-<p align="justify">To deepen the enjoyment of active and healthy living, encourage students and their family members to stay active, and to promote family bonding through participation in physical activities together, the PE department organizes the yearly PVPS Family Run & Walk Challenge where the students (accompanied by an adult family member at all times) would run and/or walk a specific distance within the stipulated time period. Screenshots of the runs will be submitted via a google form for tabulation after every workout. Students who accomplish the Challenge will win prizes that include medals, water bottles, finisher tees, etc.</p>
+<p align="justify">To deepen the enjoyment of active and healthy living, encourage students and their family members to stay active, and to promote family bonding through participation in physical activities together, the PE department organizes the yearly PVPS Family Run &amp; Walk Challenge where the students (accompanied by an adult family member at all times) would run and/or walk a specific distance within the stipulated time period. Screenshots of the runs will be submitted via a google form for tabulation after every workout. Students who accomplish the Challenge will win prizes that include medals, water bottles, finisher tees, etc.</p>
 
 <style>
 * {
@@ -239,19 +239,19 @@ body {
 }
 </style>
 
-<body>
+
 <!-- Photo Grid -->
 <div class="row"> 
 <div class="column">
-<img src="/images/Curriculum/PE/PVPS%20Family%20Run%20&%20Walk%20Challenge_1.png" style="width:100%">
-<img src="/images/Curriculum/PE/PVPS%20Family%20Run%20&%20Walk%20Challenge_3.png" style="width:100%"></div>
+<img src="/images/Curriculum/PE/PVPS%20Family%20Run%20&amp;%20Walk%20Challenge_1.png" style="width:100%">
+<img src="/images/Curriculum/PE/PVPS%20Family%20Run%20&amp;%20Walk%20Challenge_3.png" style="width:100%"></div>
   
 <div class="column">
-<img src="/images/Curriculum/PE/PVPS%20Family%20Run%20&%20Walk%20Challenge_2.png" style="width:100%">
-<img src="/images/Curriculum/PE/PVPS%20Family%20Run%20&%20Walk%20Challenge_4.png" style="width:100%">
+<img src="/images/Curriculum/PE/PVPS%20Family%20Run%20&amp;%20Walk%20Challenge_2.png" style="width:100%">
+<img src="/images/Curriculum/PE/PVPS%20Family%20Run%20&amp;%20Walk%20Challenge_4.png" style="width:100%">
 </div>
 </div>
-</body>
+
 
 ##### PVPS Olympics
 
@@ -290,8 +290,8 @@ body {
 }
 </style>
 
-<body>
-	<img src="/images/Curriculum/PE/PVPS%20Olympics_2.png">
+
+
 <!-- Photo Grid -->
 <div class="row"> 
 <div class="column">
@@ -302,7 +302,7 @@ body {
 <img src="/images/Curriculum/PE/PVPS%20Olympics_4.png">
 <img src="/images/Curriculum/PE/PVPS%20Olympics_5.png"></div>
 </div>
-</body>
+
 
 ##### P1 Orientation Programme (Telematch)
 
@@ -340,8 +340,7 @@ body {
 }
 </style>
 
-<body>
-	<img src="/images/Curriculum/PE/P1%20Orientation%20Programme%20(Telematch)_3.jpg">
+
 <!-- Photo Grid -->
 <div class="row"> 
 <div class="column">
@@ -350,7 +349,7 @@ body {
 <div class="column">
 <img src="/images/Curriculum/PE/P1%20Orientation%20Programme%20(Telematch)_1.jpg"></div>
 </div>
-</body>
+
 
 #### School Programmes
 
@@ -394,7 +393,7 @@ body {
 }
 </style>
 
-<body>
+
 <!-- Photo Grid -->
 <div class="row"> 
 <div class="column">
@@ -404,7 +403,7 @@ body {
 <img src="/images/Curriculum/PE/Active%20Friday_2.png" style="width:100%">
 </div>
 </div>
-</body>
+
 
 ###### Unstructured Play / Recess Play
 
@@ -445,8 +444,7 @@ body {
 }
 </style>
 
-<body>
-	<img src="/images/Curriculum/PE/Recess%20Play_1.jpg">
+
 <!-- Photo Grid -->
 <div class="row"> 
 <div class="column">
@@ -455,7 +453,7 @@ body {
 <div class="column">
 <img src="/images/Curriculum/PE/Recess%20Play_2.jpg"></div>
 </div>
-</body>
+
 
 ### Useful Resources
 <a href="https://www.moe.gov.sg/primary/curriculum/syllabus">PE Syllabus</a>
