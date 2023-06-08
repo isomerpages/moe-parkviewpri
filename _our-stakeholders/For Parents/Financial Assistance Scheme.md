@@ -2,15 +2,16 @@
 title: Financial Assistance Scheme
 permalink: /our-stakeholders/financial-assistance-scheme/
 description: ""
+third_nav_title: For Parents
 ---
 ### MOE Financial Assistance Scheme (MOE FAS)
 
-<p align="justify">The objective of the MOE FAS is to help financially <b>needy</b> Singaporean students in Government and Government-aided schools to meet basic schooling expenses.
+<p align="justify">The objective of the MOE FAS is to help financially <b>needy</b>&nbsp;Singaporean students in Government and Government-aided schools to meet basic schooling expenses.
 Student must be a Singapore citizen enrolled in a Government or Government-aided school and meets either one of the following criteria:</p>
 <p align="justify">
-a) His or her family’s gross household income (GHI) as at the time of application does not exceed $3,000 per month; or</p>
+a) His or her family’s gross household income (GHI) as at the time of application does not exceed&nbsp;$3,000&nbsp;per month; or</p>
 <p align="justify">
-b) His or her family’s per capita income (PCI) as at the time of application does not exceed $750 per month. PCI = Monthly GHI / No. of members in the household</p>
+b)&nbsp;His or her family’s per capita income (PCI) as at the time of application does not exceed&nbsp;$750&nbsp;per month. PCI = Monthly GHI / No. of members in the household</p>
 
 <b>Types of benefits provided under MOE FAS (Primary School):</b>
 
@@ -20,7 +21,7 @@ b) His or her family’s per capita income (PCI) as at the time of application 
 
 <a href="/files/2023%20FAS/2022%20Financial%20Assistance%20Scheme%20FAS%20Brochure.pdf">Click Here</a> for more information on Financial Assistance Scheme (FAS) 2023<br>
 
-<b>Application form</b> can be obtained either from the School General Office or via the link below:<br><a href="/files/2023%20FAS/GGAS_Application%20Form.pdf">MOE FAS Application Form</a><br>
+<b>Application form</b>&nbsp;can be obtained either from the School General Office or via the link below:<br><a href="/files/2023%20FAS/GGAS_Application%20Form.pdf">MOE FAS Application Form</a><br>
 
 Application via hardcopy form is required for:<br>
 
@@ -31,12 +32,12 @@ Application via hardcopy form is required for:<br>
 <b> d.</b> family with more than 3 grandparents in the household
 </ul> 
 
-To apply for FAS 2023, interested students must submit the completed FAS application form by <b>4 November 2022</b>: 
+To apply for FAS 2023, interested students must submit the completed FAS application form by&nbsp;<b>4 November 2022</b>: 
 
 <ul>	
 <li>Send the hardcopy form and supporting documents to the school’s General Office; or</li>
-<li>Scan the form and all supporting documents, and email it to the school (Email address: <a href="pvps@moe.edu.sg">pvps@moe.edu.sg</a>or</li>
-<li>Submit the application via the eFAS Application: <a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a></li></ul>
+<li>Scan the form and all supporting documents, and email it to the school (Email address:&nbsp;<a href="pvps@moe.edu.sg">pvps@moe.edu.sg</a>or</li>
+<li>Submit the application via the eFAS Application:&nbsp;<a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a></li></ul>
 <br>
 <img src="/images/QR%20Code.jpg" style="width:25%">
 <br>

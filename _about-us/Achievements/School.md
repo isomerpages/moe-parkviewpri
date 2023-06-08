@@ -4,113 +4,187 @@ permalink: /about-us/Achievements/school/
 description: ""
 third_nav_title: Achievements
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-BnL4DcAhJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
 #### 2022
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-BnL4DcAhJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-#### 2019
-
-![](/images/Picture25a.png)
-
-![](/images/Picture19a.png)
-
-![](/images/Picture20a.png)
-
-#### 2018
-
-![](/images/Picture28.png)
-
-![](/images/Picture29.png)
-
-![](/images/Picture34-1.png)
-
-![](/images/Picture35-1.png)
-
-![](/images/Picture36-1.png)
-
-![](/images/Picture38-1.png)
-
-
-
-### STAR (Sustaining Toilets As Restrooms) Awards Programme 2017
-
-The school was awarded **Gold Star** in the S.T.A.R (Sustaining Toilets As Restrooms) Awards Programme in 2017
-
-One of our students also received the LOO Kidz Award for displaying strong commitment and passion in executing the ‘S.T.A.R project. She has contributed her artworks to decorate the toilets, and carried out a presentation to encourage her fellow art club members to practise good toilet habits. She shared tips on how to keep and maintain the cleanliness of toilets.
-
-
-![](/images/1xx.jpg)
-
-![](/images/2xx.jpg)
-
-![](/images/3xx.jpg)
-
-![](/images/4xx.jpg)
-
-![](/images/Picture15xx.png)
-
-![](/images/Picture17xx.png)
-
-![](/images/Picture18xx.png)
-
-
-In September this year,  our ML Language Ambassadors together the teachers in the ML department put up a booth at the Malay Finesse Carnival.  The booth was a hot favourite and the participants were awed by our ambassadors  dedication in promoting the values of rootedness towards the Malay culture. The students were applauded for their effort and even featured in the Berita Harian.  Good job ambassadors.
-
-
-![](/images/Picture19xx.png)
-
-Extended recess time was given to the winning class. As a class, winning the model class award is an affirmation of our teamwork and efforts.
-
-![](/images/Picture20xx.png)
-
-The Active Contributor Programme, gives us a platform to share our views and ideas so as to make our school a better place to learn in. It also promotes the spirit of Innovation and Excellence in the school through involving students in decision making.
-
-![](/images/Picture21xx.png)
-
-The P4s and P5s had a taste of camp life and participated in activities such as dragon boating, kayaking, high and low elements.
-
-![](/images/Picture22xx.png)
-
-
-The primary sixes had a wonderful bonding session in Sentosa.
-
-![](/images/Picture23xx.png)
-
-Once again we have achieved the Lotus Sustained Achievement Award in the SEC-StarHub School Green Awards (SGA) this year!  
-
-### National Fire And Civil Emergency Preparedness Council (NFEC)
-
-The school was awarded the CD-Ready School Award by the **National Fire And Civil Emergency Preparedness Council (NFEC)**. This award serves to recognise the Emergency Preparedness efforts across all segments of the community.
-
-### 2016 Singapore Book Of Records
-
-We did it again! With an impressive total of 1952 paper plate crafts made by the school and our partners, we are in the Singapore Book of Records again for the largest display of paper plate crafts!
-
-### LOO Awards & LOO KIDZ Award Ceremony
-
-The school was awarded **Gold Star** in the S.T.A.R (Sustaining Toilets As Restrooms) Awards Programme in 2016. As we have been getting similar high ratings for three consecutive years (2014 - 2016), the school received the **PLATINUM STAR** Award from Dr Amy Khor in the LOO (Let's Observe Ourselves) Award Ceremony on 17 November 2016.
-
-One of our student also received the LOO Kidz Award for displaying strong commitment and passion in executing the ‘Happy Toilets’ project. She has been an active Art & Craft Club member and has participated in the Happy Toilet Project since 2014. Not only did she contribute artworks to decorate the toilets, She also worked closely with the juniors in the Art Club and guided them in the designs. She is exemplary and a role model for her juniors to emulate with her enthusiasm in transforming our toilets into a Happy and Vibrant place.
-
-
-![](/images/Toilet.jpg)
-
-![](/images/Slide2xx.jpg)
-
-![](/images/schoolach.jpg)
-
-![](/images/Slide4xx.jpg)
-
-![](/images/schoolach1.jpg)
-
-![](/images/Slide5xx.jpg)
-
-![](/images/Slide5xxx.jpg)
-
-
-### Community In Bloom Awards 2016
-
-The biennial Community In Bloom (CIB) Awards recognise and reward gardening efforts of Singapore’s gardening groups. The awards aim to motivate and encourage community gardeners to improve the standards of their gardens and to continue enjoying gardening as a fun and healthy activity. We are happy to announce that we were awarded a Silver in 2016!
-
-[Community In Bloom (1).pdf](/files/Community%20In%20Bloom%20(1).pdf)
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+	<thead>
+		<tr>
+			<th style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Cognitive - Wits &amp; Words: Inter-school Debate Championship National (Top 8)</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				A Ashwin Kumar - 5R3 <br>
+				Chen Junyu - 5R3 <br> Lim Joseph - 5R3 <br>Ong Jia Xuan - 5R3 <br> Teo poh Juin, Joshua - 5R3
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Cognitive - YMCA Plain English Speaking Award (Participation)</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Hu Bo Yue - 2C<br> Hannah Bte Muhammad Shafiq - 4C <br> Binal Sachinkumar Parekh - 4H <br> Sanaa J Darvinder - 5I <br> Isabelle Fong - 5R3
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - Creative Writing Programme (Participation)</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Bawar Aliyah Sherise - 5R3<br>Isabelle Fong - 5R3 <br> Thient Wathone Kyaw, Yvonne - 5R3
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Cognitive - National English Writing Competition (Participation) </b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Choo Si Jie - 3R3<br>Binal SachinKumar Parekh - 4H<br> Wu Yun-Hsuan - 5R3
+			</td>
+		</tr>
+			<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Cognitive - Library Fiesta - Level Competitons  </b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Primary 1</b> <br>
+				Allison Cho - 1H<br>Oscar Alexander Hartanto - 1R1<br> Kallie Chan - 1R2
+						</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Primary 2</b> <br>
+				Naura Auni Nafisah - 2R2<br>Hanna Sophia -2R3<br> Arin Chaudhary - 2C          							  </td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Primary 3</b> <br>
+				Shao Yunqi - 3R2<br>Sashti Yogas Babu - 3I<br> Muhammad Zuhair - 3R3
+				  </td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Primary 4</b> <br>
+				Michelle Clarris Loekito - 4H<br>Teo Zhi Xuan - 4R3<br> Jaylen Wong Yi Cong - 4R3
+						  </td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Primary 5</b><br>
+			Loh Yu Xuan - 5R1<br>Aleyna Isabelle Nur Alfino - 5R1<br> Nurfizlina Bine Muhammad Hafizkhan - 5I
+							  </td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Primary 6</b> <br>
+			Li Xinran - 6R3<br>Prisha Chatterjee - 6R3<br>Sarah Singh - 6I
+					</td>
+		</tr>
+		<tr>
+					<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - 7th National Primary School "Picture Book Creation" Competition </b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Koh Zi Le Zach - 6I <br>Teo Zhen Xun - 6I <br> Ong Jie Yang, Jayden - 6I <br> Lim Ding En Noah 6I
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - 5th Text Recital Competition (Lower Primary) </b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Individual </b><br>Wu Junqing - 2H (Silver Award)<br>
+				<br><b>Group</b><br>Yap Ing KeK Caleb - 2I<br>Feng Ruiyi - 2C<br>Tan Shaw Qy - 3C,<br> Li Xin Yi - 3R2
+			 </td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - 5th Text Recital Competition (Upper Primary)</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Individual</b>  <br>Chen Yu-Fei - 4C (Bronze Award)<br><br><b>Group</b>
+	<br>Natathan Koh Zheng Xuan - 4C (Silver Award)<br>Goh Jing Xuan Gebevieve - 4H  (Silver Award)<br>Jian Fang Fei - 4R3 (Silver Award)<br>
+				<br>Arielle Cheong Hui En - 4R2 (Bronze Award)<br>Lin Huan Yu - 4R1(Bronze Award)<br>Zhang Hao Zhe - 4R2(Bronze Award) 
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Cognitive - Fo Guang Shan National School Pen Calligraphy Competition  </b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Merit Award</b>
+				<br>Fang Jia Hang - 3I<br><br><b>Culture Award</b><br>Bahatan Josam Lomibao - 6I<br>Bawar Aliyah Sherise Celeridad - 5R3<br><br>
+				<b>Consolation Prize Winner</b>
+				<br> Teo Zhen Xun - 6I
+					</td>
+		</tr>
+		<tr>
+					<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Cognitive - Poi Ching School National Pri Schools Calligraphy Competition (Participation) </b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Shao Yun Qi - 3R2<br>Bai Zhao Jun - 3R2<br> Fang Jia Hang - 3I<br>Weng Li Xin - 4C<br>Zhang LuoYi - 4R3<br>Berlynn Tan Si Hui - 3C<br>Jaime Wong - 5R3
+			</td>
+		</tr>
+			<tr>
+								<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Cognitive - National Math Olympaid of Singapore</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Silver</b> 
+				<br>Bhatia Ved
+				</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Clarice Khew - 5R3 (Bronze)<br>Lim Joseph - 5R3 (Bronze)<br> Lim Joseph - 5R3(Bronze)<br>Pan Junni 5R3 (Bronze)
+			</td>
+		</tr>
+			<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Cognitive - Singapore Mathematical Olympial For Primary Schools </b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Bronze</b><br>Jessica Jinghan 6I<br>TIT Shao 6I<br>Pan Junni - 5R3
+					</td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - Raffles Science Olympial </b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+			Ahmad Alhady Bin Shahrunzam <br>Bhatia Vedansh<br>Koka Menaja Sathya Sai Durga<br>Por uo Xi J'nise,<br>Sukrit Nautiya
+						</td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - Community in Nature Award </b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+ Certificate of Participation in the 2022 Community in Nature Schools Award
+					</td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive -Hockey National School Games </b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Senior Division</b><br>(4th Position - Tier 1)<br><b>Junior Division</b><br>(4th Position - Tier 1)
+						</td>
+		</tr>
+		<tr>
+					<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive -Volleyball National School Games </b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Junior Division</b><br>(2nd Position - Tier 2)<br><b>Junior Division</b><br>(Top 10 - Tier 1)
+						</td>
+		</tr>
+		<tr>
+	</tr></tbody>
+  </table>

@@ -7,21 +7,25 @@ third_nav_title: Sports & Games
 <p align="justify">
 Wushu (武术) is a form of contemporary Chinese martial arts that blends elements of performance and martial application. Wushu training emphasizes quickness, explosive power, natural and relaxed movement. The wushu practitioner must combine flexibility with strength, speed with flawless technique, discipline and controlled execution. There are also opportunities for our students to develop SEL competencies through Internal School performance and National School Games Wushu Championship.</p>
 
-<h4>Teachers-in-Charge</h4>
-Miss Low Kin Eng(OIC)<br>  
-Mdm Chen Shuang Shuang<br>
 
-<h4>Training Schedule</h4>
-
-<b><u>Monday</u></b><br> 
-School Team<br>
-3.30pm- 5.00pm<br>
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Miss Low Kin Eng(OIC)<br>  
+Mdm Chen Shuang Shuang
+	</td>
+	</tr>
+	<tr>
+	<th style="border-color:#000000;solid;border-width:1px;">Training Dates</th>
+	<td style="border-color:#000000;solid;border-width:1px;"><u><b>Mondays</b><br></u>3.30pm – 5.30pm (School Team)<br>ISH Level 6<br><br>
+	<u><b>Fridays</b></u>
+<br>7.30am to 9.00am<br>
 ISH Level 6<br>
-  
-<b><u>Fridays</u></b><br>
-All students<br>
-7.30am - 9.00am<br>
-ISH Level 6
+</td>
+</tr>
+	<tr>
+	<th style="border-color:#000000;solid;border-width:1px;">Coach</th>
+	<td style="border-color:#000000;solid;border-width:1px;"></td>
+	</tr>
+	</tbody>
+	</table>
 
 <h3>Achievements</h3>
 

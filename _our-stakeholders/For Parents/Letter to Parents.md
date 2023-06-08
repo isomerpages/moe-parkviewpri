@@ -2,6 +2,7 @@
 title: Letter to Parents
 permalink: /our-stakeholders/letter-to-parents/
 description: ""
+third_nav_title: For Parents
 ---
 * [Letter to Parents - 12](/files/pvps-2023-12%20-%20end%20of%20semester%201.pdf)
 
