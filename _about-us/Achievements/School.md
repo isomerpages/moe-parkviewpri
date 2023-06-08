@@ -105,8 +105,7 @@ third_nav_title: Achievements
 		</tr>
 		<tr>
 			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Individual</b>  <br>Chen Yu-Fei - 4C (Bronze Award)<br><br><b>Group</b>
-	<br>Natathan Koh Zheng Xuan - 4C (Silver Award)<br>Goh Jing Xuan Gebevieve - 4H  (Silver Award)<br>Jian Fang Fei - 4R3 (Silver Award)<br>
-				<br>Arielle Cheong Hui En - 4R2 (Bronze Award)<br>Lin Huan Yu - 4R1(Bronze Award)<br>Zhang Hao Zhe - 4R2(Bronze Award) 
+	<br>Natathan Koh Zheng Xuan - 4C (Silver Award)<br>Goh Jing Xuan Gebevieve - 4H  (Silver Award)<br>Jian Fang Fei - 4R3 (Silver Award)<br>Arielle Cheong Hui En - 4R2 (Bronze Award)<br>Lin Huan Yu - 4R1(Bronze Award)<br>Zhang Hao Zhe - 4R2(Bronze Award) 
 			</td>
 		</tr>
 		<tr>
@@ -177,9 +176,14 @@ third_nav_title: Achievements
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Junior Division</b><br>(2nd Position - Tier 2)<br><b>Junior Division</b><br>(Top 10 - Tier 1)
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Junior Division</b><br>(2nd Position - Tier 2)<br><b>Junior Division</b><br>(Top 10 - Tier 1)<br>
 						</td>
 		</tr>
 		<tr>
-	</tr></tbody>
+					<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - Football National School Games </b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Junior Division</b><br>(Tier 2 Group Champion)
+	</td></tr></tbody>
   </table>
