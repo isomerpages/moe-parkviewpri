@@ -7,8 +7,7 @@ third_nav_title: Sports & Games
 <p align="justify">
 Wushu (武术) is a form of contemporary Chinese martial arts that blends elements of performance and martial application. Wushu training emphasizes quickness, explosive power, natural and relaxed movement. The wushu practitioner must combine flexibility with strength, speed with flawless technique, discipline and controlled execution. There are also opportunities for our students to develop SEL competencies through Internal School performance and National School Games Wushu Championship.</p>
 
-
-
+<!-- Table -->
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Miss Low Kin Eng(OIC)<br>  
 Mdm Chen Shuang Shuang
 	</td>
@@ -18,7 +17,7 @@ Mdm Chen Shuang Shuang
 	<td style="border-color:#000000;solid;border-width:1px;"><u><b>Mondays</b><br></u>3.30pm – 5.30pm (School Team)<br>ISH Level 6<br><br>
 	<u><b>Fridays</b></u>
 <br>7.30am to 9.00am<br>
-ISH Level 6
+ISH Level 6<br>
 </td>
 </tr>
 	<tr>
@@ -28,10 +27,8 @@ ISH Level 6
 	</tbody>
 	</table>
 
-
-
 #### Achievements
-
+<!-- Table-->
  <table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Events</th><th style="border-color:#000000;solid;border-width:1px;">Achievements</th><th style="border-color:#000000;solid;border-width:1px;">Year</th>
 	</tr>
 	<tr>
@@ -57,48 +54,46 @@ ISH Level 6
 	</tbody>
 	</table>
 
-
-
 #### Activities/Events
 
+<!-- Table -->
  <table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Activity/Event</th><th style="border-color:#000000;solid;border-width:1px;">Description</th><th style="border-color:#000000;solid;border-width:1px;">Year</th>
 	</tr>
 	<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">Chinese New Year Performance</td>
-	<td style="border-color:#000000;solid;border-width:1px;">Students performed during Chinese New Year.</td>
-		<td style="border-color:#000000;solid;border-width:1px;">Jan 2020</td>
-</tr>
-	<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">P3-P5 End of Year Prize Giving</td>
-	<td style="border-color:#000000;solid;border-width:1px;">Selected school team members performed during EOY prize giving day.</td>
-		<td style="border-color:#000000;solid;border-width:1px;">Nov 2020</td>
-</tr>
-	<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">CAMP EXCELLENCE 2021</td>
-	<td style="border-color:#000000;solid;border-width:1px;">Organized by our school as part of team building to prepare the pupils for their yearly National Inter-School competitions</td>
-		<td style="border-color:#000000;solid;border-width:1px;">Jan 2021</td>
+	<td style="border-color:#000000;solid;border-width:1px;">16th National Primary Schools Wushu Champion 2021</td>
+	<td style="border-color:#000000;solid;border-width:1px;">School team members were selected to participate in the annual national Wushu competition.</td>
+		<td style="border-color:#000000;solid;border-width:1px;">March-April 2021</td>
 </tr>
 	<tr>
 	<td style="border-color:#000000;solid;border-width:1px;">Chinese New Year Performance</td>
 	<td style="border-color:#000000;solid;border-width:1px;">Students performed for Chinese New Year celebration(Pre-recorded)</td>
 		<td style="border-color:#000000;solid;border-width:1px;">Feb 2021</td>
+</tr>
+	<tr>
+	<td style="border-color:#000000;solid;border-width:1px;">Camp Excellence 2021</td>
+	<td style="border-color:#000000;solid;border-width:1px;">Organized by our school as part of team building to prepare the pupils for their yearly National Inter-School competitions</td>
+		<td style="border-color:#000000;solid;border-width:1px;">Jan 2021</td>
+</tr>
+	<tr>
+	<td style="border-color:#000000;solid;border-width:1px;">P3-P5 End of Year Prize Giving</td>
+	<td style="border-color:#000000;solid;border-width:1px;">Selected school team members performed during EOY prize giving day.</td>
+		<td style="border-color:#000000;solid;border-width:1px;">Nov 2020</td>
 	</tr>
 		<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">National School Games Wushu Championships Senior Boys 5-Duan Sword</td>
-	<td style="border-color:#000000;solid;border-width:1px;">Participation</td>
-		<td style="border-color:#000000;solid;border-width:1px;">2021</td>
+	<td style="border-color:#000000;solid;border-width:1px;">Camp Excellence 2020</td>
+	<td style="border-color:#000000;solid;border-width:1px;">Organized by our school as part of team building to prepare the pupils for their yearly National Inter-School competitions</td>
+		<td style="border-color:#000000;solid;border-width:1px;">Jan 2020</td>
 	</tr>
 			<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">National School Games Wushu Championships Senior Girls 4-Duan Sword</td>
-	<td style="border-color:#000000;solid;border-width:1px;">Participation</td>
-		<td style="border-color:#000000;solid;border-width:1px;">2021</td>
+	<td style="border-color:#000000;solid;border-width:1px;">Chinese New Year Performance</td>
+	<td style="border-color:#000000;solid;border-width:1px;">Students performed during Chinese New Year.</td>
+		<td style="border-color:#000000;solid;border-width:1px;">Jan 2020</td>
 	</tr>
 	</tbody>
 	</table>
 
 
-
-
+<!-- Photo Grid Style-->
 <style>
 * {
   box-sizing: border-box;
