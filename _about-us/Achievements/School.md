@@ -280,6 +280,6 @@ third_nav_title: Achievements
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Goh Zong Kai - 1R2<br>Mohamed Iman Aliff Bin Abdul Karim - 1R2<br>Hanna Sophia Binte Muhammad Sophian - 2R3<br>Yana Panchmatiya - 3R1<br>Aadarsh Shrivastava - 3I<br>Wang Xiyuan - 4I<br>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Goh Zong Kai - 1R2<br>Mohamed Iman Aliff Bin Abdul Karim - 1R2<br>Hanna Sophia Binte Muhammad Sophian - 2R3<br>Yana Panchmatiya - 3R1<br>Aadarsh Shrivastava - 3I<br>Wang Xiyuan - 4I<br>Lin Huanyu - 4R1<br>Aleyna Isabella Nur Alfino - 5R1<br>Theint Wathone Kyaw - 5R3<br>Tan Shi En Fion - 5R1<br>Batra Sarabsukh Singh - 6R3
 	</td></tr></tbody>
 </table>
