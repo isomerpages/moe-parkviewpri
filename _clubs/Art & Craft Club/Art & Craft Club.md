@@ -4,18 +4,32 @@ permalink: /co-curriculum/clubs/art-n-craft-club/
 description: ""
 third_nav_title: Art & Craft Club
 ---
+Through our 4**E**&nbsp;approach -**Exposure**,&nbsp;**Experience**,&nbsp;**Excursion**,&nbsp;**Excellence**,&nbsp;we aim to develop and harness the full range of our students' talents and contribute to their overall development. Art Club members are exposed to 2D and 3D art forms through hands-on art making and attending art exhibitions. There are also opportunities for our students to develop SEL competencies through group art-making and character building through service to the community project such as the Community Outreach Programme through Recycled Art. Art Club members also have the opportunity to teach the K1 &amp; K2 children in neighbourhood Sparkletots Preschool how to transform everyday trash into interesting works of art.
+ 
+ <table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Events</th><th style="border-color:#000000;solid;border-width:1px;">Achievements</th><th style="border-color:#000000;solid;border-width:1px;">Year</th>
+	</tr>
+	<tr>
+	<td style="border-color:#000000;solid;border-width:1px;">URA LTPR Art Competition</td>
+	<td style="border-color:#000000;solid;border-width:1px;">2nd place  
+Recipient: Teo Zhi Xuan</td>
+		<td style="border-color:#000000;solid;border-width:1px;">2022</td>
+</tr>
+	<tr>
+	<td style="border-color:#000000;solid;border-width:1px;">Singapore Youth Festival Art Presentation<br>  
+Theme: ‘Artist and Technology’</td>
+	<td style="border-color:#000000;solid;border-width:1px;">Certificate of Recognition – Category B</td>
+		<td style="border-color:#000000;solid;border-width:1px;">2021</td>
+	</tr>
+	<tr>
+	<td style="border-color:#000000;solid;border-width:1px;">Singapore Youth Festival Art Presentation<br>  
+Theme: ‘Artist and Technology’</td>
+	<td style="border-color:#000000;solid;border-width:1px;">Certificate of Recognition – Category B</td>
+		<td style="border-color:#000000;solid;border-width:1px;">2021</td>
+	</tr>
+	</tbody>
+	</table>
 
-# **Art & Craft Club**
 
- Through our 4**E** approach -**Exposure**, **Experience**, **Excursion**, **Excellence**, we aim to develop and harness the full range of our students' talents and contribute to their overall development. Art Club members are exposed to 2D and 3D art forms through hands-on art making and attending art exhibitions. There are also opportunities for our students to develop SEL competencies through group art-making and character building through service to the community project such as the Community Outreach Programme through Recycled Art. Art Club members also have the opportunity to teach the K1 & K2 children in neighbourhood Sparkletots Preschool how to transform everyday trash into interesting works of art.
- 
- 
- 
- 
- 
- 
- 
- 
  <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Teachers-in-charge<br></th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="background-color:initial">Mrs Eileen Yap (OIC)</span><br><span style="background-color:initial">Mdm Nor Iqmalia (2nd</span> <span style="background-color:initial">IC)</span><br><span style="color:#162837">Miss Kirthi Shihlpa Pillai </span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Training days/Time/Venue<br></td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;background-color:initial">Tuesdays</span><br><span style="background-color:initial">School Team</span><br><span style="background-color:initial">3.30 pm  - 5.00pm</span><br><span style="background-color:initial">Art Room 1</span><br><br><span style="font-weight:bold">Fridays</span><br><span style="background-color:initial">7.30am - 9.00am (All members)</span><br><span style="background-color:initial">School Team (Art Room 1)</span><br><span style="color:#162837">Non-School Team (Art Room 2)</span></td></tr></tbody></table>
  
  
@@ -25,15 +39,15 @@ third_nav_title: Art & Craft Club
 
 <h3>URA LTPR ART COMPETITION</h3>
 
-<img src= "/images/URA_LTPR%20Art%20Competition_Teo%20Zhi%20Xuan%204R3_2nd%20Place%201.jpg">
+<img src="/images/URA_LTPR%20Art%20Competition_Teo%20Zhi%20Xuan%204R3_2nd%20Place%201.jpg">
 
-<img src= "/images/URA_LTPR%20Art%20Competition_Teo%20Zhi%20Xuan%204R3_2nd%20Place%202.jpg">
+<img src="/images/URA_LTPR%20Art%20Competition_Teo%20Zhi%20Xuan%204R3_2nd%20Place%202.jpg">
 
 <h3>Community Outreach Programme (COP) thru’ Recycled Art</h3>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sUn1nNqdg1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sUn1nNqdg1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-Despite the challenges faced due to the pandemic, both PVPS Art & Craft Club and Sparkletots Preschool@Blk 517 worked closely to ensure our annual collaboration could continue. This year, to commemorate Earth Day on 22 April 2021, 2 of our Art Club students, Kenneth and Rasleen, recorded an instructional video on creating photo frames using recycled cardboards and twigs. The K1 and K2 students followed the steps in the video to create their own photo frames. This was a maiden attempt by the Art Club students and the experience was both meaningful and exhilarating.
+Despite the challenges faced due to the pandemic, both PVPS Art &amp; Craft Club and Sparkletots Preschool@Blk 517 worked closely to ensure our annual collaboration could continue. This year, to commemorate Earth Day on 22 April 2021, 2 of our Art Club students, Kenneth and Rasleen, recorded an instructional video on creating photo frames using recycled cardboards and twigs. The K1 and K2 students followed the steps in the video to create their own photo frames. This was a maiden attempt by the Art Club students and the experience was both meaningful and exhilarating.
 
 ![](/images/Community%20Outreach%20Programme%20through%20Recycled%20Art%20Earth%20Day.jpg)
 
@@ -47,22 +61,9 @@ Despite the challenges faced due to the pandemic, both PVPS Art & Craft Club and
 
 ![](/images/A3.jpg)
 
-![](/images/Art%201.jpg)
 
-![](/images/Art%202.jpg)
 
-![](/images/Art%203.jpg)
 
-![](/images/Art%204.jpg)
 
-![](/images/Art%205.jpg)
 
-![](/images/AC_001.jpg)
 
-![](/images/Young%20Illustrator%20Awards.jpg)
-
-![](/images/SYF%202019%20photo%20montage.jpg)
-
-![](/images/AC_002.jpg)
-
-![](/images/AC_004.jpg)
