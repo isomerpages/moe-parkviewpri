@@ -225,6 +225,48 @@ third_nav_title: Achievements
 		</tr>
 		<tr>
 			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>2nd Place</b><br>Teo Zhi Xuan - 4R3<br><b>Commendation Award</b><br>Emiley Abigail Lim - 2R1
-	</td></tr></tbody>
+	</td>
+		</tr>
+			<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - Staedtler Colouring Contest</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Consolation Prize</b><br>Teo Zhi Xuan - 4R3 
+					</td>
+		</tr>
+		<tr>
+					<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - Pasir Ris Our Home Colouring Contest</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>2nd Prize</b><br>Teo Zhi Xuan - 4R3 
+					</td>
+		</tr>
+		<tr>
+					<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive -Sing Chu Children's Day Competition </b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Consolation Prize</b><br>Teo Zhi Xuan - 4R3<br><b>Consolation Prize</b><br>Leng Jih Xuan
+					</td>
+		</tr>
+		<tr>
+					<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - Art Competitions</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">SOTA P6 Art Competition (Participation)<br><br>13th KAO International Environment Painting Contest for Children (Participation)<br><br>Draw My Stamp Story Art Competiton (Participation)<br><br>Singapore Mobility Gallery (Participation)
+					</td>
+		</tr>
+		<tr>
+					<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b> Cognitive - Singapore Book of Records</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Largest Display Of String Art</b><br>1620 (String art)
+					</td>
+		</tr>
+		<tr>
+	</tr></tbody>
 </table>
-	
