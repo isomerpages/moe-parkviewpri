@@ -134,21 +134,16 @@ third_nav_title: Achievements
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Silver</b> 
-				<br>Bhatia Ved
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Bhatia Vedansh - 5R3 (Silver)<br>Clarice Khew Tong Yu - 5R3 (Bronze)<br>Lim Joseph - 5R3 (Bronze)<br>Pan Junni 5R3 (Bronze)
 				</td>
 		</tr>
-		<tr>
-			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-				Clarice Khew - 5R3 (Bronze)<br>Lim Joseph - 5R3 (Bronze)<br> Lim Joseph - 5R3(Bronze)<br>Pan Junni 5R3 (Bronze)
-			</td>
-		</tr>
+		
 			<tr>
 			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Cognitive - Singapore Mathematical Olympial For Primary Schools </b>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Bronze</b><br>Jessica Jinghan 6I<br>TIT Shao 6I<br>Pan Junni - 5R3
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Jessica Xiao Jinghan - 6I (Bronze)<br>TIT Shao Ze - 6I (Bronze)<br>Pan Junni - 5R3 (Bronze)
 					</td>
 		</tr>
 		<tr>
@@ -157,7 +152,7 @@ third_nav_title: Achievements
 		</tr>
 		<tr>
 			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-			Ahmad Alhady Bin Shahrunzam <br>Bhatia Vedansh<br>Koka Menaja Sathya Sai Durga<br>Por uo Xi J'nise,<br>Sukrit Nautiya
+			Ahmad Alhady Bin Shahrunzam <br>Bhatia Vedansh<br>Koka Menaja Sathya Sai Durga<br>Por uo Xi J'nise<br>Sukrit Nautiya
 						</td>
 		</tr>
 		<tr>
