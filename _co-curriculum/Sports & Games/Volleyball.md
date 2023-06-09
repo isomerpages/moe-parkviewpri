@@ -63,7 +63,7 @@ Ms Sheefa Khan (Girls)</td>
 	</tr>
 		<tr>
 	<td style="border-color:#000000;solid;border-width:1px;"> National School Games Volleyball Competition (Zonal)</td>
-	<td style="border-color:#000000;solid;border-width:1px;">Senior Boys – 2nd<br>Senior Girls – 1st<br><br>Junior Boys – 3rd<br>Junior Girls – 1st</td>
+	<td style="border-color:#000000;solid;border-width:1px;">Senior Boys – 2nd<br>Senior Girls – 1st</td>
 		<td style="border-color:#000000;solid;border-width:1px;">2019</td>
 	</tr>
 			<tr>
