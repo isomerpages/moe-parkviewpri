@@ -55,11 +55,9 @@ Ms Sheefa Khan (Girls)</td>
 <h5 style="text-align:center;">2021 National School Games Volleyball Competition (Nationals)</h5>
 
 <p style="text-align:center;">Senior Boys- 4th</p>
-<p style="text-align:center;">No competition for Juniors due to Covid-19.</p>
 
-<h5 style="text-align:center;">2020 National School Games Volleyball Competition (Zonal)</h5>
 
-<p style="text-align:center;">No competition due to Covid-19.</p>
+
 
 <h5 style="text-align:center;">2019 National School Games Volleyball Competition (Zonal)</h5>
 
@@ -68,4 +66,53 @@ Ms Sheefa Khan (Girls)</td>
 <p style="text-align:center;">Junior Boys – 3rd</p>
 <p style="text-align:center;">Junior Girls – 1st</p>
 
-#insert photos
+
+
+#### Gallery
+
+<!-- Photo Grid Style-->
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.column img {
+  margin-top: 12px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+
+	
+<!-- Photo Grid -->
+<div class="row"> 
+<div class="column">
+<img src="/images/volleyball_1.jpeg" style="width:100%">
+<img src="/images/volleyball_2.jpg" style="width:100%">
+	</div>
+  
+<div class="column">
+<img src="/images/volleyball_3.jpeg" style="width:100%">
+<img src="/images/volleyball_4.JPG" style="width:100%"></div>
+</div>
