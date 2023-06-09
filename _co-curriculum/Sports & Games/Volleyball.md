@@ -45,26 +45,31 @@ Ms Sheefa Khan (Girls)</td>
 	</tr>
 	</tbody>
 	</table>
-
-<h3>Achievements</h3>
-
-<h5 style="text-align:center;">2022 National School Games Volleyball Competition (Nationals)</h5>
-<p style="text-align:center;">Junior Boys - Top 10 in National (Tier 1 - National)</p>
-<p style="text-align:center;">Junior Girls - 2nd in Group (Tier 2 - National)</p>
-
-<h5 style="text-align:center;">2021 National School Games Volleyball Competition (Nationals)</h5>
-
-<p style="text-align:center;">Senior Boys- 4th</p>
-
-
-
-
-<h5 style="text-align:center;">2019 National School Games Volleyball Competition (Zonal)</h5>
-
-<p style="text-align:center;">Senior Boys – 2nd</p>
-<p style="text-align:center;">Senior Girls – 1st</p>
-<p style="text-align:center;">Junior Boys – 3rd</p>
-<p style="text-align:center;">Junior Girls – 1st</p>
+	
+	
+#### Achievements
+<!-- Table-->
+ <table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Events</th><th style="border-color:#000000;solid;border-width:1px;">Achievements</th><th style="border-color:#000000;solid;border-width:1px;">Year</th>
+	</tr>
+	<tr>
+	<td style="border-color:#000000;solid;border-width:1px;"> National School Games Volleyball Competition (Nationals)</td>
+	<td style="border-color:#000000;solid;border-width:1px;">Junior Boys - Top 10 in National (Tier 1 - National)<br><br>Junior Girls - 2nd in Group (Tier 2 - National)</td>
+		<td style="border-color:#000000;solid;border-width:1px;">2022</td>
+</tr>
+	<tr>
+	<td style="border-color:#000000;solid;border-width:1px;">National School Games Volleyball Competition </td>
+	<td style="border-color:#000000;solid;border-width:1px;">Senior Boys- 4th</td>
+		<td style="border-color:#000000;solid;border-width:1px;">2021</td>
+	</tr>
+		<tr>
+	<td style="border-color:#000000;solid;border-width:1px;"> National School Games Volleyball Competition (Zonal)</td>
+	<td style="border-color:#000000;solid;border-width:1px;">Senior Boys – 2nd<br>Senior Girls – 1st<br><br>Junior Boys – 3rd<br>Junior Girls – 1st</td>
+		<td style="border-color:#000000;solid;border-width:1px;">2019</td>
+	</tr>
+			<tr>
+	<td> 
+	</td></tr></tbody>
+	</table>
 
 
 
