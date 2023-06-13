@@ -78,16 +78,3 @@ Futsal Court<br>
 	</table>
 
 
-![](/images/hockey%201.png)
-
-![](/images/hockey%202.png)
-
-![](/images/hockey%203.png)
-
-![](/images/hockey%204.jpeg)
-
-![](/images/hockey%205.jpeg)
-
-![](/images/hockey%206.jpeg)
-
-![](/images/Hockey02.jpg)
