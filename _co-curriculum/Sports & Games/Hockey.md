@@ -77,7 +77,7 @@ Futsal Court<br>
 	</tbody>
 	</table>
 
-/images/hockey%20-%207.jpg
+
 	
 #### Gallery
 
