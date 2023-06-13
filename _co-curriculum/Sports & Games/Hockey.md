@@ -77,4 +77,53 @@ Futsal Court<br>
 	</tbody>
 	</table>
 
+/images/hockey%20-%207.jpg
+	
+#### Gallery
 
+<!-- Photo Grid Style-->
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.column img {
+  margin-top: 12px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+
+	
+<!-- Photo Grid -->
+<div class="row"> 
+<div class="column">
+<img src="/images/hockey%20-%207.jpg" style="width:100%">
+<img src="/images/hockey%20-%206.jpg" style="width:100%">
+	</div>
+  
+<div class="column">
+<img src="/images/hockey%201.png" style="width:100%">
+<img src="/images/hockey%202.png" style="width:100%"></div>
+</div>
