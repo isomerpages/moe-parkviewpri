@@ -49,7 +49,7 @@ School Field<br>
 	</tbody>
 	</table>
 
-
+/images/CCA/Football/soccer%20-%203.png
 
 #### Gallery
 
@@ -91,11 +91,11 @@ body {
 <!-- Photo Grid -->
 <div class="row"> 
 <div class="column">
-<img src="/images/CCA/Football/soccer%20-%201.png" style="width:100%">
-<img src="/images/CCA/Football/soccer%20-%202.png" style="width:100%">
+<img src="/images/CCA/Football/soccer%20-%201.png" style="width 100%">
+<img src="/images/CCA/Football/soccer%20-%203.png" style="width:100%">
 	</div>
   
 <div class="column">
 <img src="/images/CCA/Football/soccer%20-%205.png" style="width:100%">
-<img src="" style="width:100%"></div>
+<img src="/images/CCA/Football/soccer%20-%206.png" style="width:99%"></div>
 </div>
