@@ -4,9 +4,9 @@ permalink: /co-curriculum/Performing-Arts/guzheng/
 description: ""
 third_nav_title: Performing Arts
 ---
-Park View Primary School Guzheng Ensemble has been established since the school started in 1997. Guzheng, a traditional Chinese musical instrument plays an important part in the Chinese culture. Playing the Guzheng helps to build patience, self-discipline and foster co-operation among the students besides learning to appreciate and enjoy the musical pieces.&nbsp;
+<p align="justify">Park View Primary School Guzheng Ensemble has been established since the school started in 1997. Guzheng, a traditional Chinese musical instrument plays an important part in the Chinese culture. Playing the Guzheng helps to build patience, self-discipline and foster co-operation among the students besides learning to appreciate and enjoy the musical pieces.</p>
 
-Despite spending many hours honing their Guzheng playing skills, some of our former Guzheng members had achieved good academic results and are currently studying in renowned secondary schools, such as Dunman High School, Chung Cheng High School and Raffles Girls School.
+<p align="justify">Despite spending many hours honing their Guzheng playing skills, some of our former Guzheng members had achieved good academic results and are currently studying in renowned secondary schools, such as Dunman High School, Chung Cheng High School and Raffles Girls School.</p>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Ms Pamela See
 	</td>
