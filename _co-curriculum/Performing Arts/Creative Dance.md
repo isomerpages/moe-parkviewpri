@@ -4,7 +4,7 @@ permalink: /co-curriculum/performing-arts/creative-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-The Dance CCA was one of the first CCAs to be set up when the school started. We had different ethnic dance groups those days. Over some years, equality and diversity took great importance in our merger to Creative Dance CCA.&nbsp;
+The Dance CCA was one of the first CCAs to be set up when the school started. We had different ethnic dance groups those days. Over some years, equality and diversity took great importance in our merger to Creative Dance CCA.
 
 Students are given the opportunity to discover and explore the various dance forms and genres including Fusion and Contemporary Dance, developing them to be versatile dancers. We have a team of dancers from various ethnic&nbsp;groups and different nations. As such, this CCA provides them a platform to develop cultural awareness.&nbsp;
 
