@@ -4,11 +4,11 @@ permalink: /co-curriculum/performing-arts/creative-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-<p align="justify">The Dance CCA was one of the first CCAs to be set up when the school started. We had different ethnic dance groups those days. Over some years, equality and diversity took great importance in our merger to Creative Dance CCA.
+<p align="justify">The Dance CCA was one of the first CCAs to be set up when the school started. We had different ethnic dance groups those days. Over some years, equality and diversity took great importance in our merger to Creative Dance CCA.</p>
 
-</p><p align="justify">Students are given the opportunity to discover and explore the various dance forms and genres including Fusion and Contemporary Dance, developing them to be versatile dancers. We have a team of dancers from various ethnic&nbsp;groups and different nations. As such, this CCA provides them a platform to develop cultural awareness.</p>
+<p align="justify">Students are given the opportunity to discover and explore the various dance forms and genres including Fusion and Contemporary Dance, developing them to be versatile dancers. We have a team of dancers from various ethnic&nbsp;groups and different nations. As such, this CCA provides them a platform to develop cultural awareness.</p>
 
-Creative Dance teaches respect, resilience and discipline alongside other school values which are regularly reinforced by our team of dedicated teachers and instructors. It also prides itself on the strong friendships forged and rapport between the dancers, teachers and instructors.<p></p>
+<p align="justify">Creative Dance teaches respect, resilience and discipline alongside other school values which are regularly reinforced by our team of dedicated teachers and instructors. It also prides itself on the strong friendships forged and rapport between the dancers, teachers and instructors.</p>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Mdm Valar (OIC)<br>  
 Mdm Zubaidah<br> 
