@@ -78,16 +78,52 @@ Futsal Court<br>
 	</table>
 
 
-![](/images/hockey%201.png)
+	
+#### Gallery
 
-![](/images/hockey%202.png)
+<!-- Photo Grid Style-->
+<style>
+* {
+  box-sizing: border-box;
+}
 
-![](/images/hockey%203.png)
+body {
+  margin: 0;
+  font-family: Arial;
+}
 
-![](/images/hockey%204.jpeg)
+.header {
+  text-align: center;
+  padding: 32px;
+}
 
-![](/images/hockey%205.jpeg)
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
 
-![](/images/hockey%206.jpeg)
+.column img {
+  margin-top: 12px;
+}
 
-![](/images/Hockey02.jpg)
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+
+	
+<!-- Photo Grid -->
+<div class="row"> 
+<div class="column">
+<img src="/images/hockey%20-%207.jpg" style="width:100%">
+<img src="/images/hockey%20-%206.jpg" style="width:100%">
+	</div>
+  
+<div class="column">
+<img src="/images/hockey%201.png" style="width:100%">
+<img src="/images/hockey%202.png" style="width:100%"></div>
+</div>
