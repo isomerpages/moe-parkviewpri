@@ -49,7 +49,7 @@ School Field<br>
 	</tbody>
 	</table>
 
-/images/CCA/Football/soccer%20-%203.png
+
 
 #### Gallery
 
