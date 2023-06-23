@@ -65,8 +65,8 @@ third_nav_title: Our People
 	<tbody>
 		<tr>
 			<td style="border:1px solid black;">2 Respect<br>(2R1)</td>
-            <td style="border:1px solid black;">Mrs Jareen Wong</td>
-			<td style="border:1px solid black;"><a href="ng_kah_leng@schools.gov.sg">ng_kah_leng@schools.gov.sg</a></td>
+            <td style="border:1px solid black;">Mrs Jareen Wong<br>Mr Jordan Toh Yuexuan</td>
+			<td style="border:1px solid black;"><a href="ng_kah_leng@schools.gov.sg">ng_kah_leng@schools.gov.sg</a><br><a href="jordan_toh_yuexuan@schools.gov.sg">jordan_toh_yuexuan@schools.gov.sg</a></td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">2 Responsibility<br>(2R2)</td>
@@ -119,8 +119,8 @@ third_nav_title: Our People
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">3 Resilience<br>(3R3)</td>
-            <td style="border:1px solid black;">Mr Azmi</td>
-			<td style="border:1px solid black;"><a href="azmi_kasim@schools.gov.sg">azmi_kasim@schools.gov.sg</a></td>
+            <td style="border:1px solid black;">Mr Azmi<br>Mr Tay Lip Seng</td>
+			<td style="border:1px solid black;"><a href="azmi_kasim@schools.gov.sg">azmi_kasim@schools.gov.sg</a><br><a href="tay_lip_seng@schools.gov.sg">tay_lip_seng@schools.gov.sg</a></td>
 		</tr>     
 		<tr>
 			<td style="border:1px solid black;">3 Integrity<br>(3I)</td>
