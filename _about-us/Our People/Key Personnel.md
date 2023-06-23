@@ -59,7 +59,7 @@ third_nav_title: Our People
 			
 </tr><tr><th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/Miss%20Chua%20Shuan%20Kwee%20cropped.jpg" alt="IMG_9053.JPG" width="175" height="225">
-				<br>Miss Chua Shuan<br>HOD - English
+				<br>Miss Chua Shuan<br>School Staff Developer
 				<br>
 				<a href="mailto:chua_shuan_kwee@schools.gov.sg">chua_shuan_kwee<br>@schools.gov.sg</a>
 				<br></th>
@@ -68,14 +68,7 @@ third_nav_title: Our People
 				<br>Mr Justin Luo<br>HOD - ICT
 				<br>
 				<a href="mailto:justin_luo_yanzhong@schools.gov.sg">justin_luo_yanzhong<br>@schools.gov.sg</a>
-				<br></th>
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Miss%20Chua%20Shuan%20Kwee%20cropped.jpg" alt="Miss Chua Shuan Kwee cropped.jpg" width="175" height="225">
-				<br>Miss Chua Shuan<br>School Staff Developer
-				<br>
-				<a href="mailto:chua_shuan_kwee@schools.gov.sg">chua_shuan_kwee<br>@schools.gov.sg</a><br>
-</th>
-			</tr>
+			</th></tr>
 			</tbody></table>
 
 ### Year Heads
