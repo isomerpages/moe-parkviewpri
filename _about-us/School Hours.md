@@ -98,7 +98,7 @@ CCA (P3)
         <tr>
             <td style="border: 1px solid black;text-align: center;">CCA</td>
             <td style="border: 1px solid black;text-align: center;" colspan="4">-</td>
-            <td style="border: 1px solid black;text-align: center;" colspan="1">7.30 am - 9.00pm</td>
+            <td style="border: 1px solid black;text-align: center;" colspan="1">7.30 am - 9.00am</td>
         </tr>
     </tbody>
 </table>
