@@ -197,8 +197,8 @@ third_nav_title: Our People
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">5 Resilience<br>(5R3)</td>
-            <td style="border:1px solid black;">Mdm Farah<br>Mdm Chen ShuangShuang</td>
-			<td style="border:1px solid black;"><a href="farah_abdul_rashid@schools.gov.sg">farah_abdul_rashid@schools.gov.sg</a><br><a href="chen_shuangshuang@schools.gov.sg">chen_shuangshuang@schools.gov.sg</a></td>
+            <td style="border:1px solid black;">Miss Kirthi Shihilpa Pillai<br>Mdm Chen ShuangShuang</td>
+			<td style="border:1px solid black;"><a href="kirthi_shihilpa_pillai@schools.gov.sg">kirthi_shihilpa_pillai@schools.gov.sg</a><br><a href="chen_shuangshuang@schools.gov.sg">chen_shuangshuang@schools.gov.sg</a></td>
 		</tr>     
 		<tr>
 			<td style="border:1px solid black;">5 Integrity<br>(5I)</td>
