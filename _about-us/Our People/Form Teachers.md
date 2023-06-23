@@ -168,8 +168,8 @@ third_nav_title: Our People
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">4 Care<br>(4C)</td>
-            <td style="border:1px solid black;">Miss Kirthi Shihilpa Pillai<br>Mdm Norhanim</td>
-			<td style="border:1px solid black;"><a href="kirthi_shihilpa_pillai@schools.gov.sg">kirthi_shihilpa_pillai@schools.gov.sg</a><br><a href="norhanim_hashim@schools.gov.sg">norhanim_hashim@schools.gov.sg</a></td>
+            <td style="border:1px solid black;">Mdm Norhanim</td>
+			<td style="border:1px solid black;"><a href=""></a><br><a href="norhanim_hashim@schools.gov.sg">norhanim_hashim@schools.gov.sg</a></td>
 		</tr>
 	</tbody>
 </table>
