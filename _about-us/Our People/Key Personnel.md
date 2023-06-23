@@ -34,7 +34,7 @@ third_nav_title: Our People
 			</th></tr>
 	</thead>
 
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<tbody><tr><th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/misspangcuilingoptimisedforweb%20(1).jpg" alt="Miss_wong_Pau_Hui_optimisedforweb.jpg" width="175" height="225">
 				<br>Mdm Pang Cui Ling<br>HOD - CCE
 				<br>
@@ -57,26 +57,19 @@ third_nav_title: Our People
 				<br>
 			</th>
 			
-<tr><th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/IMG_9053.jpg" alt="IMG_9053.JPG" width="175" height="225">
-				<br>Mrs Anitha Aruljothi<br>HOD - English
+</tr><tr><th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="/images/Miss%20Chua%20Shuan%20Kwee%20cropped.jpg" alt="IMG_9053.JPG" width="175" height="225">
+				<br>Miss Chua Shuan<br>School Staff Developer
 				<br>
-				<a href="mailto:m_anitha@schools.gov.sg">m_anitha<br>@schools.gov.sg</a>
+				<a href="mailto:chua_shuan_kwee@schools.gov.sg">chua_shuan_kwee<br>@schools.gov.sg</a>
 				<br></th>
 	<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/Mr%20Justin%20Luo%20Yanzhong_optimisedforweb.jpg" alt="Mr Justin Luo Yanzhong_optimisedforweb.jpg" width="175" height="225">
 				<br>Mr Justin Luo<br>HOD - ICT
 				<br>
 				<a href="mailto:justin_luo_yanzhong@schools.gov.sg">justin_luo_yanzhong<br>@schools.gov.sg</a>
-				<br></th>
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Miss%20Chua%20Shuan%20Kwee%20cropped.jpg" alt="Miss Chua Shuan Kwee cropped.jpg" width="175" height="225">
-				<br>Miss Chua Shuan<br>School Staff Developer
-				<br>
-				<a href="mailto:chua_shuan_kwee@schools.gov.sg">chua_shuan_kwee<br>@schools.gov.sg</a><br>
-</th>
-			</tr>
-			</table>
+			</th></tr>
+			</tbody></table>
 
 ### Year Heads
 
@@ -84,7 +77,7 @@ third_nav_title: Our People
 	<thead>
 		<tr>
 			<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/IMG_7629.jpeg" alt="tn.IMG_7629.JPG.mid.jpg"  width="175" height="225">
+				<img src="/images/IMG_7629.jpeg" alt="tn.IMG_7629.JPG.mid.jpg" width="175" height="225">
 				<br>Mrs Hazel Cheong<br>YH (P1 - P3)
 				<br>
 				<a href="mailto:tan_kar_tiang@schools.gov.sg">tan_kar_tiang<br>@schools.gov.sg</a><br>
@@ -105,13 +98,13 @@ third_nav_title: Our People
 		</tr>
 	</thead>
 
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+<tbody><tr><th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/Miss%20Pamela%20See%20cropped.jpg" alt="Miss Pamela See cropped.jpg" width="175" height="225">
 				<br>Miss Pamela See<br>AYH (P6)
 				<br>
 				<a href="mailto:see_yuen_heng@schools.gov.sg">see_yuen_heng<br>@schools.gov.sg</a><br>
 </th>
-			</table>
+			</tr></tbody></table>
 
 
 ### Level Heads / Subject Heads
@@ -144,7 +137,7 @@ third_nav_title: Our People
 		</tr>
 	</thead>
 	
-<tr>
+<tbody><tr>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/Miss_Lee_siew_Kiang_optimisedforweb.jpg" alt="Miss_Lee_siew_Kiang_optimisedforweb.jpg" width="175" height="225">
 				<br>Miss Lee Siew Kiang<br>SH - ICT
@@ -159,14 +152,14 @@ third_nav_title: Our People
 				<a href="mailto:teh_chiew_hwa_watson@schools.gov.sg">teh_chiew_hwa_<br>watson@schools.gov.sg</a><br>
 </th>
 </tr>
-</table>
+</tbody></table>
 
 
 
 ### Teacher Leaders
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px" class="tg">
-<tr>
+<tbody><tr>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/Mrs%20Helen%20Chong.jpg" alt="Mrs Helen Chong.jpg" width="175" height="225">
 				<br>Mrs Chong Helen Low<br>LT - PE<br><br>
@@ -196,4 +189,4 @@ ShuangShuang<br>ST - MT - CL<br>
 				<a href="mailto:sherylene_soh_siew_yin@schools.gov.sg">sherylene_soh_siew<br>_yin@schools.gov.sg</a><br>
 </th>
 </tr>
-</table>
+</tbody></table>

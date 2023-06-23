@@ -17,8 +17,6 @@ third_nav_title: Our People
 			<td style="border:1px solid black;"><a href="wong_kai_keong@schools.gov.sg">wong_kai_keong@schools.gov.sg</a></td>
 		</tr>
 		<tr>
-      <td style="border:1px solid black;">Mdm Jeron Teng</td>
-			<td style="border:1px solid black;"><a href="jeron_teng_shuh_tying@schools.gov.sg">jeron_teng_shuh_tying@schools.gov.sg</a></td>
 		</tr>
 		<tr>
       <td style="border:1px solid black;">Mdm Irene Low Mui Kwoon</td>

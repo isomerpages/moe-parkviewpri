@@ -18,22 +18,22 @@ description: ""
     </thead>
     <tbody>
         <tr>
-            <td style="border: 1px solid black;text-align: center;" rowspan=1>Reporting Time</td>
-            <td style="border: 1px solid black;text-align: center;" colspan=5>7.30 am</td>
+            <td style="border: 1px solid black;text-align: center;" rowspan="1">Reporting Time</td>
+            <td style="border: 1px solid black;text-align: center;" colspan="5">7.30 am</td>
         </tr>
         <tr>
             <td style="border: 1px solid black;text-align: center;">Lesson Time</td>
-            <td style="border: 1px solid black;text-align: center;" colspan=5>7.30 am - 1.30 pm</td>
+            <td style="border: 1px solid black;text-align: center;" colspan="5">7.30 am - 1.30 pm</td>
         </tr>
         <tr>            
-            <td style="border: 1px solid black;text-align: center;" rowspan=1>Assembly Area</td>
-            <td style="border: 1px solid black;text-align: center;" colspan=1>Classroom</td>
-            <td style="border: 1px solid black;text-align: center;" colspan=3>School Hall</td>
-            <td style="border: 1px solid black;text-align: center;" colspan=1>Parade Square</td>
+            <td style="border: 1px solid black;text-align: center;" rowspan="1">Assembly Area</td>
+            <td style="border: 1px solid black;text-align: center;" colspan="1">Classroom</td>
+            <td style="border: 1px solid black;text-align: center;" colspan="3">School Hall</td>
+            <td style="border: 1px solid black;text-align: center;" colspan="1">Parade Square</td>
         </tr>
         <tr>
             <td style="border: 1px solid black;text-align: center;">Recess</td>
-            <td style="border: 1px solid black;text-align: center;" colspan=5>
+            <td style="border: 1px solid black;text-align: center;" colspan="5">
                 P1 : 09.30 am – 10.00 am<br>
                 P2 : 10.00 am – 10.30 am<br>
                 P3 : 10.30 am – 11.00 am<br>
@@ -41,14 +41,14 @@ description: ""
         </tr>
         <tr>
             <td style="border: 1px solid black;text-align: center;">*Mid-day Break</td>
-            <td style="border: 1px solid black;text-align: center;" colspan=5>12.20 pm - 12.30 pm</td>
+            <td style="border: 1px solid black;text-align: center;" colspan="5">12.20 pm - 12.30 pm</td>
         </tr>
         <tr>
-            <td style="border: 1px solid black;text-align: center;">Enrichment (P1 & P2)
+            <td style="border: 1px solid black;text-align: center;">Enrichment (P1 &amp; P2)
 CCA (P3)
 </td>
-            <td style="border: 1px solid black;text-align: center;" colspan=4>-</td>
-            <td style="border: 1px solid black;text-align: center;" colspan=1>7.30 am - 9.00pm</td>
+            <td style="border: 1px solid black;text-align: center;" colspan="4">-</td>
+            <td style="border: 1px solid black;text-align: center;" colspan="1">7.30 am - 9.00am</td>
         </tr>
     </tbody>
 </table>
@@ -68,23 +68,23 @@ CCA (P3)
     </thead>
     <tbody>
         <tr>
-            <td style="border: 1px solid black;text-align: center;" rowspan=1>Reporting Time</td>
-            <td style="border: 1px solid black;text-align: center;" colspan=5>7.30 am</td>
+            <td style="border: 1px solid black;text-align: center;" rowspan="1">Reporting Time</td>
+            <td style="border: 1px solid black;text-align: center;" colspan="5">7.30 am</td>
         </tr>
         <tr>
             <td style="border: 1px solid black;text-align: center;">Lesson Time</td>
-            <td style="border: 1px solid black;text-align: center;" colspan=1>7.30 am - 2.30 pm</td>
-            <td style="border: 1px solid black;text-align: center;" colspan=4>7.30 am - 1.30 pm</td>
+            <td style="border: 1px solid black;text-align: center;" colspan="1">7.30 am - 2.30 pm</td>
+            <td style="border: 1px solid black;text-align: center;" colspan="4">7.30 am - 1.30 pm</td>
         </tr>
         <tr>            
-            <td style="border: 1px solid black;text-align: center;" rowspan=1>Assembly Area</td>
-            <td style="border: 1px solid black;text-align: center;" colspan=1>Classroom</td>
-            <td style="border: 1px solid black;text-align: center;" colspan=3>School Hall</td>
-            <td style="border: 1px solid black;text-align: center;" colspan=1>Parade Square</td>
+            <td style="border: 1px solid black;text-align: center;" rowspan="1">Assembly Area</td>
+            <td style="border: 1px solid black;text-align: center;" colspan="1">Classroom</td>
+            <td style="border: 1px solid black;text-align: center;" colspan="3">School Hall</td>
+            <td style="border: 1px solid black;text-align: center;" colspan="1">Parade Square</td>
         </tr>
         <tr>
             <td style="border: 1px solid black;text-align: center;">Recess</td>
-            <td style="border: 1px solid black;text-align: center;" colspan=5>
+            <td style="border: 1px solid black;text-align: center;" colspan="5">
                 P1 : 09.30 am – 10.00 am<br>
                 P2 : 10.00 am – 10.30 am<br>
                 P3 : 10.30 am – 11.00 am<br>
@@ -92,13 +92,13 @@ CCA (P3)
         </tr>
         <tr>
             <td style="border: 1px solid black;text-align: center;">*Mid-day Break</td>
-            <td style="border: 1px solid black;text-align: center;" colspan=1>-</td>
-            <td style="border: 1px solid black;text-align: center;" colspan=4>12.20 pm - 12.30 pm</td>
+            <td style="border: 1px solid black;text-align: center;" colspan="1">-</td>
+            <td style="border: 1px solid black;text-align: center;" colspan="4">12.20 pm - 12.30 pm</td>
         </tr>
         <tr>
             <td style="border: 1px solid black;text-align: center;">CCA</td>
-            <td style="border: 1px solid black;text-align: center;" colspan=4>-</td>
-            <td style="border: 1px solid black;text-align: center;" colspan=1>7.30 am - 9.00pm</td>
+            <td style="border: 1px solid black;text-align: center;" colspan="4">-</td>
+            <td style="border: 1px solid black;text-align: center;" colspan="1">7.30 am - 9.00am</td>
         </tr>
     </tbody>
 </table>
@@ -152,7 +152,7 @@ CCA (P3)
 	</tbody>
 </table>
 
-<p align="justify"><b>Due to safety concerns, with effect from Monday, 27 June 2022, the turnstile gate (Gate C) at the back of our school will remain closed at all times of day.</b> Parents/caregivers may drop-off or pick up their child at any of the above gates according to the gate operation timings. Parents/caregivers are allowed to drive into the school in the mornings only ( 7.00 a.m. - 7.30 a.m. ) to drop off their children.</p>
+<p align="justify"><b>Due to safety concerns, with effect from Monday, 27 June 2022, the turnstile gate (Gate C) at the back of our school will remain closed at all times of day.</b>&nbsp;Parents/caregivers may drop-off or pick up their child at any of the above gates according to the gate operation timings. Parents/caregivers are allowed to drive into the school in the mornings only ( 7.00 a.m. - 7.30 a.m. ) to drop off their children.</p>
 
 <b>All visitors are to register at the Security Post at the front gate (Gate A).</b>
 
