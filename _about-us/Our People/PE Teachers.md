@@ -36,5 +36,9 @@ third_nav_title: Our People
 			 <td style="border:1px solid black;">Mr Watson Teh</td>
 			<td style="border:1px solid black;"><a href="teh_chiew_hwa_watson@schools.gov.sg">teh_chiew_hwa_watson@schools.gov.sg</a></td>
 		</tr>
+		 <tr>
+			 <td style="border:1px solid black;">Mr Jordan Toh Yuexuan</td>
+			<td style="border:1px solid black;"><a href="jordan_toh_yuexuan@schools.gov.sg">jordan_toh_yuexuan@schools.gov.sg</a></td>
+		</tr>
 </tbody>
 </table>
