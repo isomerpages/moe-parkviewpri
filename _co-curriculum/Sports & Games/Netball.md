@@ -12,7 +12,7 @@ In Netball, we believe in developing each player to her fullest potential in the
 
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Mrs Evie Goh<br>
-	Mdm Quek Shi Rui<br>
+	Miss Khairina Binte Omar<br>
 	Mdm Nur Farizah
 	</td>
 	</tr>
