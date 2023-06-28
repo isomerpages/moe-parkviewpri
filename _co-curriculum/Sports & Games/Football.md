@@ -13,7 +13,7 @@ We were taught various football skills, techniques and games to hone our skills.
 Together with our band of committed coach and teachers driving and inspiring the Football CCA, we hope to build on our achievements and strive to attain greater heights in the coming years.</p>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Mr Lee Eng Tiong<br>
-Mr Han Xuanjun<br>  
+Mr Jordan Toh Yuexuan<br>  
 Mr Muslim
 	</td>
 	</tr>

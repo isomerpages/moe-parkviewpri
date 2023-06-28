@@ -10,7 +10,7 @@ Our Infocomm Club programmes include Introduction to Photography and Video Makin
 
 Besides that, students also get to learn about blocked-based Artificial Intelligence and learn how to create digital animations, as well as games with score-keeping.
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Mdm Raha Begum<br>  
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Miss Chang Tian Tian<br>  
 Mrs Catherine Quek
 	</td>
 	</tr>

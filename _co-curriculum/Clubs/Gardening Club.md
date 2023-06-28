@@ -14,7 +14,7 @@ The Gardening Club aims to promote a deeper appreciation of greenery amongst the
 
 It also aims to promote awareness of the diversity of plants and to educate students on ways to care for the different types of plants.
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Mdm Zahrah Mohamed Abbas (OIC)<br>Miss June Quek Siew Lan (2OIC)
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Miss Emily Ambrose (OIC)<br>Miss June Quek Siew Lan (2OIC)
 	</td>
 	</tr>
 	<tr>

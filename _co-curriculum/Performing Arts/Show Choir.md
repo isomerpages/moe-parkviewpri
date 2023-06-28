@@ -8,7 +8,7 @@ third_nav_title: Performing Arts
 
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Mdm Hannah (Overall-In-Charge)<br>  
-Ms Grace Yeo
+Mr Muhammad Izdihar Bin Othman
 	</td>
 	</tr>
 	<tr>

@@ -8,7 +8,7 @@ third_nav_title: Performing Arts
 
 <p align="justify">Despite spending many hours honing their Guzheng playing skills, some of our former Guzheng members had achieved good academic results and are currently studying in renowned secondary schools, such as Dunman High School, Chung Cheng High School and Raffles Girls School.</p>
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Ms Pamela See
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Mdm Tan Poh Soon<br>Mdm Shi Rui
 	</td>
 	</tr>
 	<tr>

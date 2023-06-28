@@ -10,7 +10,7 @@ third_nav_title: Performing Arts
 
 <p align="justify">Creative Dance teaches respect, resilience and discipline alongside other school values which are regularly reinforced by our team of dedicated teachers and instructors. It also prides itself on the strong friendships forged and rapport between the dancers, teachers and instructors.</p>
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Mdm Valar (OIC)<br>  
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Mdm Valarmathi (OIC)<br>  
 Mdm Zubaidah<br> 
 Mdm Wang Luning
 	</td>
