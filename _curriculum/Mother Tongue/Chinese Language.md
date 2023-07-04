@@ -6,7 +6,9 @@ third_nav_title: Mother Tongue
 ---
 ### 我们的骄傲
 <br>
-<img src="/images/untitled.gif" style="width:30%" >
+<img src="/images/pic%20student%2001.jpeg" style="width:50%">
+<p>2023年，我校黄俊稀同学入围新加坡书法中心主办的全国毛笔/硬笔大决赛，并荣获小学组硬笔优秀奖。</p><br>
+<img src="/images/untitled.gif" style="width:30%">
 
 <img src="/images/Curriculum/Mother%20Tongue/CL/img_1.jpg" style="width:50%">
 <p>2022年，在第五届新加坡中小学课文朗诵比赛中，我校吴俊擎同学获得低年级组个人银奖；叶勇克、冯睿一、陈劭齐、李心怡同学获得低年级组团体铜奖；陈语霏同学获得高年级组个人铜奖；高正轩、吴靓萱、简芳菲同学获得高年级组团体银奖；钟慧恩、林桓宇、张昊哲同学获得高年级组团体铜奖。</p><br>
@@ -68,7 +70,7 @@ third_nav_title: Mother Tongue
 
 为了弘扬华族文化，让学生们了解、热爱自己的母语，华文部每年都为一至六年级的学生举办一系列精彩的母语双周活动。活动主要是针对各年级的需要而设计，内容涵盖书法、儿歌朗诵、创意绘画和文化营等，还联合家长义工和商家共同举办语文嘉年华和文化嘉年华，让学生“乐学善用”母语，并细细品茗珍贵的文化资产。母语双周活动不仅让学生学习到课本以外的知识，拉近了学生与文化之间的距离，同时也让大家见证了华族文化的魅力。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HBTW-jo9pfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HBTW-jo9pfY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 <img src="/images/Curriculum/Mother%20Tongue/CL/tab2_img_3.jpg" style="width:100%">
 
