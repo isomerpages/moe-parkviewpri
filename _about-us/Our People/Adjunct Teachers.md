@@ -48,15 +48,19 @@ third_nav_title: Our People
 		</tr> 
 		   <tr>
 				 <td style="border:1px solid black;">Jeannie Yap</td>
-			<td style="border:1px solid black;"><a href="Jeannie_Yap_Tiew_Li_A@schools.gov.sg">Jeannie_Yap_Tiew_Li_A@schools.gov.sg
+			<td style="border:1px solid black;"><a href="jeannie_yap_tiew_li_A@schools.gov.sg">jeannie_yap_tiew_li_A@schools.gov.sg
 </a></td></tr>
 			 <tr><td style="border:1px solid black;">Mrs Ong Bee Hoo</td>
-			<td style="border:1px solid black;"><a href="Ong_Bee_Hoo@schools.gov.sg">Ong_Bee_Hoo@schools.gov.sg
+			<td style="border:1px solid black;"><a href="ong_bee_hoo@schools.gov.sg">ong_bee_hoo@schools.gov.sg
 </a></td></tr>	
-					 <tr><td style="border:1px solid black;">Abdul Rahman Bin Omar</td>
-			<td style="border:1px solid black;"><a href="Abdul_Rahman_Omar@schools.gov.sg">Abdul_Rahman_Omar@schools.gov.sg
+			<tr>
+				<td style="border:1px solid black;">Abdul Rahman Bin Omar</td>
+			<td style="border:1px solid black;"><a href="abdul_rahman_omar@schools.gov.sg">abdul_rahman_omar@schools.gov.sg
 </a>
 		</td>
 		</tr>
-	</tbody>
+		<tr>
+      <td style="border:1px solid black;">Santhi Vardeewell</td>
+			<td style="border:1px solid black;"><a href="santhi_vardeewell@schools.gov.sg">santhi_vardeewell@schools.gov.sg</a></td>
+	</tr></tbody>
 </table>
