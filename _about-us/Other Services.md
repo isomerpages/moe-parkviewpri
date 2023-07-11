@@ -17,47 +17,32 @@ Lunch Hour: 1:00 p.m. - 2:00 p.m.
 
 <i>** The school dental clinic is closed. For emergency treatment, call one of the following clinics for assistance. These clinics are not open daily, call before going there.:</i>
 
-
-
 #### Buddy Clinics
 
-<style>
-table, th, td {
-  border:1px solid black;
-}
-</style>
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><td style="border-color:#000000;solid;border-width:1px;">Meridian Pr School Dental Clinic</td>
+	<td style="border-color:#000000;solid;border-width:1px;">20 Pasir Ris St 71 (518798)</td>
+	<td style="border-color:#000000;solid;border-width:1px;">9821 1985</td>
+	</tr>
+<tr><td style="border-color:#000000;solid;border-width:1px;">Elias Park Pr School Dental Clinic</td>
+	<td style="border-color:#000000;solid;border-width:1px;"> 11 Pasir Ris St 52 (518866)</td>
+	<td style="border-color:#000000;solid;border-width:1px;">8940 1873</td>
+	</tr>
+<tr><td style="border-color:#000000;solid;border-width:1px;">Whitesands Pr School Dental Clinic</td>
+	<td style="border-color:#000000;solid;border-width:1px;">2 Pasir Ris St 11 (519075)</td>
+	<td style="border-color:#000000;solid;border-width:1px;">9113 9758</td>
+	</tr>
+<tr><td style="border-color:#000000;solid;border-width:1px;">Mobile Dental Clinic 6</td>
+	<td style="border-color:#000000;solid;border-width:1px;"> Ask for current location</td>
+	<td style="border-color:#000000;solid;border-width:1px;">9237 9143</td>
+	</tr>
+	</tbody>
+	</table>
 
-
-<h2>Buddy Clinics</h2>
-
-<table style="width:100%">
-  <tbody><tr>
-    <td>Meridian Pr School Dental Clinic</td>
-    <td>20 Pasir Ris St 71 (518798)</td>
-    <td>9821 1985</td>
-  </tr>
-  <tr>
-    <td>Elias Park Pr School Dental Clinic</td>
-    <td>11 Pasir Ris St 52 (518866)</td>
-    <td>8940 1873</td>
-  </tr>
-  <tr>
-    <td>Whitesands Pr School Dental Clinic</td>
-    <td>2 Pasir Ris St 11 (519075)</td>
-    <td>9113 9758</td>
-  </tr>
-   <tr>
-    <td>Mobile Dental Clinic 6</td>
-    <td>Ask for current location</td>
-    <td>9237 9143</td>
-  </tr>
-</tbody></table>
 
 
 
 <li>Singaporean <b>may</b> have to <b>pay</b> for treatment.</li>
 <li>Foreigners &amp; Permanent Residents have to <b>pay</b> for treatment.</li>
-
 
 <table>
 	<thead>
