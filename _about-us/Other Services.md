@@ -11,7 +11,7 @@ Tel: 65816637
 
 ####  Opening Days and Hours
 
-Monday & Wednesday: 8:00 a.m. - 5:30 p.m.
+Monday &amp; Wednesday: 8:00 a.m. - 5:30 p.m.
 School Holidays (Selected Days Only): 8:00 a.m. - 5:30 p.m.
 Lunch Hour: 1:00 p.m. - 2:00 p.m.
 
@@ -26,7 +26,7 @@ Singapore 168937<br>
 Tel: 6435 3782
 
 <li>Singaporean <b>may</b> have to <b>pay</b> for treatment.</li>
-<li>Foreigners & Permanent Residents have to <b>pay</b> for treatment.</li>
+<li>Foreigners &amp; Permanent Residents have to <b>pay</b> for treatment.</li>
 
 
 <table>
