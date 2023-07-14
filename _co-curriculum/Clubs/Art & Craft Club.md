@@ -195,6 +195,7 @@ Theme: ‘Artist and Technology’</td>
 <img src="/images/2%20syf_category%20b_plastic%20fishes.jpg">
 <img src="/images/3%20syf_category%20c_crushing%20our%20earth.jpg">
 
+<h3>Pasir Ris East National Day Art Contest </h3>
 
 
 <h3>URA LTPR ART COMPETITION</h3>
