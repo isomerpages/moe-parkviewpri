@@ -29,6 +29,89 @@ Non-School Team (Art Room 2)
  <table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Events</th><th style="border-color:#000000;solid;border-width:1px;">Achievements</th><th style="border-color:#000000;solid;border-width:1px;">Year</th>
 	</tr>
 	<tr>
+	<td style="border-color:#000000;solid;border-width:1px;">Singapore Youth Festivals (SYF) Arts Presentation
+Theme: ‘Artist and Inspiration’</td>
+	<td style="border-color:#000000;solid;border-width:1px;">Certificate of Recognition:
+Category A – Kampung Coffee Shop<br><br>
+Category B – Plastic Fishes<br><br>
+Category C – Crushing Our Earth	
+</td>
+		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+</tr>
+	<tr>
+	</tr><tr>
+	<td style="border-color:#000000;solid;border-width:1px;">Radin Mas Arts Week Colouring Competition 
+</td>
+	<td style="border-color:#000000;solid;border-width:1px;">
+2nd place Recipient: Teo Zhi Xuan
+</td>
+		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+</tr>
+	<tr>
+	</tr><tr>
+	</tr>
+	<tr>
+	<td style="border-color:#000000;solid;border-width:1px;">Pasir Ris East National Day Art Contest
+</td>
+	<td style="border-color:#000000;solid;border-width:1px;">
+2nd place Recipient: Teo Zhi Xuan
+</td>
+		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+</tr>
+	<tr>
+	</tr><tr>
+	<td style="border-color:#000000;solid;border-width:1px;">Singapore Dreaming: A Comics Competition for Young Creators!
+</td>
+	<td style="border-color:#000000;solid;border-width:1px;">
+Certificate of participation
+</td>
+		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+</tr>
+	<tr>
+	</tr>
+	<tr>
+	</tr><tr>
+	<td style="border-color:#000000;solid;border-width:1px;">SOTA Primary 6 Art Competition
+Theme: “If I Can Change the World”
+</td>
+	<td style="border-color:#000000;solid;border-width:1px;">
+Certificate of participation
+</td>
+		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+</tr>
+	<tr>
+	</tr>
+	<tr>
+	</tr>
+	<tr>
+	</tr><tr>
+	<td style="border-color:#000000;solid;border-width:1px;">The Singapore International Art Contest (SIAC) 
+</td>
+	<td style="border-color:#000000;solid;border-width:1px;">
+Certificate of participation
+</td>
+		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+</tr>
+	<tr>
+	</tr>
+	<tr>
+	</tr><tr>
+		</tr><tr>
+	</tr>
+	<tr>
+	</tr><tr>
+	<td style="border-color:#000000;solid;border-width:1px;">
+Art of Trash Competition
+</td>
+	<td style="border-color:#000000;solid;border-width:1px;">
+Certificate of participation
+</td>
+		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+</tr>
+	<tr>
+	</tr>
+	<tr>
+	</tr><tr>
 	<td style="border-color:#000000;solid;border-width:1px;">URA LTPR Art Competition</td>
 	<td style="border-color:#000000;solid;border-width:1px;">2nd place  
 Recipient: Teo Zhi Xuan</td>
