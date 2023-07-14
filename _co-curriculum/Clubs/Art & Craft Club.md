@@ -188,3 +188,41 @@ Theme: ‘Artist and Technology’</td>
 	</tr>
 	</tbody>
 	</table>
+
+<h3>URA LTPR ART COMPETITION</h3>
+
+<img src="/images/URA_LTPR%20Art%20Competition_Teo%20Zhi%20Xuan%204R3_2nd%20Place%201.jpg">
+
+<img src="/images/URA_LTPR%20Art%20Competition_Teo%20Zhi%20Xuan%204R3_2nd%20Place%202.jpg">
+
+<h3>Community Outreach Programme (COP) thru’ Recycled Art</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sUn1nNqdg1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+Despite the challenges faced due to the pandemic, both PVPS Art &amp; Craft Club and Sparkletots Preschool@Blk 517 worked closely to ensure our annual collaboration could continue. This year, to commemorate Earth Day on 22 April 2021, 2 of our Art Club students, Kenneth and Rasleen, recorded an instructional video on creating photo frames using recycled cardboards and twigs. The K1 and K2 students followed the steps in the video to create their own photo frames. This was a maiden attempt by the Art Club students and the experience was both meaningful and exhilarating.
+
+![](/images/Community%20Outreach%20Programme%20through%20Recycled%20Art%20Earth%20Day.jpg)
+
+![](/images/Pasir%20Ris%20Our%20Home%20Colouring%20Contest.jpg)
+
+![](/images/Draw%20My%20Stamp%20Story%206.jpg)
+
+![](/images/A1.jpg)
+
+![](/images/A2.jpg)
+
+![](/images/A3.jpg)
+
+# **Creepy Crawlies**
+
+Art club members explored ways in making use of recycled materials to create the artworks in their effort to play a more active role in conserving the limited resources and protecting the environment. Cardboard egg cartons were transformed into creepy crawlies such as caterpillars, spiders and lady bugs through the pupils’ creative minds and hands.
+
+![](/images/creepycrawlies.jpg)
+
+# **Manga Character Design Competition**
+
+### Manga Ambassadors
+
+20 Art Club members served as ‘Manga Ambassadors’ during the ICT Art/ Comic Studio Manga Character Design Competition held at Siglap Secondary School. They assisted the competitors in the use of the tablet PC to create their Manga character.
+
+![](/images/manga.jpg)
