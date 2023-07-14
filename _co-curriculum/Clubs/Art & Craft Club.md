@@ -192,6 +192,9 @@ Theme: ‘Artist and Technology’</td>
 <h3>Singapore Youth Festivals Art Presentation </h3>
 
 <img src="/images/1%20syf%20category%20a%20kampung%20coffeeshop.jpg">
+<img src="/images/2%20syf_category%20b_plastic%20fishes.jpg">
+<img src="/images/3%20syf_category%20c_crushing%20our%20earth.jpg">
+
 
 
 <h3>URA LTPR ART COMPETITION</h3>
