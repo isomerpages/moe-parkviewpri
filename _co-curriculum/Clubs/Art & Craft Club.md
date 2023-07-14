@@ -189,6 +189,11 @@ Theme: ‘Artist and Technology’</td>
 	</tbody>
 	</table>
 
+<h3>Singapore Youth Festivals Art Presentation </h3>
+
+<img src="/images/1%20syf%20category%20a%20kampung%20coffeeshop.jpg">
+
+
 <h3>URA LTPR ART COMPETITION</h3>
 
 <img src="/images/URA_LTPR%20Art%20Competition_Teo%20Zhi%20Xuan%204R3_2nd%20Place%201.jpg">
