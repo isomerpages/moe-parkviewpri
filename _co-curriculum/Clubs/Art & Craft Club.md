@@ -196,6 +196,23 @@ Theme: ‘Artist and Technology’</td>
 <img src="/images/3%20syf_category%20c_crushing%20our%20earth.jpg">
 
 <h3>Pasir Ris East National Day Art Contest </h3>
+<img src="/images/2%20pasir%20ris%20east%20national%20day%20art%20contest.JPG">
+
+<h3>Radin Mas Arts Week Colouring Competition </h3>
+<img src="/images/3%20radin%20mas%20arts%20week%20colouring%20competition.JPG">
+
+<h3>SOTA Primary 6 Art Competition</h3>
+<img src="/images/4%20sota%20p6%20art%20competition%20(1).JPG">
+<img src="/images/4%20sota%20p6%20art%20competition%20(2).JPG">
+
+<h3>The Singapore International Art Contest (SIAC)</h3>
+<img src="/images/5%20singapore%20international%20art%20contest%20(siac).jpg">
+
+<h3>The Singapore International Art Contest (SIAC)</h3>
+<img src="/images/6%20art%20for%20trash.JPG">
+					
+
+
 
 
 <h3>URA LTPR ART COMPETITION</h3>
