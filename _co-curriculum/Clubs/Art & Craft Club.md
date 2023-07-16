@@ -4,7 +4,7 @@ permalink: /co-curriculum/clubs/art-n-craft-club/info/
 description: ""
 third_nav_title: Clubs
 ---
-Click [here](/co-curriculum/clubs/art-n-craft-club/) for more information.
+
 
 Through our 4**E**&nbsp;approach -**Exposure**,&nbsp;**Experience**,&nbsp;**Excursion**,&nbsp;**Excellence**,&nbsp;we aim to develop and harness the full range of our students’ talents and contribute to their overall development. Art Club members are exposed to 2D and 3D art forms through hands-on art making and attending art exhibitions. There are also opportunities for our students to develop SEL competencies through group art-making and character building through service to the community project such as the Community Outreach Programme through Recycled Art. Art Club members also have the opportunity to teach the K1 &amp; K2 children in neighbourhood Sparkletots Preschool how to transform everyday trash into interesting works of art.
 
@@ -29,6 +29,89 @@ Non-School Team (Art Room 2)
  <table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Events</th><th style="border-color:#000000;solid;border-width:1px;">Achievements</th><th style="border-color:#000000;solid;border-width:1px;">Year</th>
 	</tr>
 	<tr>
+	<td style="border-color:#000000;solid;border-width:1px;">Singapore Youth Festivals (SYF) Arts Presentation
+Theme: ‘Artist and Inspiration’</td>
+	<td style="border-color:#000000;solid;border-width:1px;">Certificate of Recognition:
+Category A – Kampung Coffee Shop<br><br>
+Category B – Plastic Fishes<br><br>
+Category C – Crushing Our Earth	
+</td>
+		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+</tr>
+	<tr>
+	</tr><tr>
+	<td style="border-color:#000000;solid;border-width:1px;">Radin Mas Arts Week Colouring Competition 
+</td>
+	<td style="border-color:#000000;solid;border-width:1px;">
+2nd place Recipient: Teo Zhi Xuan
+</td>
+		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+</tr>
+	<tr>
+	</tr><tr>
+	</tr>
+	<tr>
+	<td style="border-color:#000000;solid;border-width:1px;">Pasir Ris East National Day Art Contest
+</td>
+	<td style="border-color:#000000;solid;border-width:1px;">
+2nd place Recipient: Teo Zhi Xuan
+</td>
+		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+</tr>
+	<tr>
+	</tr><tr>
+	<td style="border-color:#000000;solid;border-width:1px;">Singapore Dreaming: A Comics Competition for Young Creators!
+</td>
+	<td style="border-color:#000000;solid;border-width:1px;">
+Certificate of participation
+</td>
+		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+</tr>
+	<tr>
+	</tr>
+	<tr>
+	</tr><tr>
+	<td style="border-color:#000000;solid;border-width:1px;">SOTA Primary 6 Art Competition
+Theme: “If I Can Change the World”
+</td>
+	<td style="border-color:#000000;solid;border-width:1px;">
+Certificate of participation
+</td>
+		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+</tr>
+	<tr>
+	</tr>
+	<tr>
+	</tr>
+	<tr>
+	</tr><tr>
+	<td style="border-color:#000000;solid;border-width:1px;">The Singapore International Art Contest (SIAC) 
+</td>
+	<td style="border-color:#000000;solid;border-width:1px;">
+Certificate of participation
+</td>
+		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+</tr>
+	<tr>
+	</tr>
+	<tr>
+	</tr><tr>
+		</tr><tr>
+	</tr>
+	<tr>
+	</tr><tr>
+	<td style="border-color:#000000;solid;border-width:1px;">
+Art of Trash Competition
+</td>
+	<td style="border-color:#000000;solid;border-width:1px;">
+Certificate of participation
+</td>
+		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+</tr>
+	<tr>
+	</tr>
+	<tr>
+	</tr><tr>
 	<td style="border-color:#000000;solid;border-width:1px;">URA LTPR Art Competition</td>
 	<td style="border-color:#000000;solid;border-width:1px;">2nd place  
 Recipient: Teo Zhi Xuan</td>
@@ -105,3 +188,67 @@ Theme: ‘Artist and Technology’</td>
 	</tr>
 	</tbody>
 	</table>
+
+<h3>Singapore Youth Festivals Art Presentation </h3>
+
+<img src="/images/1%20syf%20category%20a%20kampung%20coffeeshop.jpg">
+<img src="/images/2%20syf_category%20b_plastic%20fishes.jpg">
+<img src="/images/3%20syf_category%20c_crushing%20our%20earth.jpg">
+
+<h3>Pasir Ris East National Day Art Contest </h3>
+<img src="/images/2%20pasir%20ris%20east%20national%20day%20art%20contest.JPG">
+
+<h3>Radin Mas Arts Week Colouring Competition </h3>
+<img src="/images/3%20radin%20mas%20arts%20week%20colouring%20competition.JPG">
+
+<h3>SOTA Primary 6 Art Competition</h3>
+<img src="/images/4%20sota%20p6%20art%20competition%20(1).JPG">
+<img src="/images/4%20sota%20p6%20art%20competition%20(2).JPG">
+
+<h3>The Singapore International Art Contest (SIAC)</h3>
+<img src="/images/5%20singapore%20international%20art%20contest%20(siac).jpg">
+
+<h3>The Singapore International Art Contest (SIAC)</h3>
+<img src="/images/6%20art%20for%20trash.JPG">
+					
+
+
+
+
+<h3>URA LTPR ART COMPETITION</h3>
+
+<img src="/images/URA_LTPR%20Art%20Competition_Teo%20Zhi%20Xuan%204R3_2nd%20Place%201.jpg">
+
+<img src="/images/URA_LTPR%20Art%20Competition_Teo%20Zhi%20Xuan%204R3_2nd%20Place%202.jpg">
+
+<h3>Community Outreach Programme (COP) thru’ Recycled Art</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sUn1nNqdg1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+Despite the challenges faced due to the pandemic, both PVPS Art &amp; Craft Club and Sparkletots Preschool@Blk 517 worked closely to ensure our annual collaboration could continue. This year, to commemorate Earth Day on 22 April 2021, 2 of our Art Club students, Kenneth and Rasleen, recorded an instructional video on creating photo frames using recycled cardboards and twigs. The K1 and K2 students followed the steps in the video to create their own photo frames. This was a maiden attempt by the Art Club students and the experience was both meaningful and exhilarating.
+
+![](/images/Community%20Outreach%20Programme%20through%20Recycled%20Art%20Earth%20Day.jpg)
+
+![](/images/Pasir%20Ris%20Our%20Home%20Colouring%20Contest.jpg)
+
+![](/images/Draw%20My%20Stamp%20Story%206.jpg)
+
+![](/images/A1.jpg)
+
+![](/images/A2.jpg)
+
+![](/images/A3.jpg)
+
+# **Creepy Crawlies**
+
+Art club members explored ways in making use of recycled materials to create the artworks in their effort to play a more active role in conserving the limited resources and protecting the environment. Cardboard egg cartons were transformed into creepy crawlies such as caterpillars, spiders and lady bugs through the pupils’ creative minds and hands.
+
+![](/images/creepycrawlies.jpg)
+
+# **Manga Character Design Competition**
+
+### Manga Ambassadors
+
+20 Art Club members served as ‘Manga Ambassadors’ during the ICT Art/ Comic Studio Manga Character Design Competition held at Siglap Secondary School. They assisted the competitors in the use of the tablet PC to create their Manga character.
+
+![](/images/manga.jpg)
