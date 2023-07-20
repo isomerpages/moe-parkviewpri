@@ -48,15 +48,3 @@ The objectives of HBL Exercises are:
 *   To ensure continuity of learning in the event of school closure
 *   To engage pupils in ICT-enriched learning experiences
 
-
-
-#### Useful tips and information for Parents and Pupils
-
-[http://ict.moe.edu.sg/cyberwellness/](http://ict.moe.edu.sg/cyberwellness/)  
-[http://www.cyberwellness.org.sg/SitePages/PublicResourceTopicPage.aspx](http://www.cyberwellness.org.sg/SitePages/PublicResourceTopicPage.aspx)  
-[http://www.b4usurf.org/](http://www.b4usurf.org/)  
-[http://www.planetcrush.org/](http://www.planetcrush.org/)  
-
-
-*   [DO's and DONT's](https://parkviewpri.moe.edu.sg/qql/slot/u177/2021/Curriculum/ICT/Cyber%20Wellness/DOs%20and%20DONTs.pdf)
-*   [ICT Policy](https://parkviewpri.moe.edu.sg/qql/slot/u177/2021/Curriculum/ICT/Cyber%20Wellness/ICT%20policy.pdf)
