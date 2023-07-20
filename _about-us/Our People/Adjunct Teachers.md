@@ -62,5 +62,9 @@ third_nav_title: Our People
 		<tr>
       <td style="border:1px solid black;">Santhi Vardeewell</td>
 			<td style="border:1px solid black;"><a href="santhi_vardeewell@schools.gov.sg">santhi_vardeewell@schools.gov.sg</a></td>
+	</tr>
+		<tr>
+      <td style="border:1px solid black;">Mrs Evie Goh</td>
+			<td style="border:1px solid black;"><a href="evie_quah@schools.gov.sg">evie_quah@schools.gov.sg</a></td>
 	</tr></tbody>
 </table>
