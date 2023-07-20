@@ -62,5 +62,20 @@ third_nav_title: Our People
 		<tr>
       <td style="border:1px solid black;">Santhi Vardeewell</td>
 			<td style="border:1px solid black;"><a href="santhi_vardeewell@schools.gov.sg">santhi_vardeewell@schools.gov.sg</a></td>
-	</tr></tbody>
-</table>
+	</tr>
+		<tr>
+      <td style="border:1px solid black;">Mrs Evie Goh</td>
+			<td style="border:1px solid black;"><a href="evie_quah@schools.gov.sg">evie_quah@schools.gov.sg</a></td>
+	</tr>
+		  <tr><td style="border:1px solid black;">Mrs Quek</td>
+			<td style="border:1px solid black;"><a href="sham_pui_yue@schools.gov.sg">sham_pui_yue@schools.gov.sg</a></td>
+		</tr>
+		  <tr><td style="border:1px solid black;">Mrs Nelly Tan</td>
+			<td style="border:1px solid black;"><a href="teo_siok_eng@schools.gov.sg">teo_siok_eng@schools.gov.sg</a></td>
+	</tr>
+		<tr><td style="border:1px solid black;">Mdm Kwan Wai Han</td>
+			<td style="border:1px solid black;"><a href="kwan_wai_han@schools.gov.sg">kwan_wai_han@schools.gov.sg</a></td>
+		</tr>
+				<tr><td style="border:1px solid black;">Mdm Kamaliah Bte Mohd Nor</td>
+			<td style="border:1px solid black;"><a href="kamaliah_mohd_nor@schools.gov.sg">kamaliah_mohd_nor@schools.gov.sg</a></td>
+</tr></tbody></table>

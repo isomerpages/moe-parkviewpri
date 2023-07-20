@@ -2,6 +2,9 @@ collections:
   curriculum:
     output: true
     order:
+      - ICT/.keep
+      - ICT/Information & Communication Technology (ICT).md
+      - ICT/Cyber Wellness @ PVPS.md
       - English/.keep
       - English/English.md
       - English/School Library Policy.md
@@ -17,7 +20,6 @@ collections:
       - Aesthetics/Art.md
       - Aesthetics/Music.md
       - Physical & Health Education.md
-      - Information & Communication Technology (ICT).md
       - CCE/.keep
       - CCE/Character & Citizenship Education (CCE).md
       - CCE/Pupil Leadership.md

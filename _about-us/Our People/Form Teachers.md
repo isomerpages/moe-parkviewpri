@@ -75,8 +75,8 @@ third_nav_title: Our People
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">2 Resilience<br>(2R3)</td>
-            <td style="border:1px solid black;">Mdm Zahrah</td>
-			<td style="border:1px solid black;"><a href="zahrah_mohamed_abbas@schools.gov.sg">zahrah_mohamed_abbas@schools.gov.sg</a></td>
+            <td style="border:1px solid black;">Mdm Zahrah<br>Muhammad Izdihar Bin Othman</td>
+			<td style="border:1px solid black;"><a href="zahrah_mohamed_abbas@schools.gov.sg">zahrah_mohamed_abbas@schools.gov.sg</a><br><a href="muhammad_izdihar_othman@schools.gov.sg">muhammad_izdihar_othman@schools.gov.sg</a></td>
 		</tr>     
 		<tr>
 			<td style="border:1px solid black;">2 Integrity<br>(2I)</td>
@@ -153,8 +153,8 @@ third_nav_title: Our People
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">4 Responsibility<br>(4R2)</td>
-            <td style="border:1px solid black;">Miss Emily Ambrose<br>Mdm Kimberly Jean Aeria</td>
-			<td style="border:1px solid black;"><a href="emily_ambrose@schools.gov.sg">emily_ambrose@schools.gov.sg</a><br><a href="kimberly_jean_aeria@schools.gov.sg">kimberly_jean_aeria@schools.gov.sg</a></td>
+            <td style="border:1px solid black;">Miss Emily Ambrose<br>Mrs Eileen Yap</td>
+			<td style="border:1px solid black;"><a href="emily_ambrose@schools.gov.sg">emily_ambrose@schools.gov.sg</a><br><a href="soh_chin_ping_eileen@schools.gov.sg">soh_chin_ping_eileen@schools.gov.sg</a></td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">4 Resilience<br>(4R3)</td>
@@ -192,8 +192,8 @@ third_nav_title: Our People
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">5 Responsibility<br>(5R2)</td>
-            <td style="border:1px solid black;">Mdm Pavani<br>Mr Darvinder Singh</td>
-			<td style="border:1px solid black;"><a href="pavani_krishna_samy@schools.gov.sg">pavani_krishna_samy@schools.gov.sg</a><br><a href="darvinder_singh_karam_singh@schools.gov.sg">darvinder_singh_karam_singh@schools.gov.sg</a></td>
+            <td style="border:1px solid black;">Mdm Pavani<br>Miss Sarah Binte Mohamad Sufian</td>
+			<td style="border:1px solid black;"><a href="pavani_krishna_samy@schools.gov.sg">pavani_krishna_samy@schools.gov.sg</a><br><a href="sarah_mohamad_sufian@schools.gov.sg">sarah_mohamad_sufian@schools.gov.sg</a></td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">5 Resilience<br>(5R3)</td>
