@@ -76,7 +76,7 @@ third_nav_title: Our People
 		<tr>
 			<td style="border:1px solid black;">2 Resilience<br>(2R3)</td>
             <td style="border:1px solid black;">Mdm Zahrah<br>Muhammad Izdihar Bin Othman</td>
-			<td style="border:1px solid black;"><a href="zahrah_mohamed_abbas@schools.gov.sg">zahrah_mohamed_abbas@schools.gov.sg</a><br><a href="shi_rui@schools.gov.sg">shi_rui@schools.gov.sg</a></td>
+			<td style="border:1px solid black;"><a href="zahrah_mohamed_abbas@schools.gov.sg">zahrah_mohamed_abbas@schools.gov.sg</a><br><a href="muhammad_izdihar_othman@schools.gov.sg">muhammad_izdihar_othman@schools.gov.sg</a></td>
 		</tr>     
 		<tr>
 			<td style="border:1px solid black;">2 Integrity<br>(2I)</td>
