@@ -19,7 +19,7 @@ ICT skills are essential Desired Student Outcomes for 21st&nbsp;century. Through
 *   **ENGAGEMENT**:&nbsp;Use of ICT for engaged&nbsp;learning
 *   **DIRECTION**:&nbsp;Provide ICT leadership direction &amp; create conditions to harness ICT
 
-<img src="/images/fw_ict.gif" style="width:50%">
+<img src="/images/ict%20framework.png" style="width:50%">
 
 
 **iLearn@PVPS**  
@@ -47,4 +47,3 @@ The objectives of HBL Exercises are:
 *   To simulate school closure during an emergency period
 *   To ensure continuity of learning in the event of school closure
 *   To engage pupils in ICT-enriched learning experiences
-
