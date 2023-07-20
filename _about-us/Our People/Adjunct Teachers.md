@@ -66,5 +66,11 @@ third_nav_title: Our People
 		<tr>
       <td style="border:1px solid black;">Mrs Evie Goh</td>
 			<td style="border:1px solid black;"><a href="evie_quah@schools.gov.sg">evie_quah@schools.gov.sg</a></td>
+	</tr>
+		  <tr><td style="border:1px solid black;">Mrs Quek</td>
+			<td style="border:1px solid black;"><a href="sham_pui_yue@schools.gov.sg">sham_pui_yue@schools.gov.sg</a></td>
+		</tr>
+		  <tr><td style="border:1px solid black;">Mrs Quek</td>
+			<td style="border:1px solid black;"><a href="sham_pui_yue@schools.gov.sg">sham_pui_yue@schools.gov.sg</a></td>
 	</tr></tbody>
 </table>
