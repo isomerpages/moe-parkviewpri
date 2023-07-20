@@ -7,7 +7,7 @@ description: ""
 
 <p align="justify">The school has its own dental clinic managed by a dentist therapist. All students in the school are seen by the dental therapist for routine check-up and dental treatment is provided as well.</p>
 Dental Therapist - Mdm Tan<br>
-Tel: 65816637
+Tel: 6598211985
 
 ####  Opening Days and Hours
 
