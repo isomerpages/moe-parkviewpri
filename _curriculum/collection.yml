@@ -2,9 +2,9 @@ collections:
   curriculum:
     output: true
     order:
-      - ICT/Cyber Wellness @ PVPS.md
-      - ICT/Information & Communication Technology (ICT).md
       - ICT/.keep
+      - ICT/Information & Communication Technology (ICT).md
+      - ICT/Cyber Wellness @ PVPS.md
       - English/.keep
       - English/English.md
       - English/School Library Policy.md
