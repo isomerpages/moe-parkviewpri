@@ -4,7 +4,6 @@ permalink: /curriculum/ict/cyberwellness/
 description: ""
 third_nav_title: ICT
 ---
-
 ### Cyber Wellness @ PVPS
 
 
@@ -12,3 +11,6 @@ third_nav_title: ICT
 
 Cyber Wellness refers to the positive well-being of Internet users. It involves an understanding of the risks of harmful online behaviors, an awareness of how to protect oneself and other Internet users from such behaviors.</p>
 
+
+
+<img src="/images/cyber%20wellness_1.png" style="width:50%">
