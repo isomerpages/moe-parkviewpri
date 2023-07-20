@@ -39,3 +39,21 @@ empower our Service Learning Council (SLC) Cyber Wellness Ambassadors to have gr
 
 
 **Add in 2 pictures side by side of Students using laptop/ ipads in class or lab.**
+
+
+     
+**Dos:**
+
+*  Seek permission before using computing devices.<br><br>
+* Have a time limit for the use of electronic devices.<br><br>
+* Practice netiquette on the internet.<br><br>
+* Respect intellectual property right.<br><br>
+* Follow rules and terms of use of different websites.
+
+**Don'ts:**
+
+*  Access websites that have age restrictions for e.g. Many social media sites have age limit for setting up.<br><br>
+* Accounts to comply with international regulations on children accessing social media).<br><br>
+* Share password with others.<br><br>
+* Share personal information online.<br><br>
+* Meet strangers face to face without parents’ knowledge spread rumours and say mean things online.
