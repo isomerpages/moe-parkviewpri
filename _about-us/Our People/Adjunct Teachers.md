@@ -72,8 +72,6 @@ third_nav_title: Our People
 		</tr>
 		  <tr><td style="border:1px solid black;">Mrs Nelly Tan</td>
 			<td style="border:1px solid black;"><a href="teo_siok_eng@schools.gov.sg">teo_siok_eng@schools.gov.sg</a></td>
-	</tr><tr><td style="border:1px solid black;">Mrs Nelly Tan</td>
+	</tr><tr><td style="border:1px solid black;">Mdm Kwan Wai Han</td>
 			<td style="border:1px solid black;"><a href="teo_siok_eng@schools.gov.sg">teo_siok_eng@schools.gov.sg</a></td></tr></tbody>
 </table>&gt;
-		
-	
