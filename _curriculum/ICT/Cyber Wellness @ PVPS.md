@@ -52,8 +52,38 @@ empower our Service Learning Council (SLC) Cyber Wellness Ambassadors to have gr
 
 **Don'ts:**
 
-*  Access websites that have age restrictions for e.g. Many social media sites have age limit for setting up.<br><br>
-* Accounts to comply with international regulations on children accessing social media).<br><br>
-* Share password with others.<br><br>
-* Share personal information online.<br><br>
+*  Access websites that have age restrictions for e.g. Many social media sites have age limit for setting up.
+
+* Accounts to comply with international regulations on children accessing social media).
+
+* Share password with others.
+
+* Share personal information online.
+
 * Meet strangers face to face without parents’ knowledge spread rumours and say mean things online.
+
+  
+
+**Useful tips and information for Parents and Pupils**
+
+* Parents, the guardians of internet
+
+* Guide for parents on setting parental controls
+
+* Understanding cyber wellness
+
+* Navigating the cyber world safely
+
+*  ICT in schools: To use or not to use?
+
+* Play safe – avoid online gaming addiction
+
+*  Safeguarding your child online
+
+* Exploring online, safely and confidently
+
+*  Keeping our teens safe online
+
+* &nbsp; Parent kit - Supporting your child during full home-based learning
+
+* Parent kit - Cyber wellness for your child
