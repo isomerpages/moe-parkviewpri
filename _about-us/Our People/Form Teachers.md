@@ -192,8 +192,8 @@ third_nav_title: Our People
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">5 Responsibility<br>(5R2)</td>
-            <td style="border:1px solid black;">Mdm Pavani<br>Mr Darvinder Singh</td>
-			<td style="border:1px solid black;"><a href="pavani_krishna_samy@schools.gov.sg">pavani_krishna_samy@schools.gov.sg</a><br><a href="darvinder_singh_karam_singh@schools.gov.sg">darvinder_singh_karam_singh@schools.gov.sg</a></td>
+            <td style="border:1px solid black;">Mdm Pavani<br>Miss Sarah Binte Mohamad Sufian</td>
+			<td style="border:1px solid black;"><a href="pavani_krishna_samy@schools.gov.sg">pavani_krishna_samy@schools.gov.sg</a><br><a href="sarah_mohamad_sufian@schools.gov.sg">sarah_mohamad_sufian@schools.gov.sg</a></td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">5 Resilience<br>(5R3)</td>
