@@ -153,8 +153,8 @@ third_nav_title: Our People
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">4 Responsibility<br>(4R2)</td>
-            <td style="border:1px solid black;">Miss Emily Ambrose<br>Mdm Kimberly Jean Aeria</td>
-			<td style="border:1px solid black;"><a href="emily_ambrose@schools.gov.sg">emily_ambrose@schools.gov.sg</a><br><a href="kimberly_jean_aeria@schools.gov.sg">kimberly_jean_aeria@schools.gov.sg</a></td>
+            <td style="border:1px solid black;">Miss Emily Ambrose<br>Mrs Eileen Yap</td>
+			<td style="border:1px solid black;"><a href="emily_ambrose@schools.gov.sg">emily_ambrose@schools.gov.sg</a><br><a href="soh_chin_ping_eileen@schools.gov.sg">soh_chin_ping_eileen@schools.gov.sg</a></td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">4 Resilience<br>(4R3)</td>
