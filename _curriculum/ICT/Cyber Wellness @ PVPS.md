@@ -24,11 +24,11 @@ Cyber Wellness refers to the positive well-being of Internet users. It involves 
 
        
 
-&nbsp;&nbsp;<p align="justify">**Sense:** Pupils should be able to identify the possible risks.</p>
+<p align="justify">**Sense:** Pupils should be able to identify the possible risks.</p>
 
-&nbsp;&nbsp;&nbsp;<p align="justify">&nbsp; **Think:** Pupils should be able to analyse, evaluate and reflect on the online situation they are facing based on the two principles. </p>
+<p align="justify">**Think:** Pupils should be able to analyse, evaluate and reflect on the online situation they are facing based on the two principles. </p>
 
-&nbsp;&nbsp;&nbsp;<p align="justify">&nbsp;&nbsp; **Act:** Pupils should be able to translate his/her understanding into actions that will keep him/her safe while online. </p>
+<p align="justify">**Act:** Pupils should be able to translate his/her understanding into actions that will keep him/her safe while online. </p>
 
 <p align="justify">The Cyber Wellness Curriculum focusses on the development of 21st century and social-emotional competencies in the use of ICT. The main platform for the delivery of the lessons is via Form Teacher Guidance Periods (in Primary schools). </p><br>       
 
