@@ -72,11 +72,11 @@ empower our Service Learning Council (SLC) Cyber Wellness Ambassadors to have gr
 
 * Play safe – avoid online gaming addiction
 
-*  Safeguarding your child online
+* Safeguarding your child online
 
 * Exploring online, safely and confidently
 
-*  Keeping our teens safe online
+* Keeping our teens safe online
 
 * Parent kit - Supporting your child during full home-based learning
 
