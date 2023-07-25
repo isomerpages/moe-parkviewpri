@@ -78,6 +78,6 @@ empower our Service Learning Council (SLC) Cyber Wellness Ambassadors to have gr
 
 *  Keeping our teens safe online
 
-* &nbsp; Parent kit - Supporting your child during full home-based learning
+* Parent kit - Supporting your child during full home-based learning
 
 * Parent kit - Cyber wellness for your child
