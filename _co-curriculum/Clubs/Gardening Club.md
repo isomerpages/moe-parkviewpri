@@ -4,7 +4,7 @@ permalink: /co-curriculum/Clubs/gardening-clubs/
 description: ""
 third_nav_title: Clubs
 ---
-Park View Primary School Gardening Club has been established since 2013. It is currently run by Mdm Zahrah and Miss June Quek and has a strength of 33 students under their charge.
+<p>Park View Primary School Gardening Club has been established since 2013. It is currently run by Mdm Zahrah and Miss June Quek and has a strength of 33 students under their charge.
 
 The gardening members are given the opportunity to tend to the plants in the different gardening plots around the school like the spice garden, cactus garden, flowering garden and fern garden and learn about their adaption.&nbsp;
 
@@ -12,9 +12,9 @@ They are involved in basic gardening activities like weeding, watering, pruning 
 
 The Gardening Club aims to promote a deeper appreciation of greenery amongst the students and foster a greater social interaction and bonding within the students in the CCA.
 
-It also aims to promote awareness of the diversity of plants and to educate students on ways to care for the different types of plants.
+It also aims to promote awareness of the diversity of plants and to educate students on ways to care for the different types of plants. </p>
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Miss Emily Ambrose (OIC)<br>Miss June Quek Siew Lan (2OIC)
+<table class="tg" style="border-collapse:collapse;border-spacing:0"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Miss Emily Ambrose (OIC)<br>Miss June Quek Siew Lan (2OIC)
 	</td>
 	</tr>
 	<tr>
@@ -62,17 +62,17 @@ body {
 <!-- Photo Grid -->
 <div class="row"> 
 <div class="column">
-<img src="/images/GC%201.jpeg" style="width:100%">
-<img src="/images/GC2.jpeg" style="width:100%">
-	<img src="/images/GC3.jpeg" style="width:100%"></div>
+<img style="width:100%" src="/images/GC%201.jpeg">
+<img style="width:100%" src="/images/GC2.jpeg">
+	<img style="width:100%" src="/images/GC3.jpeg"></div>
   
 <div class="column">
-<img src="/images/GC4.jpeg" style="width:100%">
-<img src="/images/gardening.jpg" style="width:100%">
-<img src="/images/Gardening1.jpg" style="width:100%">
+<img style="width:100%" src="/images/GC4.jpeg">
+<img style="width:100%" src="/images/gardening.jpg">
+<img style="width:100%" src="/images/Gardening1.jpg">
 </div>
 
-NParks has been spearheading the Community In Bloom (CIB) programme to create gardening communities within housing estates, educational institutions and organisations in Singapore by partnering various stakeholders including residents, government agencies, grassroots organisations, schools and organisations. Community In Bloom Awards aims to:
+<p>NParks has been spearheading the Community In Bloom (CIB) programme to create gardening communities within housing estates, educational institutions and organisations in Singapore by partnering various stakeholders including residents, government agencies, grassroots organisations, schools and organisations. Community In Bloom Awards aims to:</p>
 
 *   Recognise and reward gardening efforts by community gardening groups
 *   Motivate and encourage community gardeners to enjoy gardening as a fun and healthy activity
@@ -112,17 +112,16 @@ body {
 }
 </style>
 
-
-	
 <!-- Photo Grid -->
 <div class="row"> 
 <div class="column">
-<img src="/images/Gardening_1.jpg" style="width:100%">
-<img src="/images/img-150624135549-0001.jpg" style="width:100%">
-	<img src="/images/Gardening_2.jpg" style="width:100%"></div>
+<img style="width:100%" src="/images/Gardening_1.jpg">
+<img style="width:100%" src="/images/img-150624135549-0001.jpg">
+	<img style="width:100%" src="/images/Gardening_2.jpg"></div>
   
 <div class="column">
-<img src="/images/Gardening_3.jpg" style="width:100%">
-<img src="/images/Gardening_4.jpg" style="width:100%">
-<img src="/images/gardening%20club.jpg" style="width:100%">
-</div></div></div>
+<img style="width:100%" src="/images/Gardening_3.jpg">
+<img style="width:100%" src="/images/Gardening_4.jpg">
+<img style="width:100%" src="/images/gardening%20club.jpg">
+</div>
+</div></div>
