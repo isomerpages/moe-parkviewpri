@@ -35,7 +35,7 @@ Cyber Wellness refers to the positive well-being of Internet users. It involves 
 PVPS also collaborates with FamilyMatters@School to engage TOUCH Cyber Wellness to train and
 empower our Service Learning Council (SLC) Cyber Wellness Ambassadors to have greater sense of responsibility, perseverance, optimism, better self-esteem and confidence. The Ambassadors will also able to identify potential hazards in the cyberspace faced by their peers and provide solution to address these concerns. Assembly talks are conducted by our SLC Cyber Wellness Ambassadors to promote good cyber wellness practices.
 
-           
+
 **Dos:**
 
 *  Seek permission before using computing devices.<br>
