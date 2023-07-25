@@ -59,12 +59,12 @@ body {
 <!-- Photo Grid -->
 <div class="row"> 
 <div class="column">
-<img src="images/CCA/Infocomm%20Club/infocom%20-%201.jpg" style="width:100%">
-<img src="images/CCA/Infocomm%20Club/infocom%20-%203.jpg" style="width:100%">
-	<img src="images/CCA/Infocomm%20Club/infocom%20-%205.jpg" style="width:100%"></div>
+<img src="/images/CCA/Infocomm%20Club/infocom%20-%201.jpg" style="width:100%">
+<img src="/images/CCA/Infocomm%20Club/infocom%20-%202.jpg" style="width:100%">
+	<img src="/images/CCA/Infocomm%20Club/infocom%20-%205.jpg" style="width:100%"></div>
   
 <div class="column">
-<img src="images/CCA/Infocomm%20Club/infocom%20-%202.jpg" style="width:100%">
+<img src="/images/CCA/Infocomm%20Club/infocom%20-%203.jpg" style="width:100%">
 <img src="images/CCA/Infocomm%20Club/infocom%20-%204.jpg" style="width:100%"></div>
 </div>
 
