@@ -2,9 +2,9 @@ collections:
   our-stakeholders:
     output: true
     order:
-      - For School Vendors/School Canteen Advertisement.md
-      - For School Vendors/School Bus Advertisement.md
       - For School Vendors/.keep
+      - For School Vendors/School Bus Advertisement.md
+      - For School Vendors/School Canteen Advertisement.md
       - For Parents/.keep
       - For Parents/Letter to Parents.md
       - For Parents/Information for P1 (Y2023).md
