@@ -4,7 +4,7 @@ permalink: /our-stakeholders/for-school-vendors/school-bus-advertisement/
 description: ""
 third_nav_title: For School Vendors
 ---
-<i>To apply, please refer to the Service Requirements and the Application Procedure below.</i>
+<p>To apply, please refer to the Service Requirements and the Application Procedure below.</p>
 
 <h5>Service Requirements</h5>
 <ol>
