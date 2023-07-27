@@ -4,6 +4,27 @@ permalink: /our-stakeholders/for-school-vendors/school-canteen-advertisement/
 description: ""
 third_nav_title: For School Vendors
 ---
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+
+
+<table style="width:100%">
+  <tbody><tr>
+    <th>Type of Stall</th>
+    <th>Closing Date</th>
+    <th>Requirements</th>
+  </tr>
+  <tr>
+    <td>Chinese Rice</td>
+    <td>31 August 2023</td>
+    <td>Chinese/Japanese/Korean Rice<br>or noodle stalls are acceptable.</td>
+  </tr>
+</tbody></table>
+
+
 <h5>Application Procedure</h5>
 
 <p>1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.</p>
