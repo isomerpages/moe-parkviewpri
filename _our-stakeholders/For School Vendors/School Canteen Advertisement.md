@@ -6,19 +6,19 @@ third_nav_title: For School Vendors
 ---
 <h5>Application Procedure</h5>
 
-1.  Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
+<p>1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.</p>
 <ul>
-	<li><a href="https://www.prcss.moe.edu.sg/files/School%20Canteen%20Advertisement/formbf7%20(2018).pdf">Application Form</a></li>
+ <li><a href="https://www.prcss.moe.edu.sg/files/School%20Canteen%20Advertisement/formbf7%20(2018).pdf">Application Form</a></li>
 	</ul>
 
-3.  Attached the following documents together with the application form:
+<p>2. Attached the following documents together with the application form:</p>
 <ul>
 	<li>Photocopy of the NRIC (front and back)</li>
 	<li>List of proposed menu and pricing for all items</li>
 	<li>Photocopy of relevant certificates such as Basic Food Hygiene Course, etc</li>
 </ul>
 
-5.  Submit the completed application form and documents by closing date via email OR to the School’s General Office.
+<p>3. Submit the completed application form and documents by closing date via email <b>OR</b> to the School’s General Office.</p>
 <ul>
 	<li>Address: 60 Pasir Ris Drive 1, Singapore 519524</li>
 	<li>Contact No: 6585 1421</li>
@@ -42,7 +42,6 @@ third_nav_title: For School Vendors
 </ul>
 
 <h5>Applicants should preferably fulfil the following criteria:</h5>
-
 <ul>
   <li>Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.</li>
   <li>Possess catering experience or experience operating in a school environment.</li>
