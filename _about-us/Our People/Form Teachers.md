@@ -45,7 +45,7 @@ third_nav_title: Our People
 			<td style="border:1px solid black;"><a href="quek_shi_rui@schools.gov.sg">quek_shi_rui@schools.gov.sg</a><br><a href="evie_quah@schools.gov.sg">evie_quah@schools.gov.sg</a></td>
 		</tr>
         <tr>
-			<td style="border:1px solid black;">Gratitude<br>(1G)</td>
+			<td style="border:1px solid black;">1 Gratitude<br>(1G)</td>
             <td style="border:1px solid black;">Mrs Ong<br>Mdm Nailul Azmi </td>
 			<td style="border:1px solid black;"><a href="pang_cui_ling@schools.gov.sg">pang_cui_ling@schools.gov.sg</a><br><a href="nailul_azmi_ismail@schools.gov.sg">nailul_azmi_ismail@schools.gov.sg</a></td>
 		</tr>
