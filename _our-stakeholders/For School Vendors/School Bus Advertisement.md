@@ -8,8 +8,8 @@ third_nav_title: For School Vendors
 
 <h5>Service Requirements</h5>
 <ol>
-	<li>Call for Proposal</li>
-	<li>Agreement for Appointment of School Bus Operator</li>
+	<li><a href="https://drive.google.com/file/d/1p6Qa7_e4Aa4P1ohrnuvAqJX4_Ue1HZKS/view?usp=drive_link">Call for Proposal</a></li>
+	<li><a href="https://drive.google.com/file/d/17EUNELQ9AoN3_HZBO8rN-EoaOjw-JeF1/view?usp=drive_link">Agreement for Appointment of School Bus Operator</a></li>
 </ol>
 
 <h5>Application Procedure</h5>
