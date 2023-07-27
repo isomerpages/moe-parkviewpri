@@ -15,7 +15,7 @@ third_nav_title: For School Vendors
 <h5>Application Procedure</h5>
 <ol>
 	<li>Complete the [Call for Proposal - Annex A]</li>
-	<li>Submit the completed Call for Proposal – Annex A by closing date, 8 August 2023 by 1pm, to the School’s General Office.</li>
+	<li>Submit the completed Call for Proposal – <a href="https://drive.google.com/file/d/1AmwxZnL7ltrN-Z6_2muCnDVXJLjOr_JM/view?usp=drive_link">Annex A</a> by closing date, 8 August 2023 by 1pm, to the School’s General Office.</li>
 </ol>
 <ul>
 	<li>Address: 60 Pasir Ris Drive 1, Singapore 519524</li>
