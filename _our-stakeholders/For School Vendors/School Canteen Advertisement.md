@@ -50,7 +50,7 @@ table, th, td {
 <h5>How to get there?</h5>
 <ul>
 	<li>Nearest MRT: Pasir Ris MRT, Bus interchange</li>
-	<li>Bus number: 358 (East Loop)</li>
+	<li>Bus number: 358 (West Loop)</li>
 </ul>
 
 <h5>Interest applicants must meet the following criteria:</h5>
