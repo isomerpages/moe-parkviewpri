@@ -27,5 +27,5 @@ third_nav_title: For School Vendors
 <h5>How to get there?</h5>
 <ul>
 	<li>Nearest MRT: Pasir Ris MRT, Bus interchange</li>
-	<li>Bus number: 358 (East Loop)</li>
+	<li>Bus number: 358 (West Loop)</li>
 </ul>
