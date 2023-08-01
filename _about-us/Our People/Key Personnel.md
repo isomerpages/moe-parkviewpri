@@ -59,7 +59,7 @@ third_nav_title: Our People
 			
 </tr><tr><th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/Miss%20Chua%20Shuan%20Kwee%20cropped.jpg" alt="IMG_9053.JPG" width="175" height="225">
-				<br>Miss Chua Shuan<br>School Staff Developer
+				<br>Miss Chua Shuan Kwee<br>School Staff Developer
 				<br>
 				<a href="mailto:chua_shuan_kwee@schools.gov.sg">chua_shuan_kwee<br>@schools.gov.sg</a>
 				<br></th>
