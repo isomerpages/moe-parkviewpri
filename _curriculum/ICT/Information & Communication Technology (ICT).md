@@ -19,7 +19,7 @@ ICT skills are essential Desired Student Outcomes for 21st&nbsp;century. Through
 *   **ENGAGEMENT**:&nbsp;Use of ICT for engaged&nbsp;learning
 *   **DIRECTION**:&nbsp;Provide ICT leadership direction &amp; create conditions to harness ICT
 
-<img src="/images/ict%20framework.png" style="width:50%">
+<img src="/images/ict%20framework.png" style="width:80%">
 
 
 **iLearn@PVPS**  
