@@ -4,23 +4,6 @@ permalink: /curriculum/information-n-communication-technology-ict/
 description: ""
 third_nav_title: ICT
 ---
-#### ICT in Teaching &amp; Learning
-
-ICT skills are essential Desired Student Outcomes for 21st&nbsp;century. Through the use of ICT, our students develop competencies for self-directed and collaborative learning to succeed in a knowledge-based economy. ICT also allows learning experiences to be better customised according to the way each student learns best.  
-  
-
-#### ICT Framework
-
-  
-**Our approach**  
-  
-
-*   **INTEGRATON**:&nbsp;Integrate ICT-enriched learning experiences into curriculum, instruction &amp; assessment
-*   **ENGAGEMENT**:&nbsp;Use of ICT for engaged&nbsp;learning
-*   **DIRECTION**:&nbsp;Provide ICT leadership direction &amp; create conditions to harness ICT
-
-<img src="/images/ict%20framework.png" style="width:80%">
-
 
 **iLearn@PVPS**  
 
@@ -45,6 +28,19 @@ Technology-enhanced learning environment that fosters effective teaching and lea
 1.  Self-Directed Learners
 2.  Connected Learners
 3.  Lead a Healthy Digital Lifestyle
+
+
+#### ICT Framework
+
+  
+**Our approach**  
+  
+
+*   **INTEGRATON**:&nbsp;Integrate ICT-enriched learning experiences into curriculum, instruction &amp; assessment
+*   **ENGAGEMENT**:&nbsp;Use of ICT for engaged&nbsp;learning
+*   **DIRECTION**:&nbsp;Provide ICT leadership direction &amp; create conditions to harness ICT
+
+<img src="/images/ict%20framework.png" style="width:80%">
 
 **Student Programmes**
 
