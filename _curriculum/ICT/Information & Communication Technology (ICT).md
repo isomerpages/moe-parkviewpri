@@ -4,7 +4,6 @@ permalink: /curriculum/information-n-communication-technology-ict/
 description: ""
 third_nav_title: ICT
 ---
-
 **iLearn@PVPS**  
 
 In Park View Primary School, iLearn@PVPS aims to strengthen integration of ICT into curriculum, pedagogy and assessment to enhance learning and develop competencies for the 21st century.
