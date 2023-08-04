@@ -4,7 +4,7 @@ permalink: /curriculum/ict/cyberwellness/
 description: ""
 third_nav_title: ICT
 ---
-### Cyber Wellness @ PVPS
+<h4>Cyber Wellness @ PVPS</h4>
 
 
 <p align="justify">What is Cyber Wellness?
@@ -36,13 +36,14 @@ Cyber Wellness refers to the positive well-being of Internet users. It involves 
 empower our Service Learning Council (SLC) Cyber Wellness Ambassadors to have greater sense of responsibility, perseverance, optimism, better self-esteem and confidence. The Ambassadors will also able to identify potential hazards in the cyberspace faced by their peers and provide solution to address these concerns. Assembly talks are conducted by our SLC Cyber Wellness Ambassadors to promote good cyber wellness practices.</p>
 
 
-**Dos:**
+<h4>Dos:</h4>
 
-*  Seek permission before using computing devices.<br>
-* Have a time limit for the use of electronic devices.<br>
-* Practice netiquette on the internet.<br>
-* Respect intellectual property right.<br>
-* Follow rules and terms of use of different websites.
+<ul>
+	<li>Seek permission before using computing devices.</li>
+<li> Have a time limit for the use of electronic devices.</li>
+	<li> Practice netiquette on the internet.</li>
+	<li>Respect intellectual property right.</li>
+	<li>Follow rules and terms of use of different websites.</li>
 
 **Don'ts:**
 
@@ -80,4 +81,4 @@ empower our Service Learning Council (SLC) Cyber Wellness Ambassadors to have gr
 
 * Parent kit - Supporting your child during full home-based learning
 
-* Parent kit - Cyber wellness for your child
+* Parent kit - Cyber wellness for your child</ul>
