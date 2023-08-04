@@ -4,10 +4,30 @@ permalink: /curriculum/information-n-communication-technology-ict/
 description: ""
 third_nav_title: ICT
 ---
-#### ICT in Teaching &amp; Learning
+**iLearn@PVPS**  
 
-ICT skills are essential Desired Student Outcomes for 21st&nbsp;century. Through the use of ICT, our students develop competencies for self-directed and collaborative learning to succeed in a knowledge-based economy. ICT also allows learning experiences to be better customised according to the way each student learns best.  
+In Park View Primary School, iLearn@PVPS aims to strengthen integration of ICT into curriculum, pedagogy and assessment to enhance learning and develop competencies for the 21st century.
+
+
+<img src="/images/picture01.jpg" style="width:80%">
+
   
+
+**Vision**
+
+Technology-enhanced learning environment that fosters effective teaching and learning.
+
+
+
+        
+**Student Outcomes**
+
+**Students as Future-Ready Digital Learners**
+
+1.  Self-Directed Learners
+2.  Connected Learners
+3.  Lead a Healthy Digital Lifestyle
+
 
 #### ICT Framework
 
@@ -19,31 +39,105 @@ ICT skills are essential Desired Student Outcomes for 21st&nbsp;century. Through
 *   **ENGAGEMENT**:&nbsp;Use of ICT for engaged&nbsp;learning
 *   **DIRECTION**:&nbsp;Provide ICT leadership direction &amp; create conditions to harness ICT
 
-<img src="/images/ict%20framework.png" style="width:50%">
+<img src="/images/ict%20framework.png" style="width:80%">
 
+**Student Programmes**
 
-**iLearn@PVPS**  
+From Primary 1 to Primary 6, our students receive training to gradually build their Basic ICT skills in accordance with the MOE Baseline ICT Standards (New Media Literacies). Additionally, students experience subject-specific ICT enriched learning experiences to prepare them as Future-Ready Digital Learners.
 
-In Park View Primary School, iLearn@PVPS aims to strengthen integration of ICT into curriculum, pedagogy and assessment to enhance learning and develop competencies for the 21st century.
+**PVPS ICT Baseline** **Programmes**
 
+<table style="width:412.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt" width="549" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:21.0pt"><td style="width:68.0pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#ACB9CA;padding:0in 5.4pt 0in 5.4pt;
+  height:21.0pt" valign="top" nowrap="" width="91"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">Level</span></b></p></td><td style="width:344.0pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
+  #ACB9CA;padding:0in 5.4pt 0in 5.4pt;height:21.0pt" valign="top" nowrap="" width="459"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">Programmes</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:46.5pt"><td style="width:68.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0in 5.4pt 0in 5.4pt;height:46.5pt" valign="top" nowrap="" width="91"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">Primary 1</span></p></td><td style="width:344.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:46.5pt" valign="top" width="459"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">Introduction to basic parts of a laptop and login to Windows<br>Login to SLS and participating in Zoom lessons<br>Touch Typing</span></p></td></tr><tr style="mso-yfti-irow:2;height:31.0pt"><td style="width:68.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0in 5.4pt 0in 5.4pt;height:31.0pt" valign="top" nowrap="" width="91"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">Primary 2</span></p></td><td style="width:344.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:31.0pt" valign="top" width="459"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">Using internet browser (Google Chrome) and searching for media<br>Introduction to MS Word</span></p></td></tr><tr style="mso-yfti-irow:3;height:31.0pt"><td style="width:68.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0in 5.4pt 0in 5.4pt;height:31.0pt" valign="top" nowrap="" width="91"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">Primary 3</span></p></td><td style="width:344.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:31.0pt" valign="top" width="459"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">Using internet browser and searching for information<br>Introduction to MS PowerPoint</span></p></td></tr><tr style="mso-yfti-irow:4;height:31.0pt"><td style="width:68.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0in 5.4pt 0in 5.4pt;height:31.0pt" valign="top" nowrap="" width="91"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">Primary 4</span></p></td><td style="width:344.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:31.0pt" valign="top" width="459"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">Introduction to Google Drive<br>Introduction to Google Slides</span></p></td></tr><tr style="mso-yfti-irow:5;height:21.0pt"><td style="width:68.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0in 5.4pt 0in 5.4pt;height:21.0pt" valign="top" nowrap="" width="91"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">Primary 5</span></p></td><td style="width:344.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:21.0pt" valign="top" nowrap="" width="459"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">Code for Fun (by IMDA)</span></p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes;height:21.0pt"><td style="width:68.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
+  0in 5.4pt 0in 5.4pt;height:21.0pt" valign="top" nowrap="" width="91"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">Primary 6</span></p></td><td style="width:344.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:21.0pt" valign="top" width="459"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;
+  color:black;mso-font-kerning:0pt;mso-ligatures:none">Introduction to Google Sites</span></p></td></tr></tbody></table>
+	
+	
+**Teacher Outcomes**
 
-<h3><a name="Programme"></a>Programme</h3>
+**Teachers as Designers of Engaging and Impactful Technology-Mediated Learning Experiences**
 
+1.  Designers of Technology-Mediated Learning Experiences
+2.  Facilitate Engaging and Impactful Active Learning with Technology
+3.  Digital Learners who continually develop themselves Professionally
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Level</th><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Skills / Tools involved</th><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Basic Operations</th><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Learning with Searches</th><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Learning with Text</th><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Learning with Multimedia</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P1<br>T2WK2 to T3W<br></td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Touchtyping<br>MS Words<br>Internet Explorer<br></td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Switch on and log into the computer<br>• Start application software by activating the icon of the software (MS Word &amp; TouchTyping)<br>• Use the tools within an application (MS Word)<br>• Proper shutdown of computer</td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• To achieve the learning objectives for the Learning with Text, Pupils are taught the following skills to enable them to access Elearning website<br>• Open browser (e.g. Internet Explorer)<br>• Enter a given web address to access a website<br>• Activate hyperlinks within the website</td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Able to type words and phrases with proper positioning of fingers using the home row keys<br>• Teachers will help to bring students in the lab to continue their touchtyping on their own time own target.<br>• Space the words properly<br>• Remove letters using the backspace key<br>• Change font, colour, size and style of the text</td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Not applicable</td></tr><tr><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P2<br>T1WK2 to T2WK2<br></td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">MS Words<br>Internet Explorer<br></td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Switch on and log into the computer<br>• Start application software by activating the icon of the software (MS Word)<br>• Use the tools within an application (MS Word)<br>• Open, save and close files within the application software<br>• Proper shutdown of computer</td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Open browser (e.g. Internet Explorer)<br>• Enter a given web address to access a website<br>• Activate hyperlinks within the website<br>• Search for image<br>• Save image</td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Type sentences and paragraphs of text with appropriate punctuation using proper positioning of fingers<br>• Remove letters using backspace key<br>• Use the spell check function<br>• Insert bullets</td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Create, Save and Open<br>• Insert Clipart<br>• Insert Picture<br>• Insert Autoshape<br>• Insert WordArt<br>• Resize Clip art, picture, WordArt and shapes<br>• Change the colour for WordArt and shapes</td></tr><tr><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P3<br>T1WK2 to T1WK8<br></td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">MS PowerPoint<br>Internet Explorer<br></td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Switch on and log into the computer<br>• Start application software (e.g. MS PowerPoint) by activating the icon of the software<br>• Open, save and close files within the application software<br>• Use of tools (e.g. Undo function)<br>• Proper shutdown of computer</td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Open browser (e.g. Internet Explorer)<br>• Enter a given web address to access a website<br>• Activate hyperlinks within the website<br>• Search for Information<br>• Search for imageSave image<br>• Perform screen capture of the webpage</td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Type sentences and paragraphs of text with appropriate punctuation using proper positioning of fingers<br>• Remove letters using delete/backspace key<br>• Use the spell check function<br>• Change font, colour, size and style of the text<br>• Insert bullets<br>• Learn to convert their research into point forms</td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Create, Save and Open<br>• Add/Delete New Slide<br>• Change slide background colour<br>• Insert Text box<br>• Insert Clipart<br>• Insert picture<br>• Insert Autoshape<br>• Insert WordArt<br>• Resize Clip art, picture, WordArt and shapes<br>• Change the colour for WordArt and shapes</td></tr><tr><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P4<br>T1WK2 to T1WK8</td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">MS PowerPoint<br>Internet Explorer<br></td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-	• Switch on and log into the computer<br>• Start application software (e.g. MS PowerPoint) by activating the icon of the software<br>• Open, save and close files within the application software<br>• Use of tools (e.g. Undo function)<br>• Proper shutdown of computer</td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Open browser (e.g. Internet Explorer)<br>• Enter a given web address to access a website<br>• Activate hyperlinks within the website<br>• Search for Information<br>• Search for image<br>• Save image<br>• Perform screen capture of the webpage</td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Type sentences and paragraphs of text with appropriate punctuation using proper positioning of fingers<br>• Remove letters using delete/backspace key<br>• Use the spell check function<br>• Change font, colour, size and style of the text<br>• Insert bullets<br>• Learn to convert their research into point forms<br>• Able to do a quiz</td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Create, Save and Open<br>• Crop Picture<br>• Insert Table<br>• Insert Chart<br>• Custom Animation<br>• Insert Sound and Movie<br>• Apply Action Setting/Hyperlink</td></tr><tr><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P5<br>T2WK1 to T2WK8<br></td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">MS Excel<br>Internet Explorer<br></td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Switch on and log into the computer<br>• Start application software (e.g. MS Excel) by activating the icon of the software<br>• Open, save and close files within the application software• Use of tools (e.g. Undo function)<br>• Proper shutdown of computer</td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Open browser (e.g. Internet Explorer)<br>• Enter a given web address to access a website<br>• Activate hyperlinks within the website<br>• Perform screen capture of the webpage</td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Type sentences and paragraphs of text with appropriate punctuation using proper positioning of fingers<br>• Remove letters using delete/backspace key<br>• Enter text and number into cells</td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Create, Save and Open<br>• Insert/delete rows and columns<br>• Resize/Merge cells<br>• Format text in cells<br>• Draw border<br>• Use automatic calculation function (autosum)<br>• Enter formulas with basic operations (+ - * /)<br>• Create Chart</td></tr><tr><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P6<br>T4WK4 to T4WK6<br></td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">MS Excel<br>MS Word<br>MS Powerpoint<br>Internet Explorer<br></td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Switch on and log into the computer<br>• Start application software (e.g. MS Excel, Word and Powerpoint) by activating the icon of the software<br>• Open, save and close files within the application software<br>• Use of tools (e.g. Undo function)<br>• Proper shutdown of computer</td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Open browser (e.g. Internet Explorer)<br>• Enter a given web address to access a website<br>• Activate hyperlinks within the website<br>• Perform screen capture of the webpage<br>• Save image<br>• Save Webpage</td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Type sentences and paragraphs of text with appropriate punctuation using proper positioning of fingers<br>• Remove letters using delete/backspace key<br>• Change font, colour, size and style of the text<br>• Insert bullets<br>• Enter text and number into cells</td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Create, Save and Open<br>• Insert Clipart<br>• Insert Picture<br>• Insert Autoshape<br>• Insert WordArt<br>• Crop PictureResize Clip art, picture, WordArt and shapesChange the colour for WordArt and shapes<br>• Enter formulas with basic operations (+ - * /)</td></tr></tbody></table>
+**Staff Development**
 
+With the introduction of SkillsFuture for Educators: e-Pedagogy in 2019, the experience of Full Home-Based Learning (HBL), and Blended Learning in 2020. The school believes in developing our staff to leverage technology for teaching and learning as a critical driver to attain its intended student outcomes.
 
+ICT Department used the following learning platforms to build staff capacity in e-pedagogy:
 
+1\. School wide Professional Development on e-pedagogy
 
-#### Home-Based Learning
+2\. Regular ICT sharing sessions conducted by ICT Champions; 15 min Tech &amp; Go
 
-The ICT skills acquired in these programmes have equipped our pupils with the skills to engage in independent learning. Every year, the school will conduct three sessions of Home Based Learning to promote independent learning through ICT integration. Pupils will learn from home and complete assignments on-line. Teachers will plan the home activities and monitor pupils’ learning through their submissions of assignments. Teachers will also provide pupils with the reports on their performances and support them in reinforcing the content back in school.
+3\. ICT Mentoring sessions by ICT Mentors
 
-  
-
-The objectives of HBL Exercises are:
-
-*   To simulate school closure during an emergency period
-*   To ensure continuity of learning in the event of school closure
-*   To engage pupils in ICT-enriched learning experiences
+4\. Courses conducted by AST, ETD or other organizations
