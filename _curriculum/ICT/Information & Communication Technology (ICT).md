@@ -44,7 +44,6 @@ third_nav_title: ICT
 	<tr>
 	<th style="border-color:#000000;solid;border-width:1px;">Primary 2 </th>
 	<td style="border-color:#000000;solid;border-width:1px;">Using internet browser (Google Chrome) and searching for me introduction  to MS Word</td><th>
-	
 	</th></tr>
 	<tr>
 	<th style="border-color:#000000;solid;border-width:1px;">Primary 3</th>
