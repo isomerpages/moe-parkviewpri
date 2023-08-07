@@ -51,6 +51,11 @@ third_nav_title: ICT
 	<td style="border-color:#000000;solid;border-width:1px;">Code for Fun (by IMDA)
 	</td>
 </tr>
+		<tr>
+	<td style="border-color:#000000;solid;border-width:1px;">Primary 6 </td>
+	<td style="border-color:#000000;solid;border-width:1px;">Introduction to Google Sites
+	</td>
+</tr>
 	</tbody>
 	</table>
 	
