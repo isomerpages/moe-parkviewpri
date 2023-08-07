@@ -4,7 +4,7 @@ permalink: /curriculum/ict/cyberwellness/
 description: ""
 third_nav_title: ICT
 ---
-### Cyber Wellness @ PVPS
+<h4>Cyber Wellness @ PVPS</h4>
 
 
 <p align="justify">What is Cyber Wellness?
@@ -36,48 +36,35 @@ Cyber Wellness refers to the positive well-being of Internet users. It involves 
 empower our Service Learning Council (SLC) Cyber Wellness Ambassadors to have greater sense of responsibility, perseverance, optimism, better self-esteem and confidence. The Ambassadors will also able to identify potential hazards in the cyberspace faced by their peers and provide solution to address these concerns. Assembly talks are conducted by our SLC Cyber Wellness Ambassadors to promote good cyber wellness practices.</p>
 
 
-**Dos:**
+<h4>Dos:</h4>
 
-*  Seek permission before using computing devices.<br>
-* Have a time limit for the use of electronic devices.<br>
-* Practice netiquette on the internet.<br>
-* Respect intellectual property right.<br>
-* Follow rules and terms of use of different websites.
+<ul>
+	<li>Seek permission before using computing devices.</li>
+<li> Have a time limit for the use of electronic devices.</li>
+	<li> Practice netiquette on the internet.</li>
+	<li>Respect intellectual property right.</li>
+	<li>Follow rules and terms of use of different websites.</li></ul>
 
-**Don'ts:**
+<h4>Don'ts:</h4>
 
-*  Access websites that have age restrictions for e.g. Many social media sites have age limit for setting up.
-
-* Accounts to comply with international regulations on children accessing social media).
-
-* Share password with others.
-
-* Share personal information online.
-
-* Meet strangers face to face without parents’ knowledge spread rumours and say mean things online.
+<ul>
+<li>Access websites that have age restrictions for e.g. Many social media sites have age limit for setting up.</li>
+	<li> Accounts to comply with international regulations on children accessing social media.</li>
+	<li>Share password with others.</li>
+<li>Share personal information online.</li>
+<li>Meet strangers face to face without parents’ knowledge spread rumours and say mean things online.</li></ul>
 
   
-
-**Useful tips and information for Parents and Pupils**
-
-* Parents, the guardians of internet
-
-* Guide for parents on setting parental controls
-
-* Understanding cyber wellness
-
-* Navigating the cyber world safely
-
-*  ICT in schools: To use or not to use?
-
-* Play safe – avoid online gaming addiction
-
-* Safeguarding your child online
-
-* Exploring online, safely and confidently
-
-* Keeping our teens safe online
-
-* Parent kit - Supporting your child during full home-based learning
-
-* Parent kit - Cyber wellness for your child
+<b>Useful tips and information for Parents and Pupils</b>
+<ul>
+	<li>Parents, the guardians of internet</li>
+<li>Guide for parents on setting parental controls</li>
+<li>Understanding cyber wellness</li>
+<li>Navigating the cyber world safely</li>
+<li>ICT in schools: To use or not to use?</li>
+<li>Play safe – avoid online gaming addiction</li>
+<li>Safeguarding your child online</li>
+<li>Exploring online, safely and confidently</li>
+<li>Keeping our teens safe online</li>
+<li>Parent kit - Supporting your child during full home-based learning</li>
+<li>Parent kit - Cyber wellness for your child</li></ul>
