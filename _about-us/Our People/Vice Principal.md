@@ -14,7 +14,7 @@ third_nav_title: Our People
 			
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/Our%20People/SL/ms%20lim%20chiu%20ee%20(1).JPG" alt="Miss_Veronica_Poon_optimisedforweb.jpg" width="" height="">
-	<br>Miss Lim Chiu Ee<br>Vice Principal (Administration)
+	<br>Ms Lim Chiu Ee<br>Vice Principal (Administration)
 			</th>
 
 </tr></thead></table>
