@@ -29,9 +29,5 @@ third_nav_title: Our People
 			<td style="border:1px solid black;"><a href="janice_cheng_lai_may@schools.gov.sg">janice_cheng_lai_may@schools.gov.sg</a></td>
 		</tr>
 				<tr>
-        <td style="border:1px solid black;">SEN officer</td>
-      <td style="border:1px solid black;">Ms Amirah</td>
-			<td style="border:1px solid black;"><a href="amirah_azlan@schools.gov.sg">amirah_azlan@schools.gov.sg</a></td>
-		</tr>
-	</tbody>
+	</tr></tbody>
 </table>
