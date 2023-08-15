@@ -4,7 +4,7 @@ permalink: /about-us/our-people/form-teachers/
 description: ""
 third_nav_title: Our People
 ---
-#### Primary 1
+<h4>Primary 1</h4>
 <table>
 	<thead>
 		<tr>
@@ -52,7 +52,7 @@ third_nav_title: Our People
 	</tbody>
 </table>
 
-#### Primary 2
+<h4>Primary 2</h4>
 
 <table>
 	<thead>
@@ -96,7 +96,7 @@ third_nav_title: Our People
 	</tbody>
 </table>
 
-#### Primary 3
+<h4>Primary 3</h4>
 
 <table>
 	<thead>
@@ -135,7 +135,7 @@ third_nav_title: Our People
 	</tbody>
 </table>
 
-#### Primary 4
+<h4>Primary 4</h4>
 
 <table>
 	<thead>
@@ -174,7 +174,7 @@ third_nav_title: Our People
 	</tbody>
 </table>
 
-#### Primary 5
+<h4>Primary 5</h4>
 
 <table>
 	<thead>
@@ -218,7 +218,7 @@ third_nav_title: Our People
 	</tbody>
 </table>
 
-#### Primary 6
+<h4>Primary 6</h4>
 
 <table>
 	<thead>
