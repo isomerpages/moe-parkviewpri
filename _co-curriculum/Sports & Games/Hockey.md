@@ -22,6 +22,7 @@ We hope to include parents in our plans to develop the talent in the school, and
 Players will start the training with warming up jogs and also stretching. They will then move on to some physical conditioning before proceeding to start the training proper with the following being covered for trainings.</p>
 
 
+<ul>
 	<li>Practice stick gripping, both forehand and reverse stick</li>
 	<li>Practice moving around with the stick (with &amp; without the ball)</li>
 	<li>Movement games with stick control</li>
@@ -126,4 +127,4 @@ body {
 <div class="column">
 <img style="width:100%" src="/images/hockey%201.png">
 <img style="width:100%" src="/images/hockey%202.png"></div>
-</div>
+</div></ul>
