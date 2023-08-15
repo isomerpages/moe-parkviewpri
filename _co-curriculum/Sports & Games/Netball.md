@@ -79,6 +79,6 @@ Netball Court (Parade Square)<br>
 	</tbody>
 	</table>
 
-#### Gallery
-![](/images/Netball%202021%2001.jpg)
+<h4>Gallery</h4>
+<img src="/images/Netball%202021%2001.jpg">
 <img src="/images/Netball%202021%2002.jpg">
