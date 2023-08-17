@@ -4,7 +4,7 @@ permalink: /about-us/our-people/aesthetics-department/
 description: ""
 third_nav_title: Our People
 ---
-#### ART
+<h4>ART</h4>
 <table>
 	<thead>
 		<tr>
@@ -33,7 +33,7 @@ third_nav_title: Our People
 	</tbody>
 </table>
 
-#### Music
+<h4>Music</h4>
 
 <table>
 	<thead>

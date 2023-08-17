@@ -3,13 +3,13 @@ title: Other Services
 permalink: /about-us/other-services/
 description: ""
 ---
-#### School Dental Services  
+<h4>School Dental Services</h4>  
 
 <p align="justify">The school has its own dental clinic managed by a dentist therapist. All students in the school are seen by the dental therapist for routine check-up and dental treatment is provided as well.</p>
 Dental Therapist - Mdm Tan<br>
 Tel: 6598211985
 
-####  Opening Days and Hours
+<h4>Opening Days and Hours</h4>
 
 Monday &amp; Wednesday: 8:00 a.m. - 5:30 p.m.
 School Holidays (Selected Days Only): 8:00 a.m. - 5:30 p.m.
@@ -17,7 +17,7 @@ Lunch Hour: 1:00 p.m. - 2:00 p.m.
 
 <i>** The school dental clinic is closed. For emergency treatment, call one of the following clinics for assistance. These clinics are not open daily, call before going there.:</i>
 
-#### Buddy Clinics
+<h4>Buddy Clinics</h4>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><td style="border-color:#000000;solid;border-width:1px;">Meridian Pr School Dental Clinic</td>
 	<td style="border-color:#000000;solid;border-width:1px;">20 Pasir Ris St 71 (518798)</td>

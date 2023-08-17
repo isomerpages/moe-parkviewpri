@@ -4,7 +4,7 @@ permalink: /about-us/our-people/mother-tongue-teachers/
 description: ""
 third_nav_title: Our People
 ---
-#### Chinese Language
+<h4>Chinese Language</h4>
 
 <table>
 	<thead>
@@ -49,7 +49,7 @@ third_nav_title: Our People
 	</tbody>
 </table>
 
-#### Malay Language
+<h4>Malay Language</h4>
 
 <table>
 	<thead>
@@ -87,7 +87,7 @@ third_nav_title: Our People
 </tr></tbody>
 </table>
 
-#### Tamil Language
+<h4>Tamil Language</h4>
 
 <table>
 	<thead>

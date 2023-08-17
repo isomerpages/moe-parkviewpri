@@ -34,7 +34,7 @@ Netball Court (Parade Square)<br>
 
 
 
-#### Achievements
+<h4>Achievements</h4>
 <!-- Table-->
  <table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Events</th><th style="border-color:#000000;solid;border-width:1px;">Achievements</th><th style="border-color:#000000;solid;border-width:1px;">Year</th>
 	</tr>
@@ -56,7 +56,7 @@ Netball Court (Parade Square)<br>
 	</tbody>
 	</table>
 
-#### Activities/Events
+<h4>Activities/Events</h4>
 
 <!-- Table -->
  <table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Activity/Event</th><th style="border-color:#000000;solid;border-width:1px;">Description</th><th style="border-color:#000000;solid;border-width:1px;">Year</th>
@@ -79,6 +79,6 @@ Netball Court (Parade Square)<br>
 	</tbody>
 	</table>
 
-#### Gallery
-![](/images/Netball%202021%2001.jpg)
+<h4>Gallery</h4>
+<img src="/images/Netball%202021%2001.jpg">
 <img src="/images/Netball%202021%2002.jpg">

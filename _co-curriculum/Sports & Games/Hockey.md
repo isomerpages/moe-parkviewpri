@@ -11,35 +11,36 @@ We have a dedicated team of teachers who supervise them during training sessions
 We hope to include parents in our plans to develop the talent in the school, and we welcome all parents to help out in training sessions and accompany the pupils for tournaments. We look forward to achieving many more awards with your continued participation and support. </p>
 
 
-##### Training Programme
+<h4>Training Programme</h4>
   
 <p align="justify">The training emphasizes on skill development of players when they join at primary 3 where they are groomed by the coach to prepare them to be part of the school team. They will take part in pre-junior hockey carnivals when they are in primary 3 and 4. This is to provide them with the necessary exposure to the competitive atmosphere for tournament proper when they are in primary 5. Selected players in primary 5 will take part in the zonal and national tournament.<br>In January 2021, selected Hockey P5 players participated in Camp Excellence together with selected members of other Sports &amp; Games CCA. During the half-day camp, players learnt valuable mental toughness strategies so as to become more composed and focused in order to cope with challenges and/or adversities better. The activities promoted teamwork and bonding among the school team members. Through the camp, we hope to have motivated the school team members to achieve their personal and team goals.</p>
 
 
-##### Training structure  
+<h4>Training structure</h4>  
   
 <p align="justify">
 Players will start the training with warming up jogs and also stretching. They will then move on to some physical conditioning before proceeding to start the training proper with the following being covered for trainings.</p>
 
 
-* Practice stick gripping, both forehand and reverse stick
-* Practice moving around with the stick (with &amp; without the ball)
-* Movement games with stick control
-* Various games: shadow game, avoid the defender, follow the leader, relay dribble
-* Small-sided gameplay and station work for skill improvement.&nbsp;
-* Basic rules &amp; terminology of hockey
-* Proper stance and technique to pass, receive &amp; shoot.
+<ul>
+	<li>Practice stick gripping, both forehand and reverse stick</li>
+	<li>Practice moving around with the stick (with &amp; without the ball)</li>
+	<li>Movement games with stick control</li>
+	<li>Various games: shadow game, avoid the defender, follow the leader, relay dribble</li>
+	<li>Small-sided gameplay and station work for skill improvement</li>
+	<li>Basic rules &amp; terminology of hockey</li>
+	<li>Proper stance and technique to pass, receive &amp; shoot.</li>
 
 <p align="justify">
 The training usually ends with 2 sided games for the players to apply the skills being taught by the coach in a game situation.</p>
 
-##### Partnership
+<h4>Partnership</h4>
 
 <p align="justify">
 As the East Zone COE (Centre of Excellence), we have organised hockey events to promote the game of hockey in collaboration with Singapore Hockey Federation (SHF). East zone COE Hockey 3’s clinic and tournament was held in Sengkang Hockey stadium in January 2015.&nbsp; Indoor Hockey carnival was also held in Park View Primary School in November 2015. For both events, there were participation from schools not only from East zone. SHF was also involved in our&nbsp;school’s post exam activities for P6 pupils by providing umpires for the inter-class indoor hockey tournament.</p>
 
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Mr Azmi Bin Kasim (OIC)<br>  
+<table class="tg" style="border-collapse:collapse;border-spacing:0"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Mr Azmi Bin Kasim (OIC)<br>  
 Mdm Tan Xiuling<br>  
 Mdm Zatty Sabrina
 	</td>
@@ -60,9 +61,9 @@ Futsal Court<br>
 	</tbody>
 	</table>
 
-#### Achievements
+<h4>Achievements</h4>
 
- <table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Events</th><th style="border-color:#000000;solid;border-width:1px;">Achievements</th><th style="border-color:#000000;solid;border-width:1px;">Year</th>
+ <table class="tg" style="border-collapse:collapse;border-spacing:0"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Events</th><th style="border-color:#000000;solid;border-width:1px;">Achievements</th><th style="border-color:#000000;solid;border-width:1px;">Year</th>
 	</tr>
 	<tr>
 	<td style="border-color:#000000;solid;border-width:1px;">EZ COE (Sports) Hockey Carnival (P4)</td>
@@ -79,7 +80,7 @@ Futsal Court<br>
 
 
 	
-#### Gallery
+<h4>Gallery</h4>
 
 <!-- Photo Grid Style-->
 <style>
@@ -119,11 +120,11 @@ body {
 <!-- Photo Grid -->
 <div class="row"> 
 <div class="column">
-<img src="/images/hockey%20-%207.jpg" style="width:100%">
-<img src="/images/hockey%20-%206.jpg" style="width:100%">
+<img style="width:100%" src="/images/hockey%20-%207.jpg">
+<img style="width:100%" src="/images/hockey%20-%206.jpg">
 	</div>
   
 <div class="column">
-<img src="/images/hockey%201.png" style="width:100%">
-<img src="/images/hockey%202.png" style="width:100%"></div>
-</div>
+<img style="width:100%" src="/images/hockey%201.png">
+<img style="width:100%" src="/images/hockey%202.png"></div>
+</div></ul>

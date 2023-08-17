@@ -27,7 +27,7 @@ ISH Level 6<br>
 	</tbody>
 	</table>
 
-#### Achievements
+<h4>Achievements</h4>
 <!-- Table-->
  <table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Events</th><th style="border-color:#000000;solid;border-width:1px;">Achievements</th><th style="border-color:#000000;solid;border-width:1px;">Year</th>
 	</tr>
@@ -54,7 +54,7 @@ ISH Level 6<br>
 	</tbody>
 	</table>
 
-#### Activities/Events
+<h4>Activities/Events</h4>
 
 <!-- Table -->
  <table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Activity/Event</th><th style="border-color:#000000;solid;border-width:1px;">Description</th><th style="border-color:#000000;solid;border-width:1px;">Year</th>
@@ -92,7 +92,7 @@ ISH Level 6<br>
 	</tbody>
 	</table>
 
-#### Gallery
+<h4>Gallery</h4>
 
 <!-- Photo Grid Style-->
 <style>
