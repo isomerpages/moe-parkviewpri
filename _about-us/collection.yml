@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Bus.md
       - Our People/.keep
       - Our People/Principal.md
       - Our People/Vice Principal.md
@@ -31,6 +30,7 @@ collections:
       - School Policies/Homework Policy.md
       - School Policies/Rules for Using Lockers.md
       - School Canteen Menu.md
+      - School Bus.md
       - School Calendar.md
       - Other Services.md
       - Contact Us.md
