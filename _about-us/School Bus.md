@@ -3,4 +3,7 @@ title: School Bus
 permalink: /about-us/school-bus/
 description: ""
 ---
-<b>Awarded School Bus Operator</b>
+#### Awarded School Bus Operator
+
+
+[School Bus Operator and Bus Fare](https://parkviewpri.moe.edu.sg/schoolbus/)
