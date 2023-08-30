@@ -4,10 +4,9 @@ permalink: /about-us/achievements/students/physical-achievements/
 description: ""
 third_nav_title: Students
 ---
+<h1>Physical Achievements</h1>
 
-# **Physical Achievements**
-
-#### 2019
+<h4>2019</h4>
 
 ![](/images/Picture1.png)
 
@@ -23,7 +22,7 @@ third_nav_title: Students
 
 ![](/images/Picture7.png)
 
-#### 2018
+<h4>2018</h4>
 
 ![](/images/Picture15a.png)
 

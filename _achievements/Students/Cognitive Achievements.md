@@ -4,70 +4,75 @@ permalink: /about-us/achievements/students/cognitive-achievements/
 description: ""
 third_nav_title: Students
 ---
-# **Cognitive Achievements**
 
-#### 2019
+<h1>Cognitive Achievements</h1>
 
-**Trinity College London Speech & Drama**   
-**Achieved 13 Distinctions and 3 Merits**
+
+<h4>2023</h4><br>
+<b>Special Award 2023</b>
+
+![](/images/special%20award%202023.png)
+
+
+<h4>2019</h4>
+
+<b>Trinity College London Speech &amp; Drama</b>   
+<b>Achieved&nbsp;13&nbsp;Distinctions and&nbsp;3&nbsp;Merits</b>
 
 ![](/images/Picture1%20(1).png)
 
-**CREATIVE WRITING PROGRAMME (PRIMARY)**    
-**Organised by: Gifted Education Branch**
+<b>CREATIVE WRITING PROGRAMME (PRIMARY)</b>    
+<b>Organised by: Gifted Education Branch</b>
 
-<img src="/images/Picture2.jpg" 
-     style="width:25%">
+<img src="/images/Picture2.jpg" style="width:25%">
 
-**YMCA Plain English Speaking Award**
+<b>YMCA Plain English Speaking Award</b>
 
 ![](/images/Picture32a.png)
 
-**4th CHOU SIN CHU NATIONAL STUDENT CALLIGRAPHY COMPETITION**    
-**Best Calligraphy - School Team**
+<b>4th CHOU SIN CHU NATIONAL STUDENT CALLIGRAPHY COMPETITION</b>    
+<b>Best Calligraphy - School Team</b>
 
 ![](/images/Picture5%20(2).png)
 
-**FO GUAN SHAN PENMANSHIP COMPETITION**   
+<b>FO GUAN SHAN PENMANSHIP COMPETITION</b>   
 Best Calligraphy - School Team  
-Bronze Award, Merit Award, Culture Award & Participation**
+Bronze Award, Merit Award, Culture Award &amp; Participation
 
 ![](/images/Picture6%20(2).png)
 
-**PINTAR KATA APPS COMPETITION (NATIONAL)**    
-Individual - 7th Position & Top 20
+<b>PINTAR KATA APPS COMPETITION (NATIONAL)</b>    
+Individual - 7th Position &amp; Top 20
 
 ![](/images/Picture8(1).png)
 
-**OPS BACA COMPETITION**    
-RE-ENACTMENT OF FOLKLORE CATEGORY (2nd Position)
+<b>OPS BACA COMPETITION</b>    
+RE-ENACTMENT OF FOLKLORE CATEGORY (2nd&nbsp;Position)
 
-<img src="/images/Picture9(1).png" 
-     style="width:70%">
+<img src="/images/Picture9(1).png" style="width:70%">
 		 
-**BOOK PROMOTION CATEGORY - 1st Position**   
+<b>BOOK PROMOTION CATEGORY - 1st&nbsp;Position</b>   
 Haziq Rayyan Bin Mohammed Hairulnizam 3B   
 Faiz Thaqif Bin Nurrashid 3C
 
-**TWISTED TALE CATEGORY - 2nd Position**
+<b>TWISTED TALE CATEGORY - 2nd&nbsp;Position</b>
 
 ![](/images/Picture11-1.png)
 
-**ADAPTATION OF MODERN FOLKLORE CATEGORY - 1st Position**
+<b>ADAPTATION OF MODERN FOLKLORE CATEGORY - 1st&nbsp;Position</b>
 
-<img src="/images/Picture12-1.png" 
-     style="width:70%">
+<img src="/images/Picture12-1.png" style="width:70%">
 
-**Pasir Ris-Punggol District Champion**
+<b>Pasir Ris-Punggol District Champion</b>
 
 ![](/images/Picture13-1.png)
 
 
-**TAMIL LITERACY COMPETITION**
+<b>TAMIL LITERACY COMPETITION</b>
 
 ![](/images/cog.jpg)
 
-**MATH OLYMPIAD**
+<b>MATH OLYMPIAD</b>
 
 ![](/images/Picture20-1.png)
 
@@ -76,21 +81,21 @@ Bronze Award
 ![](/images/Picture33-1.png)
 
 ![](/images/Picture21.jpg)
-**Silver Award**
+Silver Award
 ![](/images/Picture34.png)
 
 ![](/images/Picture25.jpg)
-**Honorable Mention**
+<b>Honorable Mention</b>
 
 ![](/images/Picture35.png)
 
-**RAFFLES INSTITUTION PRIMARY MATH WORLD CONTEST**
+<b>RAFFLES INSTITUTION PRIMARY MATH WORLD CONTEST</b>
 
 DISTINCTION
 
 ![](/images/Picture36.png)
 
-#### 2018
+<h4>2018</h4>
 
 ![](/images/Picture1-1.png)
 
