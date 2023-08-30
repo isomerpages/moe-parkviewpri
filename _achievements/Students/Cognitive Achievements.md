@@ -6,18 +6,23 @@ third_nav_title: Students
 ---
 # **Cognitive Achievements**
 
-#### 2019
+<h4>2023</h4><br>
+<b>Special Award 2023</b>
 
-**Trinity College London Speech & Drama**   
-**Achieved 13 Distinctions and 3 Merits**
+![](/images/special%20award%202023.png)
+
+
+<h4>2019</h4>
+
+<b>Trinity College London Speech &amp; Drama</b>   
+<b>Achieved&nbsp;13&nbsp;Distinctions and&nbsp;3&nbsp;Merits</b>
 
 ![](/images/Picture1%20(1).png)
 
 **CREATIVE WRITING PROGRAMME (PRIMARY)**    
 **Organised by: Gifted Education Branch**
 
-<img src="/images/Picture2.jpg" 
-     style="width:25%">
+<img src="/images/Picture2.jpg" style="width:25%">
 
 **YMCA Plain English Speaking Award**
 
@@ -30,33 +35,31 @@ third_nav_title: Students
 
 **FO GUAN SHAN PENMANSHIP COMPETITION**   
 Best Calligraphy - School Team  
-Bronze Award, Merit Award, Culture Award & Participation**
+Bronze Award, Merit Award, Culture Award &amp; Participation**
 
 ![](/images/Picture6%20(2).png)
 
 **PINTAR KATA APPS COMPETITION (NATIONAL)**    
-Individual - 7th Position & Top 20
+Individual - 7th Position &amp; Top 20
 
 ![](/images/Picture8(1).png)
 
 **OPS BACA COMPETITION**    
-RE-ENACTMENT OF FOLKLORE CATEGORY (2nd Position)
+RE-ENACTMENT OF FOLKLORE CATEGORY (2nd&nbsp;Position)
 
-<img src="/images/Picture9(1).png" 
-     style="width:70%">
+<img src="/images/Picture9(1).png" style="width:70%">
 		 
-**BOOK PROMOTION CATEGORY - 1st Position**   
+**BOOK PROMOTION CATEGORY - 1st&nbsp;Position**   
 Haziq Rayyan Bin Mohammed Hairulnizam 3B   
 Faiz Thaqif Bin Nurrashid 3C
 
-**TWISTED TALE CATEGORY - 2nd Position**
+**TWISTED TALE CATEGORY - 2nd&nbsp;Position**
 
 ![](/images/Picture11-1.png)
 
-**ADAPTATION OF MODERN FOLKLORE CATEGORY - 1st Position**
+**ADAPTATION OF MODERN FOLKLORE CATEGORY - 1st&nbsp;Position**
 
-<img src="/images/Picture12-1.png" 
-     style="width:70%">
+<img src="/images/Picture12-1.png" style="width:70%">
 
 **Pasir Ris-Punggol District Champion**
 
