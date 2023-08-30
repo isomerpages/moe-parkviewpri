@@ -4,7 +4,9 @@ permalink: /about-us/achievements/students/cognitive-achievements/
 description: ""
 third_nav_title: Students
 ---
-# **Cognitive Achievements**
+
+<h1>Cognitive Achievements</h1>
+
 
 <h4>2023</h4><br>
 <b>Special Award 2023</b>
@@ -66,11 +68,11 @@ Faiz Thaqif Bin Nurrashid 3C
 ![](/images/Picture13-1.png)
 
 
-**TAMIL LITERACY COMPETITION**
+<b>TAMIL LITERACY COMPETITION</b>
 
 ![](/images/cog.jpg)
 
-**MATH OLYMPIAD**
+<b>MATH OLYMPIAD</b>
 
 ![](/images/Picture20-1.png)
 
@@ -79,21 +81,21 @@ Bronze Award
 ![](/images/Picture33-1.png)
 
 ![](/images/Picture21.jpg)
-**Silver Award**
+Silver Award
 ![](/images/Picture34.png)
 
 ![](/images/Picture25.jpg)
-**Honorable Mention**
+<b>Honorable Mention</b>
 
 ![](/images/Picture35.png)
 
-**RAFFLES INSTITUTION PRIMARY MATH WORLD CONTEST**
+<b>RAFFLES INSTITUTION PRIMARY MATH WORLD CONTEST</b>
 
 DISTINCTION
 
 ![](/images/Picture36.png)
 
-#### 2018
+<h4>2018</h4>
 
 ![](/images/Picture1-1.png)
 
