@@ -19,49 +19,49 @@ third_nav_title: Students
 
 ![](/images/Picture1%20(1).png)
 
-**CREATIVE WRITING PROGRAMME (PRIMARY)**    
-**Organised by: Gifted Education Branch**
+<b>CREATIVE WRITING PROGRAMME (PRIMARY)</b>    
+<b>Organised by: Gifted Education Branch</b>
 
 <img src="/images/Picture2.jpg" style="width:25%">
 
-**YMCA Plain English Speaking Award**
+<b>YMCA Plain English Speaking Award</b>
 
 ![](/images/Picture32a.png)
 
-**4th CHOU SIN CHU NATIONAL STUDENT CALLIGRAPHY COMPETITION**    
-**Best Calligraphy - School Team**
+<b>4th CHOU SIN CHU NATIONAL STUDENT CALLIGRAPHY COMPETITION</b>    
+<b>Best Calligraphy - School Team</b>
 
 ![](/images/Picture5%20(2).png)
 
-**FO GUAN SHAN PENMANSHIP COMPETITION**   
+<b>FO GUAN SHAN PENMANSHIP COMPETITION</b>   
 Best Calligraphy - School Team  
-Bronze Award, Merit Award, Culture Award &amp; Participation**
+Bronze Award, Merit Award, Culture Award &amp; Participation
 
 ![](/images/Picture6%20(2).png)
 
-**PINTAR KATA APPS COMPETITION (NATIONAL)**    
+<b>PINTAR KATA APPS COMPETITION (NATIONAL)</b>    
 Individual - 7th Position &amp; Top 20
 
 ![](/images/Picture8(1).png)
 
-**OPS BACA COMPETITION**    
+<b>OPS BACA COMPETITION</b>    
 RE-ENACTMENT OF FOLKLORE CATEGORY (2nd&nbsp;Position)
 
 <img src="/images/Picture9(1).png" style="width:70%">
 		 
-**BOOK PROMOTION CATEGORY - 1st&nbsp;Position**   
+<b>BOOK PROMOTION CATEGORY - 1st&nbsp;Position</b>   
 Haziq Rayyan Bin Mohammed Hairulnizam 3B   
 Faiz Thaqif Bin Nurrashid 3C
 
-**TWISTED TALE CATEGORY - 2nd&nbsp;Position**
+<b>TWISTED TALE CATEGORY - 2nd&nbsp;Position</b>
 
 ![](/images/Picture11-1.png)
 
-**ADAPTATION OF MODERN FOLKLORE CATEGORY - 1st&nbsp;Position**
+<b>ADAPTATION OF MODERN FOLKLORE CATEGORY - 1st&nbsp;Position</b>
 
 <img src="/images/Picture12-1.png" style="width:70%">
 
-**Pasir Ris-Punggol District Champion**
+<b>Pasir Ris-Punggol District Champion</b>
 
 ![](/images/Picture13-1.png)
 
