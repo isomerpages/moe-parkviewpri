@@ -11,14 +11,17 @@ Through our 4**E**&nbsp;approach -**Exposure**,&nbsp;**Experience**,&nbsp;**Excu
 
  <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Teachers-in-charge<br></th><th style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="background-color:initial">Mrs Eileen Yap (OIC)</span><br><span style="background-color:initial">Mdm Nor Iqmalia (2nd</span> <span style="background-color:initial">IC)</span><br><span style="color:#162837">Miss Kirthi Shihlpa Pillai </span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Training days/Time/Venue<br></td><td style="background-color:#FFF;border-color:#000000;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold;background-color:initial">Tuesdays</span><br><span style="background-color:initial">School Team</span><br><span style="background-color:initial">3.30 pm  - 5.00pm</span><br><span style="background-color:initial">Art Room 1</span><br><br><span style="font-weight:bold">Fridays</span><br><span style="background-color:initial">7.30am - 9.00am (All members)</span><br><span style="background-color:initial">School Team (Art Room 1)</span><br><span style="color:#162837">Non-School Team (Art Room 2)</span></td></tr></tbody></table>
  
-#### Achievements
+<h4>Achievements</h4>
 
  <table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Events</th><th style="border-color:#000000;solid;border-width:1px;">Achievements</th><th style="border-color:#000000;solid;border-width:1px;">Year</th>
 	</tr>
 	<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">URA LTPR Art Competition</td>
-	<td style="border-color:#000000;solid;border-width:1px;">2nd place  
-Recipient: Teo Zhi Xuan</td>
+	<td style="border-color:#000000;solid;border-width:1px;">Singapore Youth Festivals (SYF) Arts Presentation
+		Theme: <b>‘Artist and Inspiration’</b></td>
+		<td style="border-color:#000000;solid;border-width:1px;"><b>Certificate of Recognition:</b>
+Category A – Kampung Coffee Shop
+Category B – Plastic Fishes
+Category C – Crushing Our Earth</td>
 		<td style="border-color:#000000;solid;border-width:1px;">2022</td>
 </tr>
 	<tr>
