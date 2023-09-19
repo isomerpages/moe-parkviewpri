@@ -21,6 +21,9 @@ third_nav_title: Our People
 <td style="border:1px solid black;">Mr Jahidin</td>
 		</tr>
 		 <tr>
+			 </tr><tr>
+				 <td style="border:1px solid black;">Desktop Engineer</td>
+				 <td style="border:1px solid black;">Mr Khairul Haqq</td>
 		</tr>
 		 <tr>
       <td style="border:1px solid black;">Library Assistant</td>
