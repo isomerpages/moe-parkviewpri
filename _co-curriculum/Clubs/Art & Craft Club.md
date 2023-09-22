@@ -38,6 +38,15 @@ Category C – Crushing Our Earth
 </tr>
 	<tr>
 	</tr><tr>
+		</tr>
+	<tr>
+	<td style="border-color:#000000;solid;border-width:1px;">         Nationwide Mid-Autumn Festival Colouring Contest</td>
+		<td style="border-color:#000000;solid;border-width:1px;"> <b>Champion:</b> Teo Zhi Xuan
+</td>
+		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+</tr>
+	<tr>
+	</tr><tr>
 	<td style="border-color:#000000;solid;border-width:1px;">Radin Mas Arts Week Colouring Competition 
 </td>
 	<td style="border-color:#000000;solid;border-width:1px;">
