@@ -5,7 +5,7 @@ description: ""
 ---
 ### Mathematics Framework
 
-![](/images/Math_FW.jpg)
+<img src="/images/math%20framework.png" style="width:80%">
 
 The teaching and learning of mathematics aims primarily to equip students with a firm foundation of knowledge and skills in mathematics. The central focus of our mathematics framework is problem solving, which is supported by five interrelated dimensions: concepts, skills, processes, attitudes and metacognition. Excellence in mathematics anchors in problem solving, and through problem solving, students are developed into thinkers and problem solvers, who are independent, engaged, creative and critical.
 
@@ -203,13 +203,13 @@ Questions set are in accordance to the objectives stated in the textbooks that p
   
 **Interschool Sudoku Mania 2015**  
   
-Park View Primary School participated in the Interschool Sudoku Mania organized by Yuying Secondary School on 26th February. This is the 2nd time that Park View Primary is participating in this Competition. 2 teams of 4 pupils each from Primary 4 and 5 took part in the competition.  
+Park View Primary School participated in the Interschool Sudoku Mania organized by Yuying Secondary School on 26th&nbsp;February. This is the 2nd time that Park View Primary is participating in this Competition. 2 teams of 4 pupils each from Primary 4 and 5 took part in the competition.  
   
-They are Cavern Loo, Swastika Dubay, Jerlyn Tan and Joel Affendi from Primary 5 and Kirana Ayu Prahasanti, Quek Sze En Shanice (4A), See Xuan Li (4C) and Rohit G.S. from Primary 4.  
+They are&nbsp;Cavern Loo,&nbsp;Swastika&nbsp;Dubay,&nbsp;Jerlyn Tan and&nbsp;Joel Affendi from Primary 5 and&nbsp;Kirana Ayu Prahasanti,&nbsp;Quek Sze En Shanice (4A),&nbsp;See Xuan Li (4C) and&nbsp;Rohit G.S. from Primary 4.  
   
 **Mathematics Mastery Challenge 2015**  
   
-Park View Primary School participated in the Math Mastery International Challenge organized by Adam Khoo Learning Centre in partnership with Singapore Press Holdings SPH. This is the 1st time that Park View Primary is participating in this Competition.  
+Park View Primary School participated in the Math Mastery International Challenge organized by Adam Khoo Learning Centre in partnership with Singapore Press Holdings SPH. This is the 1st&nbsp;time that Park View Primary is participating in this Competition.  
   
 A total of 42 pupils took part in the preliminary round and 4 pupils made it to the Semi-final round. They are Shobhit Mishra, Bhargav, Lai Hsuan Jung and Jaslenn Kaur.
 
@@ -226,7 +226,7 @@ A total of 42 pupils took part in the preliminary round and 4 pupils made it to 
 
 ![](/images/Sudoku-2014.jpg)
 
-Park View Primary School participated in the Interschool Sudoku Mania organized by Yuying Secondary School on 13th February. This is the 1st time that Park View Primary is participating in this Competition. 2 teams of 4 pupils each from Primary 5E took part in the competition. One of the teams consisting of Javan Ang, Daryl Tai, Muhammad Fikri and Ian Leong beat all the other teams and emerged Overall Champion in the competition.  
+Park View Primary School participated in the Interschool Sudoku Mania organized by Yuying Secondary School on 13th&nbsp;February. This is the 1st&nbsp;time that Park View Primary is participating in this Competition. 2 teams of 4 pupils each from Primary 5E took part in the competition. One of the teams consisting of Javan Ang, Daryl Tai, Muhammad Fikri and Ian Leong beat all the other teams and emerged Overall Champion in the competition.  
   
 The competition aims to:  
 
@@ -257,7 +257,7 @@ A total of more than 30 teams all over Singapore took part in this Competition.
   
 **Po Leung Kuk 16th Primary Mathematics World Contest 2013**  
   
-Park View Primary School participated in the Po Leung Kuk Primary Mathematics World Contest organized by Po Leung Kuk and co-organized by the Hong Kong Institute of Education from 15th to 19th July. This is the 4th year that Park View Primary is participating in this World Contest. 4 of our pupils from Primary 6F, Jason Lim, Lim Zhen An, Quek Yu Sheng and Chen Yen took part in the contest. They gained greater insight, mathematical awareness and interest in Mathematics through the competition.  
+Park View Primary School participated in the Po Leung Kuk Primary Mathematics World Contest organized by Po Leung Kuk and co-organized by the Hong Kong Institute of Education from 15th&nbsp;to 19th&nbsp;July. This is the 4th&nbsp;year that Park View Primary is participating in this World Contest. 4 of our pupils from Primary 6F, Jason Lim, Lim Zhen An, Quek Yu Sheng and Chen Yen took part in the contest. They gained greater insight, mathematical awareness and interest in Mathematics through the competition.  
   
 The contest aims to:  
 
