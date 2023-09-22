@@ -65,6 +65,25 @@ Category C – Crushing Our Earth
 </tr>
 	<tr>
 	</tr><tr>
+	</tr>
+	<tr>
+	<td style="border-color:#000000;solid;border-width:1px;">         Nationwide Drawing Contest 2023\全国绘画比赛  </td>
+<td style="border-color:#000000;solid;border-width:1px;"> <b> 1st Runner-up</b> Teo Zhi Xuan
+</td>
+		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+</tr>
+	<tr>
+	</tr><tr>
+	</tr>
+	<tr>
+	<td style="border-color:#000000;solid;border-width:1px;">
+Pasir Ris East National Day Art Contest         
+</td><td style="border-color:#000000;solid;border-width:1px;"> <b> 2nd place Recipient</b> Teo Zhi Xuan
+</td>
+		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+</tr>
+	<tr>
+	</tr><tr>
 	<td style="border-color:#000000;solid;border-width:1px;">Radin Mas Arts Week Colouring Competition 
 </td>
 	<td style="border-color:#000000;solid;border-width:1px;">
