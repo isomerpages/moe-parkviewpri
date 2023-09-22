@@ -124,6 +124,15 @@ Certificate of participation
 	<tr>
 	</tr>
 	<tr>
+		</tr><tr>
+	<td style="border-color:#000000;solid;border-width:1px;">
+National Independence Day Colouring Contest
+</td>
+	<td style="border-color:#000000;solid;border-width:1px;">1st Runner-up: Teo Zhi Xuan
+</td>
+		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+</tr>
+	<tr>
 	</tr><tr>
 	<td style="border-color:#000000;solid;border-width:1px;">SOTA Primary 6 Art Competition
 Theme: “If I Can Change the World”
