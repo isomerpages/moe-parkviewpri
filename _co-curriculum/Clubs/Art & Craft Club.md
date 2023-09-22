@@ -267,6 +267,9 @@ Theme: ‘Artist and Technology’</td>
  <h4>OMNI Racial Harmony Art Competition</h4>
  <img src="/images/omni%20racial%20harmony%20art%20competition.JPG">
 
+<h4>Nationwide Drawing Contest 2023</h4>
+<img src="/images/nationwide%20drawing%20contest%202023.jpg">
+
 
 
 <h4>Pasir Ris East National Day Art Contest </h4>
@@ -274,6 +277,10 @@ Theme: ‘Artist and Technology’</td>
 
 <h4>Radin Mas Arts Week Colouring Competition </h4>
 <img src="/images/3%20radin%20mas%20arts%20week%20colouring%20competition.JPG">
+
+<h4> National Independence Day Colouring Contest</h4>
+
+
 
 <h4>SOTA Primary 6 Art Competition</h4>
 <img src="/images/4%20sota%20p6%20art%20competition%20(1).JPG">
