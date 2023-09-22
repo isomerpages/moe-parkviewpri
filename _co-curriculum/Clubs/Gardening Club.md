@@ -25,6 +25,16 @@ It also aims to promote awareness of the diversity of plants and to educate stud
 </tr>
 	</tbody>
 	</table>
+	
+	
+<ul>
+	<li>Recognise and reward gardening efforts by community gardening groups</li>
+	
+<li> Motivate and encourage community gardeners to enjoy gardening as a fun and healthy activity</li>
+	
+<li>Set &amp; improve the standards of community gardens located in communal spaces</li>
+	
+<li>Spread the gardening bug to others in the community so that they too can discover the joy of gardening</li>
 
 <style>
 * {
@@ -72,12 +82,7 @@ body {
 <img style="width:100%" src="/images/Gardening1.jpg">
 </div>
 
-<p>NParks has been spearheading the Community In Bloom (CIB) programme to create gardening communities within housing estates, educational institutions and organisations in Singapore by partnering various stakeholders including residents, government agencies, grassroots organisations, schools and organisations. Community In Bloom Awards aims to:</p>
 
-*   Recognise and reward gardening efforts by community gardening groups
-*   Motivate and encourage community gardeners to enjoy gardening as a fun and healthy activity
-*   Set &amp; improve the standards of community gardens located in communal spaces
-*   Spread the gardening bug to others in the community so that they too can discover the joy of gardening
 
 
 <style>
@@ -124,4 +129,4 @@ body {
 <img style="width:100%" src="/images/Gardening_4.jpg">
 <img style="width:100%" src="/images/gardening%20club.jpg">
 </div>
-</div></div>
+</div></div></ul>
