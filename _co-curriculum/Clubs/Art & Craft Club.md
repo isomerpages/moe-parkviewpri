@@ -22,7 +22,7 @@ Non-School Team (Art Room 2)
 	</tbody>
 	</table>
 	
-#### Achievements
+<h4>Achievements</h4>
 
  <table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Events</th><th style="border-color:#000000;solid;border-width:1px;">Achievements</th><th style="border-color:#000000;solid;border-width:1px;">Year</th>
 	</tr>
@@ -252,39 +252,45 @@ Theme: ‘Artist and Technology’</td>
 	</tbody>
 	</table>
 
-<h3>Singapore Youth Festivals Art Presentation </h3>
+<h4>Singapore Youth Festivals Art Presentation </h4>
 
 <img src="/images/1%20syf%20category%20a%20kampung%20coffeeshop.jpg">
 <img src="/images/2%20syf_category%20b_plastic%20fishes.jpg">
 <img src="/images/3%20syf_category%20c_crushing%20our%20earth.jpg">
 
-<h3>Pasir Ris East National Day Art Contest </h3>
+<h4>Nationwide Mid-Autumn Festival Colouring Contest</h4>
+<img src="/images/nationwide%20mid-autumn%20festival%20colouring%20contest.JPG">
+
+ <h4>Superior Culture Hong Kong Celebrating Dragon Boat Festival Colouring Contest</h4>
+ <img src="/images/superior%20culture%20hong%20kong%20celebrating%20dragon%20boat%20festival%20colouring%20contest.JPG">
+
+<h4>Pasir Ris East National Day Art Contest </h4>
 <img src="/images/2%20pasir%20ris%20east%20national%20day%20art%20contest.JPG">
 
-<h3>Radin Mas Arts Week Colouring Competition </h3>
+<h4>Radin Mas Arts Week Colouring Competition </h4>
 <img src="/images/3%20radin%20mas%20arts%20week%20colouring%20competition.JPG">
 
-<h3>SOTA Primary 6 Art Competition</h3>
+<h4>SOTA Primary 6 Art Competition</h4>
 <img src="/images/4%20sota%20p6%20art%20competition%20(1).JPG">
 <img src="/images/4%20sota%20p6%20art%20competition%20(2).JPG">
 
-<h3>The Singapore International Art Contest (SIAC)</h3>
+<h4>The Singapore International Art Contest (SIAC)</h4>
 <img src="/images/5%20singapore%20international%20art%20contest%20(siac).jpg">
 
-<h3>The Singapore International Art Contest (SIAC)</h3>
+<h4>The Singapore International Art Contest (SIAC)</h4>
 <img src="/images/6%20art%20for%20trash.JPG">
 					
 
 
 
 
-<h3>URA LTPR ART COMPETITION</h3>
+<h4>URA LTPR ART COMPETITION</h4>
 
 <img src="/images/URA_LTPR%20Art%20Competition_Teo%20Zhi%20Xuan%204R3_2nd%20Place%201.jpg">
 
 <img src="/images/URA_LTPR%20Art%20Competition_Teo%20Zhi%20Xuan%204R3_2nd%20Place%202.jpg">
 
-<h3>Community Outreach Programme (COP) thru’ Recycled Art</h3>
+<h4>Community Outreach Programme (COP) thru’ Recycled Art</h4>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sUn1nNqdg1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
