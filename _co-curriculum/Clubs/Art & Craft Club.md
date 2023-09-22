@@ -263,6 +263,11 @@ Theme: ‘Artist and Technology’</td>
 
  <h4>Superior Culture Hong Kong Celebrating Dragon Boat Festival Colouring Contest</h4>
  <img src="/images/superior%20culture%20hong%20kong%20celebrating%20dragon%20boat%20festival%20colouring%20contest.JPG">
+ 
+ <h4>OMNI Racial Harmony Art Competition</h4>
+ <img src="/images/omni%20racial%20harmony%20art%20competition.JPG">
+
+
 
 <h4>Pasir Ris East National Day Art Contest </h4>
 <img src="/images/2%20pasir%20ris%20east%20national%20day%20art%20contest.JPG">
