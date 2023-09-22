@@ -6,7 +6,7 @@ third_nav_title: Clubs
 ---
 Through our 4**E**&nbsp;approach -**Exposure**,&nbsp;**Experience**,&nbsp;**Excursion**,&nbsp;**Excellence**,&nbsp;we aim to develop and harness the full range of our students’ talents and contribute to their overall development. Art Club members are exposed to 2D and 3D art forms through hands-on art making and attending art exhibitions. There are also opportunities for our students to develop SEL competencies through group art-making and character building through service to the community project such as the Community Outreach Programme through Recycled Art. Art Club members also have the opportunity to teach the K1 &amp; K2 children in neighbourhood Sparkletots Preschool how to transform everyday trash into interesting works of art.
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Mrs Eileen Yap (OIC)<br>  
+<table class="tg" style="border-collapse:collapse;border-spacing:0"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Mrs Eileen Yap (OIC)<br>  
 Mdm Farah Binte Abdul Rashid<br>  
 Miss Kirthi Shihlpa Pillai<br>
 	</td>
@@ -24,7 +24,7 @@ Non-School Team (Art Room 2)
 	
 <h4>Achievements</h4>
 
- <table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Events</th><th style="border-color:#000000;solid;border-width:1px;">Achievements</th><th style="border-color:#000000;solid;border-width:1px;">Year</th>
+ <table class="tg" style="border-collapse:collapse;border-spacing:0"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Events</th><th style="border-color:#000000;solid;border-width:1px;">Achievements</th><th style="border-color:#000000;solid;border-width:1px;">Year</th>
 	</tr>
 	<tr>
 	<td style="border-color:#000000;solid;border-width:1px;">Singapore Youth Festivals (SYF) Arts Presentation
@@ -265,7 +265,7 @@ Theme: ‘Artist and Technology’</td>
  <img src="/images/superior%20culture%20hong%20kong%20celebrating%20dragon%20boat%20festival%20colouring%20contest.JPG">
  
  <h4>OMNI Racial Harmony Art Competition</h4>
- <img src="/images/omni%20racial%20harmony%20art%20competition.JPG">
+ <img src="/images/omni.JPG">
 
 <h4>Nationwide Drawing Contest 2023</h4>
 <img src="/images/nationwide%20drawing%20contest%202023.jpg">
@@ -279,11 +279,8 @@ Theme: ‘Artist and Technology’</td>
 <img src="/images/3%20radin%20mas%20arts%20week%20colouring%20competition.JPG">
 
 <h4> National Independence Day Colouring Contest</h4>
-
-
-
-<h4>SOTA Primary 6 Art Competition</h4>
-<img src="/images/4%20sota%20p6%20art%20competition%20(1).JPG">
+<img src="<h4>SOTA Primary 6 Art Competition</h4>
+<img src=">
 <img src="/images/4%20sota%20p6%20art%20competition%20(2).JPG">
 
 <h4>The Singapore International Art Contest (SIAC)</h4>
@@ -304,7 +301,7 @@ Theme: ‘Artist and Technology’</td>
 
 <h4>Community Outreach Programme (COP) thru’ Recycled Art</h4>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sUn1nNqdg1U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/sUn1nNqdg1U" height="315" width="560"></iframe>
 
 Despite the challenges faced due to the pandemic, both PVPS Art &amp; Craft Club and Sparkletots Preschool@Blk 517 worked closely to ensure our annual collaboration could continue. This year, to commemorate Earth Day on 22 April 2021, 2 of our Art Club students, Kenneth and Rasleen, recorded an instructional video on creating photo frames using recycled cardboards and twigs. The K1 and K2 students followed the steps in the video to create their own photo frames. This was a maiden attempt by the Art Club students and the experience was both meaningful and exhilarating.
 
