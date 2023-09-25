@@ -279,8 +279,9 @@ Theme: ‘Artist and Technology’</td>
 <img src="/images/3%20radin%20mas%20arts%20week%20colouring%20competition.JPG">
 
 <h4> National Independence Day Colouring Contest</h4>
-<img src="<h4>SOTA Primary 6 Art Competition</h4>
-<img src=">
+<img src="/images/national%20independence%20day%20colouring%20contest.JPG">
+
+<h4>SOTA Primary 6 Art Competition</h4>
 <img src="/images/4%20sota%20p6%20art%20competition%20(2).JPG">
 
 <h4>The Singapore International Art Contest (SIAC)</h4>
