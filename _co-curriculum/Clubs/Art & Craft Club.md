@@ -41,7 +41,7 @@ Category C – Crushing Our Earth
 		</tr>
 	<tr>
 	<td style="border-color:#000000;solid;border-width:1px;">         Nationwide Mid-Autumn Festival Colouring Contest</td>
-		<td style="border-color:#000000;solid;border-width:1px;"> <b>Champion:</b> Teo Zhi Xuan
+		<td style="border-color:#000000;solid;border-width:1px;"> Champion: <br>Teo Zhi Xuan
 </td>
 		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
 </tr>
@@ -50,7 +50,7 @@ Category C – Crushing Our Earth
 	</tr>
 	<tr>
 	<td style="border-color:#000000;solid;border-width:1px;">             Superior Culture Hong Kong: Celebrating Dragon Boat Festival Colouring Contest</td>
-<td style="border-color:#000000;solid;border-width:1px;"> <b>Silver Award</b> Teo Zhi Xuan
+<td style="border-color:#000000;solid;border-width:1px;">Silver Award<br>Teo Zhi Xuan
 </td>
 		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
 </tr>
@@ -59,7 +59,7 @@ Category C – Crushing Our Earth
 	</tr>
 	<tr>
 	<td style="border-color:#000000;solid;border-width:1px;">           OMNI Racial Harmony Day Drawing Competition  </td>
-<td style="border-color:#000000;solid;border-width:1px;"> <b>Consolation Prize</b> Teo Zhi Xuan
+<td style="border-color:#000000;solid;border-width:1px;">Consolation Prize<br> Teo Zhi Xuan
 </td>
 		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
 </tr>
@@ -265,7 +265,7 @@ Theme: ‘Artist and Technology’</td>
  <img src="/images/superior%20culture%20hong%20kong%20celebrating%20dragon%20boat%20festival%20colouring%20contest.JPG">
  
  <h4>OMNI Racial Harmony Art Competition</h4>
- <img src="/images/omni.JPG">
+ <img src="/images/omni%20racial%20harmony%20art%20competition.JPG">
 
 <h4>Nationwide Drawing Contest 2023</h4>
 <img src="/images/nationwide%20drawing%20contest%202023.jpg">
