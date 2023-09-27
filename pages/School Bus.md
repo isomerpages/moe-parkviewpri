@@ -10,8 +10,8 @@ Telephone: 82825538 / 91466258
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><td style="border-color:#000000;solid;border-width:1px;">         Distance</td>
 		<td style="border-color:#000000;solid;border-width:1px;">Up to 15 seater<br>(1-way)</td>
 	<td style="border-color:#000000;solid;border-width:1px;">Up to 15 seater<br>(2-way)</td>
-	<td style="border-color:#000000;solid;border-width:1px;">&gt; 15 seater<br>(1-way)</td>
-		<td style="border-color:#000000;solid;border-width:1px;">&gt; 15 seater<br> (2-way)</td>
+	<td style="border-color:#000000;solid;border-width:1px;">&gt; 30 seater<br>(1-way)</td>
+		<td style="border-color:#000000;solid;border-width:1px;">&gt; 30 seater<br> (2-way)</td>
 	</tr>
 <tr><td style="border-color:#000000;solid;border-width:1px;">Up to 2km</td>
 	<td style="border-color:#000000;solid;border-width:1px;">$144.00</td>
@@ -27,3 +27,7 @@ Telephone: 82825538 / 91466258
 	</tr>
 	</tbody>
 	</table>
+	<br>[Form to Request for School Bus Services](Form to Request for School Bus Services)
+	
+	
+	
