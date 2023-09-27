@@ -27,7 +27,5 @@ Telephone: 82825538 / 91466258
 	</tr>
 	</tbody>
 	</table>
-	<br>[Form to Request for School Bus Services](Form to Request for School Bus Services)
 	
-	
-	
+<li><a href="/files/form%20to%20request%20for%20school%20bus%20services%20_pvps.pdf">Form to Request for School Bus Services</a></li>
