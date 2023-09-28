@@ -166,13 +166,13 @@ third_nav_title: Our People
 				<a href="mailto:helen_low_kwee_fong@schools.gov.sg">helen_low_kwee<br>@schools.gov.sg</a><br>
 </th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="" alt="tn.Mdm_Chen_ShuangShuang_optimisedforweb.jpg.mid.jpg" width="175" height="225">
+				<img src="/images/mdm%20chen%20shuangshuang.JPG" alt="tn.Mdm_Chen_ShuangShuang_optimisedforweb.jpg.mid.jpg" width="175" height="225">
 				<br>Mdm Chen
 ShuangShuang<br>ST - MT - CL<br>
 				<a href="mailto:chen_shuangshuang@schools.gov.sg">chen_shuangshuang<br>@schools.gov.sg</a><br>
 </th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Mdm%20Nohanim.jpeg" alt="MdmHanim.jpeg" width="175" height="225">
+				<img src="/images/mdm%20norhanim%20bte%20hashim.JPG" alt="MdmHanim.jpeg" width="175" height="225">
 				<br>Mdm Nohanim Bte Hashim<br>ST - MT - ML<br>
 				<a href="mailto:norhanim_hashim@schools.gov.sg">norhanim_hashim<br>@schools.gov.sg</a><br>
 </th>
@@ -184,7 +184,7 @@ ShuangShuang<br>ST - MT - CL<br>
 				<a href="mailto:soh_chin_ping_eileen@schools.gov.sg">soh_chin_ping_eileen<br>@schools.gov.sg</a><br>
 </th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Sherylene%20Soh_optimisedforweb.jpg" alt="Sherylene Soh siew yin.jpg" width="175" height="225">
+				<img src="/images/miss%20sherylene%20soh%20siew%20yin.JPG" alt="Sherylene Soh siew yin.jpg" width="175" height="225">
 				<br>Miss Sherylene Soh<br>ST - EL<br>
 				<a href="mailto:sherylene_soh_siew_yin@schools.gov.sg">sherylene_soh_siew<br>_yin@schools.gov.sg</a><br>
 </th>
