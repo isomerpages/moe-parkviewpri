@@ -27,40 +27,42 @@ third_nav_title: English
 <b>3.&nbsp; Renewal Policy</b>
 
 	<ul>
-*   Books can be renewed for another 14 days.
-*   Each book can only be renewed once.
-*   Pupils may renew an item if :
+<li>Books can be renewed for another 14 days.</li>
+	<li>Each book can only be renewed once.</li>
+		<li>Pupils may renew an item if :</li>
+<li>the item has not been reserved by another pupil; or</li>
+<li>the item has not been renewed before.</li>
+		<li>the item is not overdue.</li>
 
-*   the item has not been reserved by another pupil; or
-*   the item has not been renewed before.
-*   the item is not overdue.
-
-**4.&nbsp; Overdue Books Policy**&nbsp;
-
-*   There are no fines for overdue library books.
-*   However, pupils who do not return their book(s) on the due date will not be allowed to borrow any books until the overdue book(s) is/are returned.
-*   Parents will be informed through a letter if pupils have not returned the overdue books for more than a month.&nbsp;&nbsp;
+<b>4.&nbsp; Overdue Books Policy</b>
+		
+<ul>
+	<li>There are no fines for overdue library books.</li>
+<li>However, pupils who do not return their book(s) on the due date will not be allowed to borrow any books until the overdue book(s) is/are returned.</li>
+<li>Parents will be informed through a letter if pupils have not returned the overdue books for more than a month.</li>
 
   
 
-**5.&nbsp; Lost / Damaged Library Items**
+<b>5.&nbsp; Lost / Damaged Library Items</b>
+	
+	<ul>
 
-*   If an item is lost or damaged, the pupil will have to purchase the same titled book as a replacement.
-*   The pupil will have to replace the lost or damaged item with a new book of equivalent value to the library, if that book is no longer available in the market.
-*   The loan privileges of the pupil will be suspended until the replacement has been settled.
+<li>If an item is lost or damaged, the pupil will have to purchase the same titled book as a replacement.</li>
+<li>The pupil will have to replace the lost or damaged item with a new book of equivalent value to the library, if that book is no longer available in the market.</li>
+		<li>The loan privileges of the pupil will be suspended until the replacement has been settled.</li>
 
-**6.&nbsp;&nbsp; Library Etiquette**
+<b>6.&nbsp;&nbsp; Library Etiquette</b>
 
 Pupils are expected to observe the following library etiquette:
+<ul>
+	<li>Speak softly at all times.</li>
+	<li>Handle all the library materials with care.</li>
+<li>Return the books to the shelves after reading them and place all items in their proper places.</li>
+	<li> Only pupils from Park View Primary School are allowed in the library at all times.</li>
+	<li> Pupils who behave inappropriately will be asked to leave.</li>
+	<li>Eating or drinking is not allowed in the library.</li>
 
-*   Speak softly at all times.
-*   Handle all the library materials with care.
-*   Return the books to the shelves after reading them and place all items in their proper places.
-*   Only pupils from Park View Primary School are allowed in the library at all times.
-*   Pupils who behave inappropriately will be asked to leave.
-*   Eating or drinking is not allowed in the library.
-
-### PVPS Reading Passport
+<h4>PVPS Reading Passport</h4>
 
 The PVPS Reading Passport is a reading programme in our school that aims to cultivate the love for the reading and literature, develop reading comprehension skills and expose pupils to different genres. This passport integrates the skills of the 21st century – Information Literacy and Social Emotional that encompass the core subjects of English and the language arts.  
   
@@ -94,4 +96,4 @@ Through this Reading Curriculum, students would:
 
 ![](/images/El-010.jpg)
 
-_Term 3 – (Coming Soon)_</ul></ul>
+_Term 3 – (Coming Soon)_</ul></ul></ul></ul></ul>
