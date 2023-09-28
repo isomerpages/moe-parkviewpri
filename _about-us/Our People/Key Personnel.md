@@ -107,13 +107,13 @@ third_nav_title: Our People
 			</tr></tbody></table>
 
 
-### Level Heads / Subject Heads
+<h3>Level Heads / Subject Heads</h3>
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px" class="tg">
 	<thead>
 		<tr>
 			<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Lee%20Eng%20Tiong_optimisedforweb.jpg" alt="Lee Eng Tiong_optimisedforweb.jpg" width="175" height="225">
+				<img src="/images/mr%20lee%20eng%20tiong.JPG" alt="Lee Eng Tiong_optimisedforweb.jpg" width="175" height="225">
 				<br>Mr Lee Eng Tiong<br>LH - MT
 				<br>
 				<a href="mailto:lee_eng_tiong@schools.gov.sg">lee_eng_tiong<br>@schools.gov.sg</a>
@@ -121,7 +121,7 @@ third_nav_title: Our People
 			</th>
 			
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Mdm_Sim_Shiyu_optimisedforweb.jpg" alt="Mdm_Sim_Shiyu_optimisedforweb.jpg" width="175" height="225">
+				<img src="/images/mrs%20yeo-sim%20shiyu.JPG" alt="Mdm_Sim_Shiyu_optimisedforweb.jpg" width="175" height="225">
 				<br>Mrs Yeo<br>LH - English
 				<br>
 				<a href="mailto:sim_shiyu
@@ -130,7 +130,7 @@ third_nav_title: Our People
 			</th>
 			
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Mdm%20Angeline%20Loo%20Nga%20Hoon-Optimesed%20for%20web.jpg" width="175" height="225">
+				<img src="" width="175" height="225">
 				<br>Mdm Angeline Loo<br>LH - Math<br>
 				<a href="mailto:loo_nga_hoonangeline@schools.gov.sg">loo_nga_hoonangeline<br>@schools.gov.sg</a><br>
 			</th>
