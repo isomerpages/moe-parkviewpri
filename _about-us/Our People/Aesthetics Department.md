@@ -50,7 +50,7 @@ third_nav_title: Our People
 	</tr>
 		  <tr><td style="border:1px solid black;">Mr Muhammad Izdihar
 			</td>
-			<td style="border:1px solid black;"><a href="Muhammad_Izdihar_Othman@schools.gov.sg">Muhammad_Izdihar_Othman@schools.gov.sg</a>
+			<td style="border:1px solid black;"><a href="Muhammad_Izdihar_Othman@schools.gov.sg">muhammad_izdihar_othman@schools.gov.sg</a>
 				</td>
 				  </tr><tr><td style="border:1px solid black;">Miss Sarah Binte Mohamad Sufian
 			</td>
