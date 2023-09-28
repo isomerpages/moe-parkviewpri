@@ -130,7 +130,7 @@ third_nav_title: Our People
 			</th>
 			
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="" width="175" height="225">
+				<img src="/images/mdm%20angeline%20loo%20nga%20hoon.JPG" width="175" height="225">
 				<br>Mdm Angeline Loo<br>LH - Math<br>
 				<a href="mailto:loo_nga_hoonangeline@schools.gov.sg">loo_nga_hoonangeline<br>@schools.gov.sg</a><br>
 			</th>
@@ -139,14 +139,14 @@ third_nav_title: Our People
 	
 <tbody><tr>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Miss_Lee_siew_Kiang_optimisedforweb.jpg" alt="Miss_Lee_siew_Kiang_optimisedforweb.jpg" width="175" height="225">
+				<img src="/images/miss%20lee%20siew%20kiang.JPG" alt="Miss_Lee_siew_Kiang_optimisedforweb.jpg" width="175" height="225">
 				<br>Miss Lee Siew Kiang<br>SH - ICT
 				<br><br>
 				<a href="mailto:lee_siew_kiang@schools.gov.sg">lee_siew_kiang<br>@schools.gov.sg</a><br>
 </th>
 
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Mr%20Watson%20Tay%20cropped.jpg" alt="Mr Watson Tay cropped.jpg" width="175" height="225">
+				<img src="/images/mr%20watson%20teh%20chiew%20hwa.JPG" alt="Mr Watson Tay cropped.jpg" width="175" height="225">
 				<br>Mr Watson Teh<br>SH - Student Management
 				<br>
 				<a href="mailto:teh_chiew_hwa_watson@schools.gov.sg">teh_chiew_hwa_<br>watson@schools.gov.sg</a><br>
@@ -161,12 +161,12 @@ third_nav_title: Our People
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px" class="tg">
 <tbody><tr>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Mrs%20Helen%20Chong.jpg" alt="Mrs Helen Chong.jpg" width="175" height="225">
+				<img src="/images/mrs%20helen%20chong-low.JPG" alt="Mrs Helen Chong.jpg" width="175" height="225">
 				<br>Mrs Chong Helen Low<br>LT - PE<br><br>
 				<a href="mailto:helen_low_kwee_fong@schools.gov.sg">helen_low_kwee<br>@schools.gov.sg</a><br>
 </th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Mdm_Chen_ShuangShuang_optimisedforweb.jpg" alt="tn.Mdm_Chen_ShuangShuang_optimisedforweb.jpg.mid.jpg" width="175" height="225">
+				<img src="" alt="tn.Mdm_Chen_ShuangShuang_optimisedforweb.jpg.mid.jpg" width="175" height="225">
 				<br>Mdm Chen
 ShuangShuang<br>ST - MT - CL<br>
 				<a href="mailto:chen_shuangshuang@schools.gov.sg">chen_shuangshuang<br>@schools.gov.sg</a><br>
@@ -179,7 +179,7 @@ ShuangShuang<br>ST - MT - CL<br>
 </tr>
 <tr>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Mrs_Eileen_Yap_optimisedforweb.jpg" width="175" height="225">
+				<img src="/images/mrs%20eileen%20yap-soh%20chin%20ping.JPG" width="175" height="225">
 				<br>Mrs Eileen Yap<br>ST - Art<br>
 				<a href="mailto:soh_chin_ping_eileen@schools.gov.sg">soh_chin_ping_eileen<br>@schools.gov.sg</a><br>
 </th>
