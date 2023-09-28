@@ -4,7 +4,7 @@ permalink: /curriculum/mother-tongue/Chinese-Mother-Tongue/english-version/
 description: ""
 third_nav_title: Chinese Mother Tongue
 ---
-#### Department Members 2023
+<h4>Department Members 2023</h4>
 
 <table>
 	<thead>
@@ -57,7 +57,7 @@ third_nav_title: Chinese Mother Tongue
 	</tbody>
 </table>
 
-#### Introduction
+<h4>Introduction</h4>
 
 <p align="justify">Welcome to PVPS’s Chinese Language Department. We are a dedicated team to help our pupils in developing an interest in learning of their Mother Tongue Language.</p>
 
@@ -67,8 +67,8 @@ third_nav_title: Chinese Mother Tongue
 
 <p align="justify">We aim at making every minute in learning the language fun and engaging. We work hand in hand with parents to ensure that the values and practices learnt by the students in school are re-enforced by parents at home.</p>
 
-**<i>USE OF ELECTRONIC OR PRINT DICTIONARIES FOR PR 3 to 6
-MOTHER TONGUE COMPOSITION EXAM</i>**
+<b><i>USE OF ELECTRONIC OR PRINT DICTIONARIES FOR PR 3 to 6
+MOTHER TONGUE COMPOSITION EXAM</i></b>
 
 <p align="justify">Primary 3 to Primary 6 students are allowed to use either electronic or print dictionaries during the Mid-Year and End-of-Year Mother Tongue composition examinations. This is in alignment with the Ministry of Education’s initiative implemented since 2006.</p>
 
@@ -78,13 +78,13 @@ MOTHER TONGUE COMPOSITION EXAM</i>**
 
 <p align="justify">For further clarifications, you may access the School Examination and Assessment Branch website at <a href="http://www.seab.gov.sg">http://www.seab.gov.sg</a>, or contact your child’s Mother Tongue teacher.</p>
 
-#### <u>MOTHER TONGUE - CHINESE KEY PROGRAMMES</u>
+<h5><u>MOTHER TONGUE - CHINESE KEY PROGRAMMES</u></h5>
 
-##### <i>Hungry Caterpillar Reading Programme</i>
+<h5><i>Hungry Caterpillar Reading Programme</i></h5>
 <p align="justify">Reading is an integral part of any language learning. The Hungry Caterpillar Reading Programme aims to develop reading habits in students. We do this through reading activities and aligned them with the syllabus. We also leverage on activities organised by our community partners such as National Library Board and Committee for Promoting Chinese Language Learning (CPCLL) to promote reading.</p>
 
-##### <i>Mother Tongue Language (MTL) Fortnight Activitiese</i>
+<h5><i>Mother Tongue Language (MTL) Fortnight Activitiese</i></h5>
 <p align="justify">MTL Fortnight Activities aims to create an immersive environment for the learning of Chinese Language and its culture. Students will engage in language activities and learn about the major Chinese festivals, Calligraphy, stories from the Chinese classics – Journey to the West.</p>
 
-##### <i>Chinese New Year Celebration</i>
+<h5><i>Chinese New Year Celebration</i></h5>
 <p align="justify">Chinese New Year is the most important festival of the Chinese. Many activities are organised to get the students know more about the food, customs and traditions associated with Chinese New Year.</p>
