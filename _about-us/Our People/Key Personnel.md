@@ -10,7 +10,7 @@ third_nav_title: Our People
 	<thead>
 		<tr>
 			<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Mr_Tay_Lip_Seng_optimisedforweb.jpg" alt="Mr_Tay_Lip_Seng_optimisedforweb.jpg" width="175" height="225">
+				<img src="/images/mr%20tay%20lip%20seng.JPG" alt="Mr_Tay_Lip_Seng_optimisedforweb.jpg" width="175" height="225">
 				<br>Mr Tay Lip Seng<br>HOD - Math
 				<br>
 				<a href="mailto:tay_lip_seng@schools.gov.sg">tay_lip_seng<br>@schools.gov.sg</a>
@@ -18,7 +18,7 @@ third_nav_title: Our People
 			</th>
 			
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Miss_Veronica_Poon_optimisedforweb.jpg" alt="Miss_Veronica_Poon_optimisedforweb.jpg" width="175" height="225">
+				<img src="/images/miss%20veronica%20poon%20sook%20yee.JPG" alt="Miss_Veronica_Poon_optimisedforweb.jpg" width="175" height="225">
 				<br>Miss Veronica Poon<br>HOD - Science
 				<br>
 				<a href="mailto:poon_sook_yee@schools.gov.sg">poon_sook_yee<br>@schools.gov.sg</a>
@@ -26,7 +26,7 @@ third_nav_title: Our People
 			</th>
 			
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Mdm_Teo_Siew_Yeun_optimisedforweb.jpg" alt="tn.Mdm_Teo_Siew_Yeun_optimisedforweb.jpg.mid.jpg" width="175" height="225">
+				<img src="/images/mdm%20teo%20siew%20yeun.JPG" alt="tn.Mdm_Teo_Siew_Yeun_optimisedforweb.jpg.mid.jpg" width="175" height="225">
 				<br>Mdm Teo Siew Yeun<br>HOD - MT
 				<br>
 				<a href="mailto:teo_siew_yeun@schools.gov.sg">teo_siew_yeun<br>@schools.gov.sg</a>
@@ -35,7 +35,7 @@ third_nav_title: Our People
 	</thead>
 
 <tbody><tr><th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/misspangcuilingoptimisedforweb%20(1).jpg" alt="Miss_wong_Pau_Hui_optimisedforweb.jpg" width="175" height="225">
+				<img src="/images/mrs%20ong-pang%20cui%20ling.JPG" alt="Miss_wong_Pau_Hui_optimisedforweb.jpg" width="175" height="225">
 				<br>Mdm Pang Cui Ling<br>HOD - CCE
 				<br>
 				<a href="mailto:pang_cui_ling@schools.gov.sg">pang_cui_ling<br>@schools.gov.sg</a>
