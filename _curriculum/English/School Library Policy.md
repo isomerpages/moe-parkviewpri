@@ -12,7 +12,7 @@ third_nav_title: English
 
 <b>1.&nbsp; Library Opening Hours</b>
 
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">School Term Time<br>Monday - Friday</th><th style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" colspan="2">School Vacation Time<br>Monday - Friday</th></tr></thead><tbody><tr><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" rowspan="2">7.30 am to 4.00 pm</td><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">March and September</td><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">May / June and November</td></tr><tr><td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">9.00 am to 1.00 pm</td><td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">9.00 am to 3.00 pm</td></tr></tbody></table>
+<table class="tg" style="border-collapse:collapse;border-spacing:0"><thead><tr><th style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">School Term Time<br>Monday - Friday</th><th colspan="2" style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">School Vacation Time<br>Monday - Friday</th></tr></thead><tbody><tr><td rowspan="2" style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">7.30 am to 4.00 pm</td><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">March and September</td><td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">May / June and November</td></tr><tr><td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">9.00 am to 1.00 pm</td><td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">9.00 am to 3.00 pm</td></tr></tbody></table>
 
 
 <b>2.&nbsp; Loan Policy</b>
@@ -64,35 +64,35 @@ Pupils are expected to observe the following library etiquette:
 
 <h4>PVPS Reading Passport</h4>
 
-The PVPS Reading Passport is a reading programme in our school that aims to cultivate the love for the reading and literature, develop reading comprehension skills and expose pupils to different genres. This passport integrates the skills of the 21st century – Information Literacy and Social Emotional that encompass the core subjects of English and the language arts.  
+<p align="justify">The PVPS Reading Passport is a reading programme in our school that aims to cultivate the love for the reading and literature, develop reading comprehension skills and expose pupils to different genres. This passport integrates the skills of the 21st century – Information Literacy and Social Emotional that encompass the core subjects of English and the language arts.
   
-My Reading Passport is coined as a ‘passport’ to take students around the world. It encompasses termly reading activities that ties in with the termly thematic programmes in the library. Students collect stamps after completing the activities. These stamps can be exchanged for positive benefits and a HAF certificate at the end of the year.
+My Reading Passport is coined as a ‘passport’ to take students around the world. It encompasses termly reading activities that ties in with the termly thematic programmes in the library. Students collect stamps after completing the activities. These stamps can be exchanged for positive benefits and a HAF certificate at the end of the year.</p>
 
 ![](/images/passport.jpg)
 
-Library activities are carried out to attract the students to the library and expose them to the different genres. Books are introduced through online stories which the students view or listen during recess or through apps in the ipad. The schedule of the activities would be highlighted to the students during Library Flash.  
+<p align="justify">Library activities are carried out to attract the students to the library and expose them to the different genres. Books are introduced through online stories which the students view or listen during recess or through apps in the ipad. The schedule of the activities would be highlighted to the students during Library Flash.</p>  
 
 Through this Reading Curriculum, students would:
 
-*   be engaged and motivated readers
-*   be exposed to the different genres
-*   be developed in the Areas of Language Learning&nbsp;
-*   explore different themes
+	<li>be engaged and motivated readers</li>
+	<li>be exposed to the different genres</li>
+	<li>be developed in the Areas of Language Learning&nbsp;</li>
+	<li>explore different themes</li>
 
-### PVPS Library Flash
+<h5>PVPS Library Flash</h5>
 
-**Term 1** -&nbsp;Back to School
+<b>Term 1</b> -&nbsp;Back to School
 ![](/images/El-007.jpg)
 
-**Term 1**&nbsp;– Hats Off to Dr. Seuss
+<b>Term 1</b>&nbsp;– Hats Off to Dr. Seuss
 
 ![](/images/El-008.jpg)
 
-**Term 2**&nbsp;– Library Fiesta (Love our Environment)
+<b>Term 2</b>&nbsp;– Library Fiesta (Love our Environment)
 
 ![](/images/El-009.jpg)
 
-**Term 2**&nbsp;– Sports Galore
+<b>Term 2</b>&nbsp;– Sports Galore
 
 ![](/images/El-010.jpg)
 
