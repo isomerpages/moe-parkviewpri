@@ -4,7 +4,7 @@ permalink: /about-us/our-people/key-personnel/
 description: ""
 third_nav_title: Our People
 ---
-### Heads Of Department
+<h3>Heads Of Department</h3>
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px" class="tg">
 	<thead>
