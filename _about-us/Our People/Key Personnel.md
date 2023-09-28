@@ -43,14 +43,14 @@ third_nav_title: Our People
 </th>
 
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Mdm_Lim_Hwee_Tin_optimisedforweb.jpg" alt="Mdm_Lim_Hwee_Tin_optimisedforweb.jpg" width="175" height="225">
+				<img src="/images/mdm%20lim%20hwee%20tin%20tina.JPG" alt="Mdm_Lim_Hwee_Tin_optimisedforweb.jpg" width="175" height="225">
 				<br>Mdm Lim Hwee Tina<br>HOD - Aesthetics CCA
 				<br>
 				<a href="mailto:lim_hwee_tin_a@schools.gov.sg">lim_hwee_tin_a<br>@schools.gov.sg</a>
 				<br></th>
 			
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Mr%20Jerry%20Chua_optimisedforweb.jpg" alt="Mr Jerry Chua_optimisedforweb.jpg" width="175" height="225">
+				<img src="/images/mr%20jerry%20chua%20chun%20wei.JPG" alt="Mr Jerry Chua_optimisedforweb.jpg" width="175" height="225">
 				<br>Mr Jerry Chua<br>HOD - PE CCA
 				<br>
 				<a href="mailto:chua_chun_wei@schools.gov.sg">chua_chun_wei<br>@schools.gov.sg</a>
