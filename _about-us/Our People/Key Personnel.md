@@ -156,7 +156,7 @@ third_nav_title: Our People
 
 
 
-### Teacher Leaders
+<h3>Teacher Leaders</h3>
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px" class="tg">
 <tbody><tr>
