@@ -58,20 +58,20 @@ third_nav_title: Our People
 			</th>
 			
 </tr><tr><th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Miss%20Chua%20Shuan%20Kwee%20cropped.jpg" alt="IMG_9053.JPG" width="175" height="225">
+				<img src="/images/miss%20chua%20shuan%20kwee.JPG" alt="IMG_9053.JPG" width="175" height="225">
 				<br>Miss Chua Shuan Kwee<br>School Staff Developer
 				<br>
 				<a href="mailto:chua_shuan_kwee@schools.gov.sg">chua_shuan_kwee<br>@schools.gov.sg</a>
 				<br></th>
 	<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Mr%20Justin%20Luo%20Yanzhong_optimisedforweb.jpg" alt="Mr Justin Luo Yanzhong_optimisedforweb.jpg" width="175" height="225">
-				<br>Mr Justin Luo<br>HOD - ICT
+				<img src="/images/mr%20justin%20luo%20yanzhong.JPG" alt="Mr Justin Luo Yanzhong_optimisedforweb.jpg" width="175" height="225">
+				<br>Mr Justin<br>HOD - ICT
 				<br>
 				<a href="mailto:justin_luo_yanzhong@schools.gov.sg">justin_luo_yanzhong<br>@schools.gov.sg</a>
 			</th></tr>
 			</tbody></table>
 
-### Year Heads
+<h3>Year Heads</h3>
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px" class="tg">
 	<thead>
