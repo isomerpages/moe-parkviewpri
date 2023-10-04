@@ -4,7 +4,61 @@ permalink: /about-us/achievements/staff/
 description: ""
 third_nav_title: Achievements
 ---
-#### NATIONAL AWARDS (COVID-19)
+<h4>2023-MSEA</h4>	
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg">
+	<thead>
+		<tr>
+			<th style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Platinum</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Ng Tee Tee
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Gold</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Ng Tee Tee<br>
+                Abdul Rashid Lim<br>
+                Asleena Binte Abdul Hamid<br>
+                Nurul Ainy Binte Suhaimi<br>
+				Grace Yeo Jie Xin<br>
+                Kamariah Binte Abdullah<br>
+				Low Kin Eng<br>
+				Pang Cui Ling<br>
+				See Yuen Heng<br>
+				Soh chin Ping Eileen<br>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Silver</b>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
+				Chua Chun <br>
+                Asleena Binte Abdul Hamid<br>
+                Goh Phoebe<br>
+                Kamariah Binte Abdullah<br>
+                Kimberly Jean Aeria<br>
+                Low Kin Eng<br>
+                Nor Iqmalia Binte Saharudin<br>
+                Seah Sock Luang Adeline<br>
+                See Yuen Heng<br>
+                Soh Chin Ping Eileen
+			</td>
+		</tr>
+             </tbody>
+             </table>
+
+
+<h4>NATIONAL AWARDS (COVID-19)</h4>
 
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
@@ -23,7 +77,7 @@ third_nav_title: Achievements
              </tbody>
              </table>
 
-#### 2022 - National Day Awards
+<h4> 2022 - National Day Awards</h4>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 	<thead>
@@ -50,7 +104,7 @@ third_nav_title: Achievements
              </table>
 
 
-#### 2022 - MSEA
+<h4> 2022 - MSEA</h4>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 	<thead>
@@ -100,7 +154,7 @@ third_nav_title: Achievements
              </tbody>
              </table>
 
-#### 2022 - PVPS HALLMARK AWARDS
+<h4> 2022 - PVPS HALLMARK AWARDS</h4>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 	<thead>
@@ -160,7 +214,7 @@ third_nav_title: Achievements
              </tbody>
              </table>
 
-#### 2022 -  OCA
+<h4> 2022 -  OCA</h4>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 	<thead>
