@@ -27,7 +27,6 @@ third_nav_title: Achievements
 				Ng Tee Tee<br>
                 Abdul Rashid Lim<br>
                 Asleena Binte Abdul Hamid<br>
-                Nurul Ainy Binte Suhaimi<br>
 				Grace Yeo Jie Xin<br>
                 Kamariah Binte Abdullah<br>
 				Low Kin Eng<br>
@@ -42,16 +41,18 @@ third_nav_title: Achievements
 		</tr>
 		<tr>
 			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-				Chua Chun <br>
-                Asleena Binte Abdul Hamid<br>
-                Goh Phoebe<br>
-                Kamariah Binte Abdullah<br>
-                Kimberly Jean Aeria<br>
-                Low Kin Eng<br>
-                Nor Iqmalia Binte Saharudin<br>
-                Seah Sock Luang Adeline<br>
-                See Yuen Heng<br>
-                Soh Chin Ping Eileen
+				Chua Chun Wei<br>
+                Chua Shuan Kwee<br>
+                Kirthi Shihilpa Pillai<br>
+                Lee Bee Lan<br>
+                Lee Shu Qi Charlene<br>
+                Lu Huishu Joyce<br>
+				Nailul Azmi Ismail<br>
+				Ng Kah Leng<br>
+				Norhanim Hashim<br>
+				Seu Kum Kwong<br>
+				Sherylene Soh Siew Yin<br>
+				Zubaidah Bte Othman
 			</td>
 		</tr>
              </tbody>
