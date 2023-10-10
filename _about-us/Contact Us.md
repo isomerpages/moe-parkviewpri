@@ -8,4 +8,6 @@ Park View Primary School<br>
 60, Pasir Ris Drive1, Singapore 519524<br>
 Tel: 6585 1421<br>
 Fax: 6585 1401<br>
-E-mail: <a href="pvps@moe.edu.sg">pvps@moe.edu.sg</a>
+E-mail:&nbsp;<a href="pvps@moe.edu.sg">pvps@moe.edu.sg</a>
+
+<i>Due to maintenance, please expect a delay in responses to emails.</i>
