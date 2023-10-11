@@ -37,3 +37,6 @@ PVPS Homework Boards are by the week (Monday to Friday).
 
 <img src="/images/(4)%202i.jpeg" style="width:90%"><br>
 
+<img src="/images/(5)%202c.jpeg" style="width:90%"><br>
+
+<img src="/images/(6)%202h.jpeg" style="width:90%"><br>
