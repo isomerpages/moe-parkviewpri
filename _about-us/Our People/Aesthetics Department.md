@@ -26,7 +26,7 @@ third_nav_title: Our People
 			<td style="border:1px solid black;"><a href="nor_iqmalia_saharudin@schools.gov.sg">nor_iqmalia_saharudin@schools.gov.sg</a></td>
 		</tr>
         <tr>
-            <td style="border:1px solid black;">Kirthi Shihilpa Pillai
+            <td style="border:1px solid black;">Miss Kirthi Shihlpa Pillai
 </td>
 			<td style="border:1px solid black;"><a href="kirthi_shihlpa_pillai@schools.gov.sg">kirthi_shihlpa_pillai@schools.gov.sg</a></td>
 		</tr>
