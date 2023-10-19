@@ -45,8 +45,13 @@ Beng Jenny</td>
 Yeong Irene</td>
 			<td style="border:1px solid black;"><a href="lee_gek_yeong@schools.gov.sg">lee_gek_yeong@schools.gov.sg</a></td>
 		</tr>
+					<tr>
+        <td style="border:1px solid black;">Corporate Support Officer</td>
+      <td style="border:1px solid black;">Ms Syaza Dinah Binte Zainol
+</td>
+			<td style="border:1px solid black;"><a href="syaza_dinah_zainol@schools.gov.sg">syaza_dinah_zainol@schools.gov.sg</a></td>
 
-</tbody>
+</tr></tbody>
 </table>
 			
 #### Operations Support Officers
