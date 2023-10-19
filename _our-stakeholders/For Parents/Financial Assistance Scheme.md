@@ -15,13 +15,13 @@ b)&nbsp;His or her family’s per capita income (PCI) as at the time of applicat
 
 <b>Types of benefits provided under MOE FAS (Primary School):</b>
 
-<img src="/images/FAS%20-%20Types%20of%20benefits.png">
+<img src="/images/item%2002.png">
 *If the FAS application approval is not from January, the transport subsidy will be pro-rated accordingly from the month after your application is approved to December of the same year. 
 <br><br>^Subsidies for school meals purchased and consumed in school.
 
-<a href="/files/moe%20fas%20pamphlet.pdf">Click Here</a> for more information on Financial Assistance Scheme (FAS) 2023<br>
+<a href="/files/moe%20fas%20pamphlet.pdf">Click Here</a> for more information on Financial Assistance Scheme (FAS) 2024<br>
 
-<b>Application form</b>&nbsp;can be obtained either from the School General Office or via the link below:<br><a href="/files/2023%20FAS/GGAS_Application%20Form.pdf">MOE FAS Application Form</a><br>
+<b>Application form</b>&nbsp;can be obtained either from the School General Office or via the link below:<br><a href="/files/2024%20moe%20fas%20application%20form.pdf">MOE FAS Application Form</a><br>
 
 Application via hardcopy form is required for:<br>
 
@@ -32,7 +32,7 @@ Application via hardcopy form is required for:<br>
 <b> d.</b> family with more than 3 grandparents in the household
 </ul> 
 
-To apply for FAS 2023, interested students must submit the completed FAS application form by&nbsp;<b>4 November 2022</b>: 
+To apply for FAS 2024, interested students must submit the completed FAS application form by&nbsp;<b>4 November 2023</b>: 
 
 <ul>	
 <li>Send the hardcopy form and supporting documents to the school’s General Office; or</li>
