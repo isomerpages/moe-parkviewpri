@@ -19,7 +19,7 @@ b)&nbsp;His or her family’s per capita income (PCI) as at the time of applicat
 *If the FAS application approval is not from January, the transport subsidy will be pro-rated accordingly from the month after your application is approved to December of the same year. 
 <br><br>^Subsidies for school meals purchased and consumed in school.
 
-<a href="/files/2023%20FAS/2022%20Financial%20Assistance%20Scheme%20FAS%20Brochure.pdf">Click Here</a> for more information on Financial Assistance Scheme (FAS) 2023<br>
+<a href="/files/moe%20fas%20pamphlet.pdf">Click Here</a> for more information on Financial Assistance Scheme (FAS) 2023<br>
 
 <b>Application form</b>&nbsp;can be obtained either from the School General Office or via the link below:<br><a href="/files/2023%20FAS/GGAS_Application%20Form.pdf">MOE FAS Application Form</a><br>
 
