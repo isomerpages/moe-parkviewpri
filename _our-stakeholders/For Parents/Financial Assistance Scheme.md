@@ -4,7 +4,7 @@ permalink: /our-stakeholders/financial-assistance-scheme/
 description: ""
 third_nav_title: For Parents
 ---
-### MOE Financial Assistance Scheme (MOE FAS)
+<h4> MOE Financial Assistance Scheme (MOE FAS)</h4>
 
 <p align="justify">The objective of the MOE FAS is to help financially <b>needy</b>&nbsp;Singaporean students in Government and Government-aided schools to meet basic schooling expenses.
 Student must be a Singapore citizen enrolled in a Government or Government-aided school and meets either one of the following criteria:</p>
@@ -42,9 +42,11 @@ To apply for FAS 2024, interested students must submit the completed FAS applica
 <li>Scan the form and all supporting documents, and email it to the school (Email address:&nbsp;<a href="pvps@moe.edu.sg">pvps@moe.edu.sg</a>or</li>
 <li>Submit the application via the eFAS Application:&nbsp;<a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a></li>
 <li> Submit the application via the eFAS link in PG’s services section</li></ul>
-<img src="/images/QR%20Code.jpg" style="width:30%"> 
 
-<img src="/images/annotation%202023-10-20%20103931%20(icon)%2001.png" style="width:30%">
+
+<img src="/images/annotation%202023-10-20%20135330%20photo.png" style="width:90%">
+
+  
 
 
 Thank you!<br>
