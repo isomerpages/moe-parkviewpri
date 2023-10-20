@@ -42,8 +42,10 @@ To apply for FAS 2024, interested students must submit the completed FAS applica
 <li>Scan the form and all supporting documents, and email it to the school (Email address:&nbsp;<a href="pvps@moe.edu.sg">pvps@moe.edu.sg</a>or</li>
 <li>Submit the application via the eFAS Application:&nbsp;<a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a></li></ul>
 <li> Submit the application via the eFAS link in PG’s services section</li>
-<img src="/images/QR%20Code.jpg" style="width:25%">
-<br>
+<img src="/images/QR%20Code.jpg" style="width:30%"> 
+
+<img src="/images/annotation%202023-10-20%20103931%20(icon)%2001.png" style="width:30%">
+
 
 Thank you!<br>
 <b><i>School Administration<br>Park View Primary School</i></b>
