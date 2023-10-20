@@ -41,7 +41,7 @@ To apply for FAS 2024, interested students must submit the completed FAS applica
 <li>Send the hardcopy form and supporting documents to the school’s General Office; or</li>
 <li>Scan the form and all supporting documents, and email it to the school (Email address:&nbsp;<a href="pvps@moe.edu.sg">pvps@moe.edu.sg</a>or</li>
 <li>Submit the application via the eFAS Application:&nbsp;<a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a></li></ul>
-<br>
+<li> Submit the application via the eFAS link in PG’s services section</li>
 <img src="/images/QR%20Code.jpg" style="width:25%">
 <br>
 
