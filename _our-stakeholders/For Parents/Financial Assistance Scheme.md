@@ -43,48 +43,8 @@ To apply for FAS 2024, interested students must submit the completed FAS applica
 <li>Submit the application via the eFAS Application:&nbsp;<a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a></li>
 <li> Submit the application via the eFAS link in PG’s services section</li></ul>
 
-<!-- Photo Grid Style-->
-<style>
-* {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-  font-family: Arial;
-}
-
-.header {
-  text-align: center;
-  padding: 32px;
-}
-
-.column {
-  float: left;
-  width: 50%;
-  padding:10px;
-}
-
-.column img {
-  margin-top: 12px;
-}
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
-
-<!-- Photo Grid -->
-<div class="row"> 
-<div class="column">
-<img style="width 100%">
-<img src="/images/QR%20Code.jpg" style="width:600%"></div>
-  
-<div class="column">
-<img src="/images/annotation%202023-10-20%20103931%20(icon)%2001.png" style="width:600%">
+<img src="/images/annotation%202023-10-20%20135330%20photo.png">  
 
 
 Thank you!<br>
-<b><i>School Administration<br>Park View Primary School</i></b></div></div>
+<b><i>School Administration<br>Park View Primary School</i></b>
