@@ -17,9 +17,12 @@ b)&nbsp;His or her family’s per capita income (PCI) as at the time of applicat
 
 <img src="/images/item%2002.png">
 *If the FAS application approval is not from January, the transport subsidy will be pro-rated accordingly from the month after your application is approved to December of the same year. 
-<br><br>^Subsidies for school meals purchased and consumed in school.
+<br><br>^Subsidies for school meals purchased and consumed in school.<br><br>
 
-<a href="/files/moe%20fas%20pamphlet.pdf">Click Here</a> for more information on Financial Assistance Scheme (FAS) 2024<br>
+If your family and child is/children are existing beneficiary/beneficiaries of MSF ComCare, your child/children will be auto-granted MOE FAS. You do not need to apply for MOE FAS separately.
+
+<a href="/files/moe%20fas%20pamphlet.pdf">Click Here</a> for more information on Financial Assistance Scheme (FAS) 2024
+and Eligibility Calculator&nbsp; \- [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
 <b>Application form</b>&nbsp;can be obtained either from the School General Office or via the link below:<br><a href="/files/2024%20moe%20fas%20application%20form.pdf">MOE FAS Application Form</a><br>
 
