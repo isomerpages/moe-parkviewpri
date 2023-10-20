@@ -50,4 +50,4 @@ To apply for FAS 2024, interested students must submit the completed FAS applica
 
 
 Thank you!<br>
-<b><i>School Administration<br>Park View Primary School</i></b>
+<b><i>Park View Primary School</i></b>
