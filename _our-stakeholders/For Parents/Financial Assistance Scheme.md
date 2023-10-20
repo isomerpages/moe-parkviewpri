@@ -4,7 +4,7 @@ permalink: /our-stakeholders/financial-assistance-scheme/
 description: ""
 third_nav_title: For Parents
 ---
-### MOE Financial Assistance Scheme (MOE FAS)
+<h4> MOE Financial Assistance Scheme (MOE FAS)</h4>
 
 <p align="justify">The objective of the MOE FAS is to help financially <b>needy</b>&nbsp;Singaporean students in Government and Government-aided schools to meet basic schooling expenses.
 Student must be a Singapore citizen enrolled in a Government or Government-aided school and meets either one of the following criteria:</p>
