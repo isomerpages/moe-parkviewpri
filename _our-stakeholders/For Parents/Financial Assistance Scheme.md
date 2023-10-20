@@ -43,7 +43,10 @@ To apply for FAS 2024, interested students must submit the completed FAS applica
 <li>Submit the application via the eFAS Application:&nbsp;<a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a></li>
 <li> Submit the application via the eFAS link in PG’s services section</li></ul>
 
-<img src="/images/annotation%202023-10-20%20135330%20photo.png">  
+
+<img src="/images/annotation%202023-10-20%20135330%20photo.png" style="width:90%">
+
+  
 
 
 Thank you!<br>
