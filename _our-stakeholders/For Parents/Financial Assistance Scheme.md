@@ -17,9 +17,12 @@ b)&nbsp;His or her family’s per capita income (PCI) as at the time of applicat
 
 <img src="/images/item%2002.png">
 *If the FAS application approval is not from January, the transport subsidy will be pro-rated accordingly from the month after your application is approved to December of the same year. 
-<br><br>^Subsidies for school meals purchased and consumed in school.
+<br><br>^Subsidies for school meals purchased and consumed in school.<br><br>
 
-<a href="/files/moe%20fas%20pamphlet.pdf">Click Here</a> for more information on Financial Assistance Scheme (FAS) 2024<br>
+If your family and child is/children are existing beneficiary/beneficiaries of MSF ComCare, your child/children will be auto-granted MOE FAS. You do not need to apply for MOE FAS separately.
+
+<a href="/files/moe%20fas%20pamphlet.pdf">Click Here</a> for more information on Financial Assistance Scheme (FAS) 2024
+and Eligibility Calculator&nbsp; \- [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
 
 <b>Application form</b>&nbsp;can be obtained either from the School General Office or via the link below:<br><a href="/files/2024%20moe%20fas%20application%20form.pdf">MOE FAS Application Form</a><br>
 
@@ -37,10 +40,12 @@ To apply for FAS 2024, interested students must submit the completed FAS applica
 <ul>	
 <li>Send the hardcopy form and supporting documents to the school’s General Office; or</li>
 <li>Scan the form and all supporting documents, and email it to the school (Email address:&nbsp;<a href="pvps@moe.edu.sg">pvps@moe.edu.sg</a>or</li>
-<li>Submit the application via the eFAS Application:&nbsp;<a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a></li></ul>
-<br>
-<img src="/images/QR%20Code.jpg" style="width:25%">
-<br>
+<li>Submit the application via the eFAS Application:&nbsp;<a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a></li>
+<li> Submit the application via the eFAS link in PG’s services section</li></ul>
+<img src="/images/QR%20Code.jpg" style="width:30%"> 
+
+<img src="/images/annotation%202023-10-20%20103931%20(icon)%2001.png" style="width:30%">
+
 
 Thank you!<br>
 <b><i>School Administration<br>Park View Primary School</i></b>
