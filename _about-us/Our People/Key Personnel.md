@@ -44,7 +44,7 @@ third_nav_title: Our People
 
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/mdm%20lim%20hwee%20tin%20tina.JPG" alt="Mdm_Lim_Hwee_Tin_optimisedforweb.jpg" width="175" height="225">
-				<br>Mdm Lim Hwee Tina<br>HOD - Aesthetics CCA
+				<br> Ms Tina Lim<br>HOD - Aesthetics CCA
 				<br>
 				<a href="mailto:lim_hwee_tin_a@schools.gov.sg">lim_hwee_tin_a<br>@schools.gov.sg</a>
 				<br></th>
