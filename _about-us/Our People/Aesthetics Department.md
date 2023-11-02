@@ -29,7 +29,6 @@ third_nav_title: Our People
             <td style="border:1px solid black;">Miss Kirthi Shihlpa Pillai
 </td>
 			<td style="border:1px solid black;"><a href="kirthi_shihlpa_pillai@schools.gov.sg">kirthi_shihlpa_pillai@schools.gov.sg</a></td>
-						
 				  </tr><tr><td style="border:1px solid black;">Miss Sarah Binte Mohamad Sufian
 			</td>
 			<td style="border:1px solid black;"><a href="sarah_mohamad_sufian@schools.gov.sg">sarah_mohamad_sufian@schools.gov.sg</a></td>
