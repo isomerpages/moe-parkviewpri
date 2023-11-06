@@ -3,6 +3,7 @@ title: Aesthetics Department
 permalink: /about-us/our-people/aesthetics-department/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 <h4>ART</h4>
 <table>
@@ -14,7 +15,7 @@ third_nav_title: Our People
 	</thead>
 	<tbody>
 		<tr>
-            <td style="border:1px solid black;">Ms Tina Lim Hwee Tin</td>
+            <td style="border:1px solid black;">Ms Tina Lim</td>
 			<td style="border:1px solid black;"><a href="lim_hwee_tin_a@schools.gov.sg">lim_hwee_tin_a@schools.gov.sg</a></td>
 		</tr>
 		<tr>
