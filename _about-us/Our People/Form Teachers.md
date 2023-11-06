@@ -3,6 +3,7 @@ title: Form Teachers
 permalink: /about-us/our-people/form-teachers/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 <h4>Primary 1</h4>
 <table>
@@ -80,7 +81,7 @@ third_nav_title: Our People
 		</tr>     
 		<tr>
 			<td style="border:1px solid black;">2 Integrity<br>(2I)</td>
-            <td style="border:1px solid black;">Mdm Shirin<br>Mdm Lim Hwee Tin Tina</td>
+            <td style="border:1px solid black;">Mdm Shirin<br>Ms Tina Lim</td>
 			<td style="border:1px solid black;"><a href="shirin_osman@schools.gov.sg">shirin_osman@schools.gov.sg</a><br><a href="lim_hwee_tin_a@schools.gov.sg">lim_hwee_tin_a@schools.gov.sg</a></td>
 		</tr>
 		<tr>
