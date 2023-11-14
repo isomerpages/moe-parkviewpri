@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - 2023/.keep
-      - Park View Yearbook.md
       - Programme for Active Learning/Programme for Active Learning (PAL).md
       - Programme for Active Learning/Visual Arts Module.md
       - Programme for Active Learning/Outdoor Education Module.md
