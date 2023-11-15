@@ -3,6 +3,7 @@ title: School Canteen Advertisement
 permalink: /our-stakeholders/for-school-vendors/school-canteen-advertisement/
 description: ""
 third_nav_title: For School Vendors
+variant: markdown
 ---
 <style>
 table, th, td {
@@ -19,10 +20,14 @@ table, th, td {
   </tr>
   <tr>
     <td>Chinese Rice</td>
-    <td>31 August 2023</td>
+    <td>15 December 2023</td>
     <td>Chinese/Japanese/Korean Rice<br>or noodle stalls are acceptable.</td>
   </tr>
-</tbody></table>
+		<tr>
+			<td>Western (Halal)</td>
+			<td>15 December 2023</td>
+			<td>N.A</td>
+</tr></tbody></table>
 
 
 <h5>Application Procedure</h5>
