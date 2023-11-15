@@ -3,6 +3,7 @@ title: Key Personnel
 permalink: /about-us/our-people/key-personnel/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 <h3>Heads Of Department</h3>
 
@@ -65,7 +66,7 @@ third_nav_title: Our People
 				<br></th>
 	<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/mr%20justin%20luo%20yanzhong.JPG" alt="Mr Justin Luo Yanzhong_optimisedforweb.jpg" width="175" height="225">
-				<br>Mr Justin Luo<br>HOD - ICT (Covering)
+				<br>Mr Justin Luo<br>HOD - ICT
 				<br>
 				<a href="mailto:justin_luo_yanzhong@schools.gov.sg">justin_luo_yanzhong<br>@schools.gov.sg</a>
 			</th></tr>
