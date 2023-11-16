@@ -53,23 +53,25 @@ variant: markdown
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/mr%20jerry%20chua%20chun%20wei.JPG" alt="Mr Jerry Chua_optimisedforweb.jpg" width="175" height="225">
 				<br>Mr Jerry Chua<br>HOD - PE CCA
-				<br>
-				<a href="mailto:chua_chun_wei@schools.gov.sg">chua_chun_wei<br>@schools.gov.sg</a>
-				<br>
-			</th>
-			
-</tr><tr><th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/miss%20chua%20shuan%20kwee.JPG" alt="IMG_9053.JPG" width="175" height="225">
-				<br>Miss Chua Shuan Kwee<br>School Staff Developer
-				<br>
+		<br>
 				<a href="mailto:chua_shuan_kwee@schools.gov.sg">chua_shuan_kwee<br>@schools.gov.sg</a>
 				<br></th>
 	<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/mr%20justin%20luo%20yanzhong.JPG" alt="Mr Justin Luo Yanzhong_optimisedforweb.jpg" width="175" height="225">
 				<br>Mr Justin Luo<br>HOD - ICT
 				<br>
-				<a href="mailto:justin_luo_yanzhong@schools.gov.sg">justin_luo_yanzhong<br>@schools.gov.sg</a>
-			</th></tr>
+				<a href="mailto:chua_chun_wei@schools.gov.sg">chua_chun_wei<br>@schools.gov.sg</a>
+				<br>
+			</th>
+</tr><tr><th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="/images/miss%20chua%20shuan%20kwee.JPG" alt="IMG_9053.JPG" width="175" height="225">
+				<br>Miss Chua Shuan Kwee<br>School Staff Developer
+				<br>
+				<a href="mailto:chua_shuan_kwee@schools.gov.sg">chua_shuan_kwee<br>@schools.gov.sg</a>
+				<br>
+	</th>
+			
+	</tr>
 			</tbody></table>
 
 <h3>Year Heads</h3>
