@@ -51,8 +51,8 @@ variant: markdown
 	<a href="mailto:chua_chun_wei@schools.gov.sg">chua_chun_wei<br>@schools.gov.sg</a>
 				<br>
 			</th></tr>
-	
-			</tbody><tbody><tr><th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+			</tbody>
+	<tbody><tr><th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/mr%20justin%20luo%20yanzhong.JPG" alt="Mr Justin Luo Yanzhong_optimisedforweb.jpg" width="175" height="225">
 				<br>Mr Justin Luo<br>HOD - ICT
 				<br>
