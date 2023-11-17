@@ -2,44 +2,24 @@
 title: School Crest & History
 permalink: /about-us/school-crest-n-history/
 description: ""
+variant: markdown
 ---
-### School Crest
+<h4> School Crest</h4>
 
-<img src="/images/logo1.png" 
-     style="width:30%">
+<img src="/images/logo1.png" style="width:30%">
 
-*   The **_TORCH_** represents leadership.
-*   The **_LAUREL GARLAND OF OLIVE LEAVES_** represents _success_ and _glory_ which binds all the attributes in the badge.   
-*   The **_BOOK_** represents _knowledge_.   
-*   The **_FOUR RINGS_** represents racial _harmony_ among races.   
-*   The **_SCHOOL MOTTO “AMBITIO VIA VIRTUS”_**  (Ambition through All the Excellent Qualities of Man).
+*   The&nbsp;**_TORCH_**&nbsp;represents leadership.
+*   The&nbsp;**_LAUREL GARLAND OF OLIVE LEAVES_**&nbsp;represents&nbsp;_success_&nbsp;and&nbsp;_glory_&nbsp;which binds all the attributes in the badge.   
+*   The&nbsp;**_BOOK_**&nbsp;represents&nbsp;_knowledge_.   
+*   The&nbsp;**_FOUR RINGS_**&nbsp;represents racial&nbsp;_harmony_&nbsp;among races.   
+*   The&nbsp;**_SCHOOL MOTTO “AMBITIO VIA VIRTUS”_**&nbsp; (Ambition&nbsp;through All the Excellent Qualities of Man).
 
-### Our School Song
+<h4> Our School Song</h4>
 
-Park View you are special   
-You are one of the best   
-This is the place   
-Where we can find success
+![](/images/School_Song_Image_2023_11_16_at_4_15_37_PM_2.jpeg)
 
-Loyal and true   
-Working and playing   
-Together we shall grow   
-Our heads held up high
+<h4>School History</h4>
 
-Park View   
-You are special   
-Park View   
-Together we will make you shine   
-You are special   
-Park View
-
-Together we will make you shine  
-Here we learn to be caring  
-Our crest gleaming bright  
-Park View
-
-### School History
-
-**Milestones in Park View Primary School History**
+<b>Milestones in Park View Primary School History</b>
 
 ![](/images/School%20History%20Picture%20Collage%20v6%20resized.png)
