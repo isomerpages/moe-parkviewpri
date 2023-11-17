@@ -17,7 +17,6 @@ variant: markdown
 				<a href="mailto:tay_lip_seng@schools.gov.sg">tay_lip_seng<br>@schools.gov.sg</a>
 				<br>
 			</th>
-			
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/miss%20veronica%20poon%20sook%20yee.JPG" alt="Miss_Veronica_Poon_optimisedforweb.jpg" width="175" height="225">
 				<br>Miss Veronica Poon<br>HOD - Science
@@ -25,7 +24,6 @@ variant: markdown
 				<a href="mailto:poon_sook_yee@schools.gov.sg">poon_sook_yee<br>@schools.gov.sg</a>
 				<br>
 			</th>
-			
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/mdm%20teo%20siew%20yeun.JPG" alt="tn.Mdm_Teo_Siew_Yeun_optimisedforweb.jpg.mid.jpg" width="175" height="225">
 				<br>Mdm Teo Siew Yeun<br>HOD - MT
@@ -34,7 +32,6 @@ variant: markdown
 				<br>
 			</th></tr>
 	</thead>
-
 <tbody><tr><th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/mrs%20ong-pang%20cui%20ling.JPG" alt="Miss_wong_Pau_Hui_optimisedforweb.jpg" width="175" height="225">
 				<br>Mdm Pang Cui Ling<br>HOD - CCE
@@ -42,34 +39,32 @@ variant: markdown
 				<a href="mailto:pang_cui_ling@schools.gov.sg">pang_cui_ling<br>@schools.gov.sg</a>
 				<br>
 </th>
-
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/mdm%20lim%20hwee%20tin%20tina.JPG" alt="Mdm_Lim_Hwee_Tin_optimisedforweb.jpg" width="175" height="225">
-				<br> Ms Tina Lim<br>HOD - Aesthetics CCA
+				<img src="/images/mdm%20lim%20hwee%20tin%20tina.JPG" alt="Mdm_Lim_Hwee_Tin_optimisedforweb.jpg" width="175" height="225"> Ms Tina Lim<br>HOD - Aesthetics CCA
 				<br>
 				<a href="mailto:lim_hwee_tin_a@schools.gov.sg">lim_hwee_tin_a<br>@schools.gov.sg</a>
 				<br></th>
-			
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/mr%20jerry%20chua%20chun%20wei.JPG" alt="Mr Jerry Chua_optimisedforweb.jpg" width="175" height="225">
 				<br>Mr Jerry Chua<br>HOD - PE CCA
-				<br>
-				<a href="mailto:chua_chun_wei@schools.gov.sg">chua_chun_wei<br>@schools.gov.sg</a>
-				<br>
-			</th>
-			
-</tr><tr><th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/miss%20chua%20shuan%20kwee.JPG" alt="IMG_9053.JPG" width="175" height="225">
-				<br>Miss Chua Shuan Kwee<br>School Staff Developer
-				<br>
+		<br>
 				<a href="mailto:chua_shuan_kwee@schools.gov.sg">chua_shuan_kwee<br>@schools.gov.sg</a>
 				<br></th>
 	<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/mr%20justin%20luo%20yanzhong.JPG" alt="Mr Justin Luo Yanzhong_optimisedforweb.jpg" width="175" height="225">
 				<br>Mr Justin Luo<br>HOD - ICT
 				<br>
-				<a href="mailto:justin_luo_yanzhong@schools.gov.sg">justin_luo_yanzhong<br>@schools.gov.sg</a>
-			</th></tr>
+				<a href="mailto:chua_chun_wei@schools.gov.sg">chua_chun_wei<br>@schools.gov.sg</a>
+				<br>
+			</th>
+</tr><tr><th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="/images/miss%20chua%20shuan%20kwee.JPG" alt="IMG_9053.JPG" width="175" height="225">
+				<br>Miss Chua Shuan Kwee<br>School Staff Developer
+				<br>
+				<a href="mailto:chua_shuan_kwee@schools.gov.sg">chua_shuan_kwee<br>@schools.gov.sg</a>
+				<br>
+	</th>
+	</tr>
 			</tbody></table>
 
 <h3>Year Heads</h3>

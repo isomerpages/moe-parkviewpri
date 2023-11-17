@@ -3,7 +3,10 @@ title: Letter to Parents
 permalink: /our-stakeholders/letter-to-parents/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
+*  [Letter to Parents - 21](/files/PVPS_2023_21.pdf)
+
 *  [Letter to Parents - 20](/files/pvps-2023-20%20(1).pdf)
 
 *  [Letter to Parents - 19](/files/term%204%20assessment%20overview.pdf)

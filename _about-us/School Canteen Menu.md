@@ -2,6 +2,7 @@
 title: School Canteen Menu
 permalink: /about-us/school-canteen-menu/
 description: ""
+variant: markdown
 ---
 # **Canteen Menu**
 
@@ -13,4 +14,3 @@ description: ""
 
 ![Stall 7 - Malay Cooked Noodles & Rice](/images/Stall%207.jpg)
 
-![Stall 8 - Western Food](/images/Stall%208.jpg)
