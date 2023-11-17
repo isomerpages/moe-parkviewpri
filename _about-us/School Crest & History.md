@@ -15,21 +15,21 @@ variant: markdown
 *   The&nbsp;**_SCHOOL MOTTO “AMBITIO VIA VIRTUS”_**&nbsp; (Ambition&nbsp;through All the Excellent Qualities of Man).
 
 <h4> Our School Song</h4>
-<p align="justify"><br>Park View you are special,<br>
-<br>You are one of the best.<br>
-<br>This is the place where<br>
-<br>we can find success.<br>
-<br>Here we learn to be caring,<br>
-<br>loyal and true.<br>
-<br>Working and playing together<br>
-<br>we shall grow.<br>
-<br>Our crest gleaming bright<br>
-<br>Our heads held up high<br>
-<br>Park View<br>
-<br>You are special<br>
-<br>Park View<br>
-<br>Together we will make you shine<br></p>
+<p align="center">Park View you are special,<br>
+You are one of the best.<br>
+This is the place where<br>
+we can find success.<br>
+Here we learn to be caring,<br>
+loyal and true.<br>
+Working and playing together<br>
+we shall grow.<br>
+Our crest gleaming bright<br>
+Our heads held up high<br>
+Park View<br>
+You are special<br>
+Park View<br>
+Together we will make you shine.</p>
 
-<b>Milestones in Park View Primary School History</b>
+<h4>Milestones in Park View Primary School History</h4>
 
 ![](/images/School%20History%20Picture%20Collage%20v6%20resized.png)
