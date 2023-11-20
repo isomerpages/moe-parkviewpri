@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Teaching & Learning.md
       - English/.keep
       - English/English.md
       - English/School Library Policy.md
