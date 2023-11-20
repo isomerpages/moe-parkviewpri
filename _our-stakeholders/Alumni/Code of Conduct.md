@@ -8,9 +8,8 @@ variant: markdown
 <p align="justify">Serving as a volunteer in PVPS Alumni is a wonderful way to give back to your alma mater. As a young volunteer, you play a very meaningful role in supporting the school events, recruitment and fundraising efforts. But most importantly, you keep the PVPS spirit alive. To foster mutual respect and a sense of community within the alumni family and PVPS, the Alumni EXCO has developed the following Code of Conduct to set its tone, image and direction.</p>
 
 <h4>Code of Conduct</h4>
- 
  <ol>
-  <li>Be respectful towards the religious beliefs, customs, and sensitivities of others.</li>
+	<li>Be respectful towards the religious beliefs, customs, and sensitivities of others.</li>
   <li>Be mindful and exercise good judgment before making any postings using digital and social media. No posting of PVPS students’ photos in personal Facebook, Twitters, etc. due to Personal Data Protection Act 2012.</li>
   <li>Be considerate, kind and responsible in one’s dealings with teaching and non-teaching staff, parent volunteers and students in the school. Alumni volunteers should not engage in disorderly or offensive behaviour within the school premises (e.g. public display of affection, damage of school property).</li>
   <li>Avoid participating in any activity which physically or mentally harms, intimidates or humiliates other students, or which violates one’s dignity as an individual.</li>
