@@ -3,6 +3,7 @@ title: Executive and Administrative Staff (EAS)
 permalink: /about-us/our-people/executive-and-administrative-staff-eas/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 <table>
 	<thead>
@@ -63,9 +64,6 @@ Yeong Irene</td>
 		</tr>
 	</thead>
 	<tbody>
-		<tr>
-      <td style="border:1px solid black;">Mdm Kamariah Bte Abdullah</td>
-		</tr>
         		<tr>
       <td style="border:1px solid black;">Mdm Asleena Bte Abdul Hamid</td>
 		</tr>

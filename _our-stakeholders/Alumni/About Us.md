@@ -3,7 +3,6 @@ title: About Us
 permalink: /our-stakeholders/alumni/about-us/
 description: ""
 third_nav_title: Alumni
+variant: markdown
 ---
-# **About Us**
-
 ![](/images/Slide1abcdef.jpg)

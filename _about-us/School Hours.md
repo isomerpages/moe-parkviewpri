@@ -2,8 +2,9 @@
 title: School Hours
 permalink: /about-us/school-hours/
 description: ""
+variant: markdown
 ---
-#### Primary 1 to 3
+<h4>Primary 1 to 3</h4>
 
 <table style="border: 1px solid black;text-align: center;">
     <thead>
@@ -54,7 +55,7 @@ CCA (P3)
 </table>
 *The midday break is to allow students to take a light snack if they are hungry. Parents are advised to pack a healthy light snack for the 10 minutes break.
 
-#### Primary 4 to 6
+<h4>Primary 4 to 6</h4>
 <table>
     <thead>
         <tr>
@@ -104,7 +105,7 @@ CCA (P3)
 </table>
 *The midday break is to allow students to take a light snack if they are hungry. Parents are advised to pack a healthy light snack for the 10 minutes break.*
 
-#### Gate Operation Hours
+<h4>Gate Operation Hours</h4>
 
 <table>
 	<thead>
