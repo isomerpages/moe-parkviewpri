@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Parent Support Group
 variant: markdown
 ---
-<h3>PSG Activities &amp; Events</h3>
-
 ![](/images/psg.jpg)
 
 <h4>Our Budding Chef Programme</h4>
