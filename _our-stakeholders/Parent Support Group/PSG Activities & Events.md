@@ -10,6 +10,7 @@ variant: markdown
 <h4>Our Budding Chef Programme</h4>
 
 ![](/images/BuddingChefmain.jpg)
+
 <p align="justify">
 Helmed by our school’s Parent Support Group (PSG),&nbsp;_Our Budding Chef Programme_&nbsp;is an innovative Home Economics programme held during curriculum time. It seeks to provide a fun learning experience for our Pri 1 and 2 pupils.</p>
 
@@ -34,10 +35,6 @@ Our parent volunteers noticed that their children are now more aware of the impo
 
 ![](/images/BuddingChef.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KfOspdWL8mQ" title="PSG of Park View Primary School - 2013 to 2015" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-	
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lXV28co4d2A" title="PSG of Park View Primary School 2016-2017" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<h4>Appreciation</h4>
 
-### Appreciation
-
-![](/images/frame.jpg)<p></p>
+![](/images/frame.jpg)
