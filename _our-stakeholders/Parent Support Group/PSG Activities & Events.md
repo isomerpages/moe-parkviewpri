@@ -12,7 +12,7 @@ variant: markdown
 ![](/images/BuddingChefmain.jpg)
 
 <p align="justify">
-Helmed by our school’s Parent Support Group (PSG),&nbsp;_Our Budding Chef Programme_&nbsp;is an innovative Home Economics programme held during curriculum time. It seeks to provide a fun learning experience for our Pri 1 and 2 pupils.</p>
+Helmed by our school’s Parent Support Group (PSG),Our Budding Chef Programme is an innovative Home Economics programme held during curriculum time. It seeks to provide a fun learning experience for our Pri 1 and 2 pupils.</p>
 
 <p align="justify">
 The PSG co-created and designed the curriculum of the programme. In preparation of the lessons, the parents discussed lesson pedagogies and conducted trial cooking sessions. They also organised and participated in a video production where they demonstrated and explained the procedures of cooking as well as safety and hygiene in the kitchen. The videos are shown to the pupils before each hands-on session as a form of tuning-in.</p>
