@@ -4,26 +4,18 @@ permalink: /curriculum/mathematics/
 description: ""
 variant: markdown
 ---
-The teaching and learning of mathematics aims primarily to equip students with a firm foundation of knowledge and skills in mathematics. The central focus of our mathematics framework is problem solving, which is supported by five interrelated dimensions: concepts, skills, processes, attitudes and metacognition. Excellence in mathematics anchors in problem solving, and through problem solving, students are developed into thinkers and problem solvers, who are independent, engaged, creative and critical.
+<p align="justify">The teaching and learning of mathematics aims primarily to equip students with a firm foundation of knowledge and skills in mathematics. The central focus of our mathematics framework is problem solving, which is supported by five interrelated dimensions: concepts, skills, processes, attitudes and metacognition. Excellence in mathematics anchors in problem solving, and through problem solving, students are developed into thinkers and problem solvers, who are independent, engaged, creative and critical.</p>
 
-To achieve our vision, our approach is Delivery, Interest, Application and Assessment (DIAA). The four approaches play specific roles to realize our desired outcomes:  
+<p align="justify">To achieve our vision, our approach is Delivery, Interest, Application and Assessment (DIAA). The four approaches play specific roles to realize our desired outcomes:</p>
 
 *   Cultivate and enhance students' interest to keep them connected, motivated and driven in problem solving.
 *   Equip students with a strong foundation in concepts, skills, thinking process and metacognition through various effective instructional programmes, pedagogy and learning experiences.
 *   Provide opportunity and exposure for students to use and apply mathematics in challenging tasks, non-routine questions, investigations and real life problem.
 *   Adopt a holistic approach to assessment to facilitate effective instructional planning and to account for students’ progress and support their learning.
 
-
-
-
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="3">APPROACHES</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">SUPPORT</td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">ENRICH</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">STRETCH</td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• P1-P2 LSM<br>• P3-P6 Baseline Remediation<br>• Weekly Remedial Lessons<br>• Math Pull Out Programme<br>• Math Buddy Programme<br>• Heartware Tuition Programme</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Activity-based<br>• learning (ABL)<br>• P1-P6 STAR Math Problem Solving Heuristics Package<br>• P1-P2 Mental Maths Programme<br>• Financial Literacy (P1 - P6)<br>• Math Recess Activity<br>• Math Investigation Task (P3 - P4)</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• P1-P2 Math Model Drawing Package<br>• P4-P6 Math Olympiad Training<br>• P3 - P5 Math Modelling<br>• Math Competitions<br>• E2K (P4&amp;P5)</td></tr></tbody></table>
 
-
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Assessment<br>OF Learning</th><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Assessment<br>FOR Learning</th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Assessment<br>AS Learning</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• CA (P6)<br>• SA<br>• Prelim<br>• PSLE<br>• Mock Exam<br>• Diagnostic Test for Baseline skills<br>• Diagnostic Test for LSM</td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Topical Review<br>• Maths Performance Task<br>• Responses in Class<br>• Homework</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">• Math Journal<br>• Students’ Reflection</td></tr></tbody></table>
-
-
-
-
 
 
 * [STAR](#STAR)  
@@ -34,16 +26,13 @@ To achieve our vision, our approach is Delivery, Interest, Application and Asses
 
 <h3><a name="STAR"></a>STAR</h3>
 
-The Mathematics department adopts the STAR approach, a 4-phased structured process, to help our students in developing problem-solving ability and confidence in solving real-world problems. The approach employs the use of George Polya’s problem solving technique and Edward de Bono’s Six Thinking Hats to expand a systematic flow to approach a problem.
+<p align="justify">The Mathematics department adopts the STAR approach, a 4-phased structured process, to help our students in developing problem-solving ability and confidence in solving real-world problems. The approach employs the use of George Polya’s problem solving technique and Edward de Bono’s Six Thinking Hats to expand a systematic flow to approach a problem.</p>
 
 ![](/images/star_1of3.jpg)
 
 ![](/images/star_2of3.jpg)
 
 ![](/images/star_3of3.jpg)
-
-
-
 
 <h3><a name="Enrichment"></a>Enrichment</h3>
 
@@ -55,43 +44,38 @@ Selected Primary 4 to Primary 5 students with high ability in Mathematics.
 
 <h5>DESCRIPTION</h5>
 
-The E2K Mathematics Programme is a Mathematics enrichment programme for Primary 4 and Primary 5 students in Park View Primary School who demonstrate interest and ability in Mathematics. It aims to develop in students mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach. Students will have opportunities to collaborate with their peers and engage in mathematical thinking through resources such as puzzles, games and mathematics explorations which are specially designed for the programme. The rich learning experiences offered by the programme serve to help students to develop the habits, attitudes and dispositions mathematicians possess, as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.
+<p align="justify">The E2K Mathematics Programme is a Mathematics enrichment programme for Primary 4 and Primary 5 students in Park View Primary School who demonstrate interest and ability in Mathematics. It aims to develop in students mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach. Students will have opportunities to collaborate with their peers and engage in mathematical thinking through resources such as puzzles, games and mathematics explorations which are specially designed for the programme. The rich learning experiences offered by the programme serve to help students to develop the habits, attitudes and dispositions mathematicians possess, as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.</p>
 
   
 
-### Financial Literacy Programme
+<h4>Financial Literacy Programme</h4>
 
-Park View Primary School embarked on the whole-school Financial Literacy Programme by the Math Department to educate our students on the importance of money management.
+<p align="justify">Park View Primary School embarked on the whole-school Financial Literacy Programme by the Math Department to educate our students on the importance of money management.</p>
 
-The objective is to equip our students with the relevant knowledge, skills and attitudes/ values to cope with the financial landscape of the 21st century.
+<p align="justify">The objective is to equip our students with the relevant knowledge, skills and attitudes/ values to cope with the financial landscape of the 21st century.</p>
 
 ![](/images/collage2.jpg)
 
 ### Activity-Based Learning
 
-In activity-based lessons, students are involved in experiential learning through hands-on activities. Students learn to work together in groups, involve in meaningful discussions, helping one another in discovering the answers and accepting each other’s strengths and weaknesses. On the other hand, the teachers play the role of facilitator, observer, listener and guiding students in the problem solving activities.
+<p align="justify">In activity-based lessons, students are involved in experiential learning through hands-on activities. Students learn to work together in groups, involve in meaningful discussions, helping one another in discovering the answers and accepting each other’s strengths and weaknesses. On the other hand, the teachers play the role of facilitator, observer, listener and guiding students in the problem solving activities.</p>
 
-Since students work in small groups, pupils tend to be less shy and they are usually willing to make mistakes. They take responsibility of their own learning through group discussions.
+<p align="justify">Since students work in small groups, pupils tend to be less shy and they are usually willing to make mistakes. They take responsibility of their own learning through group discussions.</p>
 
-Activity-based lesson is one of the strategies to instil passion and interest in all students in the learning of mathematical problem solving. It encourages pupils to apply what they have learnt, through the activities they carry out, many of which usually relate to real life situation. Activity based lessons provide students with platform to stay engaged and learn creatively. Students take responsibility in their learning actively rather than passive receivers of information and knowledge.  
+<p align="justify">Activity-based lesson is one of the strategies to instil passion and interest in all students in the learning of mathematical problem solving. It encourages pupils to apply what they have learnt, through the activities they carry out, many of which usually relate to real life situation. Activity based lessons provide students with platform to stay engaged and learn creatively. Students take responsibility in their learning actively rather than passive receivers of information and knowledge.</p>
 
-This is in line with the Mathematics Department Vision: Every Park View student is an independent and engaged problem solver, and a creative and critical thinker, who strives for excellence.
+<p align="justify">This is in line with the Mathematics Department Vision: Every Park View student is an independent and engaged problem solver, and a creative and critical thinker, who strives for excellence.</p>
 
 ![](/images/ABL.jpg)
 
-### Mental Maths Programme / Abacus
+<h4>Mental Maths Programme / Abacus</h4>
 
-The objectives of the Mental Maths Programme are to develop students' thinking and analytical skills and enhance students' concentration, memory skills and systematic computational skills. The programme focuses on number bonding, place values, multiplication tables.
+<p align="justify">The objectives of the Mental Maths Programme are to develop students' thinking and analytical skills and enhance students' concentration, memory skills and systematic computational skills. The programme focuses on number bonding, place values, multiplication tables.</p>
 
 ![](/images/enrichment1.jpg)
 
-### P4 to P6 Mathematics Olympiad Training
-
-  
-
+<h4>P4 to P6 Mathematics Olympiad Training</h4>
 The focus of the training is to:
-
-  
 
 *   Engage students in thinking activities by discussing and solving non-routine problems;
 *   Equip students with the necessary problem solving skills and mathematical knowledge for higher order problem solving
@@ -114,11 +98,11 @@ The topics covered at the various levels are as follow:
 
 
 
-### P3 and P4 Mathematics Investigative Task
+<h4>P3 and P4 Mathematics Investigative Task</h4>
 
-Math Investigative Tasks (MIT) is a package which integrates some elements of Mathematical Modelling Mathematical Modelling is the abstract representation of an object or system using mathematical concepts such as number, quantity, shape, variability, etc. The main purpose is to create meaningful learning of Mathematics for pupils. It is a mean that links between real-world experiences and abstract mathematical representation. In addition, the processes during the Mathematical Modelling involve students in use of mathematical discourse such as explaining, describing, exploring, conjecturing, predicting, justifying, resolving conflict and revising solution..
+<p align="justify">Math Investigative Tasks (MIT) is a package which integrates some elements of Mathematical Modelling Mathematical Modelling is the abstract representation of an object or system using mathematical concepts such as number, quantity, shape, variability, etc. The main purpose is to create meaningful learning of Mathematics for pupils. It is a mean that links between real-world experiences and abstract mathematical representation. In addition, the processes during the Mathematical Modelling involve students in use of mathematical discourse such as explaining, describing, exploring, conjecturing, predicting, justifying, resolving conflict and revising solution.</p>
 
-Pupils are exposed to non-routine and open-ended tasks where they are taught to articulate their thinking processes before coming to a decision. In this package, pupils will be able to
+<p align="justify">Pupils are exposed to non-routine and open-ended tasks where they are taught to articulate their thinking processes before coming to a decision. In this package, pupils will be able to</p>
 
 *   Identify the links between real-world experiences and mathematical concepts;
 
@@ -126,30 +110,25 @@ Pupils are exposed to non-routine and open-ended tasks where they are taught to 
 
 *   work synergistically as a team to solve a problem and showcase their presentation skills.
 
-  
+ 
+<p align="justify">In MIT, teachers act as facilitators throughout the process, such as providing the right amount of scaffolding for students and creating the right climate for self or peer critique of work using task-specific rubrics.</p>
 
-In MIT, teachers act as facilitators throughout the process, such as providing the right amount of scaffolding for students and creating the right climate for self or peer critique of work using task-specific rubrics.
 
-  
+<i>Example of an MIT question:</i>
 
-_Example of an MIT question:_
-
-Mr Lim received a ticket for the Night Safari which has a total of 6 different enclosures. However, due to the time constraint, he can only visit 3 enclosures.
+<p align="justify">Mr Lim received a ticket for the Night Safari which has a total of 6 different enclosures. However, due to the time constraint, he can only visit 3 enclosures.</p>
 
 (a) In how many ways can he choose to visit 3 different enclosures?
 
 (b) What pattern do you observe?
 
-  
-  
+<h4>Math@Home Package</h4>
 
-### Math@Home Package
+<p align="justify">As part of the school’s efforts to encourage parents to take on a more active role in supporting their child’s learning, the Math department has designed a Mathematics booklet (i.e. Math@Home) to get parents involved in their child's learning of Math.</p>
 
-As part of the school’s efforts to encourage parents to take on a more active role in supporting their child’s learning, the Math department has designed a Mathematics booklet (i.e. Math@Home) to get parents involved in their child's learning of Math.
+<p align="justify">The ‘Math@Home Booklet for Parents’ is designed and prepared for P1 to P3 pupils as these are the levels where basic mathematical knowledge are mostly introduced.</p>
 
-The ‘Math@Home Booklet for Parents’ is designed and prepared for P1 to P3 pupils as these are the levels where basic mathematical knowledge are mostly introduced.
-
-Questions set are in accordance to the objectives stated in the textbooks that pupils use. It is hoped that through this package, pupils will gradually be able to cope better when they progress to the next levels. With more successes experienced at a younger age, pupils’ level of confidence and motivation will thus be enhanced.
+<p align="justify">Questions set are in accordance to the objectives stated in the textbooks that pupils use. It is hoped that through this package, pupils will gradually be able to cope better when they progress to the next levels. With more successes experienced at a younger age, pupils’ level of confidence and motivation will thus be enhanced.</p>
 
 **Aims of the Math@Home Package**
 
@@ -200,41 +179,34 @@ Questions set are in accordance to the objectives stated in the textbooks that p
   
 **Interschool Sudoku Mania 2015**  
   
-Park View Primary School participated in the Interschool Sudoku Mania organized by Yuying Secondary School on 26th&nbsp;February. This is the 2nd time that Park View Primary is participating in this Competition. 2 teams of 4 pupils each from Primary 4 and 5 took part in the competition.  
+<p align="justify">Park View Primary School participated in the Interschool Sudoku Mania organized by Yuying Secondary School on 26th February. This is the 2nd time that Park View Primary is participating in this Competition. 2 teams of 4 pupils each from Primary 4 and 5 took part in the competition.</p>  
   
-They are&nbsp;Cavern Loo,&nbsp;Swastika&nbsp;Dubay,&nbsp;Jerlyn Tan and&nbsp;Joel Affendi from Primary 5 and&nbsp;Kirana Ayu Prahasanti,&nbsp;Quek Sze En Shanice (4A),&nbsp;See Xuan Li (4C) and&nbsp;Rohit G.S. from Primary 4.  
+<p align="justify">They are Cavern Loo, Swastika Dubay, Jerlyn Tan and Joel Affendi from Primary 5 and&nbsp;Kirana Ayu Prahasanti, Quek Sze En Shanice (4A), See Xuan Li (4C) and Rohit G.S. from Primary 4.</p>
   
 **Mathematics Mastery Challenge 2015**  
   
-Park View Primary School participated in the Math Mastery International Challenge organized by Adam Khoo Learning Centre in partnership with Singapore Press Holdings SPH. This is the 1st&nbsp;time that Park View Primary is participating in this Competition.  
+<p align="justify">Park View Primary School participated in the Math Mastery International Challenge organized by Adam Khoo Learning Centre in partnership with Singapore Press Holdings SPH. This is the 1st time that Park View Primary is participating in this Competition.  </p>
   
-A total of 42 pupils took part in the preliminary round and 4 pupils made it to the Semi-final round. They are Shobhit Mishra, Bhargav, Lai Hsuan Jung and Jaslenn Kaur.
-
+<p align="justify">A total of 42 pupils took part in the preliminary round and 4 pupils made it to the Semi-final round. They are Shobhit Mishra, Bhargav, Lai Hsuan Jung and Jaslenn Kaur.</p>
 
 ![](/images/collage.jpg)
 
-
-
 **Singapore Mathematical Olympiad for Primary School 2014**  
-
 <table width="0" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; color: rgb(22, 40, 55); font-family: Catamaran, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Muhammad Ismaeel Ebrahim Ahmed<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Bronze<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Kelvin Ng Bing Rui<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Bronze</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Phebe Lim Pei Ying<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Bronze</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Shen Jiawen<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Certificate of Participation<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Chong Yu Siang<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Certificate of Participation<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Crystal Lai Jie Yu<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Certificate of Participation<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Daga Shreyansh Kumar<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Certificate of Participation<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Goh Isaac<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Certificate of Participation<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Goh Ser Koon<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Certificate of Participation<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Justin Kok Bing Qian<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Certificate of Participation<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Yeow Chun Siang<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Certificate of Participation<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Koh Wisen<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Certificate of Participation<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Kumaraguru s/o Sreenivasan<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Certificate of Participation<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Low Jingxuan Alyssa<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Certificate of Participation<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Muhammad Danial Ashraf B Buang<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Certificate of Participation</td></tr></tbody></table>
 
 **Interschool Sudoku Mania 2014**
 
 ![](/images/Sudoku-2014.jpg)
 
-Park View Primary School participated in the Interschool Sudoku Mania organized by Yuying Secondary School on 13th&nbsp;February. This is the 1st&nbsp;time that Park View Primary is participating in this Competition. 2 teams of 4 pupils each from Primary 5E took part in the competition. One of the teams consisting of Javan Ang, Daryl Tai, Muhammad Fikri and Ian Leong beat all the other teams and emerged Overall Champion in the competition.  
+<p align="justify">Park View Primary School participated in the Interschool Sudoku Mania organized by Yuying Secondary School on 13th&nbsp;February. This is the 1st&nbsp;time that Park View Primary is participating in this Competition. 2 teams of 4 pupils each from Primary 5E took part in the competition. One of the teams consisting of Javan Ang, Daryl Tai, Muhammad Fikri and Ian Leong beat all the other teams and emerged Overall Champion in the competition.</p>
   
 The competition aims to:  
 
-*   enhance the primary school students’ interest in mathematics;  
-    
-*   develop pupils’ logical abilities and exercise their cognition and  
-    
+*   enhance the primary school students’ interest in mathematics; 
+*   develop pupils’ logical abilities and exercise their cognition and 
 *   foster friendly relations among primary and secondary school students from different schools in Singapore.  
- 
-  
-A total of more than 30 teams all over Singapore took part in this Competition.
+
+<p align="justify">A total of more than 30 teams all over Singapore took part in this Competition.</p>
 
 **Singapore Mathematical Olympiad for Primary School 2013**  
 
@@ -254,21 +226,16 @@ A total of more than 30 teams all over Singapore took part in this Competition.
   
 **Po Leung Kuk 16th Primary Mathematics World Contest 2013**  
   
-Park View Primary School participated in the Po Leung Kuk Primary Mathematics World Contest organized by Po Leung Kuk and co-organized by the Hong Kong Institute of Education from 15th&nbsp;to 19th&nbsp;July. This is the 4th&nbsp;year that Park View Primary is participating in this World Contest. 4 of our pupils from Primary 6F, Jason Lim, Lim Zhen An, Quek Yu Sheng and Chen Yen took part in the contest. They gained greater insight, mathematical awareness and interest in Mathematics through the competition.  
+<p align="justify">Park View Primary School participated in the Po Leung Kuk Primary Mathematics World Contest organized by Po Leung Kuk and co-organized by the Hong Kong Institute of Education from 15th to 19th July. This is the 4th&nbsp;year that Park View Primary is participating in this World Contest. 4 of our pupils from Primary 6F, Jason Lim, Lim Zhen An, Quek Yu Sheng and Chen Yen took part in the contest. They gained greater insight, mathematical awareness and interest in Mathematics through the competition.</p>  
   
 The contest aims to:  
 
-*   enhance the primary school students’ interest in mathematics;  
-    
-*   provide an opportunity for the exchange of information of primary school mathematics education throughout the world;  
-    
+*   enhance the primary school students’ interest in mathematics;
+*   provide an opportunity for the exchange of information of primary school mathematics education throughout the world;     
 *   foster friendly relations among primary school students from different cities and  
-    
 *   discover the mathematics potential of gifted primary students among the different cities.  
-    
 
-  
-A total of 44 participating teams from Australia, Bulgaria, China, India, Indonesia, Macau, Malaysia, Mongolia, Taiwan, the Philippines, Russia, Singapore, South Africa, Ghana, Thailand, the United States and Hong Kong took part in this World Contest.
+<p align="justify">A total of 44 participating teams from Australia, Bulgaria, China, India, Indonesia, Macau, Malaysia, Mongolia, Taiwan, the Philippines, Russia, Singapore, South Africa, Ghana, Thailand, the United States and Hong Kong took part in this World Contest.</p>
 
 ![](/images/mathOlympic.jpg)
 
