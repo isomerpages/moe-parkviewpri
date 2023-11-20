@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Alumni
 variant: markdown
 ---
-<h4>Park View Primary School Alumni Code of Conduct</h4>
-
 <p align="justify">Serving as a volunteer in PVPS Alumni is a wonderful way to give back to your alma mater. As a young volunteer, you play a very meaningful role in supporting the school events, recruitment and fundraising efforts. But most importantly, you keep the PVPS spirit alive. To foster mutual respect and a sense of community within the alumni family and PVPS, the Alumni EXCO has developed the following Code of Conduct to set its tone, image and direction.</p>
 
 <h4>Code of Conduct</h4>
