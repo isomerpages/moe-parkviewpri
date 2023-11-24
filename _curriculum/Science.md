@@ -2,20 +2,21 @@
 title: Science
 permalink: /curriculum/science/
 description: ""
+variant: markdown
 ---
-#### Department Goal
+<h4>Department Goal</h4>
 To inculcate the spirit of scientific inquiry and 21st CC skills in students.
 
-#### Department Focus
 <ul><li>Provide students with experiences which build on their interest and stimulate their curiosity about their environment.</li>
 <li>Provide students with opportunities to develop skills, habits of mind and attitudes necessary for scientific inquiry.</li>
 <li>Enable students to appreciate how Science influences people and the environment around them.</li></ul>
 
-#### Framework
-<img src="/images/Curriculum/Science/Science%20Framework.png" style="width:75%">
+<h4>Framework</h4>
+<p align="center"><img height="100" width="100" src="/images/Curriculum/Science/Science%20Framework.png"></p>
 
-#### Key Programmes
-##### Focus for Science Teaching & learning
+<h4>Key Programmes</h4>
+<b>Focus for Science Teaching &amp; Learning</b>
+
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 <thead>
@@ -26,7 +27,7 @@ To inculcate the spirit of scientific inquiry and 21st CC skills in students.
 </thead>
 <tbody>
 <tr>
-<td style="background-color:#E2EFD9;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P1 & P2</td>
+<td style="background-color:#E2EFD9;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">P1 &amp; P2</td>
 <td style="background-color:#E2EFD9;border-color:#32cb00;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <ul>
 <li>Nature (Plants and Animals)</li></ul>
@@ -87,26 +88,26 @@ To inculcate the spirit of scientific inquiry and 21st CC skills in students.
 <td style="background-color:#E2EFD9;border-color:#70ad47;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <ul><li>P3-P5 Remediation Programme</li>
 <li>P6 Pull-Out Programme (LP)</li> 
-<li>Differentiated curriculum & resources</li></ul>
+<li>Differentiated curriculum &amp; resources</li></ul>
 <span style="color:black"></span><span style="color:black"></span>
 </td>
 <td style="background-color:#E2EFD9;border-color:#70ad47;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <ul><li>P6 Enrich Programme</li>
 <li>School-based Instructional Packages</li>
 <li>P3-P5 Performance Tasks</li>
-<li>Blended Learning Approach & Inquiry-based Lessons</li>
-<li>P1 &P2 PAL OE & LJs</li>
+<li>Blended Learning Approach &amp; Inquiry-based Lessons</li>
+<li>P1 &amp;P2 PAL OE &amp; LJs</li>
 <li>P3-P6 LJs</li>
 <li>P3 Budding Scientists (For selected students)</li>
 <li>Integration of TLC-FA strategies</li>
-<li>Use of Self & Peer Assessments for feedback</li></ul>
+<li>Use of Self &amp; Peer Assessments for feedback</li></ul>
 </td>
 <td style="background-color:#E2EFD9;border-color:#70ad47;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-<ul><li>P4 & P5 Science Olympiad</li>
-<li>P4 & P5 E2K Programme</li>
+<ul><li>P4 &amp; P5 Science Olympiad</li>
+<li>P4 &amp; P5 E2K Programme</li>
 <li>P6 DNA Programme</li>
 <li>Science Competitions</li>
-<li>Differentiated curriculum & resources</li>
+<li>Differentiated curriculum &amp; resources</li>
 <li>Pull-Out Programme (MP)</li></ul>
 </td>
 </tr>
@@ -126,15 +127,15 @@ For students to have meaningful learning in science, it is important that they b
 
 <p align="justify">There are different thematic gardens simulating various natural environments.</p>
 
-<p align="justify"><b>Blooms@Energy Hub</b> is a floral garden characterized by an explosion of colours and fragrances. It comprises a flowering and butterfly garden.</p>
+<p align="justify"><b>Blooms@Energy Hub</b>&nbsp;is a floral garden characterized by an explosion of colours and fragrances. It comprises a flowering and butterfly garden.</p>
 
 <p align="justify"><b>Food@ Energy Hub</b> has a herbs and spices garden and a mini vegetable plot with local fruit trees planted around the school.</p>
 
-<p align="justify"><b>Desert@Energy Hub</b> located at the back of the school building houses desert flora with a variety of cactus.</p>
+<p align="justify"><b>Desert@Energy Hub</b>&nbsp;located at the back of the school building houses desert flora with a variety of cactus.</p>
 
-<p align="justify"><b>Rainforest@Energy Hub</b> showcases a slice of a tropical rainforest complete with a fernery garden and an eco-pond surrounded by lush tropical vegetation. A leaf litter habitat is also set up in the fernery garden for students to have first-hand experience in studying the conditions of a leaf litter habitat.</p>
+<p align="justify"><b>Rainforest@Energy Hub</b>&nbsp;showcases a slice of a tropical rainforest complete with a fernery garden and an eco-pond surrounded by lush tropical vegetation. A leaf litter habitat is also set up in the fernery garden for students to have first-hand experience in studying the conditions of a leaf litter habitat.</p>
 
-<p align="justify"><b>The Energy Pavilion</b> is an outdoor classroom amid the shrubs and creepers. It is a place where teachers can carry out their lessons or briefing before adjourning to the gardens for practical sessions.</p>
+<p align="justify"><b>The Energy Pavilion</b>&nbsp;is an outdoor classroom amid the shrubs and creepers. It is a place where teachers can carry out their lessons or briefing before adjourning to the gardens for practical sessions.</p>
 
 <p align="justify">With the launch of the different “Hubs”, students can now just make a short trip down to see the plants that they study about in their books. This hands-on experience allows them to understand their lessons better. It is always good to be near Mother Nature.</p>
 
@@ -190,7 +191,7 @@ P1 to P5 students will go on a learning journey to the Singapore Science Centre 
 
 <img src="/images/Curriculum/Science/Science_3.png" style="width:100%">
 
-#### P6: Ecology Learning Journey & Coastal Cleanup
+#### P6: Ecology Learning Journey &amp; Coastal Cleanup
 
 <p align="justify">P6 students will go on an Ecology Learning Journey to Pasir Ris Beach. The students will also get to experience a coastal clean-up at the beach after exploring the mudflat and mangrove swamp.</p>
 
@@ -206,7 +207,7 @@ The objectives of the learning journey are to:
 
 <img src="/images/Curriculum/Science/Science_4.png" style="width:100%">
 
-#### P6: P4 & P5 Science Olympiad Training 
+#### P6: P4 &amp; P5 Science Olympiad Training 
 
 <p align="justify">P4 and P5 students are selected to participate in Science Olympiad training.</p>
 
@@ -214,9 +215,9 @@ The objectives of the programme are as follows:
 
 <ul><li>To develop students' interest, creativity, analytical thinking skill, spirit of learning through discovery and challenge in Science
 
-<li>To expose students’ with secondary science syllabus in attempt to broaden their knowledge of Science
+</li><li>To expose students’ with secondary science syllabus in attempt to broaden their knowledge of Science
 
-<li>To prepare selected students for Primary Science Olympiad competitions.</li></ul>
+</li><li>To prepare selected students for Primary Science Olympiad competitions.</li></ul>
 
 <p align="justify">The training sessions are based on the broad science themes in the elementary science curriculum. These lessons focused on introducing Physics, Chemistry and Biology to students as well as to enhance their general knowledge.</p>
 
@@ -250,11 +251,11 @@ The objectives of the programme are as follows:
 
 <ul><li>Introduction to laboratory techniques
 
-<li>Introduction to chromatography to separate components in an ink mixture
+</li><li>Introduction to chromatography to separate components in an ink mixture
 
-<li>Using of apparatus in the extraction of solutes
+</li><li>Using of apparatus in the extraction of solutes
 
-<li>Analyse blood stains & understand how blood stains are used to solve mystery.</li></ul>
+</li><li>Analyse blood stains &amp; understand how blood stains are used to solve mystery.</li></ul>
 
 <img src="/images/Curriculum/Science/Science_7.png" style="width:100%">
 
@@ -265,8 +266,8 @@ The objectives of the programme are as follows:
 The objectives of the programme are as follows:
 
 <ul><li>To develop students’ interest and creativity, through discovery and hands-on experiments in Science;
-<li>To learn through inquiry to clarify misconceptions in Science;
-<li>To broaden their knowledge of Science and create awareness of the natural phenomenon in the world.</li></ul>
+</li><li>To learn through inquiry to clarify misconceptions in Science;
+</li><li>To broaden their knowledge of Science and create awareness of the natural phenomenon in the world.</li></ul>
 
 <p align="justify">Our P3s were highly enthused and thoroughly enjoyed the activities planned for them. From the enriching experience, they can have a better grasp of how Scientists conduct experiments, as they learnt how to go about designing and conducting a fair experiment.</p>
 
@@ -286,7 +287,7 @@ The school adopts the following <b>5Is Approach</b> to fulfil our Sustainability
 
 <b>Intrinsic</b> – Promote a mind-set where everyone is intrinsically motivated to sustain environmental efforts and caring for the environment becomes a part of us.
 
-<b>Influence</b> – Every PVPS staff / student will become Eco stewards, inspiring sustainability efforts beyond self & school
+<b>Influence</b> – Every PVPS staff / student will become Eco stewards, inspiring sustainability efforts beyond self &amp; school
 
 <img src="/images/Curriculum/Science/Science_9.png" style="width:100%">
 
@@ -322,7 +323,7 @@ Community In Bloom Awards aims to:
 
 <li>Motivate and encourage community gardeners to enjoy gardening as a fun and healthy activity</li>
 
-<li>Set & improve the standards of community gardens located in communal spaces</li>
+<li>Set &amp; improve the standards of community gardens located in communal spaces</li>
 
 <li>Spread the gardening bug to others in the community so that they too can discover the joy of gardening</li></ul>
 
@@ -344,7 +345,7 @@ Community In Bloom Awards aims to:
 
 <img src="/images/Curriculum/Science/Science_16.jpg" style="width:20%">
 
-<p align="justify">The BCA Green Mark awards recognises developers, building owners and individuals who have made outstanding achievements in environmental sustainability in the built environment.</p>
+<p align="justify">The BCA Green Mark awards recognises&nbsp;developers, building owners and individuals who have made outstanding achievements in environmental sustainability in the built environment.</p>
 
 <p align="justify">Congratulations to Park View Primary School on being awarded the BCA Green Mark Award (GOLD) 2021 based on the Green Mark for Existing Schools (Version 2).</p>
 
