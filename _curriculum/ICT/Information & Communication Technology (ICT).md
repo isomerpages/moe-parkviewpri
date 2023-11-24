@@ -8,7 +8,8 @@ variant: markdown
 <h4>Department Goal</h4>
 <p align="justify">Technology-enhanced learning environment that fosters effective teaching and learning.</p>
 
-<img src="/images/picture01.jpg" style="width:80%">
+<h4>Framework</h4>
+<p align="center"><img height="100" width="100" src="/images/ict%20framework.png"></p>
 
 <h4>Student Outcomes</h4>
 <b>Students as Future-Ready Digital Learners</b>
