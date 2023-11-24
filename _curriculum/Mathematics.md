@@ -24,7 +24,7 @@ variant: markdown
 * [Resources](#Resources)
 
 
-<h3><a name="STAR"></a>STAR</h3>
+<h4><a name="STAR"></a>STAR</h4>
 
 <p align="justify">The Mathematics department adopts the STAR approach, a 4-phased structured process, to help our students in developing problem-solving ability and confidence in solving real-world problems. The approach employs the use of George Polya’s problem solving technique and Edward de Bono’s Six Thinking Hats to expand a systematic flow to approach a problem.</p>
 
@@ -34,19 +34,17 @@ variant: markdown
 
 ![](/images/star_3of3.jpg)
 
-<h3><a name="Enrichment"></a>Enrichment</h3>
+<h4><a name="Enrichment"></a>Enrichment</h4>
 
-<h4>E2K Programme</h4>
+<h5>E2K Programme</h5>
 
-<h5>TARGET GROUP</h5>
+<b>TARGET GROUP</b>
 
 Selected Primary 4 to Primary 5 students with high ability in Mathematics.
 
-<h5>DESCRIPTION</h5>
+<b>DESCRIPTION</b>
 
 <p align="justify">The E2K Mathematics Programme is a Mathematics enrichment programme for Primary 4 and Primary 5 students in Park View Primary School who demonstrate interest and ability in Mathematics. It aims to develop in students mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach. Students will have opportunities to collaborate with their peers and engage in mathematical thinking through resources such as puzzles, games and mathematics explorations which are specially designed for the programme. The rich learning experiences offered by the programme serve to help students to develop the habits, attitudes and dispositions mathematicians possess, as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.</p>
-
-  
 
 <h4>Financial Literacy Programme</h4>
 
@@ -56,7 +54,7 @@ Selected Primary 4 to Primary 5 students with high ability in Mathematics.
 
 ![](/images/collage2.jpg)
 
-### Activity-Based Learning
+<h4>Activity-Based Learning</h4>
 
 <p align="justify">In activity-based lessons, students are involved in experiential learning through hands-on activities. Students learn to work together in groups, involve in meaningful discussions, helping one another in discovering the answers and accepting each other’s strengths and weaknesses. On the other hand, the teachers play the role of facilitator, observer, listener and guiding students in the problem solving activities.</p>
 
@@ -90,13 +88,6 @@ The topics covered at the various levels are as follow:
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Level</th><th style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Topics</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">P4<br></td><td style="background-color:#FFF;border-color:#162837;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:400;color:#162837">All Possible Combinations, Add Counting Numbers, Simultaneous Equations, Fractions, 4 Operations, Multiples, Models and Area &amp; Perimeter</span></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">P5<br></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Patterns, Area &amp; Perimeter, Solid Figures, 4 Operations, Diagrams, Average, Fractions and Percentage<br></td></tr><tr><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">P6<br></td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Numerical manipulations, Simple Integral Divisibility, Problem Solving, Logical Thinking, Simple Combinatorial Problems and Mensuration</td></tr></tbody></table>
 
 <img src="/images/Olympiad-Training.jpg">
-
-
-
-
-
-
-
 
 <h4>P3 and P4 Mathematics Investigative Task</h4>
 
@@ -240,7 +231,7 @@ The contest aims to:
 ![](/images/mathOlympic.jpg)
 
 
-<h3><a name="Resources"></a>Resources</h3>
+<h4><a name="Resources"></a>Resources</h4>
 
 
 ##### Useful Web Sites:
