@@ -14,16 +14,16 @@ variant: markdown
 <p align="justify">To develop pupils into upright, confident and proactive leaders equipped with good leadership and interpersonal skills to lead and serve towards excellence.</p>
 
 
-**Character Development**
+<b>Character Development</b>
 
 <p align="justify">To nurture students into responsible, resilient and reflective individuals anchored on positive moral values who are strong team players, active contributors and excellence champions.</p>
 
 
-**Citizenship**
+<b>Citizenship</b>
 
 <p align="justify">To nurture loyal citizens, who love the school and country, are able to build friendships with others regardless of race, language or religion, strengthen their resilience both as individuals and as a nation, and contribute as individuals to their families, society and country.</p>
 
-**Values in Action (VIA)**
+<b>Values in Action (VIA)</b>
 
 <p align="justify">To nurture morally upright, responsible and gracious individuals who not only understand their roles in society but willingly volunteer their services for the betterment of the society.</p>
 
@@ -36,7 +36,7 @@ variant: markdown
 
 
 <h4>Pupil Leadership</h4>
-<h5>Approach</h5>
+<b>Approach</b>
 
 <p align="justify">The Student Leadership Development Programme in PVPS uses a whole school approach in providing students with broad experiences that will develop leadership skills and qualities in them.</p>
 
@@ -48,53 +48,53 @@ variant: markdown
 	<li>Leadership for Key Leaders</li>
 </ul>
 
-**Figure 1: Framework of Pupil Leadership Development**
+<b>Figure 1: Framework of Pupil Leadership Development</b>
 
 ![](/images/leadership-Web.jpg)
 
-**Leadership for All (Exposure)**
+<b>Leadership for All (Exposure)</b>
+<ul>
+	<li>The main focus of “Leadership for All” is to give leadership exposure to all students.</li></ul>
 
-*   The main focus of “Leadership for All” is to give leadership exposure to all students.
+<b>Leadership for Service Learning Council (Experience)</b>
+<ul>
+<li>The main focus of “Leadership for Service Learning Council” is to allow students to experience taking up leadership roles and the responsibilities and challenges that come with these roles while serving the school.</li>
 
-**Leadership for Service Learning Council (Experience)**
+<li>This is targeted at students who have demonstrated school shared values and display leadership potential.</li></ul>
 
-*   The main focus of “Leadership for Service Learning Council” is to allow students to experience taking up leadership roles and the responsibilities and challenges that come with these roles while serving the school.
+<b> The 7 Service Learning Councils are:</b>
+<ul>
+	<li> Aesthetics Ambassadors</li>
+	<li>Cyberwellness Ambassadors</li>
+	<li>Green Ambassadors</li>
+	<li>HoPE Ambassadors</li>
+	<li> MRL Ambassadors</li>
+	<li>NE Ambassadors</li>
+	<li> Prefects</li></ul>
 
-*   This is targeted at students who have demonstrated school shared values and display leadership potential.
+<b>Leadership for Key Leaders (Excel)</b>
+<ul>
+<li> In line with our strategic thrust \[2\], Innovation &amp; Excellence, the main focus of “Leadership for Key Leaders” is to develop students to excel as leaders.</li></ul>
 
-*   The 7 Service Learning Councils are:
+<h4><a name="Character Development"></a>Character Development</h4>
 
-	*   Aesthetics Ambassadors
-	*   Cyberwellness Ambassadors
-	*   Green Ambassadors
-	*   HoPE Ambassadors
-	*   MRL Ambassadors
-	*   NE Ambassadors
-	*   Prefects
+<b>Approach</b>
 
-**Leadership for Key Leaders (Excel)**
+<p>In the Character Development of our pupils, we have adopted the ESEE (Engagement, Support, Expertise, Extension) approach. The ESEE approach consists of the following:</p>
+<ul>
+<li><b><u>E</u></b>ngagement of all pupils in the various school wide character development programmes adopting pupil-centred strategies.</li>
 
-*   In line with our strategic thrust \[2\], Innovation &amp; Excellence, the main focus of “Leadership for Key Leaders” is to develop students to excel as leaders.
+<li><b><u>S</u></b>upport the character development of pupils through differentiated resources and strategies.</li>
 
-<h3><a name="Character Development"></a>Character Development</h3>
-
-#### Approach
-
-In the Character Development of our pupils, we have adopted the ESEE (Engagement, Support, Expertise, Extension) approach. The ESEE approach consists of the following:
-
-*   **E**ngagement of all pupils in the various school wide character development programmes adopting pupil-centred strategies
-
-*   **S**upport the character development of pupils through differentiated resources and strategies
-
-*   **E**xpertise of teachers and partners to enhance character development
+<li><b><u>E</u></b>xpertise of teachers and partners to enhance character development.</li>
 
 1.  Encouraging teacher leadership in the design and implementation of character development programmes and activities
 2.  Establishing strategic partnership in the area of character development
 
-*   **E**xtension of character development through infusion across disciplines in school, at home and to the community
+<li><b><u>E</u></b>xtension of character development through infusion across disciplines in school, at home and to the community.</li></ul>
 
 
-#### Values in Practice (VIP) Programme
+<h4>Values in Practice (VIP) Programme</h4>
 
 ![](/images/VIP%20Logo%20Web.jpg)
 
