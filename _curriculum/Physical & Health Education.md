@@ -17,11 +17,11 @@ To enable and encourage our students to be active after leaving school, with a g
 <h4>Framework</h4>
 <p align="center"><img height="100" width="100" src="/images/Curriculum/PE/PE%20-%20Framework.jpg"></p>
 
-#### Enable Health and Fitness for life
+<h4>Enable Health and Fitness for life</h4>
 <ul>
 <li>Provide platforms for students to choose, experience and engage in physical activities through participation in sports and health-related programmes and activities.</li></ul>
 
-#### Deepening Enjoyment of Active and Healthy Living
+<h4>Deepening Enjoyment of Active and Healthy Living</h4>
 <ul>
 <li>Expose students to a range of sports and games skills through sporting events/programmes and PE lessons.</li>
 <li>Enhance students’ sports experience through the school’s Learning for Life Programme (LLP) – Sports Experiential Programme.</li>
@@ -354,7 +354,7 @@ body {
 
 <h4>School Programmes</h4>
 
-##### Health Awareness Week
+<h5>Health Awareness Week</h5>
 <b>Active Friday</b>
 
 <p align="justify">The promotion of a healthy lifestyle in a fun and structured way with a whole school approach on Fridays via workouts as part of morning assembly and promoting eating fruits and vegetables during recess by collecting of Fruittie and Veggie cards. The programme also empowers students by involving them in workouts, monitoring and rewarding their peers' consumption of fruits and vegetables.</p>
