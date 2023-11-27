@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCE
 variant: markdown
 ---
-<h4>Character &amp; Citizenship Education Department Framework</h4>
+<h4>Framework</h4>
 
 ![](/images/PVPS%20Student%20Outcomes%20Framework%20v3_optimisedforweb.jpg)
 
