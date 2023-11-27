@@ -202,39 +202,41 @@ The topics covered at the various levels are as follow:
 <p align="justify">Park View Primary School participated in the Interschool Sudoku Mania organized by Yuying Secondary School on 13th&nbsp;February. This is the 1st&nbsp;time that Park View Primary is participating in this Competition. 2 teams of 4 pupils each from Primary 5E took part in the competition. One of the teams consisting of Javan Ang, Daryl Tai, Muhammad Fikri and Ian Leong beat all the other teams and emerged Overall Champion in the competition.</p>
   
 The competition aims to:  
-
-*   enhance the primary school students’ interest in mathematics; 
-*   develop pupils’ logical abilities and exercise their cognition and 
-*   foster friendly relations among primary and secondary school students from different schools in Singapore.  
+	<ul>
+<li> enhance the primary school students’ interest in mathematics.</li>
+<li>develop pupils’ logical abilities and exercise their cognition and</li>
+<li> foster friendly relations among primary and secondary school students from different schools in Singapore.</li></ul> 
 
 <p align="justify">A total of more than 30 teams all over Singapore took part in this Competition.</p>
 
-**Singapore Mathematical Olympiad for Primary School 2013**  
+<b>Singapore Mathematical Olympiad for Primary School 2013</b>  
 
 <table width="0" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; color: rgb(22, 40, 55); font-family: Catamaran, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="200" style="margin: 0px; outline: 0px; padding: 0px;">Quek Yu Sheng Eason</td><td width="100" style="margin: 0px; outline: 0px; padding: 0px;">- Silver</td></tr></tbody></table>
 
   
-**National Mathematical Olympiad of Singapore 2013**  
+<b>National Mathematical Olympiad of Singapore 2013</b>  
 
 <table width="0" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; color: rgb(22, 40, 55); font-family: Catamaran, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Kumaraguru s/o Sreenivasan</td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Bronze</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Yat Chun Wee</td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Bronze</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Ashley Ling Si En</td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Honourable Mention</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Cheryl Lee Wen Ling</td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Honourable Mention</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Chong Yu Siang</td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Honourable Mention</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Crystal Lai Jie Yu</td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Honourable Mention</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Goh Kai Swee Vincent</td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Honourable Mention</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Goh Ser Koon</td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Honourable Mention</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Justin Kok Bing Qian</td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Honourable Mention</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Yeow Chun Siang</td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Honourable Mention</td></tr></tbody></table>
 
   
-**Mathematical Exploration Day for Primary 6 Pupils**
+<b>Mathematical Exploration Day for Primary 6 Pupils</b>
 
 <table width="0" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; color: rgb(22, 40, 55); font-family: Catamaran, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="200" style="margin: 0px; outline: 0px; padding: 0px;">Valarie Tan</td><td width="100" style="margin: 0px; outline: 0px; padding: 0px;">- 1st</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="200" style="margin: 0px; outline: 0px; padding: 0px;">Gina Chui</td><td width="100" style="margin: 0px; outline: 0px; padding: 0px;">- 1st</td></tr></tbody></table>
 
   
   
-**Po Leung Kuk 16th Primary Mathematics World Contest 2013**  
+<b>Po Leung Kuk 16th Primary Mathematics World Contest 2013</b>  
   
 <p align="justify">Park View Primary School participated in the Po Leung Kuk Primary Mathematics World Contest organized by Po Leung Kuk and co-organized by the Hong Kong Institute of Education from 15th to 19th July. This is the 4th&nbsp;year that Park View Primary is participating in this World Contest. 4 of our pupils from Primary 6F, Jason Lim, Lim Zhen An, Quek Yu Sheng and Chen Yen took part in the contest. They gained greater insight, mathematical awareness and interest in Mathematics through the competition.</p>  
   
-The contest aims to:  
 
-*   enhance the primary school students’ interest in mathematics;
-*   provide an opportunity for the exchange of information of primary school mathematics education throughout the world;     
-*   foster friendly relations among primary school students from different cities and  
-*   discover the mathematics potential of gifted primary students among the different cities.  
+The contest aims to:  
+		
+<ul>
+	<li>  enhance the primary school students’ interest in mathematics</li>
+	<li>provide an opportunity for the exchange of information of primary school mathematics education throughout the world</li>     
+	<li>foster friendly relations among primary school students from different cities and.</li> 
+	<li> discover the mathematics potential of gifted primary students among the different cities.</li></ul>
 
 <p align="justify">A total of 44 participating teams from Australia, Bulgaria, China, India, Indonesia, Macau, Malaysia, Mongolia, Taiwan, the Philippines, Russia, Singapore, South Africa, Ghana, Thailand, the United States and Hong Kong took part in this World Contest.</p>
 
@@ -244,7 +246,7 @@ The contest aims to:
 <h4><a name="Resources"></a>Resources</h4>
 
 
-##### Useful Web Sites:
+<b>Useful Web Sites:</b>
 
   
 Link to approved calculator website:  
