@@ -40,7 +40,7 @@ variant: markdown
 
 <h4><a name="Enrichment"></a>Enrichment</h4>
 
-<h5>E2K Programme</h5>
+<h4>E2K Programme</h4>
 
 <b>TARGET GROUP</b>
 
