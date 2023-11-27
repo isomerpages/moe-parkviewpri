@@ -78,12 +78,15 @@ Selected Primary 4 to Primary 5 students with high ability in Mathematics.
 
 <h4>P4 to P6 Mathematics Olympiad Training</h4>
 The focus of the training is to:
-
-*   Engage students in thinking activities by discussing and solving non-routine problems;
-*   Equip students with the necessary problem solving skills and mathematical knowledge for higher order problem solving
-*   stimulate students’ interest and enthusiasm for problem solving;
-*   introduce students to the process, thinking skills and techniques that are required to solve Math Olympiad-like non-routine problems and
-*   instil in students the spirit of learning by discovery
+<ul>
+	<li> Engage students in thinking activities by discussing and solving non-routine problems.</li>
+<li>Equip students with the necessary problem solving skills and mathematical knowledge for higher order problem solving.</li>
+	
+<li> stimulate students’ interest and enthusiasm for problem solving.</li>
+	
+<li>introduce students to the process, thinking skills and techniques that are required to solve Math Olympiad-like non-routine problems and.</li>
+	
+<li>instil in students the spirit of learning by discovery.</li></ul>
 
 Through the training sessions, students experience the satisfaction, pleasure, fun and thrill of discovery associated with creative problem solving.
 
@@ -98,24 +101,24 @@ The topics covered at the various levels are as follow:
 <p align="justify">Math Investigative Tasks (MIT) is a package which integrates some elements of Mathematical Modelling Mathematical Modelling is the abstract representation of an object or system using mathematical concepts such as number, quantity, shape, variability, etc. The main purpose is to create meaningful learning of Mathematics for pupils. It is a mean that links between real-world experiences and abstract mathematical representation. In addition, the processes during the Mathematical Modelling involve students in use of mathematical discourse such as explaining, describing, exploring, conjecturing, predicting, justifying, resolving conflict and revising solution.</p>
 
 <p align="justify">Pupils are exposed to non-routine and open-ended tasks where they are taught to articulate their thinking processes before coming to a decision. In this package, pupils will be able to</p>
+<ul>
+	<li>Identify the links between real-world experiences and mathematical concepts.</li>
 
-*   Identify the links between real-world experiences and mathematical concepts;
+<li> articulate their thinking and reasoning process and improve on their decision making skills using mathematical concepts and</li>
 
-*   articulate their thinking and reasoning process and improve on their decision making skills using mathematical concepts and
-
-*   work synergistically as a team to solve a problem and showcase their presentation skills.
+<li>work synergistically as a team to solve a problem and showcase their presentation skills.</li></ul>
 
  
 <p align="justify">In MIT, teachers act as facilitators throughout the process, such as providing the right amount of scaffolding for students and creating the right climate for self or peer critique of work using task-specific rubrics.</p>
 
 
-<i>Example of an MIT question:</i>
+<b><i>Example of an MIT question:</i></b>
 
 <p align="justify">Mr Lim received a ticket for the Night Safari which has a total of 6 different enclosures. However, due to the time constraint, he can only visit 3 enclosures.</p>
+<ul>
+	<li> In how many ways can he choose to visit 3 different enclosures?</li>
 
-(a) In how many ways can he choose to visit 3 different enclosures?
-
-(b) What pattern do you observe?
+<li>What pattern do you observe?</li></ul>
 
 <h4>Math@Home Package</h4>
 
@@ -125,60 +128,63 @@ The topics covered at the various levels are as follow:
 
 <p align="justify">Questions set are in accordance to the objectives stated in the textbooks that pupils use. It is hoped that through this package, pupils will gradually be able to cope better when they progress to the next levels. With more successes experienced at a younger age, pupils’ level of confidence and motivation will thus be enhanced.</p>
 
-**Aims of the Math@Home Package**
+<b>Aims of the Math@Home Package</b>
+<ul>
+	<li>Work in partnership with parents to enhance pupils’ learning of Mathematics.</li>
 
-*   Work in partnership with parents to enhance pupils’ learning of Mathematics.
-*   Guide parents in reinforcing mathematical concepts with their child and to supervise their child in taking the topical test in the booklet at home.
-*   Develop positive learning environment at home.
-*   Motivate pupils to learn Mathematics and develop positive attitudes towards Mathematics.
+<li>Guide parents in reinforcing mathematical concepts with their child and to supervise their child in taking the topical test in the booklet at home.</li>
+	
+<li> Develop positive learning environment at home.</li>
+	
+<li>Motivate pupils to learn Mathematics and develop positive attitudes towards Mathematics.</li>
 
 <img src="/images/20150402_141624.jpg" style="width:50%">
 
 <h3><a name="Achievement"></a>Achievement</h3>
 
-**Singapore Mathematical Olympiad for Primary Schools 2019**  
+<b>Singapore Mathematical Olympiad for Primary Schools 2019</b>  
 
 <table width="0" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; color: rgb(22, 40, 55); font-family: Catamaran, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="200" style="margin: 0px; outline: 0px; padding: 0px;">Oommen Dhruv<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="100" style="margin: 0px; outline: 0px; padding: 0px;">- Silver<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="200" style="margin: 0px; outline: 0px; padding: 0px;">Jeong Minki<br style="margin: 0px; outline: 0px; padding: 0px;">Xie Yifa<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="100" style="margin: 0px; outline: 0px; padding: 0px;">- Silver<br style="margin: 0px; outline: 0px; padding: 0px;">- Silver<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
 
   
-**ACS Annual Mathlympics 2019**  
+<b>ACS Annual Mathlympics 2019</b>  
 
 <table width="0" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; color: rgb(22, 40, 55); font-family: Catamaran, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="200" style="margin: 0px; outline: 0px; padding: 0px;">Almeida Elkan Gerald<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="100" style="margin: 0px; outline: 0px; padding: 0px;">- Bronze<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="200" style="margin: 0px; outline: 0px; padding: 0px;">Warisa Uranpanichaybnol<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="100" style="margin: 0px; outline: 0px; padding: 0px;">- Bronze<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
 
   
-**Raffles Institution Primary Math World Contest 2019**  
+<b>Raffles Institution Primary Math World Contest 2019</b>  
 
 <table width="0" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; color: rgb(22, 40, 55); font-family: Catamaran, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="200" style="margin: 0px; outline: 0px; padding: 0px;">Shresthitha Jindal<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="100" style="margin: 0px; outline: 0px; padding: 0px;">- Distinction<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="200" style="margin: 0px; outline: 0px; padding: 0px;">Oommen Dhruv<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="100" style="margin: 0px; outline: 0px; padding: 0px;">- Distinction<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
 
   
-**National Mathematical Olympiad of Singapore 2018**  
+<b>National Mathematical Olympiad of Singapore 2018</b>
 
 <table width="0" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; color: rgb(22, 40, 55); font-family: Catamaran, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="200" style="margin: 0px; outline: 0px; padding: 0px;">Jeong Minki</td><td width="100" style="margin: 0px; outline: 0px; padding: 0px;">- Gold</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="200" style="margin: 0px; outline: 0px; padding: 0px;">Shreshtha Jindal</td><td width="100" style="margin: 0px; outline: 0px; padding: 0px;">- Silver</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="200" style="margin: 0px; outline: 0px; padding: 0px;">Priyansh Bhitia</td><td width="100" style="margin: 0px; outline: 0px; padding: 0px;">- Bronze</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="200" style="margin: 0px; outline: 0px; padding: 0px;">Shayane Lim</td><td width="100" style="margin: 0px; outline: 0px; padding: 0px;">- Bronze</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="200" style="margin: 0px; outline: 0px; padding: 0px;">Dhruv Oomen</td><td width="100" style="margin: 0px; outline: 0px; padding: 0px;">- Bronze</td></tr></tbody></table>
 
   
-**National Mathematical Olympiad of Singapore 2017**  
+<b>National Mathematical Olympiad of Singapore 2017</b>  
 
 <table width="0" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; color: rgb(22, 40, 55); font-family: Catamaran, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="200" style="margin: 0px; outline: 0px; padding: 0px;">Aadi Gulati</td><td width="100" style="margin: 0px; outline: 0px; padding: 0px;">- Silver</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="200" style="margin: 0px; outline: 0px; padding: 0px;">Jeong Minki</td><td width="45" style="margin: 0px; outline: 0px; padding: 0px;">- Bronze</td></tr></tbody></table>
 
   
-**ACS Annual Mathlympics 2018**  
+<b>ACS Annual Mathlympics 2018</b> 
 
 <table width="0" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; color: rgb(22, 40, 55); font-family: Catamaran, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="200" style="margin: 0px; outline: 0px; padding: 0px;">Jeong Minki</td><td width="100" style="margin: 0px; outline: 0px; padding: 0px;">- Gold</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="200" style="margin: 0px; outline: 0px; padding: 0px;">Shreshtha Jindal</td><td width="100" style="margin: 0px; outline: 0px; padding: 0px;">- Gold</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="200" style="margin: 0px; outline: 0px; padding: 0px;">Priyansh Bhitia</td><td width="100" style="margin: 0px; outline: 0px; padding: 0px;">- Silver</td></tr></tbody></table>
 
   
-**ACS Annual Mathlympics 2017**  
+<b>ACS Annual Mathlympics 2017</b>  
 
 <table width="0" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; color: rgb(22, 40, 55); font-family: Catamaran, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="200" style="margin: 0px; outline: 0px; padding: 0px;">Jeong Minki</td><td width="100" style="margin: 0px; outline: 0px; padding: 0px;">- Gold</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="200" style="margin: 0px; outline: 0px; padding: 0px;">Aadi Gulati</td><td width="100" style="margin: 0px; outline: 0px; padding: 0px;">- Bronze</td></tr></tbody></table>
 
   
   
-**Interschool Sudoku Mania 2015**  
+<b>Interschool Sudoku Mania 2015</b>  
   
 <p align="justify">Park View Primary School participated in the Interschool Sudoku Mania organized by Yuying Secondary School on 26th February. This is the 2nd time that Park View Primary is participating in this Competition. 2 teams of 4 pupils each from Primary 4 and 5 took part in the competition.</p>  
   
 <p align="justify">They are Cavern Loo, Swastika Dubay, Jerlyn Tan and Joel Affendi from Primary 5 and&nbsp;Kirana Ayu Prahasanti, Quek Sze En Shanice (4A), See Xuan Li (4C) and Rohit G.S. from Primary 4.</p>
   
-**Mathematics Mastery Challenge 2015**  
+<b>Mathematics Mastery Challenge 2015</b>  
   
 <p align="justify">Park View Primary School participated in the Math Mastery International Challenge organized by Adam Khoo Learning Centre in partnership with Singapore Press Holdings SPH. This is the 1st time that Park View Primary is participating in this Competition.  </p>
   
@@ -186,10 +192,10 @@ The topics covered at the various levels are as follow:
 
 ![](/images/collage.jpg)
 
-**Singapore Mathematical Olympiad for Primary School 2014**  
+<b>Singapore Mathematical Olympiad for Primary School 2014</b>  
 <table width="0" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; color: rgb(22, 40, 55); font-family: Catamaran, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Muhammad Ismaeel Ebrahim Ahmed<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Bronze<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Kelvin Ng Bing Rui<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Bronze</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Phebe Lim Pei Ying<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Bronze</td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Shen Jiawen<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Certificate of Participation<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Chong Yu Siang<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Certificate of Participation<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Crystal Lai Jie Yu<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Certificate of Participation<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Daga Shreyansh Kumar<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Certificate of Participation<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Goh Isaac<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Certificate of Participation<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Goh Ser Koon<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Certificate of Participation<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Justin Kok Bing Qian<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Certificate of Participation<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Yeow Chun Siang<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Certificate of Participation<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Koh Wisen<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Certificate of Participation<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Kumaraguru s/o Sreenivasan<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Certificate of Participation<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Low Jingxuan Alyssa<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Certificate of Participation<br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="300" style="margin: 0px; outline: 0px; padding: 0px;">Muhammad Danial Ashraf B Buang<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td width="250" style="margin: 0px; outline: 0px; padding: 0px;">- Certificate of Participation</td></tr></tbody></table>
 
-**Interschool Sudoku Mania 2014**
+<b>Interschool Sudoku Mania 2014</b>
 
 ![](/images/Sudoku-2014.jpg)
 
@@ -252,4 +258,4 @@ Other websites:
 [http://mathworld.wolfram.com](http://mathworld.wolfram.com/)  
 [http://www.amathsdictionaryforkids.com](http://www.amathsdictionaryforkids.com/)  
 [http://www.mathwords.com](http://www.mathwords.com/)  
-[http://www.hbschool.com/glossary/math2/index\_temp.html](http://www.hbschool.com/glossary/math2/index_temp.html)
+[http://www.hbschool.com/glossary/math2/index\_temp.html](http://www.hbschool.com/glossary/math2/index_temp.html)</ul>
