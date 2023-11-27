@@ -9,7 +9,7 @@ variant: markdown
 
 ![](/images/PVPS%20Student%20Outcomes%20Framework%20v3_optimisedforweb.jpg)
 
-**Student Leadership**
+<b>Student Leadership</b>
 
 <p align="justify">To develop pupils into upright, confident and proactive leaders equipped with good leadership and interpersonal skills to lead and serve towards excellence.</p>
 
@@ -100,11 +100,8 @@ In the Character Development of our pupils, we have adopted the ESEE (Engagement
 
 Click [here](/curriculum/cce/character-development/values-in-practice-vip-programme) for more information.
 
-
-<h3><a name="Citizenship"></a>Citizenship</h3>
-
-
-<h4>Overview</h4>
+<h4>Citizenship</h4>
+<h5>Overview</h5>
 
 **Introduction**  
   
@@ -126,30 +123,25 @@ In Park View Primary School, we adopt the CITE (Create, Integrate, Teach and Exp
 *   Experience NE and learn about the uniqueness of Singapore through learning journeys. Through these experiential journeys, it is hoped that our pupils will learn more about the respective races, practices and cultures, and learn the value of respect and thus appreciate the different races in our multi-racial and cultural Singapore.
 
 
-#### SG50 @ Park View Primary School
-
+<h4>SG50 @ Park View Primary School</h4>
 
 <img src="/images/SG50%20%20Park%20View%20Logo%20Citizenship%20Page.jpg" style="width:50%">
 
-<h3><a name="Values in Action (VIA)"></a>Values in Action (VIA)</h3>
+<h4>Values in Action (VIA)</h4>
 
+<h5>Approach</h5>
 
+<p align="justify">In our effort to nurture our pupils to become a morally upright, responsible and gracious citizen, the school believes in adopting a whole school approach in the implementation of its Values In Action Programme.</p>
 
-#### Approach
+<p align="justify">There are 3 approaches for VIA in the school are <b>Environment</b>, <b>Fund-raising</b> and <b>Outreach</b>. Through this extensive approach, it is hoped that our pupils will learn about citizenship; a citizen who is informed, concerned and participative.</p>
 
-In our effort to nurture our pupils to become a morally upright, responsible and gracious citizen, the school believes in adopting a whole school approach in the implementation of its Values In Action Programme.
+<p align="justify">VIA activities are differentiated and developmental in nature where pupils get the experience to be involved in community service in stages throughout their primary school years, according to the objectives that have been spelt out for the different levels.</p>
 
-There are 3 approaches for VIA in the school are&nbsp;**_Environment_**,&nbsp;**_Fund-raising_**&nbsp;and&nbsp;**_Outreach_**. Through this extensive approach, it is hoped that our pupils will learn about citizenship; a citizen who is informed, concerned and participative.  
+<p align="justify">VIA Packages are designed to guide pupils through the 3 stages of VIA: pre-VIA, VIA and post-VIA.</p>
 
-VIA activities are differentiated and developmental in nature where pupils get the experience to be involved in community service in stages throughout their primary school years, according to the objectives that have been spelt out for the different levels.
+<p align="justify">Some highlights of our VIA activities include Project SHINE for all pupils, Adopt-a-Plot for Primary 3, Project Festive and Litter Free Neighbourhood for Primary 4, visit to the senior citizens’ home for Primary 5 and school enhancement activities in Batam, Indonesia for Primary 6.</p>
 
-VIA Packages are designed to guide pupils through the 3 stages of VIA: pre-VIA, VIA and post-VIA.
-
-Some highlights of our VIA activities include Project SHINE for all pupils, Adopt-a-Plot for Primary 3, Project Festive and Litter Free Neighbourhood for Primary 4, visit to the senior citizens’ home for Primary 5 and school enhancement activities in Batam, Indonesia for Primary 6.
-
-
-
-<h3><a name="Recognition &amp; Motivation"></a>Recognition &amp; Motivation</h3>
+<h4>Recognition &amp; Motivation</h4>
 
 *   [After-thoughts, Best Wishes Corner (ABC)](/curriculum/cce/recognition-n-motivation/after-thoughts-best-wishes-corner-abc)
 *   [Model Class Award](/curriculum/cce/recognition-n-motivation/model-class-award)
@@ -157,6 +149,6 @@ Some highlights of our VIA activities include Project SHINE for all pupils, Adop
 *   [P6 Motivation Programme](/curriculum/cce/recognition-n-motivation/p6-motivation-programme)
 
 
-<h3><a name="Sexuality Education 2021"></a>Sexuality Education 2021</h3>
+<h4>Sexuality Education 2021</h4>
 
 For more information, click [here](/curriculum/cce/character-development/sexuality-education-2021)
