@@ -53,19 +53,19 @@ variant: markdown
 		</tr>
 				<tr>
 			<td style="border: 1px solid black;">Oral Vocabulary List</td>
-			<td style="border:1px solid black;"><ul><li>Learn to use correct nouns &amp; verbs during picture description</li>
+			<td style="border:1px solid black;"><ul><li>Learn to use correct nouns verbs during picture description</li>
 <li>Develop proficiency to converse in Tamil</li></ul></td>
 		</tr>
 						<tr>
 			<td style="border: 1px solid black;">Composition Package</td>
-			<td style="border:1px solid black;"><ul><li>Grasp technique on using interesting words &amp; phrases appropriately in compositions</li>
+			<td style="border:1px solid black;"><ul><li>Grasp technique on using interesting words phrases appropriately in compositions</li>
 <li>Experience writing on different scenerios within experience</li>
 				<li>Enhance writing skills through developing ideas using the various techniques taught</li></ul></td>
 		</tr>
 						<tr>
-			<td style="border: 1px solid black;">Interesting Words &amp; Phrases List</td>
-			<td style="border:1px solid black;"><ul><li>Learn interesting words &amp; phrases and use them appropriately in compositions</li>
-<li>Enhance writing skills through usage of interesting words &amp; phrases</li></ul></td>
+			<td style="border: 1px solid black;">Interesting Words Phrases List</td>
+			<td style="border:1px solid black;"><ul><li>Learn interesting words phrases and use them appropriately in compositions</li>
+<li>Enhance writing skills through usage of interesting words phrases</li></ul></td>
 		</tr>
 						<tr>
 			<td style="border: 1px solid black;">Synonyms List</td>
@@ -104,8 +104,8 @@ Package</td>
 		</tr>
 						<tr>
 			<td style="border: 1px solid black;">MTL Fortnight Cultural Activities</td>
-			<td style="border:1px solid black;"><ul><li>Acquire &amp; enjoy the literacy aspect of the language</li>
-<li>Showcase talents through various literacy activities &amp; competitions</li></ul></td>
+			<td style="border:1px solid black;"><ul><li>Acquire  enjoy the literacy aspect of the language</li>
+<li>Showcase talents through various literacy activities  competitions</li></ul></td>
 		</tr>
 						<tr>
 			<td style="border: 1px solid black;">Recess Activities<br>(Odd Weeks)</td>
