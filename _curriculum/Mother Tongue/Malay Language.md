@@ -118,4 +118,4 @@ variant: markdown
 <b>Implementation in class:</b>
 <img src="/images/Malay%20MT%206.jpg" alt="Implementation in class" style="width:70%">
 
-**Click on the**&nbsp;[link](https://www.mtls.edu.sg/mlmoe/park-view/)&nbsp;**to view our poster for the MTL Symposium 2021.**</i>
+**Click on the**[link](https://www.mtls.edu.sg/mlmoe/park-view/)&nbsp;**to view our poster for the MTL Symposium 2021.**</i>
