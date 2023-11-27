@@ -3,9 +3,9 @@ title: Cognitive Achievements
 permalink: /about-us/achievements/students/cognitive-achievements/
 description: ""
 third_nav_title: Students
+variant: markdown
 ---
-
-<h1>Cognitive Achievements</h1>
+<h4>Cognitive Achievements</h4>
 
 
 <h4>2023</h4><br>
@@ -17,7 +17,7 @@ third_nav_title: Students
 <h4>2019</h4>
 
 <b>Trinity College London Speech &amp; Drama</b>   
-<b>Achieved&nbsp;13&nbsp;Distinctions and&nbsp;3&nbsp;Merits</b>
+<b>Achieved Distinctions and 3 Merits</b>
 
 ![](/images/Picture1%20(1).png)
 
@@ -47,19 +47,19 @@ Individual - 7th Position &amp; Top 20
 ![](/images/Picture8(1).png)
 
 <b>OPS BACA COMPETITION</b>    
-RE-ENACTMENT OF FOLKLORE CATEGORY (2nd&nbsp;Position)
+RE-ENACTMENT OF FOLKLORE CATEGORY (2nd Position)
 
 <img src="/images/Picture9(1).png" style="width:70%">
 		 
-<b>BOOK PROMOTION CATEGORY - 1st&nbsp;Position</b>   
+<b>BOOK PROMOTION CATEGORY - 1st Position</b>   
 Haziq Rayyan Bin Mohammed Hairulnizam 3B   
 Faiz Thaqif Bin Nurrashid 3C
 
-<b>TWISTED TALE CATEGORY - 2nd&nbsp;Position</b>
+<b>TWISTED TALE CATEGORY - 2nd Position</b>
 
 ![](/images/Picture11-1.png)
 
-<b>ADAPTATION OF MODERN FOLKLORE CATEGORY - 1st&nbsp;Position</b>
+<b>ADAPTATION OF MODERN FOLKLORE CATEGORY - 1st Position</b>
 
 <img src="/images/Picture12-1.png" style="width:70%">
 
