@@ -31,7 +31,7 @@ variant: markdown
 		</tr>
 						<tr>
         <td style="border:1px solid black;">ICT Associate</td>
-      <td style="border:1px solid black;">Miss Leria Dana pauline</td>
+      <td style="border:1px solid black;">Miss Leria Dana Pauline</td>
 			<td style="border:1px solid black;"><a href="leria_dana_pauline_pangasinan@schools.gov.sg">leria_dana_pauline_pangasinan@schools.gov.sg</a></td>
 		</tr>
 				<tr>
