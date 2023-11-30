@@ -3,6 +3,7 @@ title: Creative Dance
 permalink: /co-curriculum/performing-arts/creative-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 <p align="justify">The Dance CCA was one of the first CCAs to be set up when the school started. We had different ethnic dance groups those days. Over some years, equality and diversity took great importance in our merger to Creative Dance CCA.</p>
 
@@ -38,17 +39,9 @@ Mdm Wang Luning
 
 ![](/images/3.jpeg)
 
-![](/images/Pic01_intldance.jpg)
-
-![](/images/Intl%20Dance_1.jpg)
-
-![](/images/Intl%20Dance_3.jpg)
-
-![](/images/Untitled.jpg)
-
 <h4>2018 SYF Arts Presentation</h4>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MWXyRHKX3k8?si=KNTImqAM6ND0Lmb6" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube" src="https://www.youtube.com/embed/MWXyRHKX3k8?si=KNTImqAM6ND0Lmb6" height="315" width="560"></iframe>
 
 <h4>2014 SYF Arts Presentation Rehearsals</h4>
 
