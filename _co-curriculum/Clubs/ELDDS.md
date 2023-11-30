@@ -3,6 +3,7 @@ title: ELDDS
 permalink: /co-curriculum/Clubs/ELDDS/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 Our weekly drama activities during ELDDS sessions encompasses and integrates the elements of Drama and oral communication. We engage our students by involving them in decision making, problem solving and relationship management through theatrical hands on activities for their holistic development. This is achieved by creating avenues for them to communicate with others, devise their own creative pieces and work in an ensemble to perform for an audience.
   
@@ -24,10 +25,5 @@ Ms Joyce Low
 Hotspot<br>
 </td>
 </tr>
-	<tr>
-	<th style="border-color:#000000;solid;border-width:1px;">Coach</th>
-	<td style="border-color:#000000;solid;border-width:1px;">The Edutainment Circle</td>
-	</tr>
 	</tbody>
 	</table>
-
