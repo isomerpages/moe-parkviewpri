@@ -38,15 +38,3 @@ Mdm Wang Luning
 ![](/images/4.jpeg)
 
 ![](/images/3.jpeg)
-
-<h4>2018 SYF Arts Presentation</h4>
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube" src="https://www.youtube.com/embed/MWXyRHKX3k8?si=KNTImqAM6ND0Lmb6" height="315" width="560"></iframe>
-
-<h4>2014 SYF Arts Presentation Rehearsals</h4>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MWXyRHKX3k8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-<h3>Achievements - SYF 2010 &amp; 2012 (Silver Award)</h3>
-
-<img src="/images/dance2.jpg">
