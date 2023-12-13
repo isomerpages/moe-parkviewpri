@@ -3,6 +3,7 @@ title: Scouts
 permalink: /co-curriculum/Uniformed-Groups/scouts/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 # **Scouts**
 
@@ -27,7 +28,9 @@ Mdm Nur Faizah Abdan (Asst. Scout Leader)
 
 <img src="/images/Scouts0.jpg" style="width:50%">
 <br>
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Event</th><th style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Achievements</th><th style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Year</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Frank Cooper Sands Award<br></td><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Gold<br></td><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">2019<br></td></tr><tr><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Frank Cooper Sands Award<br></td><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Silver<br></td><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">2015<br></td></tr><tr><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Frank Cooper Sands Award<br></td><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Silver<br></td><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">2014<br></td></tr><tr><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Frank Cooper Sands Award<br></td><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Silver<br></td><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">2013<br></td></tr><tr><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Frank Cooper Sands Award<br></td><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Silver<br></td><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">2012</td></tr></tbody></table>
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Event</th><th style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Achievements</th><th style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Year</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Frank Cooper Sands Award<br></td><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">Gold<br></td><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:middle;word-break:normal">2019<br></td></tr><tr></tr></tbody></table>
+
+
 • The Frank Cooper Sands Award for the Year of Assessment 2020 was suspended.
 <br>
 <h3>Activities/Events</h3>  
@@ -47,25 +50,3 @@ Mdm Nur Faizah Abdan (Asst. Scout Leader)
 ![](/images/Scout_03.jpg)
 
 ![](/images/Scout_04.jpg)
-
-### JUNE CAMP 2016 @ MERIDIAN PRIMARY SCHOOL
-
-The cub scouts participated in a Scouting camp from 1st&nbsp;to 3rd&nbsp;of June in collaboration with Meridian Primary School held at Meridian Primary School. During the three days, the cub scouts were able to put into practice their social emotional and 21st&nbsp;Century competency skills through the scouting activities such as tent pitching and team bonding games. The cub scouts had an enjoyable and memorable learning experience.
-
-![](/images/SCOUT_!!.jpg)
-
-![](/images/Scout_01.jpg)
-
-### JUNE CAMP 2015 @ MERIDIAN PRIMARY SCHOOL
-
-![](/images/Collated_pics.jpg)
-
-### COURSES ATTENDED BY THE CUB SCOUTS IN TERM 1 &amp; 2
-
-![](/images/Scout_1.jpg)
-
-![](/images/Scout_2.jpg)
-
-![](/images/Scout_3.jpg)
-
-![](/images/slide%207.jpg)

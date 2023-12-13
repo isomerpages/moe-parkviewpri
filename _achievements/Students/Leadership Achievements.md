@@ -3,8 +3,9 @@ title: Leadership Achievements
 permalink: /about-us/achievements/students/leadership-achievements/
 description: ""
 third_nav_title: Students
+variant: markdown
 ---
-<h1>Leadership Achievements</h1>
+<h4>Leadership Achievements</h4>
 <h4> 2019</h4>
 
 ![](/images/Picture16.png)

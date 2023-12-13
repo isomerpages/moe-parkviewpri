@@ -3,110 +3,106 @@ title: Character & Citizenship Education (CCE)
 permalink: /curriculum/cce/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
-### Character & Citizenship Education Department Framework
+<h4>Framework</h4>
 
 ![](/images/PVPS%20Student%20Outcomes%20Framework%20v3_optimisedforweb.jpg)
 
-**Student Leadership**
+<b>Student Leadership</b>
 
-To develop pupils into upright, confident and proactive leaders equipped with good leadership and interpersonal skills to lead and serve towards excellence
-
-
-**Character Development**
-
-To nurture students into responsible, resilient and reflective individuals anchored on positive moral values who are strong team players, active contributors and excellence champions
+<p align="justify">To develop pupils into upright, confident and proactive leaders equipped with good leadership and interpersonal skills to lead and serve towards excellence.</p>
 
 
-**Citizenship**
+<b>Character Development</b>
 
-To nurture loyal citizens, who love the school and country, are able to build friendships with others regardless of race, language or religion, strengthen their resilience both as individuals and as a nation, and contribute as individuals to their families, society and country
+<p align="justify">To nurture students into responsible, resilient and reflective individuals anchored on positive moral values who are strong team players, active contributors and excellence champions.</p>
 
-**Values in Action (VIA)**
 
-To nurture morally upright, responsible and gracious individuals who not only understand their roles in society but willingly volunteer their services for the betterment of the society
+<b>Citizenship</b>
 
---------------------------------------------
+<p align="justify">To nurture loyal citizens, who love the school and country, are able to build friendships with others regardless of race, language or religion, strengthen their resilience both as individuals and as a nation, and contribute as individuals to their families, society and country.</p>
+
+<b>Values in Action (VIA)</b>
+
+<p align="justify">To nurture morally upright, responsible and gracious individuals who not only understand their roles in society but willingly volunteer their services for the betterment of the society.</p>
 
 * [Pupil Leadership](#PupilLeadership)  
 * [Character Development](#CharacterDevelopment)
 * [Citizenship](#Citizenship)
 * [Values in Action (VIA)](#ValuesinAction)
-* [Recognition & Motivation](#Recognition&Motivation)
+* [Recognition &amp; Motivation](#Recognition&amp;Motivation)
 * [Sexuality Education 2021](#SexualityEducation2021)
 
 
-<h3><a name="Pupil Leadership"></a>Pupil Leadership</h3>
+<h4>Pupil Leadership</h4>
+<b>Approach</b>
 
-#### Approach
+<p align="justify">The Student Leadership Development Programme in PVPS uses a whole school approach in providing students with broad experiences that will develop leadership skills and qualities in them.</p>
 
-The Student Leadership Development Programme in PVPS uses a whole school approach in providing students with broad experiences that will develop leadership skills and qualities in them.
+<p align="justify">Under the Student Leadership Development Programme, 3 broad approaches are established, as seen in the framework below. They are:</p>
 
-Under the Student Leadership Development Programme, 3 broad approaches are established, as seen in the framework below. They are:
+<ul>
+	<li>Leadership for All;</li>
+	<li>Leadership for Service Council; and</li>
+	<li>Leadership for Key Leaders</li>
+</ul>
 
-*   Leadership for All;
-*   Leadership for Service Council; and
-*   Leadership for Key Leaders
-
-**Figure 1: Framework of Pupil Leadership Development**
+<b>Figure 1: Framework of Pupil Leadership Development</b>
 
 ![](/images/leadership-Web.jpg)
 
-**Leadership for All (Exposure)**
+<b>Leadership for All (Exposure)</b>
+<ul>
+	<li>The main focus of “Leadership for All” is to give leadership exposure to all students.</li></ul>
 
-*   The main focus of “Leadership for All” is to give leadership exposure to all students.
+<b>Leadership for Service Learning Council (Experience)</b>
+<ul>
+<li>The main focus of “Leadership for Service Learning Council” is to allow students to experience taking up leadership roles and the responsibilities and challenges that come with these roles while serving the school.</li>
 
-**Leadership for Service Learning Council (Experience)**
+<li>This is targeted at students who have demonstrated school shared values and display leadership potential.</li></ul>
 
-*   The main focus of “Leadership for Service Learning Council” is to allow students to experience taking up leadership roles and the responsibilities and challenges that come with these roles while serving the school.
+<b> The 7 Service Learning Councils are:</b>
+<ul>
+	<li> Aesthetics Ambassadors</li>
+	<li>Cyberwellness Ambassadors</li>
+	<li>Green Ambassadors</li>
+	<li>HoPE Ambassadors</li>
+	<li> MRL Ambassadors</li>
+	<li>NE Ambassadors</li>
+	<li> Prefects</li></ul>
 
-*   This is targeted at students who have demonstrated school shared values and display leadership potential.
+<b>Leadership for Key Leaders (Excel)</b>
+<ul>
+<li> In line with our strategic thrust \[2\], Innovation &amp; Excellence, the main focus of “Leadership for Key Leaders” is to develop students to excel as leaders.</li></ul>
 
-*   The 7 Service Learning Councils are:
+<h4><a name="Character Development"></a>Character Development</h4>
 
-	*   Aesthetics Ambassadors
-	*   Cyberwellness Ambassadors
-	*   Green Ambassadors
-	*   HoPE Ambassadors
-	*   MRL Ambassadors
-	*   NE Ambassadors
-	*   Prefects
+<b>Approach</b>
 
-**Leadership for Key Leaders (Excel)**
+<p>In the Character Development of our pupils, we have adopted the ESEE (Engagement, Support, Expertise, Extension) approach. The ESEE approach consists of the following:</p>
+<ul>
+<li><b><u>E</u></b>ngagement of all pupils in the various school wide character development programmes adopting pupil-centred strategies.</li>
 
-*   In line with our strategic thrust \[2\], Innovation & Excellence, the main focus of “Leadership for Key Leaders” is to develop students to excel as leaders.
+<li><b><u>S</u></b>upport the character development of pupils through differentiated resources and strategies.</li>
 
-<h3><a name="Character Development"></a>Character Development</h3>
-
-#### Approach
-
-In the Character Development of our pupils, we have adopted the ESEE (Engagement, Support, Expertise, Extension) approach. The ESEE approach consists of the following:
-
-*   **E**ngagement of all pupils in the various school wide character development programmes adopting pupil-centred strategies
-
-*   **S**upport the character development of pupils through differentiated resources and strategies
-
-*   **E**xpertise of teachers and partners to enhance character development
+<li><b><u>E</u></b>xpertise of teachers and partners to enhance character development.</li>
 
 1.  Encouraging teacher leadership in the design and implementation of character development programmes and activities
 2.  Establishing strategic partnership in the area of character development
 
-*   **E**xtension of character development through infusion across disciplines in school, at home and to the community
+<li><b><u>E</u></b>xtension of character development through infusion across disciplines in school, at home and to the community.</li></ul>
 
 
-#### Values in Practice (VIP) Programme
+<h4>Values in Practice (VIP) Programme</h4>
 
 ![](/images/VIP%20Logo%20Web.jpg)
 
 Click [here](/curriculum/cce/character-development/values-in-practice-vip-programme) for more information.
 
+<h4>Citizenship</h4>
+<h5>Overview</h5>
 
-<h3><a name="Citizenship"></a>Citizenship</h3>
-
-
-### Overview
-
-  
 **Introduction**  
   
 The purpose of National Education is to develop national cohesion, the instinct for survival and confidence in the future by:  
@@ -127,30 +123,25 @@ In Park View Primary School, we adopt the CITE (Create, Integrate, Teach and Exp
 *   Experience NE and learn about the uniqueness of Singapore through learning journeys. Through these experiential journeys, it is hoped that our pupils will learn more about the respective races, practices and cultures, and learn the value of respect and thus appreciate the different races in our multi-racial and cultural Singapore.
 
 
-#### SG50 @ Park View Primary School
-
+<h4>SG50 @ Park View Primary School</h4>
 
 <img src="/images/SG50%20%20Park%20View%20Logo%20Citizenship%20Page.jpg" style="width:50%">
 
-<h3><a name="Values in Action (VIA)"></a>Values in Action (VIA)</h3>
+<h4>Values in Action (VIA)</h4>
 
+<h5>Approach</h5>
 
+<p align="justify">In our effort to nurture our pupils to become a morally upright, responsible and gracious citizen, the school believes in adopting a whole school approach in the implementation of its Values In Action Programme.</p>
 
-#### Approach
+<p align="justify">There are 3 approaches for VIA in the school are <b>Environment</b>, <b>Fund-raising</b> and <b>Outreach</b>. Through this extensive approach, it is hoped that our pupils will learn about citizenship; a citizen who is informed, concerned and participative.</p>
 
-In our effort to nurture our pupils to become a morally upright, responsible and gracious citizen, the school believes in adopting a whole school approach in the implementation of its Values In Action Programme.
+<p align="justify">VIA activities are differentiated and developmental in nature where pupils get the experience to be involved in community service in stages throughout their primary school years, according to the objectives that have been spelt out for the different levels.</p>
 
-There are 3 approaches for VIA in the school are **_Environment_**, **_Fund-raising_** and **_Outreach_**. Through this extensive approach, it is hoped that our pupils will learn about citizenship; a citizen who is informed, concerned and participative.  
+<p align="justify">VIA Packages are designed to guide pupils through the 3 stages of VIA: pre-VIA, VIA and post-VIA.</p>
 
-VIA activities are differentiated and developmental in nature where pupils get the experience to be involved in community service in stages throughout their primary school years, according to the objectives that have been spelt out for the different levels.
+<p align="justify">Some highlights of our VIA activities include Project SHINE for all pupils, Adopt-a-Plot for Primary 3, Project Festive and Litter Free Neighbourhood for Primary 4, visit to the senior citizens’ home for Primary 5 and school enhancement activities in Batam, Indonesia for Primary 6.</p>
 
-VIA Packages are designed to guide pupils through the 3 stages of VIA: pre-VIA, VIA and post-VIA.
-
-Some highlights of our VIA activities include Project SHINE for all pupils, Adopt-a-Plot for Primary 3, Project Festive and Litter Free Neighbourhood for Primary 4, visit to the senior citizens’ home for Primary 5 and school enhancement activities in Batam, Indonesia for Primary 6.
-
-
-
-<h3><a name="Recognition & Motivation"></a>Recognition & Motivation</h3>
+<h4>Recognition &amp; Motivation</h4>
 
 *   [After-thoughts, Best Wishes Corner (ABC)](/curriculum/cce/recognition-n-motivation/after-thoughts-best-wishes-corner-abc)
 *   [Model Class Award](/curriculum/cce/recognition-n-motivation/model-class-award)
@@ -158,6 +149,6 @@ Some highlights of our VIA activities include Project SHINE for all pupils, Adop
 *   [P6 Motivation Programme](/curriculum/cce/recognition-n-motivation/p6-motivation-programme)
 
 
-<h3><a name="Sexuality Education 2021"></a>Sexuality Education 2021</h3>
+<h4>Sexuality Education 2021</h4>
 
 For more information, click [here](/curriculum/cce/character-development/sexuality-education-2021)

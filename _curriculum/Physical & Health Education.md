@@ -2,24 +2,26 @@
 title: Physical & Health Education
 permalink: /curriculum/physical-n-health-education/
 description: ""
+variant: markdown
 ---
-### Vision
+<h4>Department Goal</h4>
+
+<b>Vision</b>
 
 To enable our students to demonstrate individually and with others the physical skills, practices, and values to enjoy a lifetime of active, healthy living.
 
-### Mission
+<b>Mission</b>
 
 To enable and encourage our students to be active after leaving school, with a greater focus on building a strong foundation in fundamental movement skills (FMS) and broad-based development through a range of enjoyable and varied physical activities.
 
-### Framework
+<h4>Framework</h4>
+<p align="center"><img height="100" width="100" src="/images/Curriculum/PE/PE%20-%20Framework.jpg"></p>
 
-<img src="/images/Curriculum/PE/PE%20-%20Framework.jpg" style="width:75%">
-
-#### Enable Health and Fitness for life
+<h4>Enable Health and Fitness for life</h4>
 <ul>
 <li>Provide platforms for students to choose, experience and engage in physical activities through participation in sports and health-related programmes and activities.</li></ul>
 
-#### Deepening Enjoyment of Active and Healthy Living
+<h4>Deepening Enjoyment of Active and Healthy Living</h4>
 <ul>
 <li>Expose students to a range of sports and games skills through sporting events/programmes and PE lessons.</li>
 <li>Enhance students’ sports experience through the school’s Learning for Life Programme (LLP) – Sports Experiential Programme.</li>
@@ -28,9 +30,9 @@ To enable and encourage our students to be active after leaving school, with a g
 \- self and peer assessment (subject-based/learning outcomes)<br>
 \- self and peer assessment (in Values, SEL &amp; 21CC)
 
-### Enrichment Programme
+<h4>Enrichment Programme</h4>
 
-##### P1 Jump Rope Enrichment
+<b>P1 Jump Rope Enrichment</b>
 
 <p align="justify">Jump Rope is a sport for all ages and abilities. It helps the development and improvement of psychomotor skills, coordination, agility, flexibility, stamina and endurance. It is also proven to strength bones and joints. Beside all these benefits, Jump Rope can also increase self-esteem and confidence when skippers increase their skill levels and develop performing skills.</p>
 
@@ -80,7 +82,7 @@ body {
 </div>
 
 
-##### P2 Wushu Enrichment
+<b>P2 Wushu Enrichment</b>
 
 <p align="justify">Wushu Enrichment is a programme customised for P2 students. It aims to introduce our students to basic martial arts through engaging lessons. Throughout the programme, emphasis will be placed on hand and leg movements and coordination. Students will then be able to perform a basic routine.</p>
 
@@ -130,7 +132,7 @@ body {
 </div>
 
 
-##### P5 Outdoor Adventure Learning Camp (Residential)
+<b>P5 Outdoor Adventure Learning Camp (Residential)</b>
 
 <p align="justify">P5 Outdoor Adventure Learning Camp (Residential)
 As part of the National Outdoor Adventure Education (OAE) Master Plan, all Primary 5 students participate in an Outdoor Adventure Learning Camp. Through the camp, students develop social emotional competencies including self-awareness, social awareness, self-management, relationship management and responsible decision making. They will also learn to manage one’s safety during outdoor activities and demonstrate responsible decision making towards self, others and the community and environment.</p>
@@ -201,9 +203,9 @@ body {
 </div>
 
 
-### School Events
+<h4>School Events</h4>
 
-##### PVPS Family Run &amp; Walk Challenge
+<b>PVPS Family Run &amp; Walk Challenge</b>
 
 <p align="justify">To deepen the enjoyment of active and healthy living, encourage students and their family members to stay active, and to promote family bonding through participation in physical activities together, the PE department organizes the yearly PVPS Family Run &amp; Walk Challenge where the students (accompanied by an adult family member at all times) would run and/or walk a specific distance within the stipulated time period. Screenshots of the runs will be submitted via a google form for tabulation after every workout. Students who accomplish the Challenge will win prizes that include medals, water bottles, finisher tees, etc.</p>
 
@@ -253,7 +255,7 @@ body {
 </div>
 
 
-##### PVPS Olympics
+<b>PVPS Olympics</b>
 
 <p align="justify">PVPS Olympics, one of the key sporting events in the school is a series of events leading up to the culmination of the PVPS Olympics Day where students represent their houses and battle it out to be crowned Champion House of the year.</p>
 <p align="justify">The aims of the event are to provide a platform for students from different classes and levels to mingle, forge friendships and to demonstrate qualities such as sportsmanship, teamwork and fair play. The PVPS Olympics put to test both individual competencies and team camaraderie through various sports events </p>
@@ -303,8 +305,7 @@ body {
 <img src="/images/Curriculum/PE/PVPS%20Olympics_5.png"></div>
 </div>
 
-
-##### P1 Orientation Programme (Telematch)
+<b>P1 Orientation Programme (Telematch)</b>
 
 <p align="justify">During P1 Orientation Week, the PE department organizes a Telematch for the P1 students. It is a type of class-based games and sports that is played in a fun setting, with the students working together to complete various tasks or activities. Telematch challenges may test the students' physical agility, fundamental movement skills, balance, coordination, speed, and endurance, as well as their mental skills, such as problem-solving, strategic thinking, and communication.</p>
 
@@ -351,11 +352,10 @@ body {
 </div>
 
 
-#### School Programmes
+<h4>School Programmes</h4>
 
-##### Health Awareness Week
-
-###### Active Friday
+<h5>Health Awareness Week</h5>
+<b>Active Friday</b>
 
 <p align="justify">The promotion of a healthy lifestyle in a fun and structured way with a whole school approach on Fridays via workouts as part of morning assembly and promoting eating fruits and vegetables during recess by collecting of Fruittie and Veggie cards. The programme also empowers students by involving them in workouts, monitoring and rewarding their peers' consumption of fruits and vegetables.</p>
 
@@ -405,7 +405,7 @@ body {
 </div>
 
 
-###### Unstructured Play / Recess Play
+<b>Unstructured Play / Recess Play</b>
 
 <p align="justify">Children’s unstructured play has been recognized as a major agent in young children’s development and learning. Through play, children learn societal roles, norms, and values and develop physical and cognitive competencies, creativity, self-worth and efficacy. It specifically helps creativity and imagination, problem-solving abilities and social skills. Furthermore, children also report being happiest when at play.</p>
 
@@ -455,5 +455,5 @@ body {
 </div>
 
 
-### Useful Resources
+<h4>Useful Resources</h4>
 <a href="https://www.moe.gov.sg/primary/curriculum/syllabus">PE Syllabus</a>

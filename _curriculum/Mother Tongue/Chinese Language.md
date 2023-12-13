@@ -3,8 +3,9 @@ title: Chinese Language
 permalink: /curriculum/mother-tongue/Chinese-Language/
 description: ""
 third_nav_title: Mother Tongue
+variant: markdown
 ---
-### 我们的骄傲
+<h4>我们的骄傲</h4>
 <br>
 <img src="/images/pic%20student%2001.jpeg" style="width:50%">
 <p>2023年，我校黄俊稀同学入围新加坡书法中心主办的全国毛笔/硬笔大决赛，并荣获小学组硬笔优秀奖。</p><br>
@@ -53,8 +54,8 @@ third_nav_title: Mother Tongue
 
 <img src="/images/Curriculum/Mother%20Tongue/CL/tab2_img_1.jpg" style="width:100%">
 
-### 阅读活动
-#### 好饿的毛毛虫
+<h4>阅读活动</h4>
+<h5>好饿的毛毛虫</h5>
 
 无论学习哪一种语言，阅读都是最重要的学习途径，让孩子受用一生。
 百惠小学“好饿的毛毛虫”阅读活动旨在让孩子们拿起书本、爱上读书、读到好书。现在，孩子们已经养成习惯，常常做毛毛虫阅读卡、听故事会的故事、主动借阅课室图书、很快完成主题阅读活动、爱上了日本作家宫西达也的恐龙们……更不会忘记找老师们给自己的阅读手册盖个印章！
@@ -64,8 +65,8 @@ third_nav_title: Mother Tongue
 
 <img src="/images/Curriculum/Mother%20Tongue/CL/tab2_img_2.jpg" style="width:100%">
 
-### 文化活动
-#### 母语双周活动
+<h4>文化活动</h4>
+<h5>母语双周活动</h5>
 
 
 为了弘扬华族文化，让学生们了解、热爱自己的母语，华文部每年都为一至六年级的学生举办一系列精彩的母语双周活动。活动主要是针对各年级的需要而设计，内容涵盖书法、儿歌朗诵、创意绘画和文化营等，还联合家长义工和商家共同举办语文嘉年华和文化嘉年华，让学生“乐学善用”母语，并细细品茗珍贵的文化资产。母语双周活动不仅让学生学习到课本以外的知识，拉近了学生与文化之间的距离，同时也让大家见证了华族文化的魅力。
@@ -74,7 +75,7 @@ third_nav_title: Mother Tongue
 
 <img src="/images/Curriculum/Mother%20Tongue/CL/tab2_img_3.jpg" style="width:100%">
 
-### 学习资源
+<h4>学习资源</h4>
 
 <table>
 	<thead>
@@ -116,11 +117,11 @@ moe.edu.sg/login">Singapore Student Learning Space (SLS)</a></td>
 </tbody>
 </table>
 
-### 执教老师
+<h4>执教老师</h4>
 <img src="/images/Curriculum/Mother%20Tongue/CL/table2023.jpg" alt="执教老师">
 
-### English Version
-#### Department Members 2023
+<h4>English Version</h4>
+<h5>Department Members 2023</h5>
 
 <table>
 	<thead>
@@ -173,7 +174,7 @@ moe.edu.sg/login">Singapore Student Learning Space (SLS)</a></td>
 	</tbody>
 </table>
 
-#### Introduction
+<h5>Introduction</h5>
 
 <p align="justify">Welcome to PVPS’s Chinese Language Department. We are a dedicated team to help our pupils in developing an interest in learning of their Mother Tongue Language.</p>
 
@@ -194,13 +195,13 @@ MOTHER TONGUE COMPOSITION EXAM</i>**
 
 <p align="justify">For further clarifications, you may access the School Examination and Assessment Branch website at <a href="http://www.seab.gov.sg">http://www.seab.gov.sg</a>, or contact your child’s Mother Tongue teacher.</p>
 
-#### <u>MOTHER TONGUE - CHINESE KEY PROGRAMMES</u>
+<h5><u>MOTHER TONGUE - CHINESE KEY PROGRAMMES</u></h5>
 
-##### <i>Hungry Caterpillar Reading Programme</i>
+<b><i>Hungry Caterpillar Reading Programme</i></b>
 <p align="justify">Reading is an integral part of any language learning. The Hungry Caterpillar Reading Programme aims to develop reading habits in students. We do this through reading activities and aligned them with the syllabus. We also leverage on activities organised by our community partners such as National Library Board and Committee for Promoting Chinese Language Learning (CPCLL) to promote reading.</p>
 
-##### <i>Mother Tongue Language (MTL) Fortnight Activitiese</i>
+<b><i>Mother Tongue Language (MTL) Fortnight Activitiese</i></b>
 <p align="justify">MTL Fortnight Activities aims to create an immersive environment for the learning of Chinese Language and its culture. Students will engage in language activities and learn about the major Chinese festivals, Calligraphy, stories from the Chinese classics – Journey to the West.</p>
 
-##### <i>Chinese New Year Celebration</i>
+<b><i>Chinese New Year Celebration</i></b>
 <p align="justify">Chinese New Year is the most important festival of the Chinese. Many activities are organised to get the students know more about the food, customs and traditions associated with Chinese New Year.</p>

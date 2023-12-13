@@ -3,8 +3,9 @@ title: Physical Achievements
 permalink: /about-us/achievements/students/physical-achievements/
 description: ""
 third_nav_title: Students
+variant: markdown
 ---
-<h1>Physical Achievements</h1>
+<h4>Physical Achievements</h4>
 
 <h4>2019</h4>
 

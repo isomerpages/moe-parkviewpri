@@ -3,8 +3,9 @@ title: Social & Moral Achievements
 permalink: /about-us/achievements/students/social-n-moral-achievements/
 description: ""
 third_nav_title: Students
+variant: markdown
 ---
-<h1>Social &amp; Moral Achievements</h1>
+<h4>Social &amp; Moral Achievements</h4>
 
 <h4>2019</h4>
 
