@@ -4,13 +4,14 @@ permalink: /about-us/school-canteen-menu/
 description: ""
 variant: markdown
 ---
-# **Canteen Menu**
+![](/images/About%20Us/2024%20Canteen%20Menu/Stall_1.jpg)
 
-![Stall 1 - Cool Station Menu](/images/Stall%201.jpg)
+![](/images/About%20Us/2024%20Canteen%20Menu/Stall_2.jpg)
 
-![Stall 2 - Hot Drinks & Snacks](/images/Stall%202.jpg)
+![](/images/About%20Us/2024%20Canteen%20Menu/Stall_4.jpg)
 
-![Stall 4 - Chinese cooked Noodles & Rice](/images/Stall%204.jpg)
+![](/images/About%20Us/2024%20Canteen%20Menu/Stall_7.jpg)
 
-![Stall 7 - Malay Cooked Noodles & Rice](/images/Stall%207.jpg)
+![](/images/About%20Us/2024%20Canteen%20Menu/Stall_8.jpg)
+
 
