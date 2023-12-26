@@ -3,6 +3,7 @@ title: Staff
 permalink: /about-us/achievements/staff/
 description: ""
 third_nav_title: Achievements
+variant: markdown
 ---
 <h4>2023 - MSEA</h4>	
 
@@ -466,80 +467,3 @@ third_nav_title: Achievements
              </tbody>
              </table>
 
-
-
-#### 2020 - OCA
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg">
-	<thead>
-		<tr>
-			<th style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Team - Contact Tracing Team (1st)</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-				Mr Tay Lip Seng<br>
-                Mr Chua Chun Wei<br>
-                Mdm Teo Chui Ping<br>
-                Mrs Hazel Cheong<br>
-                Miss Lee Siew Kiang<br>
-                Mdm Eileen Soh Chin Ping<br>
-                Miss Chua Shuan Kwee
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Team - SWB Team (2nd)</b>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-				Mdm Zubaidah Bte Othman<br>
-                Ms Felicia Tan Chuan Siang<br>
-                Miss Grace Yeo Jie Xin<br>
-                Mrs Evie Goh<br>
-                Miss June Quek Siew Lan<br>
-                Mrs Wendy Chew<br>
-                Mdm Patricia Yeo<br>
-                Mdm Zahrah Bte Md Abbas<br>
-                Mrs Eileen Yap<br>
-                Mdm Shirin Bte Osman<br>
-                Mdm Nurul Ainy
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Team - SBOR (3rd)</b>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-				Mdm Soh Chin Ping Eileen<br>
-                Ms Tina Lim Hwee Tin<br>
-                Mr Darvinder Singh
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Team - National Day Celebration (3rd)</b>
-            </td>
-            </tr>
-            <tr>
-           <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-           Mdm Nor Iqmalia Bte Saharudin<br>
-           Miss Grace Yeo Jie Xin<br>
-           Miss Rachel Lai<br>
-           Mdm Nur Farizah Binte Roslan
-			</td>
-            </tr>
-            		<tr>
-			<td style="background-color:#D9F8FA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><b>Individual Awardees</b>
-            </td>
-            </tr>
-            <tr>
-           <td style="background-color:#FAFAFA;border-color:#ffffff;border-style:solid;border-width:1px;color:#162837;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-           Mr Abdul Rashid Lim<br>
-           Mr Tay Lip Seng<br>
-           Miss Sanjevita Martin Rubin
-			</td>
-            </tr>
-             </tbody>
-             </table>
