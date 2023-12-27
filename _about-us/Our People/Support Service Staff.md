@@ -3,6 +3,7 @@ title: Support Service Staff
 permalink: /about-us/our-people/support-service-staff/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 <table>
 	<thead>
@@ -12,10 +13,6 @@ third_nav_title: Our People
 		</tr>
 	</thead>
 	<tbody>
-		<tr>
-      <td style="border:1px solid black;">ICT Trainer</td>
-<td style="border:1px solid black;">Mr Tyson</td>
-		</tr>
 		 <tr>
       <td style="border:1px solid black;">Desktop Engineer</td>
 <td style="border:1px solid black;">Mr Jahidin</td>
