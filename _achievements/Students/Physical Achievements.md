@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Students
 variant: markdown
 ---
-<h4>Physical Achievements</h4>
-
 <h4>2019</h4>
 
 ![](/images/Picture1.png)
@@ -22,11 +20,3 @@ variant: markdown
 ![](/images/Picture6.png)
 
 ![](/images/Picture7.png)
-
-<h4>2018</h4>
-
-![](/images/Picture15a.png)
-
-![](/images/Picture16a.png)
-
-![](/images/Picture17a.png)
