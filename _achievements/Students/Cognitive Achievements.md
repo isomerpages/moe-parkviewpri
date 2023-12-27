@@ -5,11 +5,8 @@ description: ""
 third_nav_title: Students
 variant: markdown
 ---
-<h4>Cognitive Achievements</h4>
-
-
 <h4>2023</h4><br>
-<b>Special Award 2023</b>
+<b>Special Award</b>
 
 ![](/images/special%20award%202023.png)
 
@@ -94,33 +91,3 @@ Silver Award
 DISTINCTION
 
 ![](/images/Picture36.png)
-
-<h4>2018</h4>
-
-![](/images/Picture1-1.png)
-
-![](/images/Picture2-1.png)
-
-![](/images/Picture3-1.png)
-
-![](/images/Picture4-1.png)
-
-![](/images/Picture5-1.png)
-
-![](/images/Picture6-1.png)
-
-![](/images/Picture7-1.png)
-
-![](/images/Picture8%20(1).png)
-
-![](/images/Picture9%20(1).png)
-
-![](/images/Picture10-1.png)
-
-![](/images/Picture11%20(1).png)
-
-![](/images/Picture12%20(1).png)
-
-![](/images/Picture13%20(1).png)
-
-![](/images/Picture14-1.png)
