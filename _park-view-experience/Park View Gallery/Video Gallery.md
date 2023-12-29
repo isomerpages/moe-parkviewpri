@@ -32,6 +32,6 @@ variant: markdown
 
 <h4>2023 Broadway</h4>
 
-<iframe src="https://www.youtube.com/embed/pQYRbiJXTqg?si=rRFq1YgqA-a-513g" height="345" width="420"></iframe>"&gt;
+<iframe src="https://www.youtube.com/embed/pQYRbiJXTqg?si=rRFq1YgqA-a-513g" height="345" width="420"></iframe>
 
 
