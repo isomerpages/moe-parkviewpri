@@ -149,7 +149,7 @@ variant: markdown
 	<tbody>
 		<tr>
 			<td style="border:1px solid black;">4 Respect<br>(4R1)</td>
-            <td style="border:1px solid black;">Mr Justin Luo<br>Miss Sebby Kwa Yan Teng</td>
+            <td style="border:1px solid black;">Mr Justin Luo<br>Miss Sebby Kwa </td>
 			<td style="border:1px solid black;"><a href="muslim_mohamed_amin@schools.gov.sg">justin_luo_yanzhong@schools.gov.sg</a><br><a href="teo_siew_yeun@schools.gov.sg">kwa_yan_teng@schools.gov.sg</a></td>
 		</tr>
 		<tr>
