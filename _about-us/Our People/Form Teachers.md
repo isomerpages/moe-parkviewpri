@@ -18,32 +18,32 @@ variant: markdown
 		<tr>
 			<td style="border:1px solid black;">1 Respect<br>(1R1)</td>
             <td style="border:1px solid black;">Mdm Nur Farizah<br>Mdm Teo Siok Eng</td>
-			<td style="border:1px solid black;"><a href="neo_sie_ling@schools.gov.sg">nur_farizah_roslan@schools.gov.sg</a><br><a href="chang_tiantian@schools.gov.sg">teo_siok_eng@schools.gov.sg</a></td>
+			<td style="border:1px solid black;"><a href="nur_farizah_roslan@schools.gov.sg">nur_farizah_roslan@schools.gov.sg</a><br><a href="teo_siok_eng@schools.gov.sg">teo_siok_eng@schools.gov.sg</a></td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">1 Responsibility<br>(1R2)</td>
             <td style="border:1px solid black;">Mdm Ng Kah Leng <br>Mdm Nurfarhanna </td>
-			<td style="border:1px solid black;"><a href="sharina_mohd_tahale@schools.gov.sg">ng_kah_leng@schools.gov.sg </a><br><a href="wong_peh_yan@schools.gov.sg">nurfarhannah_hazmi@schools.gov.sg</a></td>
+			<td style="border:1px solid black;"><a href="ng_kah_leng@schools.gov.sg">ng_kah_leng@schools.gov.sg </a><br><a href="nurfarhannah_hazmi@schools.gov.sg">nurfarhannah_hazmi@schools.gov.sg</a></td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">1 Resilience<br>(1R3)</td>
             <td style="border:1px solid black;">Mdm Sharina <br>Miss Chang Tian Tian</td>
-			<td style="border:1px solid black;"><a href="tan_poh_soon@schools.gov.sg">sharina_mohd_tahale@schools.gov.sg</a><br><a href="tan_kar_tiang@schools.gov.sg">Chang_Tiantian@schools.gov.sg</a></td>
+			<td style="border:1px solid black;"><a href="sharina_mohd_tahale@schools.gov.sg">sharina_mohd_tahale@schools.gov.sg</a><br><a href="Chang_Tiantian@schools.gov.sg">Chang_Tiantian@schools.gov.sg</a></td>
 		</tr>     
 		<tr>
 			<td style="border:1px solid black;">1 Integrity<br>(1I)</td>
             <td style="border:1px solid black;">Mdm Shirin<br>Mdm Valarmathi</td>
-			<td style="border:1px solid black;"><a href="phoebe_goh@schools.gov.sg">shirin_osman@schools.gov.sg</a><br><a href="zubaidah_othman@schools.gov.sg">valarmathi_a@schools.gov.sg</a></td>
+			<td style="border:1px solid black;"><a href="shirin_osman@schools.gov.sg">shirin_osman@schools.gov.sg</a><br><a href="valarmathi_a@schools.gov.sg">valarmathi_a@schools.gov.sg</a></td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">1 Care<br>(1C)</td>
             <td style="border:1px solid black;">Mr Jordan Toh<br>Mdm Yeo Peck Hui Patricia</td>
-			<td style="border:1px solid black;"><a href="tan_xiuling@schools.gov.sg">jordan_toh_yuexuan@schools.gov.sg</a><br><a href="grace_yeo_jie_xin@schools.gov.sg">yeo_peck_hui@schools.gov.sg</a></td>
+			<td style="border:1px solid black;"><a href="jordan_toh_yuexuan@schools.gov.sg">jordan_toh_yuexuan@schools.gov.sg</a><br><a href="yeo_peck_hui@schools.gov.sg">yeo_peck_hui@schools.gov.sg</a></td>
 		</tr>
       	<tr>
 			<td style="border:1px solid black;">1 Harmony<br>(1H)</td>
             <td style="border:1px solid black;">Miss Lee Siew Kiang<br>Mdm Wang Luning</td>
-			<td style="border:1px solid black;"><a href="quek_shi_rui@schools.gov.sg">lee_siew_kiang@schools.gov.sg</a><br><a href="evie_quah@schools.gov.sg">wang_luning@schools.gov.sg</a></td>
+			<td style="border:1px solid black;"><a href="lee_siew_kiang@schools.gov.sg">lee_siew_kiang@schools.gov.sg</a><br><a href="wang_luning@schools.gov.sg">wang_luning@schools.gov.sg</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -62,37 +62,37 @@ variant: markdown
 		<tr>
 			<td style="border:1px solid black;">2 Respect<br>(2R1)</td>
             <td style="border:1px solid black;">Mrs Celine Lim-Neo  <br> Mdm Nurashikin</td>
-			<td style="border:1px solid black;"><a href="ng_kah_leng@schools.gov.sg">neo_sie_ling@schools.gov.sg</a><br><a href="jordan_toh_yuexuan@schools.gov.sg">nurashikin_anuar@schools.gov.sg</a></td>
+			<td style="border:1px solid black;"><a href="neo_sie_ling@schools.gov.sg">neo_sie_ling@schools.gov.sg</a><br><a href="nurashikin_anuar@schools.gov.sg">nurashikin_anuar@schools.gov.sg</a></td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">2 Responsibility<br>(2R2)</td>
             <td style="border:1px solid black;">Mdm Wong Peh Yan<br>Mdm Nor Iqmalia </td>
-			<td style="border:1px solid black;"><a href="khairina_omar@schools.gov.sg">wong_peh_yan@schools.gov.sg</a><br><a href="shi_rui@schools.gov.sg">nor_iqmalia_saharudin@schools.gov.sg</a></td>
+			<td style="border:1px solid black;"><a href="wong_peh_yan@schools.gov.sg">wong_peh_yan@schools.gov.sg</a><br><a href="nor_iqmalia_saharudin@schools.gov.sg">nor_iqmalia_saharudin@schools.gov.sg</a></td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">2 Resilience<br>(2R3)</td>
             <td style="border:1px solid black;">Mdm Tan Poh Soon<br>Ms Lim Hwee Tin Tina</td>
-			<td style="border:1px solid black;"><a href="zahrah_mohamed_abbas@schools.gov.sg">tan_poh_soon@schools.gov.sg</a><br><a href="muhammad_izdihar_othman@schools.gov.sg">lim_hwee_tin_a@schools.gov.sg</a></td>
+			<td style="border:1px solid black;"><a href="tan_poh_soon@schools.gov.sg">tan_poh_soon@schools.gov.sg</a><br><a href="lim_hwee_tin_a@schools.gov.sg">lim_hwee_tin_a@schools.gov.sg</a></td>
 		</tr>     
 		<tr>
 			<td style="border:1px solid black;">2 Integrity<br>(2I)</td>
             <td style="border:1px solid black;">Mdm Zahrah<br>Miss Goh Phoebe</td>
-			<td style="border:1px solid black;"><a href="shirin_osman@schools.gov.sg">zahrah_mohamed_abbas@schools.gov.sg</a><br><a href="lim_hwee_tin_a@schools.gov.sg">phoebe_goh@schools.gov.sg</a></td>
+			<td style="border:1px solid black;"><a href="zahrah_mohamed_abbas@schools.gov.sg">zahrah_mohamed_abbas@schools.gov.sg</a><br><a href="phoebe_goh@schools.gov.sg">phoebe_goh@schools.gov.sg</a></td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">2 Care<br>(2C)</td>
             <td style="border:1px solid black;">Mdm Tan Xiu Ling<br>Mdm Zubaidah</td>
-			<td style="border:1px solid black;"><a href="valarmathi_a@schools.gov.sg">tan_xiuling@schools.gov.sg</a><br><a href="yeo_peck_hui@schools.gov.sg">zubaidah_othman@schools.gov.sg</a></td>
+			<td style="border:1px solid black;"><a href="tan_xiuling@schools.gov.sg">tan_xiuling@schools.gov.sg</a><br><a href="zubaidah_othman@schools.gov.sg">zubaidah_othman@schools.gov.sg</a></td>
 		</tr>
       	<tr>
 			<td style="border:1px solid black;">2 Harmony<br>(2H)</td>
             <td style="border:1px solid black;">Mdm Ong Bee Hoo<br>Ms Evie Quah </td>
-			<td style="border:1px solid black;"><a href="lee_siew_kiang@schools.gov.sg">ong_bee_hoo@schools.gov.sg</a><br><a href="teo_siok_eng@schools.gov.sg">evie_quah@schools.gov.sg</a></td>
+			<td style="border:1px solid black;"><a href="ong_bee_hoo@schools.gov.sg">ong_bee_hoo@schools.gov.sg</a><br><a href="evie_quah@schools.gov.sg">evie_quah@schools.gov.sg</a></td>
 		</tr>
 			<tr>
 			<td style="border:1px solid black;">2 Gratitude<br>(2G)</td>
             <td style="border:1px solid black;">Mdm Pang Cui Ling <br>Mdm Nailul Azmi</td>
-			<td style="border:1px solid black;"><a href="lee_siew_kiang@schools.gov.sg">pang_cui_ling@schools.gov.sg</a><br><a href="teo_siok_eng@schools.gov.sg">nailul_azmi_ismail@schools.gov.sg</a></td>
+			<td style="border:1px solid black;"><a href="pang_cui_ling@schools.gov.sg">pang_cui_ling@schools.gov.sg</a><br><a href="nailul_azmi_ismail@schools.gov.sg">nailul_azmi_ismail@schools.gov.sg</a></td>
 		</tr>
 	</tbody>
 </table>
