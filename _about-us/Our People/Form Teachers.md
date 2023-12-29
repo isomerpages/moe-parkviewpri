@@ -17,38 +17,33 @@ variant: markdown
 	<tbody>
 		<tr>
 			<td style="border:1px solid black;">1 Respect<br>(1R1)</td>
-            <td style="border:1px solid black;">Mrs Celine Lim<br>Miss Chang Tian Tian</td>
-			<td style="border:1px solid black;"><a href="neo_sie_ling@schools.gov.sg">neo_sie_ling@schools.gov.sg</a><br><a href="chang_tiantian@schools.gov.sg">chang_tiantian@schools.gov.sg</a></td>
+            <td style="border:1px solid black;">Mdm Nur Farizah<br>Mdm Teo Siok Eng</td>
+			<td style="border:1px solid black;"><a href="neo_sie_ling@schools.gov.sg">nur_farizah_roslan@schools.gov.sg</a><br><a href="chang_tiantian@schools.gov.sg">teo_siok_eng@schools.gov.sg</a></td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">1 Responsibility<br>(1R2)</td>
-            <td style="border:1px solid black;">Mdm Sharina<br>Mdm Wong Peh Yan</td>
-			<td style="border:1px solid black;"><a href="sharina_mohd_tahale@schools.gov.sg">sharina_mohd_tahale@schools.gov.sg </a><br><a href="wong_peh_yan@schools.gov.sg">wong_peh_yan@schools.gov.sg</a></td>
+            <td style="border:1px solid black;">Mdm Ng Kah Leng <br>Mdm Nurfarhanna </td>
+			<td style="border:1px solid black;"><a href="sharina_mohd_tahale@schools.gov.sg">ng_kah_leng@schools.gov.sg </a><br><a href="wong_peh_yan@schools.gov.sg">nurfarhannah_hazmi@schools.gov.sg</a></td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">1 Resilience<br>(1R3)</td>
-            <td style="border:1px solid black;">Mdm Tan Poh Soon<br>Mrs Hazel Cheong</td>
-			<td style="border:1px solid black;"><a href="tan_poh_soon@schools.gov.sg">tan_poh_soon@schools.gov.sg</a><br><a href="tan_kar_tiang@schools.gov.sg">tan_kar_tiang@schools.gov.sg</a></td>
+            <td style="border:1px solid black;">Mdm Sharina <br>Miss Chang Tian Tian</td>
+			<td style="border:1px solid black;"><a href="tan_poh_soon@schools.gov.sg">sharina_mohd_tahale@schools.gov.sg</a><br><a href="tan_kar_tiang@schools.gov.sg">Chang_Tiantian@schools.gov.sg</a></td>
 		</tr>     
 		<tr>
 			<td style="border:1px solid black;">1 Integrity<br>(1I)</td>
-            <td style="border:1px solid black;">Miss Goh Phoebe<br>Mdm Zubaidah</td>
-			<td style="border:1px solid black;"><a href="phoebe_goh@schools.gov.sg">phoebe_goh@schools.gov.sg</a><br><a href="zubaidah_othman@schools.gov.sg">zubaidah_othman@schools.gov.sg</a></td>
+            <td style="border:1px solid black;">Mdm Shirin<br>Mdm Valarmathi</td>
+			<td style="border:1px solid black;"><a href="phoebe_goh@schools.gov.sg">shirin_osman@schools.gov.sg</a><br><a href="zubaidah_othman@schools.gov.sg">valarmathi_a@schools.gov.sg</a></td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">1 Care<br>(1C)</td>
-            <td style="border:1px solid black;">Mrs Bek<br>Mrs Grace Teh</td>
-			<td style="border:1px solid black;"><a href="tan_xiuling@schools.gov.sg">tan_xiuling@schools.gov.sg</a><br><a href="grace_yeo_jie_xin@schools.gov.sg">grace_yeo_jie_xin@schools.gov.sg</a></td>
+            <td style="border:1px solid black;">Mr Jordan Toh<br>Mdm Yeo Peck Hui Patricia</td>
+			<td style="border:1px solid black;"><a href="tan_xiuling@schools.gov.sg">jordan_toh_yuexuan@schools.gov.sg</a><br><a href="grace_yeo_jie_xin@schools.gov.sg">yeo_peck_hui@schools.gov.sg</a></td>
 		</tr>
       	<tr>
 			<td style="border:1px solid black;">1 Harmony<br>(1H)</td>
-            <td style="border:1px solid black;">Mrs Lim<br>Ms Evie Quah</td>
-			<td style="border:1px solid black;"><a href="quek_shi_rui@schools.gov.sg">quek_shi_rui@schools.gov.sg</a><br><a href="evie_quah@schools.gov.sg">evie_quah@schools.gov.sg</a></td>
-		</tr>
-        <tr>
-			<td style="border:1px solid black;">1 Gratitude<br>(1G)</td>
-            <td style="border:1px solid black;">Mrs Ong<br>Mdm Nailul Azmi </td>
-			<td style="border:1px solid black;"><a href="pang_cui_ling@schools.gov.sg">pang_cui_ling@schools.gov.sg</a><br><a href="nailul_azmi_ismail@schools.gov.sg">nailul_azmi_ismail@schools.gov.sg</a></td>
+            <td style="border:1px solid black;">Miss Lee Siew Kiang<br>Mdm Wang Luning</td>
+			<td style="border:1px solid black;"><a href="quek_shi_rui@schools.gov.sg">lee_siew_kiang@schools.gov.sg</a><br><a href="evie_quah@schools.gov.sg">wang_luning@schools.gov.sg</a></td>
 		</tr>
 	</tbody>
 </table>
