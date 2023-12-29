@@ -85,7 +85,7 @@ variant: markdown
 			<td style="border:1px solid black;"><a href="valarmathi_a@schools.gov.sg">tan_xiuling@schools.gov.sg</a><br><a href="yeo_peck_hui@schools.gov.sg">zubaidah_othman@schools.gov.sg</a></td>
 		</tr>
       	<tr>
-			<td style="border:1px solid black;">2 <br>(2H)</td>
+			<td style="border:1px solid black;">2 Harmony<br>(2H)</td>
             <td style="border:1px solid black;">Mdm Ong Bee Hoo<br>Ms Evie Quah </td>
 			<td style="border:1px solid black;"><a href="lee_siew_kiang@schools.gov.sg">ong_bee_hoo@schools.gov.sg</a><br><a href="teo_siok_eng@schools.gov.sg">evie_quah@schools.gov.sg</a></td>
 		</tr>
@@ -229,23 +229,34 @@ variant: markdown
 	<tbody>
 		<tr>
 			<td style="border:1px solid black;">6 Respect<br>(6R1)</td>
-            <td style="border:1px solid black;">Mdm Nurfarhannah<br>Mr Watson Teh</td>
-			<td style="border:1px solid black;"><a href="nurfarhannah_hazmi@schools.gov.sg">nurfarhannah_hazmi@schools.gov.sg</a><br><a href="teh_chiew_hwa_watson@schools.gov.sg">teh_chiew_hwa_watson@schools.gov.sg</a></td>
+            <td style="border:1px solid black;">Mdm Adeline Seah Sock Luang <br>Mdm Shi Rui</td>
+			<td style="border:1px solid black;"><a href="nurfarhannah_hazmi@schools.gov.sg">seah_sock_luang_adeline@schools.gov.sg</a><br><a href="teh_chiew_hwa_watson@schools.gov.sg">Shi_Rui@schools.gov.sg</a></td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">6 Responsibility<br>(6R2)</td>
-            <td style="border:1px solid black;">Miss Chua Shuan Kwee<br>Mrs Yeo</td>
-			<td style="border:1px solid black;"><a href="chua_shuan_kwee@schools.gov.sg">chua_shuan_kwee@schools.gov.sg</a><br><a href="sim_shiyu@schools.gov.sg">sim_shiyu@schools.gov.sg</a></td>
+            <td style="border:1px solid black;">Mdm Pavani <br>Mr Muhammad Izdihar</td>
+			<td style="border:1px solid black;"><a href="chua_shuan_kwee@schools.gov.sg">pavani_krishna_samy@schools.gov.sg</a><br><a href="sim_shiyu@schools.gov.sg">Muhammad_Izdihar_Othman@schools.gov.sg</a></td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">6 Resilience<br>(6R3)</td>
-            <td style="border:1px solid black;">Mdm Wang Luning<br>Mr Justin Luo</td>
-			<td style="border:1px solid black;"><a href="wang_luning@schools.gov.sg">wang_luning@schools.gov.sg</a><br><a href="justin_luo_yanzhong@schools.gov.sg">justin_luo_yanzhong@schools.gov.sg</a></td>
+            <td style="border:1px solid black;">Mr Choo Sing Wee<br>Mdm Kirthi Shihilpa Pillai</td>
+			<td style="border:1px solid black;"><a href="wang_luning@schools.gov.sg">choo_sing_wee@schools.gov.sg</a><br><a href="justin_luo_yanzhong@schools.gov.sg">Kirthi_Shihlpa_Pillai@schools.gov.sg</a></td>
 		</tr>     
 		<tr>
 			<td style="border:1px solid black;">6 Integrity<br>(6I)</td>
-			<td style="border:1px solid black;">Miss Sherylene Soh<br>Ms Pamela See</td>
-			<td style="border:1px solid black;"><a href="sherylene_soh_siew_yin@schools.gov.sg">sherylene_soh_siew_yin@schools.gov.sg</a><br><a href="see_yuen_heng@schools.gov.sg">see_yuen_heng@schools.gov.sg</a></td>
+			<td style="border:1px solid black;">Mr Kang Yong Ngee<br>Mdm Helen Low </td>
+			<td style="border:1px solid black;"><a href="sherylene_soh_siew_yin@schools.gov.sg">kang_yong_ngee@schools.gov.sg</a><br><a href="see_yuen_heng@schools.gov.sg">helen_low_kwee_fong@schools.gov.sg</a></td>
+			
+</tr><tr>
+			<td style="border:1px solid black;">6 Care<br>(6C)</td>
+            <td style="border:1px solid black;">Mr Jerry Chua Chun Wei<br>Mdm Norhanim</td>
+			<td style="border:1px solid black;"><a href="nurfarhannah_hazmi@schools.gov.sg">chua_chun_wei@schools.gov.sg</a><br><a href="teh_chiew_hwa_watson@schools.gov.sg">norhanim_hashim@schools.gov.sg</a></td>
 		</tr>
+		<tr>
+			<td style="border:1px solid black;">6 Harmony<br>(6H)</td>
+            <td style="border:1px solid black;">Mdm Nur Faizah Binte Abdan <br>Mr Muslim Bin Mohamed Amin</td>
+			<td style="border:1px solid black;"><a href="nurfarhannah_hazmi@schools.gov.sg">Nur_Faizah_Abdan@schools.gov.sg</a><br><a href="teh_chiew_hwa_watson@schools.gov.sg">muslim_mohamed_amin@schools.gov.sg</a></td>
+		</tr>
+		
 	</tbody>
 </table>
