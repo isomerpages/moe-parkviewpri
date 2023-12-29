@@ -155,7 +155,7 @@ variant: markdown
 		<tr>
 			<td style="border:1px solid black;">4 Responsibility<br>(4R2)</td>
             <td style="border:1px solid black;">Mdm Catherine Sham<br>Miss Jeannie Yap Tiew Li</td>
-			<td style="border:1px solid black;"><a href="emily_ambrose@schools.gov.sg">quek_shi_rui@schools.gov.sg</a><br><a href="soh_chin_ping_eileen@schools.gov.sg">Jeannie_Yap_Tiew_Li_A@schools.gov.sg</a></td>
+			<td style="border:1px solid black;"><a href="emily_ambrose@schools.gov.sg">sham_pui_yue@schools.gov.sg</a><br><a href="soh_chin_ping_eileen@schools.gov.sg">Jeannie_Yap_Tiew_Li_A@schools.gov.sg</a></td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">4 Resilience<br>(4R3)</td>
@@ -188,36 +188,33 @@ variant: markdown
 	<tbody>
 		<tr>
 			<td style="border:1px solid black;">5 Respect<br>(5R1)</td>
-            <td style="border:1px solid black;">Mrs Ang<br></td>
-			<td style="border:1px solid black;"><a href="seah_sock_luang_adeline@schools.gov.sg">seah_sock_luang_adeline@schools.gov.sg</a><br><a href=""></a></td>
-		</tr>
+            <td style="border:1px solid black;">Miss Sherylene Soh Siew Yin <br>Ms Pamela See Yuen Heng</td>
+			<td style="border:1px solid black;"><a href="seah_sock_luang_adeline@schools.gov.sg">sherylene_soh_siew_yin@schools.gov.sg</a><br><a href="norhanim_hashim@schools.gov.sg">see_yuen_heng@schools.gov.sg</a>
+		</td></tr>
 		<tr>
 			<td style="border:1px solid black;">5 Responsibility<br>(5R2)</td>
-            <td style="border:1px solid black;">Mdm Pavani<br>Miss Sarah Binte Mohamad Sufian</td>
-			<td style="border:1px solid black;"><a href="pavani_krishna_samy@schools.gov.sg">pavani_krishna_samy@schools.gov.sg</a><br><a href="sarah_mohamad_sufian@schools.gov.sg">sarah_mohamad_sufian@schools.gov.sg</a></td>
+            <td style="border:1px solid black;">Mdm Farah <br>Ms Este Chow Tan Lee Peng</td>
+			<td style="border:1px solid black;"><a href="pavani_krishna_samy@schools.gov.sg">farah_abdul_rashid@schools.gov.sg</a><br><a href="sarah_mohamad_sufian@schools.gov.sg">este_chow@schools.gov.sg</a></td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">5 Resilience<br>(5R3)</td>
-            <td style="border:1px solid black;">Miss Kirthi Shihlpa Pillai<br>Mdm Chen ShuangShuang</td>
-			<td style="border:1px solid black;"><a href="kirthi_shihlpa_pillai@schools.gov.sg">kirthi_shihlpa_pillai@schools.gov.sg</a><br><a href="chen_shuangshuang@schools.gov.sg">chen_shuangshuang@schools.gov.sg</a></td>
+							<td style="border:1px solid black;">Miss Chua Shuan Kwee<br>Mr Watson Teh Chiew Hwa</td>
+			<td style="border:1px solid black;"><a href="kirthi_shihlpa_pillai@schools.gov.sg">chua_shuan_kwee@schools.gov.sg</a><br><a href="chen_shuangshuang@schools.gov.sg">teh_chiew_hwa_watson@schools.gov.sg</a></td>
 		</tr>     
 		<tr>
 			<td style="border:1px solid black;">5 Integrity<br>(5I)</td>
-			<td style="border:1px solid black;">Mr Kang Yong Ngee</td>
-			<td style="border:1px solid black;"><a href="kang_yong_ngee@schools.gov.sg">kang_yong_ngee@schools.gov.sg</a></td>
-		</tr>
+			<td style="border:1px solid black;">Mdm Sim Shiyu <br>Mdm Quek Shi Rui  </td>
+			<td style="border:1px solid black;"><a href="kang_yong_ngee@schools.gov.sg">sim_shiyu@schools.gov.sg</a><br>
+			<a href="chen_shuangshuang@schools.gov.sg">quek_shi_rui@schools.gov.sg
+		</a></td></tr>
 		<tr>
 			<td style="border:1px solid black;">5 Care<br>(5C)</td>
-            <td style="border:1px solid black;">Mr Jerry Chua<br>Mrs Lim</td>
-			<td style="border:1px solid black;"><a href="chua_chun_wei@schools.gov.sg">chua_chun_wei@schools.gov.sg</a><br><a href="ho_qingxi_natalie@schools.gov.sg">ho_qingxi_natalie@schools.gov.sg</a></td>
+            <td style="border:1px solid black;">Mr Tay Lip Seng<br>Mdm Norjannah</td>
+			<td style="border:1px solid black;"><a href="chua_chun_wei@schools.gov.sg">tay_lip_seng@schools.gov.sg</a><br><a href="ho_qingxi_natalie@schools.gov.sg">Norjanna_Ali@schools.gov.sg</a></td>
 		</tr>
-		<tr>
-			<td style="border:1px solid black;">5 Harmony<br>(5H)</td>
-            <td style="border:1px solid black;">Mdm Nur Faizah<br>Miss Veronica Poon</td>
-			<td style="border:1px solid black;"><a href="nur_faizah_abdan@schools.gov.sg">nur_faizah_abdan@schools.gov.sg</a><br><a href="poon_sook_yee@schools.gov.sg">poon_sook_yee@schools.gov.sg</a></td>
-		</tr>
-	</tbody>
-</table>
+
+	
+</tbody></table>
 
 <h4>Primary 6</h4>
 
