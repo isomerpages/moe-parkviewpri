@@ -254,7 +254,7 @@ variant: markdown
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">6 Harmony<br>(6H)</td>
-            <td style="border:1px solid black;">Mdm Nur Faizah Binte Abdan <br>Mr Muslim Bin Mohamed Amin</td>
+            <td style="border:1px solid black;">Mdm Nur Faizah <br>Mr Muslim </td>
 			<td style="border:1px solid black;"><a href="nurfarhannah_hazmi@schools.gov.sg">Nur_Faizah_Abdan@schools.gov.sg</a><br><a href="teh_chiew_hwa_watson@schools.gov.sg">muslim_mohamed_amin@schools.gov.sg</a></td>
 		</tr>
 		
