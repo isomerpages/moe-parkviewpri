@@ -3,32 +3,6 @@ title: Support Service Staff
 permalink: /about-us/our-people/support-service-staff/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
-<table>
-	<thead>
-		<tr>
-      <th style="border:1px solid black;">Designation</th>
-			<th style="border:1px solid black;">Name of Staff</th>
-		</tr>
-	</thead>
-	<tbody>
-		 <tr>
-      <td style="border:1px solid black;">Desktop Engineer</td>
-<td style="border:1px solid black;">Mr Jahidin</td>
-		</tr>
-		 <tr>
-			 </tr><tr>
-				 <td style="border:1px solid black;">Desktop Engineer</td>
-				 <td style="border:1px solid black;">Mr Khairul Haqq</td>
-		</tr>
-		 <tr>
-      <td style="border:1px solid black;">Library Assistant</td>
-<td style="border:1px solid black;">Miss Raudah </td>
-		</tr>
-		 <tr>
-      <td style="border:1px solid black;">Teacher Assistant (Sci)</td>
-<td style="border:1px solid black;">Mdm Minachi</td>
-		</tr>
-</tbody>
-</table>
+<table><tbody><tr><th rowspan="1" colspan="1"><p>Designation</p></th><th rowspan="1" colspan="1"><p>Name of Staff</p></th></tr><tr><td rowspan="1" colspan="1"><p>Desktop Engineer</p></td><td rowspan="1" colspan="1"><p>Mr Jahidin</p></td></tr><tr><td rowspan="1" colspan="1"><p>Desktop Engineer</p></td><td rowspan="1" colspan="1"><p>Mr Khairul Haqq</p></td></tr><tr><td rowspan="1" colspan="1"><p>Library Assistant</p></td><td rowspan="1" colspan="1"><p>Miss Raudah</p></td></tr><tr><td rowspan="1" colspan="1"><p>Teacher Assistant (Sci)</p></td><td rowspan="1" colspan="1"><p>Mdm Minachi</p></td></tr></tbody></table><p></p>
