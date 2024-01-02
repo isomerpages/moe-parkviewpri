@@ -3,6 +3,7 @@ title: Video Gallery
 permalink: /park-view-experience/park-view-gallery/video-gallery/
 description: ""
 third_nav_title: Park View Gallery
+variant: markdown
 ---
 <h4>2023 Aesthetics Ambassadors ND Song</h4>
 
@@ -24,22 +25,13 @@ third_nav_title: Park View Gallery
 <iframe src="https://www.youtube.com/embed/iUUVXmzx98Y?controls=0" height="345" width="420">
 </iframe>
 
-<h4>2022 Little Star</h4>
+<h4>2023 Little Star</h4>
 
-<iframe src="https://www.youtube.com/embed/yQ-aR0oO2pY?controls=0" height="345" width="420">
-</iframe>
+<iframe allowfullscreen="" src="https://www.youtube.com/embed/Wt9qVZyemgM?si=AIa6zSm7ZY7rl5B2" height="345" width="420"></iframe>
 
-<h4>2022 Broadway</h4>
 
-<iframe src="https://www.youtube.com/embed/Qwbid-bEGoM?controls=0" height="345" width="420">
-</iframe>
+<h4>2023 Broadway</h4>
 
-<h4>2022 Roving Truck</h4>
+<iframe src="https://www.youtube.com/embed/pQYRbiJXTqg?si=rRFq1YgqA-a-513g" height="345" width="420"></iframe>
 
-<iframe src="https://www.youtube.com/embed/JspfHlaRSlk?controls=0" height="345" width="420">
-</iframe>
 
-<h4>2022 Excel Fair</h4>
-
-<iframe src="https://www.youtube.com/embed/EPBwKXlpR3E?controls=0" height="345" width="420">
-</iframe>
