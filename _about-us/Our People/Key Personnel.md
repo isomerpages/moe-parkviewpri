@@ -11,7 +11,7 @@ variant: markdown
 	<tbody>
 		<tr>
 			<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Our%20People/Key%20Personnel%20/Mr_Choo_Sing_Wee.jpg" alt="Mr_Choo_Sing_Wee.jpg" width="175" height="225">
+				<img src="/images/Our%20People/Key%20Personnel%20/Mr_Choo_Sing_Wee_1.jpg" alt="Mr_Choo_Sing_Wee_1.jpg" width="175" height="225">
 				<br>Mr Choo Sing Wee<br>HOD - English
 				<br>
 				<a href="mailto:choo_sing_wee@schools.gov.sg">choo_sing_wee@schools.gov.sg </a>
@@ -124,22 +124,20 @@ variant: markdown
 	<thead>
 		<tr>
 			<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/mr%20lee%20eng%20tiong.JPG" alt="Lee Eng Tiong_optimisedforweb.jpg" width="175" height="225">
-				<br>Mr Lee Eng Tiong<br>LH - MT
-				<br>
-				<a href="mailto:lee_eng_tiong@schools.gov.sg">lee_eng_tiong<br>@schools.gov.sg</a>
-				<br>
-			</th>
-			
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/mrs%20yeo-sim%20shiyu.JPG" alt="Mdm_Sim_Shiyu_optimisedforweb.jpg" width="175" height="225">
-				<br>Mrs Yeo<br>LH - English
+				<br>Mrs Yeo<br>LH - EL
 				<br>
 				<a href="mailto:sim_shiyu
 @schools.gov.sg">sim_shiyu<br>@schools.gov.sg</a>
 				<br>
 			</th>
-			
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="" alt="" width="175" height="225"><br><br><br><br><br><br><br>
+				<br>Ms Este Chow<br>LH - MTL
+				<br>
+				<a href="mailto:este_chow@schools.gov.sg">este_chow@schools.gov.sg</a>
+				<br>
+			</th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/mdm%20angeline%20loo%20nga%20hoon.JPG" width="175" height="225">
 				<br>Mdm Angeline Loo<br>LH - Math<br>
@@ -164,7 +162,6 @@ variant: markdown
 </th>
 </tr>
 </tbody></table>
-
 
 
 <h3>Teacher Leaders</h3>
