@@ -8,9 +8,16 @@ variant: markdown
 <h3>Heads Of Department</h3>
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px" class="tg">
-	<thead>
+	<tbody>
 		<tr>
 			<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="" alt="" width="175" height="225">
+				<br><br><br><br><br><br><br>Mr Choo Sing Wee<br>HOD - English
+				<br>
+				<a href="mailto:choo_sing_wee@schools.gov.sg">choo_sing_wee@schools.gov.sg </a>
+				<br>
+			</th>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/mr%20tay%20lip%20seng.JPG" alt="Mr_Tay_Lip_Seng_optimisedforweb.jpg" width="175" height="225">
 				<br>Mr Tay Lip Seng<br>HOD - Math
 				<br>
@@ -23,48 +30,49 @@ variant: markdown
 				<br>
 				<a href="mailto:poon_sook_yee@schools.gov.sg">poon_sook_yee<br>@schools.gov.sg</a>
 				<br>
-			</th>
+			</th></tr>
+	</tbody>
+
+<tbody><tr>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/mdm%20teo%20siew%20yeun.JPG" alt="tn.Mdm_Teo_Siew_Yeun_optimisedforweb.jpg.mid.jpg" width="175" height="225">
 				<br>Mdm Teo Siew Yeun<br>HOD - MT
 				<br>
 				<a href="mailto:teo_siew_yeun@schools.gov.sg">teo_siew_yeun<br>@schools.gov.sg</a>
 				<br>
-			</th></tr>
-	</thead>
-<tbody><tr><th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/mrs%20ong-pang%20cui%20ling.JPG" alt="Miss_wong_Pau_Hui_optimisedforweb.jpg" width="175" height="225">
-				<br>Mdm Pang Cui Ling<br>HOD - CCE
-				<br>
-				<a href="mailto:pang_cui_ling@schools.gov.sg">pang_cui_ling<br>@schools.gov.sg</a>
-				<br>
-</th>
+			</th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/mdm%20lim%20hwee%20tin%20tina.JPG" alt="Mdm_Lim_Hwee_Tin_optimisedforweb.jpg" width="175" height="225"><br>Ms Tina Lim<br>HOD - Aesthetics CCA
 				<br>
 				<a href="mailto:lim_hwee_tin_a@schools.gov.sg">lim_hwee_tin_a<br>@schools.gov.sg</a>
 				<br></th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/mr%20jerry%20chua%20chun%20wei.JPG" alt="Mr Jerry Chua_optimisedforweb.jpg" width="175" height="225">
-				<br>Mr Jerry Chua<br>HOD - PE CCA
-	<br>
-	<a href="mailto:chua_chun_wei@schools.gov.sg">chua_chun_wei<br>@schools.gov.sg</a>
+				<img src="/images/mrs%20ong-pang%20cui%20ling.JPG" alt="Miss_wong_Pau_Hui_optimisedforweb.jpg" width="175" height="225">
+				<br>Mdm Pang Cui Ling<br>HOD - CCE
+				<br>
+				<a href="mailto:pang_cui_ling@schools.gov.sg">pang_cui_ling<br>@schools.gov.sg</a>
 				<br>
 			</th></tr>
-			</tbody>
-	<tbody><tr><th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+	</tbody>
+	<tbody><tr>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="/images/mr%20jerry%20chua%20chun%20wei.JPG" alt="Mr Jerry Chua_optimisedforweb.jpg" width="175" height="225">
+				<br>Mr Jerry Chua<br>HOD - PE CCA<br>
+	<a href="mailto:chua_chun_wei@schools.gov.sg">chua_chun_wei<br>@schools.gov.sg</a>
+				<br></th>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/mr%20justin%20luo%20yanzhong.JPG" alt="Mr Justin Luo Yanzhong_optimisedforweb.jpg" width="175" height="225">
 				<br>Mr Justin Luo<br>HOD - ICT
 				<br>
 				<a href="mailto:justin_luo_yanzhong@schools.gov.sg">justin_luo_yanzhong<br>@schools.gov.sg</a>
-				<br>
-</th>
+				<br></th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/miss%20chua%20shuan%20kwee.JPG" alt="IMG_9053.JPG" width="175" height="225"><br>Miss Chua Shuan Kwee<br>School Staff Developer
 				<br>
-	<a href="mailto:chua_shuan_kwee@schools.gov.sg">chua_shuan_kwee<br>@schools.gov.sg</a>				<br>
+	<a href="mailto:chua_shuan_kwee@schools.gov.sg">chua_shuan_kwee<br>@schools.gov.sg</a><br>
 			</th></tr>
-	</tbody></table>
+	</tbody>
+</table>
 
 <h3>Year Heads</h3>
 
