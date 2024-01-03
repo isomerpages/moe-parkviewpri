@@ -11,8 +11,8 @@ variant: markdown
 	<tbody>
 		<tr>
 			<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="" alt="" width="175" height="225">
-				<br><br><br><br><br><br><br>Mr Choo Sing Wee<br>HOD - English
+				<img src="/images/Our%20People/Key%20Personnel%20/Mr_Choo_Sing_Wee.jpg" alt="Mr_Choo_Sing_Wee.jpg" width="175" height="225">
+				<br>Mr Choo Sing Wee<br>HOD - English
 				<br>
 				<a href="mailto:choo_sing_wee@schools.gov.sg">choo_sing_wee@schools.gov.sg </a>
 				<br>
