@@ -1,0 +1,14 @@
+logo: /images/logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Curriculum
+    collection: curriculum
+  - title: Co-Curriculum
+    collection: co-curriculum
+  - title: Park View Experience
+    collection: park-view-experience
+  - title: Our Stakeholders
+    collection: our-stakeholders
+  - title: Our Students
+    collection: our-students
