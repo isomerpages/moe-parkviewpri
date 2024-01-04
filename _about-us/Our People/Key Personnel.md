@@ -80,20 +80,20 @@ variant: markdown
 		<tr>
 			<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/mrs%20hazel%20cheong-tan%20kar%20tiang.JPG" alt="tn.IMG_7629.JPG.mid.jpg" width="175" height="225">
-				<br>Mrs Hazel Cheong<br>YH (P1 - P2)
+				<br>Mrs Hazel Cheong<br>YH (lower primary)
 				<br>
 				<a href="mailto:tan_kar_tiang@schools.gov.sg">tan_kar_tiang<br>@schools.gov.sg</a><br>
 			</th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/mdm%20teo%20siew%20yeun.JPG" alt="tn.Mdm_Teo_Siew_Yeun_optimisedforweb.jpg.mid.jpg" width="175" height="225">
-				<br>Mrs June Law<br>HOD - MT
+				<img src="" alt="" width="175" height="225">
+				<br>Mrs June Law<br>YH (middle primary)
 				<br>
 				<a href="mailto:lee_rui_ying_june@schools.gov.sg">lee_rui_ying_june@schools.gov.sg</a>
 				<br>
 			</th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/mr%20darvinder%20singh%20so%20k%20singh.JPG" alt="MR DARVINDER EDITER FINAL.jpg" width="175" height="225">
-				<br>Mr Darvinder Singh<br>YH (P4 - P6)<br>
+				<br>Mr Darvinder Singh<br>YH (upper primary)<br>
 				<a href="mailto:darvinder_singh_karam_singh@schools.gov.sg">darvinder_singh_karam<br>_singh@schools.gov.sg</a>
 				<br>
 			</th></tr>
