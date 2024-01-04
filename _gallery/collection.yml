@@ -2,10 +2,6 @@ collections:
   gallery:
     output: true
     order:
-      - 2011 Gallery/Digital Art.md
-      - 2011 Gallery/A Squiggle & A Thousand Doodles.md
-      - 2011 Gallery/National Day Competition.md
-      - 2011 Gallery/.keep
       - 2012 Gallery/2012 Gallery.md
       - 2012 Gallery/Primary 3.md
       - 2012 Gallery/Primary 4.md
