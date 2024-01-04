@@ -132,7 +132,7 @@ variant: markdown
 				<br>
 			</th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="" alt="" width="175" height="225"><br><br><br><br><br><br><br>
+				<img src="" alt="" width="175" height="225">
 				<br>Ms Este Chow<br>LH - MTL
 				<br>
 				<a href="mailto:este_chow@schools.gov.sg">este_chow@schools.gov.sg</a>
