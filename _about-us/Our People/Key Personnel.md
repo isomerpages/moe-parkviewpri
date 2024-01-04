@@ -100,18 +100,18 @@ variant: markdown
 	</thead>
 <tbody><tr><th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/mdm%20yeo%20peck%20hui%20patricia.JPG" alt="pat.jpg" width="175" height="225">
-				<br>Mdm Patricia Yeo<br>AYH (P2)<br>
+				<br>Mdm Patricia Yeo<br>AYH (lower primary)<br>
 				<a href="mailto:yeo_peck_hui@schools.gov.sg">yeo_peck_hui<br>@schools.gov.sg</a><br>
 			</th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/mr%20lee%20eng%20tiong.JPG" alt="Lee Eng Tiong_optimisedforweb.jpg" width="175" height="225">
-				<br>Mr Lee Eng Tiong<br>AYH (P4)
+				<br>Mr Lee Eng Tiong<br>AYH (middle primary)
 				<br>
 				<a href="mailto:lee_eng_tiong@schools.gov.sg">lee_eng_tiong<br>@schools.gov.sg</a>
 				<br>
 			</th><th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/ms%20pamela%20see%20yuen%20heng%20(1).JPG" alt="Miss Pamela See cropped.jpg" width="175" height="225">
-				<br>Miss Pamela See<br>AYH (P6)
+				<br>Miss Pamela See<br>AYH (upper primary)
 				<br>
 				<a href="mailto:see_yuen_heng@schools.gov.sg">see_yuen_heng<br>@schools.gov.sg</a><br>
 </th></tr>
