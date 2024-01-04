@@ -85,7 +85,7 @@ variant: markdown
 				<a href="mailto:tan_kar_tiang@schools.gov.sg">tan_kar_tiang<br>@schools.gov.sg</a><br>
 			</th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="" alt="" width="175" height="225">
+				<img src="/images/Our%20People/Key%20Personnel%20/Ms_Lee_Rui_Ying_June.jpg" alt="Ms_Lee_Rui_Ying_June.jpg" width="175" height="225">
 				<br>Mrs June Law<br>YH (middle primary)
 				<br>
 				<a href="mailto:lee_rui_ying_june@schools.gov.sg">lee_rui_ying_june<br>@schools.gov.sg</a>
