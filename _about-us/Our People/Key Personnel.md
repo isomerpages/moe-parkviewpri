@@ -80,38 +80,38 @@ variant: markdown
 		<tr>
 			<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/mrs%20hazel%20cheong-tan%20kar%20tiang.JPG" alt="tn.IMG_7629.JPG.mid.jpg" width="175" height="225">
-				<br>Mrs Hazel Cheong<br>YH (P1 - P2)
+				<br>Mrs Hazel Cheong<br>YH (lower primary)
 				<br>
 				<a href="mailto:tan_kar_tiang@schools.gov.sg">tan_kar_tiang<br>@schools.gov.sg</a><br>
 			</th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/mdm%20teo%20siew%20yeun.JPG" alt="tn.Mdm_Teo_Siew_Yeun_optimisedforweb.jpg.mid.jpg" width="175" height="225">
-				<br>Mrs June Law<br>HOD - MT
+				<img src="" alt="" width="175" height="225">
+				<br>Mrs June Law<br>YH (middle primary)
 				<br>
 				<a href="mailto:lee_rui_ying_june@schools.gov.sg">lee_rui_ying_june@schools.gov.sg</a>
 				<br>
 			</th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/mr%20darvinder%20singh%20so%20k%20singh.JPG" alt="MR DARVINDER EDITER FINAL.jpg" width="175" height="225">
-				<br>Mr Darvinder Singh<br>YH (P4 - P6)<br>
+				<br>Mr Darvinder Singh<br>YH (upper primary)<br>
 				<a href="mailto:darvinder_singh_karam_singh@schools.gov.sg">darvinder_singh_karam<br>_singh@schools.gov.sg</a>
 				<br>
 			</th></tr>
 	</thead>
 <tbody><tr><th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/mdm%20yeo%20peck%20hui%20patricia.JPG" alt="pat.jpg" width="175" height="225">
-				<br>Mdm Patricia Yeo<br>AYH (P2)<br>
+				<br>Mdm Patricia Yeo<br>AYH (lower primary)<br>
 				<a href="mailto:yeo_peck_hui@schools.gov.sg">yeo_peck_hui<br>@schools.gov.sg</a><br>
 			</th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/mr%20lee%20eng%20tiong.JPG" alt="Lee Eng Tiong_optimisedforweb.jpg" width="175" height="225">
-				<br>Mr Lee Eng Tiong<br>AYH (P4)
+				<br>Mr Lee Eng Tiong<br>AYH (middle primary)
 				<br>
 				<a href="mailto:lee_eng_tiong@schools.gov.sg">lee_eng_tiong<br>@schools.gov.sg</a>
 				<br>
 			</th><th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/ms%20pamela%20see%20yuen%20heng%20(1).JPG" alt="Miss Pamela See cropped.jpg" width="175" height="225">
-				<br>Miss Pamela See<br>AYH (P6)
+				<br>Miss Pamela See<br>AYH (upper primary)
 				<br>
 				<a href="mailto:see_yuen_heng@schools.gov.sg">see_yuen_heng<br>@schools.gov.sg</a><br>
 </th></tr>
@@ -132,7 +132,7 @@ variant: markdown
 				<br>
 			</th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="" alt="" width="175" height="225"><br><br><br><br><br><br><br>
+				<img src="" alt="" width="175" height="225">
 				<br>Ms Este Chow<br>LH - MTL
 				<br>
 				<a href="mailto:este_chow@schools.gov.sg">este_chow@schools.gov.sg</a>
