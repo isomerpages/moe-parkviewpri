@@ -14,7 +14,7 @@ variant: markdown
 				<img src="/images/Our%20People/Key%20Personnel%20/Mr_Choo_Sing_Wee_4.jpg" alt="Mr_Choo_Sing_Wee_3.jpg" width="175" height="225">
 				<br>Mr Choo Sing Wee<br>HOD - English
 				<br>
-				<a href="mailto:choo_sing_wee@schools.gov.sg">choo_sing_wee@schools.gov.sg </a>
+				<a href="mailto:choo_sing_wee@schools.gov.sg">choo_sing_wee<br>@schools.gov.sg </a>
 				<br>
 			</th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
@@ -85,10 +85,10 @@ variant: markdown
 				<a href="mailto:tan_kar_tiang@schools.gov.sg">tan_kar_tiang<br>@schools.gov.sg</a><br>
 			</th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="" alt="" width="175" height="225">
+				<img src="/images/Our%20People/Key%20Personnel%20/Ms_Lee_Rui_Ying_June.jpg" alt="Ms_Lee_Rui_Ying_June.jpg" width="175" height="225">
 				<br>Mrs June Law<br>YH (middle primary)
 				<br>
-				<a href="mailto:lee_rui_ying_june@schools.gov.sg">lee_rui_ying_june@schools.gov.sg</a>
+				<a href="mailto:lee_rui_ying_june@schools.gov.sg">lee_rui_ying_june<br>@schools.gov.sg</a>
 				<br>
 			</th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
@@ -135,7 +135,7 @@ variant: markdown
 				<img src="" alt="" width="175" height="225">
 				<br>Ms Este Chow<br>LH - MTL
 				<br>
-				<a href="mailto:este_chow@schools.gov.sg">este_chow@schools.gov.sg</a>
+				<a href="mailto:este_chow@schools.gov.sg">este_chow<br>@schools.gov.sg</a>
 				<br>
 			</th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
@@ -163,29 +163,32 @@ variant: markdown
 </tr>
 </tbody></table>
 
-
 <h3>Teacher Leaders</h3>
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px" class="tg">
 <tbody><tr>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="/images/Our%20People/Key%20Personnel%20/Mdm_Sharina_Bte_Mohamed_Tahale.JPG" alt="Mdm_Sharina" width="175" height="225">
+				<br>Mdm Sharina<br>ST (Lower Primary)<br>
+				<a href="mailto:sharina_mohd_tahale@schools.gov.sg>;">sharina_mohd_tahale<br>@schools.gov.sg</a><br>
+</th>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/mrs%20helen%20chong-low.JPG" alt="Mrs Helen Chong.jpg" width="175" height="225">
-				<br>Mrs Chong Helen Low<br>LT - PE<br><br>
+				<br>Mrs Chong Helen Low<br>LT - PE<br>
 				<a href="mailto:helen_low_kwee_fong@schools.gov.sg">helen_low_kwee<br>@schools.gov.sg</a><br>
 </th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/mdm%20chen%20shuangshuang.JPG" alt="tn.Mdm_Chen_ShuangShuang_optimisedforweb.jpg.mid.jpg" width="175" height="225">
-				<br>Mdm Chen
-ShuangShuang<br>ST - MT - CL<br>
+				<br>Mdm Chen ShuangShuang<br>ST - CL<br>
 				<a href="mailto:chen_shuangshuang@schools.gov.sg">chen_shuangshuang<br>@schools.gov.sg</a><br>
-</th>
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/mdm%20norhanim%20bte%20hashim.JPG" alt="MdmHanim.jpeg" width="175" height="225">
-				<br>Mdm Nohanim Bte Hashim<br>ST - MT - ML<br>
-				<a href="mailto:norhanim_hashim@schools.gov.sg">norhanim_hashim<br>@schools.gov.sg</a><br>
 </th>
 </tr>
 <tr>
+<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
+				<img src="/images/mdm%20norhanim%20bte%20hashim.JPG" alt="MdmHanim.jpeg" width="175" height="225">
+				<br>Mdm Nohanim<br>ST - ML<br>
+				<a href="mailto:norhanim_hashim@schools.gov.sg">norhanim_hashim<br>@schools.gov.sg</a><br>
+</th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
 				<img src="/images/mrs%20eileen%20yap-soh%20chin%20ping.JPG" width="175" height="225">
 				<br>Mrs Eileen Yap<br>ST - Art<br>
