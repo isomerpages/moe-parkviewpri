@@ -14,7 +14,7 @@ variant: markdown
 				<img src="/images/Our%20People/Key%20Personnel%20/Mr_Choo_Sing_Wee_4.jpg" alt="Mr_Choo_Sing_Wee_3.jpg" width="175" height="225">
 				<br>Mr Choo Sing Wee<br>HOD - English
 				<br>
-				<a href="mailto:choo_sing_wee@schools.gov.sg">choo_sing_wee@schools.gov.sg </a>
+				<a href="mailto:choo_sing_wee@schools.gov.sg">choo_sing_wee<br>@schools.gov.sg </a>
 				<br>
 			</th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
@@ -88,7 +88,7 @@ variant: markdown
 				<img src="" alt="" width="175" height="225">
 				<br>Mrs June Law<br>YH (middle primary)
 				<br>
-				<a href="mailto:lee_rui_ying_june@schools.gov.sg">lee_rui_ying_june@schools.gov.sg</a>
+				<a href="mailto:lee_rui_ying_june@schools.gov.sg">lee_rui_ying_june<br>@schools.gov.sg</a>
 				<br>
 			</th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
@@ -135,7 +135,7 @@ variant: markdown
 				<img src="" alt="" width="175" height="225">
 				<br>Ms Este Chow<br>LH - MTL
 				<br>
-				<a href="mailto:este_chow@schools.gov.sg">este_chow@schools.gov.sg</a>
+				<a href="mailto:este_chow@schools.gov.sg">este_chow<br>@schools.gov.sg</a>
 				<br>
 			</th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
