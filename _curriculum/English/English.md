@@ -3,20 +3,6 @@ title: English
 permalink: /curriculum/english/
 description: ""
 third_nav_title: English
-variant: markdown
+variant: tiptap
 ---
-<h4>Department Goal</h4>
-<p align="justify">To enable every child to be future ready by developing him/her to be an <b><span style="color: HotPink"> empathetic communicator</span></b>, a <b><span style="color: blue">discerning reader</span></b> and a <b><span style="color: limegreen">creative inquirer</span></b>.</p>
-
-<h4>Framework</h4>
-<p align="center"><img height="100" width="100" src="/images/EL_Framework.png"></p>
-																																 
-<h4>ENGLISH! LEARNING IT, LOVING IT!</h4>
-
-<p align="justify">At Park View Primary School, we want to put the sparkle in every child’s eyes so that they look forward to English lessons every day! At the heart of the STELLAR programme is the belief that enjoyment is a fundamental aspect of shared reading and writing experiences. At PVPS, we use enjoyment to drive learning, so that children are motivated and want to read and learn long after school is over. In the English classroom, we bring our lessons to life!</p>
-
-<li><a href="https://parkviewpri.moe.edu.sg/Joy-of-Learning/">Joy of Learning
-	
-</a></li><li><a href="https://parkviewpri.moe.edu.sg/ReadatPVPS/">Read@PVPS
-	
-</a></li><li><a href="https://parkviewpri.moe.edu.sg/English-Programmes/">English Programmes</a></li>
+<h4>Department Goal</h4><p>To enable every child to be future-ready by developing him or her to be an <strong>empathetic communicator</strong>, a <strong>discerning reader,</strong> and a <strong>creative inquirer</strong>.</p><h4>Framework</h4><div class="isomer-image-wrapper"><img style="width: 70%;" height="100" width="100" src="/images/EL_Framework.png"></div><h4>ENGLISH! LEARNING IT, LOVING IT!</h4><p>At Park View Primary School, we want to put the sparkle in every child’s eyes so that they look forward to English lessons every day! At the heart of the STELLAR programme is the belief that enjoyment is a fundamental aspect of shared reading and writing experiences. At PVPS, we use enjoyment to drive learning, so that children are motivated and want to read and learn long after school is over. In the English classroom, we bring our lessons to life!</p><ul data-tight="true" class="tight"><li><p><a href="https://parkviewpri.moe.edu.sg/Joy-of-Learning/" rel="noopener noreferrer nofollow" target="_blank">Joy of Learning</a></p><p></p></li><li><p><a href="https://parkviewpri.moe.edu.sg/ReadatPVPS/" rel="noopener noreferrer nofollow" target="_blank">Read@PVPS</a></p><p></p><p></p></li><li><p><a href="https://parkviewpri.moe.edu.sg/English-Programmes/" rel="noopener noreferrer nofollow" target="_blank">English Programmes</a></p></li></ul><p></p>
