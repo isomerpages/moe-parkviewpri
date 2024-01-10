@@ -2,44 +2,6 @@
 title: English Programmes
 permalink: /English-Programmes/
 description: ""
+variant: tiptap
 ---
-<style>
-table, th, td {
-  border:1px solid black;
-}
-</style>
-<body>
-<h3>ENGLISH PROGRAMMES @ PVPS (Support – Enrich – Stretch)</h3>
-<table style="width:100%">
-  <tr>
-		<th>Support</p></th>
-		<th>Enrich</span></th>
-    <th>Stretch</th>
-  </tr>
-  <tr>
-    <td><ul>
-    <li>Literature Appreciation Programme (P3 – P5)</li>
-    <li>School Dyslexia Programme </li>
-    <li>Reading Remediation Programme </li>
-    <li>Learning Support Programme </li>
-    <li>STELLAR Language Learning Experience Activities (P1 to P6) </li>
-    <li>Oral Step-up Programme for P6 LP students </li></ul>
-    </td>
-    <td><ul>
-    <li>Library Committee Activities </li>
-    <li>Reading Passport </li>
-    <li>Read Well Books </li>
-    <li>Reading Nook </li>
-    <li>Library Fiesta </li>
-    <li>Speakers’ Corner – Dare to Speak!</li>
-    <li>Little Red Dot </li>
-    <li>Speech & Drama (P1 & P2) </li></ul>
-    </td>
-    <td><ul>
-    <li>Wits and words Debate </li>
-    <li>Creative Writing </li>
-    <li>YMCA – PESA </li></ul>
-    </td>
-  </tr>
-</table>
-</body>
+<h4>Support – Enrich – Stretch</h4><table><tbody><tr><th rowspan="1" colspan="1"><p>Support</p></th><th rowspan="1" colspan="1"><p>Enrich</p></th><th rowspan="1" colspan="1"><p>Stretch</p></th></tr><tr><td rowspan="1" colspan="1"><ul data-tight="true" class="tight"><li><p>Literature Appreciation Programme (P3 – P4)</p></li><li><p>School Dyslexia Programme</p></li><li><p>Reading Remediation Programme</p></li><li><p>Learning Support Programme</p></li><li><p>STELLAR Language Learning Experience Activities (P1 to P6)</p></li><li><p>Oral Step-up Programme for P6 LP students</p></li></ul></td><td rowspan="1" colspan="1"><ul data-tight="true" class="tight"><li><p>Library Committee Activities</p></li><li><p>Reading Passport</p></li><li><p>Reading Nook</p></li><li><p>Library Fiesta</p></li><li><p>Speakers’ Corner – Dare to Speak!</p></li><li><p>Little Red Dot</p></li><li><p>Speech &amp; Drama (P1 &amp; P2)</p></li></ul></td><td rowspan="1" colspan="1"><ul data-tight="true" class="tight"><li><p>Wits and Words Debate</p></li><li><p>Creative Writing</p></li><li><p>National Writing Competition</p></li><li><p>Wow with Words Programme</p></li></ul></td></tr></tbody></table><p></p>
