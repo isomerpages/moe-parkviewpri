@@ -2,7 +2,7 @@
 title: Friday
 permalink: /our-students/homework-board-p1-and-p2/friday/
 description: ""
-third_nav_title: Homework Board P1 & P2
+third_nav_title: Homework Board P1
 variant: markdown
 ---
 <p align="justify"><b>The online version of the homework boards serves as an additional channel for parents’ reference.<br>

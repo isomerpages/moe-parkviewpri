@@ -2,12 +2,12 @@ collections:
   our-students:
     output: true
     order:
-      - Homework Board P1 & P2/.keep
-      - Homework Board P1 & P2/Monday.md
-      - Homework Board P1 & P2/Tuesday.md
-      - Homework Board P1 & P2/Wednesday.md
-      - Homework Board P1 & P2/Thursday.md
-      - Homework Board P1 & P2/Friday.md
+      - Homework Board P1/.keep
+      - Homework Board P1/Monday.md
+      - Homework Board P1/Tuesday.md
+      - Homework Board P1/Wednesday.md
+      - Homework Board P1/Thursday.md
+      - Homework Board P1/Friday.md
       - Student Learning Space (SLS)/Student Learning Space (SLS).md
       - Student Learning Space (SLS)/Step By Step Guide to Join Google Meet from
         SLS.md

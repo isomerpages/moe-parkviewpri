@@ -1,8 +1,8 @@
 ---
-title: Wednesday
-permalink: /our-students/homework-board-p1-and-p2/wednesday/
+title: Thursday
+permalink: /our-students/homework-board-p1-and-p2/thursday/
 description: ""
-third_nav_title: Homework Board P1 & P2
+third_nav_title: Homework Board P1
 variant: markdown
 ---
 <p align="justify"><b>The online version of the homework boards serves as an additional channel for parents’ reference.<br>
@@ -15,6 +15,4 @@ PVPS Homework Boards are by the week (Monday to Friday).
 <h4> Primary 1</h4>
 
 
-
 <h4> Primary 2</h4>
-
