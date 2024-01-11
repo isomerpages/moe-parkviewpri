@@ -3,26 +3,6 @@ title: Join Us
 permalink: /our-stakeholders/alumni/join-us/
 description: ""
 third_nav_title: Alumni
+variant: tiptap
 ---
-<table style="border-collapse:collapse;border-spacing:0" class="tg">
-<tbody><tr><th style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2">
-<img src="/images/Join-Us_Alumni.jpg" alt="Join-Us_Alumni.jpg"></th></tr>
-	
-</tbody><tbody><tr><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-				<a href="https://docs.google.com/forms/d/e/1FAIpQLSc-4INSKOUD4sh3LH49762qP4vgkdkgEX5lKm9x4oJ-RdugVg/viewform">Registration Form</a><a>
-					</a></td><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-						<img src="/images/application.jpg" alt="application.jpg" style="width:20%"><br>
-					</td>
-					</tr>
-<tr>
-<td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><a href="https://staging.dtkb9ih383sl3.amplifyapp.com/our-stakeholders/alumni/join-us/code-of-conduct">Code of Conduct</a><a></a>
-</td><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<img src="/images/clipart.jpg" alt="hasslefreeclipart-com-regular-clip-art-music-instruments-ktS89H-clipart.gif" style="width:20%"></td>
-</tr>				
-<tr>
-<td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><a href="https://www.facebook.com/groups/parkviewprisch">Follow us on</a><a></a>
-</td><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<img src="/images/FB.jpeg" alt="FB.jpeg" style="width:20%"></td>
-</tr>
-</tbody>
-</table>
+<p>Serving as a volunteer in PVPS Alumni is a wonderful way to give back to your alma mater. As a young volunteer, you play a very meaningful role in supporting the school events, recruitment and fundraising efforts. But most importantly, you keep the PVPS spirit alive. To foster mutual respect and a sense of community within the alumni family and PVPS, the Alumni EXCO has developed the following Code of Conduct to set its tone, image and direction.</p><h4>Registration</h4><p><a href="https://docs.google.com/forms/d/e/1FAIpQLSc-4INSKOUD4sh3LH49762qP4vgkdkgEX5lKm9x4oJ-RdugVg/viewform" rel="noopener noreferrer nofollow" target="_blank">Click Here</a></p><p></p><blockquote><p>Follow us on <a href="https://www.facebook.com/groups/parkviewprisch" rel="noopener noreferrer nofollow" target="_blank">Facebook</a></p></blockquote><p></p>
