@@ -3,26 +3,6 @@ title: Join Us
 permalink: /our-stakeholders/alumni/join-us/
 description: ""
 third_nav_title: Alumni
+variant: tiptap
 ---
-<table style="border-collapse:collapse;border-spacing:0" class="tg">
-<tbody><tr><th style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal" colspan="2">
-<img src="/images/Join-Us_Alumni.jpg" alt="Join-Us_Alumni.jpg"></th></tr>
-	
-</tbody><tbody><tr><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-				<a href="https://docs.google.com/forms/d/e/1FAIpQLSc-4INSKOUD4sh3LH49762qP4vgkdkgEX5lKm9x4oJ-RdugVg/viewform">Registration Form</a><a>
-					</a></td><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-						<img src="/images/application.jpg" alt="application.jpg" style="width:20%"><br>
-					</td>
-					</tr>
-<tr>
-<td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><a href="https://staging.dtkb9ih383sl3.amplifyapp.com/our-stakeholders/alumni/join-us/code-of-conduct">Code of Conduct</a><a></a>
-</td><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<img src="/images/clipart.jpg" alt="hasslefreeclipart-com-regular-clip-art-music-instruments-ktS89H-clipart.gif" style="width:20%"></td>
-</tr>				
-<tr>
-<td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><a href="https://www.facebook.com/groups/parkviewprisch">Follow us on</a><a></a>
-</td><td style="background-color:#FFF;border-color:#002d13;border-style:solid;border-width:1px;color:#162837;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">
-<img src="/images/FB.jpeg" alt="FB.jpeg" style="width:20%"></td>
-</tr>
-</tbody>
-</table>
+<p>Serving as a volunteer in PVPS Alumni is a wonderful way to give back to your alma mater. As a young volunteer, you play a very meaningful role in supporting the school events, recruitment and fundraising efforts. But most importantly, you keep the PVPS spirit alive. To foster mutual respect and a sense of community within the alumni family and PVPS, the Alumni EXCO has developed the following Code of Conduct to set its tone, image and direction.</p><h4>Registration</h4><p><a href="https://docs.google.com/forms/d/e/1FAIpQLSc-4INSKOUD4sh3LH49762qP4vgkdkgEX5lKm9x4oJ-RdugVg/viewform" rel="noopener noreferrer nofollow" target="_blank">Click Here</a></p><h4>Code of Conduct</h4><ol data-tight="true" class="tight"><li><p>Be respectful towards the religious beliefs, customs, and sensitivities of others.</p></li><li><p>Be mindful and exercise good judgment before making any postings using digital and social media. No posting of PVPS students’ photos in personal Facebook, Twitters, etc. due to Personal Data Protection Act 2012.</p></li><li><p>Be considerate, kind and responsible in one’s dealings with teaching and non-teaching staff, parent volunteers and students in the school. Alumni volunteers should not engage in disorderly or offensive behaviour within the school premises (e.g. public display of affection, damage of school property).</p></li><li><p>Avoid participating in any activity which physically or mentally harms, intimidates or humiliates other students, or which violates one’s dignity as an individual.</p></li><li><p>Dress with decorum when volunteering during events. Avoid wearing inappropriate shorts, spaghetti-strap blouses, very short dresses, slippers, T-shirts with inappropriate prints or wordings etc. when performing duty during school events. Punkish hairstyles, dyeing or tinting of hair is not allowed.</p></li><li><p>Any initiation of school related programmes or meetings within school premises involving PVPS students must be acknowledged and approved by school teachers and leaders.</p></li><li><p>Any suspected case of a breach in the code of conduct will result in an investigation and consequences or actions will be meted out by the school if necessary.</p></li></ol><p></p><blockquote><p>Follow us on <a href="https://www.facebook.com/groups/parkviewprisch" rel="noopener noreferrer nofollow" target="_blank">Facebook</a></p></blockquote><p></p>
