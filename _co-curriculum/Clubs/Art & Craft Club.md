@@ -263,12 +263,12 @@ Theme: ‘Artist and Technology’</td>
 
 
 <h4>Nationwide Drawing Contest 2023</h4>
-<img src="/images/nationwide%20drawing%20contest%202023.jpg">
+<img src="/images/Nationwide_Drawing_Contest_2023.JPG">
 
 
 
 <h4>Pasir Ris East National Day Art Contest </h4>
-<img src="/images/2%20pasir%20ris%20east%20national%20day%20art%20contest.JPG">
+<img src="/images/Pasir_Ris_East_National_Day_Art_Contest.JPG">
 
 <h4>Radin Mas Arts Week Colouring Competition </h4>
 <img src="/images/3%20radin%20mas%20arts%20week%20colouring%20competition.JPG">
