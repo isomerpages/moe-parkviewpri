@@ -3,12 +3,13 @@ title: Art & Craft Club
 permalink: /co-curriculum/clubs/art-n-craft-club/info/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 Through our 4**E**&nbsp;approach -**Exposure**,&nbsp;**Experience**,&nbsp;**Excursion**,&nbsp;**Excellence**,&nbsp;we aim to develop and harness the full range of our students’ talents and contribute to their overall development. Art Club members are exposed to 2D and 3D art forms through hands-on art making and attending art exhibitions. There are also opportunities for our students to develop SEL competencies through group art-making and character building through service to the community project such as the Community Outreach Programme through Recycled Art. Art Club members also have the opportunity to teach the K1 &amp; K2 children in neighbourhood Sparkletots Preschool how to transform everyday trash into interesting works of art.
 
 <table class="tg" style="border-collapse:collapse;border-spacing:0"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Mrs Eileen Yap (OIC)<br>  
-Mdm Farah Binte Abdul Rashid<br>  
-Miss Kirthi Shihlpa Pillai<br>
+Mdm Nor Iqmalia&nbsp;<br>  
+Mdm Kirthi Shihlpa Pillai<br>
 	</td>
 	</tr>
 	<tr>
@@ -249,21 +250,25 @@ Theme: ‘Artist and Technology’</td>
 <img src="/images/3%20syf_category%20c_crushing%20our%20earth.jpg">
 
 <h4>Nationwide Mid-Autumn Festival Colouring Contest</h4>
-<img src="/images/nationwide%20mid-autumn%20festival%20colouring%20contest.JPG">
+<img src="/images/Nationwide_Mid_Autumn_Festival_Colouring_Contest.JPG">
+	
 
  <h4>Superior Culture Hong Kong Celebrating Dragon Boat Festival Colouring Contest</h4>
- <img src="/images/superior%20culture%20hong%20kong%20celebrating%20dragon%20boat%20festival%20colouring%20contest.JPG">
+ <img src="/images/Superior_Culture_Hong_Kong_Celebrating_Dragon_Boat_Festival_Colouring_Contest.JPG">
+ 
  
  <h4>OMNI Racial Harmony Art Competition</h4>
- <img src="/images/omni%20racial%20harmony%20art%20competition.JPG">
+ <img src="/images/OMNI_Racial_Harmony_Art_Competition.JPG">
+ 
+
 
 <h4>Nationwide Drawing Contest 2023</h4>
-<img src="/images/nationwide%20drawing%20contest%202023.jpg">
+<img src="/images/Nationwide_Drawing_Contest_2023.JPG">
 
 
 
 <h4>Pasir Ris East National Day Art Contest </h4>
-<img src="/images/2%20pasir%20ris%20east%20national%20day%20art%20contest.JPG">
+<img src="/images/Pasir_Ris_East_National_Day_Art_Contest.JPG">
 
 <h4>Radin Mas Arts Week Colouring Competition </h4>
 <img src="/images/3%20radin%20mas%20arts%20week%20colouring%20competition.JPG">
