@@ -7,9 +7,9 @@ variant: markdown
 ---
 ![](/images/alumni%20write%20up.png)
 
-<h4>CNY Lo Hei Preparation</h4>
+<h4>School Event Photography</h4>
 
-![](/images/CNY%20Lo%20Hei%20Preparation.jpg)
+![](/images/Alumni_Website_update_Jan_2024.jpg)
 
 <h4>CNY Celebrations Photography</h4>
 
