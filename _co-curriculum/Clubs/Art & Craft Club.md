@@ -304,22 +304,3 @@ Despite the challenges faced due to the pandemic, both PVPS Art &amp; Craft Club
 
 ![](/images/Community%20Outreach%20Programme%20through%20Recycled%20Art%20Earth%20Day.jpg)
 
-![](/images/A1.jpg)
-
-![](/images/A2.jpg)
-
-![](/images/A3.jpg)
-
-# **Creepy Crawlies**
-
-Art club members explored ways in making use of recycled materials to create the artworks in their effort to play a more active role in conserving the limited resources and protecting the environment. Cardboard egg cartons were transformed into creepy crawlies such as caterpillars, spiders and lady bugs through the pupils’ creative minds and hands.
-
-![](/images/creepycrawlies.jpg)
-
-# **Manga Character Design Competition**
-
-### Manga Ambassadors
-
-20 Art Club members served as ‘Manga Ambassadors’ during the ICT Art/ Comic Studio Manga Character Design Competition held at Siglap Secondary School. They assisted the competitors in the use of the tablet PC to create their Manga character.
-
-![](/images/manga.jpg)
