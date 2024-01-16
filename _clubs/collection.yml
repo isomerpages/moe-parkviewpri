@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - Art & Craft Club/Art & Craft Club.md
-      - Art & Craft Club/Creepy Crawlies.md
-      - Art & Craft Club/Manga Character Design Competition.md
       - Art & Craft Club/.keep
       - Info Comm Club/Info Comm Club.md
       - Info Comm Club/Digital Sculpting.md
