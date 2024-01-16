@@ -271,19 +271,19 @@ Theme: ‘Artist and Technology’</td>
 <img src="/images/Pasir_Ris_East_National_Day_Art_Contest.JPG">
 
 <h4>Radin Mas Arts Week Colouring Competition </h4>
-<img src="/images/3%20radin%20mas%20arts%20week%20colouring%20competition.JPG">
+<img src="/images/Radin_Mas_Arts_Week_Colouring_Competition.JPG">
 
 <h4>SOTA Primary 6 Art Competition</h4>
-<img src="/images/4%20sota%20p6%20art%20competition%20(1).JPG">
-<img src="/images/4%20sota%20p6%20art%20competition%20(2).JPG">
+<img src="/images/SOTA_Primary_6_Art_Competition__2_.JPG">
+<img src="/images/SOTA_Primary_6_Art_Competition__1_.JPG">
 
 <h4> National Independence Day Colouring Contest</h4>
-<img src="/images/national%20independence%20day%20colouring%20contest.JPG">
+<img src="/images/National_Independence_Day_Colouring_Contest.JPG">
 
 
 
 <h4>The Singapore International Art Contest (SIAC)</h4>
-<img src="/images/5%20singapore%20international%20art%20contest%20(siac).jpg">
+<img src="/images/The_Singapore_International_Art_Contest__SIAC_.jpg">
 
 <h4>The Singapore International Art Contest (SIAC)</h4>
 <img src="/images/6%20art%20for%20trash.JPG">
@@ -294,9 +294,7 @@ Theme: ‘Artist and Technology’</td>
 
 <h4>URA LTPR ART COMPETITION</h4>
 
-<img src="/images/URA_LTPR%20Art%20Competition_Teo%20Zhi%20Xuan%204R3_2nd%20Place%201.jpg">
-
-<img src="/images/URA_LTPR%20Art%20Competition_Teo%20Zhi%20Xuan%204R3_2nd%20Place%202.jpg">
+<img src="/images/URA_LTPR_Art_Competition__2_.JPG">
 
 <h4>Community Outreach Programme (COP) thru’ Recycled Art</h4>
 
@@ -305,10 +303,6 @@ Theme: ‘Artist and Technology’</td>
 Despite the challenges faced due to the pandemic, both PVPS Art &amp; Craft Club and Sparkletots Preschool@Blk 517 worked closely to ensure our annual collaboration could continue. This year, to commemorate Earth Day on 22 April 2021, 2 of our Art Club students, Kenneth and Rasleen, recorded an instructional video on creating photo frames using recycled cardboards and twigs. The K1 and K2 students followed the steps in the video to create their own photo frames. This was a maiden attempt by the Art Club students and the experience was both meaningful and exhilarating.
 
 ![](/images/Community%20Outreach%20Programme%20through%20Recycled%20Art%20Earth%20Day.jpg)
-
-![](/images/Pasir%20Ris%20Our%20Home%20Colouring%20Contest.jpg)
-
-![](/images/Draw%20My%20Stamp%20Story%206.jpg)
 
 ![](/images/A1.jpg)
 
