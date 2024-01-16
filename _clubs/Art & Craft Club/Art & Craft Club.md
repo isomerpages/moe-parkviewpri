@@ -3,6 +3,7 @@ title: Art & Craft Club
 permalink: /co-curriculum/clubs/art-n-craft-club/
 description: ""
 third_nav_title: Art & Craft Club
+variant: markdown
 ---
 Through our 4**E**&nbsp;approach -**Exposure**,&nbsp;**Experience**,&nbsp;**Excursion**,&nbsp;**Excellence**,&nbsp;we aim to develop and harness the full range of our students' talents and contribute to their overall development. Art Club members are exposed to 2D and 3D art forms through hands-on art making and attending art exhibitions. There are also opportunities for our students to develop SEL competencies through group art-making and character building through service to the community project such as the Community Outreach Programme through Recycled Art. Art Club members also have the opportunity to teach the K1 &amp; K2 children in neighbourhood Sparkletots Preschool how to transform everyday trash into interesting works of art.
  
@@ -99,9 +100,7 @@ Theme: ‘Artist and Technology’</td>
 
 <h3>URA LTPR ART COMPETITION</h3>
 
-<img src="/images/URA_LTPR%20Art%20Competition_Teo%20Zhi%20Xuan%204R3_2nd%20Place%201.jpg">
-
-<img src="/images/URA_LTPR%20Art%20Competition_Teo%20Zhi%20Xuan%204R3_2nd%20Place%202.jpg">
+<img src="/images/URA_LTPR_Art_Competition__2_.JPG">
 
 <h3>Community Outreach Programme (COP) thru’ Recycled Art</h3>
 
@@ -110,13 +109,3 @@ Theme: ‘Artist and Technology’</td>
 Despite the challenges faced due to the pandemic, both PVPS Art &amp; Craft Club and Sparkletots Preschool@Blk 517 worked closely to ensure our annual collaboration could continue. This year, to commemorate Earth Day on 22 April 2021, 2 of our Art Club students, Kenneth and Rasleen, recorded an instructional video on creating photo frames using recycled cardboards and twigs. The K1 and K2 students followed the steps in the video to create their own photo frames. This was a maiden attempt by the Art Club students and the experience was both meaningful and exhilarating.
 
 ![](/images/Community%20Outreach%20Programme%20through%20Recycled%20Art%20Earth%20Day.jpg)
-
-![](/images/Pasir%20Ris%20Our%20Home%20Colouring%20Contest.jpg)
-
-![](/images/Draw%20My%20Stamp%20Story%206.jpg)
-
-![](/images/A1.jpg)
-
-![](/images/A2.jpg)
-
-![](/images/A3.jpg)
