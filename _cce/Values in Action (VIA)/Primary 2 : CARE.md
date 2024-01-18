@@ -3,9 +3,8 @@ title: "Primary 2 : CARE"
 permalink: /curriculum/cce/values-in-action-via/primary-2-care/
 description: ""
 third_nav_title: Values in Action (VIA)
+variant: markdown
 ---
-# **Primary 2 : CARE**
-
 CARE approach was deployed for the P2 VIA to achieve the following objectives:
 
 *   To nurture our pupils to become a morally upright, responsible and gracious citizens
