@@ -3,9 +3,8 @@ title: "Primary 4 : PRIDE (Pasir Ris)"
 permalink: /curriculum/cce/values-in-action-via/primary-4-pride-pasir-ris/
 description: ""
 third_nav_title: Values in Action (VIA)
+variant: markdown
 ---
-# **Primary 4 : PRIDE (Pasir Ris)**
-
 Our P4 pupils participated in a meaningful Values in Action Project, in collaboration with Pasir Ris West Community Centre. Project Festive, with a focus on Community, is part of the school’s spiral approach in our VIA curriculum.
 
 The pupils visited the neighbouring blocks of the school and gave out mandarin oranges and greeting cards to the residents. Pupils were excited and engaged in conversing with the residents using the Chinese New Year greetings that they learnt in class. To better prepare our pupils before Project Festive, pupils went through a series of structured lessons using the **PRIDE** (Pasir Ris, our home, where we **R**each out to the community and Improve the environment and create the **D**esired future for Pasir Ris through the **E**ngagement of self and others) package on the history of Pasir Ris, the importance of racial harmony in the neighbourhood, and the Do’s and Don’ts during Chinese New Year visitation.
