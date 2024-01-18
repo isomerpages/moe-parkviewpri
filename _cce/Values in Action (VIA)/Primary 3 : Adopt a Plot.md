@@ -3,9 +3,8 @@ title: "Primary 3 : Adopt a Plot"
 permalink: /curriculum/cce/values-in-action-via/primary-3-adopt-a-plot/
 description: ""
 third_nav_title: Values in Action (VIA)
+variant: markdown
 ---
-# **Primary 3 : Adopt-a-Plot**
-
 Our P3 pupils participate in a Value in Action Project in Term 1 and 2. The project, called Adopt-a-Plot, provides opportunities for pupils to take care of a plot of garden by themselves. Their responsibilities include watering the plants, ensuring the plot is clean by picking up litters and checking of any dangerous things that can harm the plants and pupils.
 
 This project aims to:
