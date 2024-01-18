@@ -3,36 +3,6 @@ title: "Primary 1 to 6 : Project Shine!"
 permalink: /curriculum/cce/values-in-action-via/primary-1-6-project-shine/
 description: ""
 third_nav_title: Values in Action (VIA)
+variant: tiptap
 ---
-# **Primary 1 - 6 : Project Shine!**
-
-**Keep Singapore Clean Movement in Schools: PVPS Project Shine!**
-
-Project Shine! is a school-wide effort to introduce daily routinised cleaning and termly cleaning of the classrooms and school compound respectively. As part of the Keep Singapore Clean Movement (KSCM) in Schools, it aims to inculcate the following CCE values in pupils:
-
-1.  Responsibility to keep the places they frequent clean.
-2.  Care for the people living and working around them.
-
-**Daily Routinised Cleaning**
-
-*   Signage displayed on every classroom notice board:
-
-<img src="/images/Standards%20of%20a%20Clean%20Classroom.png" 
-     style="width:50%">
-
-<img src="/images/Clean%20P1%20Classroom.jpg" 
-     style="width:50%">
-		 
-<img src="/images/Clean%20P2%20Classroom.jpg" 
-     style="width:50%">
-		 
-<img src="/images/Clean%20P3-6%20Classroom.png" 
-     style="width:50%">
-
-![](/images/Classroom%20cleaning%20in%20action%201.png)
-
-![](/images/Termly%20Cleaning.png)
-
-**Additional Information on the Keep Singapore Clean Movement**  
-
-To know more about the KSCM, you may visit the following link at [http://www.publichygienecouncil.sg](http://www.publichygienecouncil.sg/)
+<p><strong>Keep Singapore Clean Movement in Schools: PVPS Project Shine!</strong></p><p>Project Shine! is a school-wide effort to introduce daily routinised cleaning and termly cleaning of the classrooms and school compound respectively. As part of the Keep Singapore Clean Movement (KSCM) in Schools, it aims to inculcate the following CCE values in pupils:</p><ol data-tight="true" class="tight"><li><p>Responsibility to keep the places they frequent clean.</p></li><li><p>Care for the people living and working around them.</p></li></ol><p><strong>Daily Routinised Cleaning</strong></p><ul data-tight="true" class="tight"><li><p>Signage displayed on every classroom notice board:</p></li></ul><div class="isomer-image-wrapper"><img style="width:50%" height="auto" width="100%" src="/images/Standards%20of%20a%20Clean%20Classroom.png"></div><div class="isomer-image-wrapper"><img style="width:50%" height="auto" width="100%" src="/images/Clean%20P1%20Classroom.jpg"></div><div class="isomer-image-wrapper"><img style="width:50%" height="auto" width="100%" src="/images/Clean%20P2%20Classroom.jpg"></div><div class="isomer-image-wrapper"><img style="width:50%" height="auto" width="100%" src="/images/Clean%20P3-6%20Classroom.png"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Classroom%20cleaning%20in%20action%201.png"></div><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Termly%20Cleaning.png"></div><p><strong>Additional Information on the Keep Singapore Clean Movement</strong></p><p>To know more about the KSCM, you may visit the following link at&nbsp;<a href="http://www.publichygienecouncil.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.publichygienecouncil.sg</a></p>
