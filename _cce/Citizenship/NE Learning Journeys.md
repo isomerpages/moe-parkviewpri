@@ -20,7 +20,7 @@ This experience :-
 *   Ignite pupils’ awareness of his/ her potential as agents for change and to challenge them to play a greater role in Total Defence
 *   Builds a sense of confidence in Singapore’s ability to continue thriving
 
-<img src="/images/Slide1a.jpg" style="width:40%">
+<img src="/images/Slide1a.jpg" style="width:80%">
 
 
 **P4 LJ to Singapore Discovery Centre – Racial Harmony Day**
@@ -33,7 +33,7 @@ This experience:-
 *   drives home the message on the importance of peaceful co-existence for different races and religions
 *   highlights the danger of taking racial and religious harmony for granted
 
-<img src="/images/P4SDC.jpg" style="width:40%">
+<img src="/images/P4SDC.jpg" style="width:80%">
 
 **P4 Heritage LJ to Kampong Glam**
 
@@ -44,7 +44,7 @@ As part of their Children’s Day celebrations, P4 pupils will go to Kampong Gla
 *   use mathematics in context to solve inter-disciplinary word problems
 *   experience how different races interact with one another in Singapore
 
-<img src="/images/KG.jpg" style="width:40%">
+<img src="/images/KG.jpg" style="width:80%">
 
 **P5 Heritage LJ to Little India**
 
@@ -68,4 +68,4 @@ This experience helps our pupils to:-
 *   understand and appreciate the beliefs, customs and traditions belonging to the communities of Singapore
 *   value Singapore’s socio-cultural diversity, and promote social cohesion and harmony
 
-<img src="/images/CT.jpg" style="width:40%">
+<img src="/images/CT.jpg" style="width:80%">
