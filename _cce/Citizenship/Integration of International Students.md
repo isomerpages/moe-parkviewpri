@@ -1,11 +1,10 @@
 ---
 title: Integration of International Students
-permalink: /curriculum/cce/citizenship/ne-learning-journeys/
+permalink: /curriculum/cce/citizenship/integration-of-international-students/
 description: ""
 third_nav_title: Citizenship
+variant: markdown
 ---
-# **Integration of International Students**
-
 **PVPS Family of International Students** 
 
 Our school philosophy states, “Every Child Matters.” Be it Local or International Students(IS), Park View Primary School recognizes the needs of every child and provides the platform for them to fulfill it . We believe that it is vital to integrate IS to school life and life in Singapore. Therefore, PVPS creates the opportunities for the IS to interact with Singaporeans and also provide them with the opportunity to forge emotional ties with Singapore through the various programmes that we have in place.

@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education 2024
-permalink: /curriculum/cce/character-development/sexuality-education-2021/
+permalink: /curriculum/cce/character-development/sexuality-education-2024/
 description: ""
 third_nav_title: Character Development
 variant: tiptap
