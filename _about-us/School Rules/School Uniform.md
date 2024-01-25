@@ -3,6 +3,7 @@ title: School Uniform
 permalink: /about-us/schools-rules/school-uniform/
 description: ""
 third_nav_title: School Rules
+variant: markdown
 ---
 ### School Uniform and Others
 #### School Uniform  
@@ -21,11 +22,10 @@ third_nav_title: School Rules
 <table><tbody><tr><td style="width: 190px;">
 <img src="/images/About%20Us/School%20Uniform%20and%20Others/PE_Boy.jpg">
 </td><td style="width: 180px;">
-<img 
-src="/images/About%20Us/School%20Uniform%20and%20Others/PE-Girl.jpg"></td>
+<img src="/images/About%20Us/School%20Uniform%20and%20Others/PE-Girl.jpg"></td>
 <td>
 <ul><li>PE attires should be worn on days that the class have PE and PAL lessons. PE T-shirts must be tucked in and buttoned up.</li>
-<li> On Fridays, P1 & P2 students are to wear their PE attires while P3-P6 students are to wear their CCA T-shirts/attire.</li></ul>
+<li> On Fridays, P1 &amp; P2 students are to wear their PE attires while P3-P6 students are to wear their CCA T-shirts/attire.</li></ul>
 </td>
 </tr></tbody></table>
 
@@ -80,4 +80,8 @@ src="/images/About%20Us/School%20Uniform%20and%20Others/PE-Girl.jpg"></td>
 <li>Only black hair accessories are allowed.</li>
 <li>No fanciful hairbands are allowed.</li>
 <li>One set of plain gold / silver studs may be worn on one ear hole of each ear. Other forms of piercing are not allowed.</li>
-<li>No jewellery or any items of personal adornments are allowed.</li></ul>
+
+	
+#### Others
+	
+<li>No jewellery or any items of personal adornments(including religious ornaments) are allowed.</li></ul>
