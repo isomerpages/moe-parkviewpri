@@ -82,6 +82,6 @@ variant: markdown
 <li>One set of plain gold / silver studs may be worn on one ear hole of each ear. Other forms of piercing are not allowed.</li>
 
 	
-#### Others
+#### Others 
 	
 <li>No jewellery or any items of personal adornments(including religious ornaments) are allowed.</li></ul>
