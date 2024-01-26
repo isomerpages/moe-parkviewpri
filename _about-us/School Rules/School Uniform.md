@@ -183,8 +183,8 @@ variant: tiptap
 <h4>Others</h4>
 <ul data-tight="true" class="tight">
     <li>
-        <p>No jewellery or any items of personal adornments(including religious ornaments)
-            are allowed.</p>
+        <p>No jewellery or any items of personal adornments (including religious
+            ornaments) are allowed.</p>
     </li>
 </ul>
 <p></p>
