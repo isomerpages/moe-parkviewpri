@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Clubs
 variant: tiptap
 ---
+<h4>Our Objectives</h4>
 <p>Through our 4<strong>E</strong>&nbsp;approach -<strong>Exposure</strong>,&nbsp;<strong>Experience</strong>,&nbsp;<strong>Excursion</strong>,&nbsp;<strong>Excellence</strong>,&nbsp;we
 aim to develop and harness the full range of our students’ talents and
 contribute to their overall development. Art Club members are exposed to
@@ -15,7 +16,7 @@ community project such as the Community Outreach Programme through Recycled
 Art. Art Club members also have the opportunity to teach the K1 &amp; K2
 children in neighbourhood Sparkletots Preschool how to transform everyday
 trash into interesting works of art.</p>
-<p></p>
+<h4>Training Schedule</h4>
 <table>
 <tbody>
 <tr>
@@ -309,65 +310,29 @@ Contest</p>
 </tr>
 </tbody>
 </table>
-<h4>Singapore Youth Festivals Art Presentation</h4>
+<h4>Gallery</h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/1%20syf%20category%20a%20kampung%20coffeeshop.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/2%20syf_category%20b_plastic%20fishes.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/3%20syf_category%20c_crushing%20our%20earth.jpg">
-</div>
-<h4>Nationwide Mid-Autumn Festival Colouring Contest</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Nationwide_Mid_Autumn_Festival_Colouring_Contest.JPG">
-</div>
-<h4>Superior Culture Hong Kong Celebrating Dragon Boat Festival Colouring Contest</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Superior_Culture_Hong_Kong_Celebrating_Dragon_Boat_Festival_Colouring_Contest.JPG">
-</div>
-<h4>OMNI Racial Harmony Art Competition</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/OMNI_Racial_Harmony_Art_Competition.JPG">
-</div>
-<h4>Nationwide Drawing Contest 2023</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Nationwide_Drawing_Contest_2023.JPG">
-</div>
-<h4>Pasir Ris East National Day Art Contest</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Pasir_Ris_East_National_Day_Art_Contest.JPG">
-</div>
-<h4>Radin Mas Arts Week Colouring Competition</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Radin_Mas_Arts_Week_Colouring_Competition.JPG">
-</div>
-<h4>SOTA Primary 6 Art Competition</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/SOTA_Primary_6_Art_Competition__2_.JPG">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/SOTA_Primary_6_Art_Competition__1_.JPG">
-</div>
-<h4>National Independence Day Colouring Contest</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/National_Independence_Day_Colouring_Contest.JPG">
-</div>
-<h4>The Singapore International Art Contest (SIAC)</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/The_Singapore_International_Art_Contest__SIAC_.jpg">
-</div>
-<h4>The Singapore International Art Contest (SIAC)</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/6%20art%20for%20trash.JPG">
-</div>
-<h4>URA LTPR ART COMPETITION</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/URA_LTPR_Art_Competition__2_.JPG">
-</div>
-<h4>Community Outreach Programme (COP) thru’ Recycled Art</h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4></h4>
+<h4></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sUn1nNqdg1U"></iframe>
 </div>
