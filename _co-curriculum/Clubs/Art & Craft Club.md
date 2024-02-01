@@ -3,304 +3,328 @@ title: Art & Craft Club
 permalink: /co-curriculum/clubs/art-n-craft-club/info/
 description: ""
 third_nav_title: Clubs
-variant: markdown
+variant: tiptap
 ---
-Through our 4**E**&nbsp;approach -**Exposure**,&nbsp;**Experience**,&nbsp;**Excursion**,&nbsp;**Excellence**,&nbsp;we aim to develop and harness the full range of our students’ talents and contribute to their overall development. Art Club members are exposed to 2D and 3D art forms through hands-on art making and attending art exhibitions. There are also opportunities for our students to develop SEL competencies through group art-making and character building through service to the community project such as the Community Outreach Programme through Recycled Art. Art Club members also have the opportunity to teach the K1 &amp; K2 children in neighbourhood Sparkletots Preschool how to transform everyday trash into interesting works of art.
-
-<table class="tg" style="border-collapse:collapse;border-spacing:0"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Mrs Eileen Yap (OIC)<br>  
-Mdm Nor Iqmalia&nbsp;<br>  
-Mdm Kirthi Shihlpa Pillai<br>
-	</td>
-	</tr>
-	<tr>
-	<th style="border-color:#000000;solid;border-width:1px;">Training Dates</th>
-	<td style="border-color:#000000;solid;border-width:1px;"><u><b>Tuesdays</b><br></u>3.30pm – 5pm (School Team)<br>Art Room 1<br><br>
-	<u><b>Fridays</b></u>
-<br>7.30am - 9.00am (All members)<br>School Team (Art Room 1)<br> 
-Non-School Team (Art Room 2)
+<h4>Our Objectives</h4>
+<p>Through our 4<strong>E</strong>&nbsp;approach -<strong>Exposure</strong>,&nbsp;<strong>Experience</strong>,&nbsp;<strong>Excursion</strong>,&nbsp;<strong>Excellence</strong>,&nbsp;we
+aim to develop and harness the full range of our students’ talents and
+contribute to their overall development. Art Club members are exposed to
+2D and 3D art forms through hands-on art making and attending art exhibitions.
+There are also opportunities for our students to develop SEL competencies
+through group art-making and character building through service to the
+community project such as the Community Outreach Programme through Recycled
+Art. Art Club members also have the opportunity to teach the K1 &amp; K2
+children in neighbourhood Sparkletots Preschool how to transform everyday
+trash into interesting works of art.</p>
+<h4>Training Schedule</h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-in-charge</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Mrs Eileen Yap (OIC)
+<br>Mdm Nor Iqmalia&nbsp;
+<br>Mdm Kirthi Shihlpa Pillai
+<br>
+</p>
 </td>
 </tr>
-	</tbody>
-	</table>
-	
+<tr>
+<th rowspan="1" colspan="1">
+<p>Training Dates</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong><u>Tuesdays</u></strong><u><br></u>3.30pm – 5pm (School Team)
+<br>Art Room 1
+<br><strong><u>Fridays</u></strong> 
+<br>7.30am - 9.00am (All members)
+<br>School Team (Art Room 1)
+<br>Non-School Team (Art Room 2)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Achievements</h4>
-
- <table class="tg" style="border-collapse:collapse;border-spacing:0"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Events</th><th style="border-color:#000000;solid;border-width:1px;">Achievements</th><th style="border-color:#000000;solid;border-width:1px;">Year</th>
-	</tr>
-	<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">Singapore Youth Festivals (SYF) Arts Presentation
-Theme: ‘Artist and Inspiration’</td>
-	<td style="border-color:#000000;solid;border-width:1px;">Certificate of Recognition:
-Category A – Kampung Coffee Shop<br><br>
-Category B – Plastic Fishes<br><br>
-Category C – Crushing Our Earth	
-</td>
-		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Events</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
 </tr>
-	<tr>
-	</tr><tr>
-		</tr>
-	<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">         Nationwide Mid-Autumn Festival Colouring Contest</td>
-		<td style="border-color:#000000;solid;border-width:1px;"> Champion: <br>Teo Zhi Xuan
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festivals (SYF) Arts Presentation Theme: ‘Artist and Inspiration’</p>
 </td>
-		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Recognition:
+<br>Category A – Kampung Coffee Shop
+<br>Category B – Plastic Fishes
+<br>Category C – Crushing Our Earth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
 </tr>
-	<tr>
-	</tr><tr>
-	</tr>
-	<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">             Superior Culture Hong Kong: Celebrating Dragon Boat Festival Colouring Contest</td>
-<td style="border-color:#000000;solid;border-width:1px;">Silver Award<br>Teo Zhi Xuan
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nationwide Mid-Autumn Festival Colouring Contest</p>
 </td>
-		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+<td rowspan="1" colspan="1">
+<p>Champion:
+<br>Teo Zhi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
 </tr>
-	<tr>
-	</tr><tr>
-	</tr>
-	<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">           OMNI Racial Harmony Day Drawing Competition  </td>
-<td style="border-color:#000000;solid;border-width:1px;">Consolation Prize<br> Teo Zhi Xuan
+<tr>
+<td rowspan="1" colspan="1">
+<p>Superior Culture Hong Kong: Celebrating Dragon Boat Festival Colouring
+Contest</p>
 </td>
-		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award:
+<br>Teo Zhi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
 </tr>
-	<tr>
-	</tr><tr>
-	</tr>
-	<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">         Nationwide Drawing Contest 2023\全国绘画比赛  </td>
-<td style="border-color:#000000;solid;border-width:1px;"> 1st Runner-up<br> Teo Zhi Xuan
+<tr>
+<td rowspan="1" colspan="1">
+<p>OMNI Racial Harmony Day Drawing Competition</p>
 </td>
-		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+<td rowspan="1" colspan="1">
+<p>Consolation Prize:
+<br>Teo Zhi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
 </tr>
-	<tr>
-	</tr><tr>
-	<td style="border-color:#000000;solid;border-width:1px;">Radin Mas Arts Week Colouring Competition 
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nationwide Drawing Contest 2023\全国绘画比赛</p>
 </td>
-	<td style="border-color:#000000;solid;border-width:1px;">
-2nd place Recipient: Teo Zhi Xuan
+<td rowspan="1" colspan="1">
+<p>1st Runner-up:
+<br>Teo Zhi Xuan</p>
 </td>
-		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
 </tr>
-	<tr>
-	</tr><tr>
-	<td style="border-color:#000000;solid;border-width:1px;">
-Singapore Dreaming: A Comics Competition for Young Creators!
+<tr>
+<td rowspan="1" colspan="1">
+<p>Radin Mas Arts Week Colouring Competition</p>
 </td>
-	<td style="border-color:#000000;solid;border-width:1px;">
-Certificate of participation
+<td rowspan="1" colspan="1">
+<p>2nd place Recipient:
+<br>Teo Zhi Xuan</p>
 </td>
-		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
 </tr>
-	<tr>
-	</tr><tr>
-	</tr>
-	<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">Pasir Ris East National Day Art Contest
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Dreaming: A Comics Competition for Young Creators!</p>
 </td>
-	<td style="border-color:#000000;solid;border-width:1px;">
-2nd place Recipient: Teo Zhi Xuan
+<td rowspan="1" colspan="1">
+<p>Certificate of participation</p>
 </td>
-		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
 </tr>
-	<tr>
-	</tr><tr>
-	<td style="border-color:#000000;solid;border-width:1px;">Singapore Dreaming: A Comics Competition for Young Creators!
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pasir Ris East National Day Art Contest</p>
 </td>
-	<td style="border-color:#000000;solid;border-width:1px;">
-Certificate of participation
+<td rowspan="1" colspan="1">
+<p>2nd place Recipient: Teo Zhi Xuan</p>
 </td>
-		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
 </tr>
-	<tr>
-	</tr>
-	<tr>
-		</tr><tr>
-	<td style="border-color:#000000;solid;border-width:1px;">
-National Independence Day Colouring Contest
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Dreaming: A Comics Competition for Young Creators!</p>
 </td>
-	<td style="border-color:#000000;solid;border-width:1px;">1st Runner-up: Teo Zhi Xuan
+<td rowspan="1" colspan="1">
+<p>Certificate of participation</p>
 </td>
-		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
 </tr>
-	<tr>
-	</tr><tr>
-	<td style="border-color:#000000;solid;border-width:1px;">SOTA Primary 6 Art Competition
-Theme: “If I Can Change the World”
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Independence Day Colouring Contest</p>
 </td>
-	<td style="border-color:#000000;solid;border-width:1px;">
-Certificate of participation
+<td rowspan="1" colspan="1">
+<p>1st Runner-up:
+<br>Teo Zhi Xuan</p>
 </td>
-		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
 </tr>
-	<tr>
-	</tr>
-	<tr>
-	</tr>
-	<tr>
-	</tr><tr>
-	<td style="border-color:#000000;solid;border-width:1px;">The Singapore International Art Contest (SIAC) 
+<tr>
+<td rowspan="1" colspan="1">
+<p>SOTA Primary 6 Art Competition Theme: “If I Can Change the World”</p>
 </td>
-	<td style="border-color:#000000;solid;border-width:1px;">
-Certificate of participation
+<td rowspan="1" colspan="1">
+<p>Certificate of participation</p>
 </td>
-		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
 </tr>
-	<tr>
-	</tr>
-	<tr>
-	</tr><tr>
-		</tr><tr>
-	</tr>
-	<tr>
-	</tr><tr>
-	<td style="border-color:#000000;solid;border-width:1px;">
-Art of Trash Competition
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Singapore International Art Contest (SIAC)</p>
 </td>
-	<td style="border-color:#000000;solid;border-width:1px;">
-Certificate of participation
+<td rowspan="1" colspan="1">
+<p>Certificate of participation</p>
 </td>
-		<td style="border-color:#000000;solid;border-width:1px;">2023</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
 </tr>
-	<tr>
-	</tr>
-	<tr>
-	</tr><tr>
-	<td style="border-color:#000000;solid;border-width:1px;">URA LTPR Art Competition</td>
-	<td style="border-color:#000000;solid;border-width:1px;">2nd place  
-Recipient: Teo Zhi Xuan</td>
-		<td style="border-color:#000000;solid;border-width:1px;">2022</td>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Art of Trash Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
 </tr>
-	<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">Singapore Youth Festival Art Presentation<br>  
-Theme: ‘Artist and Technology’</td>
-	<td style="border-color:#000000;solid;border-width:1px;">Certificate of Participation<br>Artist Talk (Category C)</td>
-		<td style="border-color:#000000;solid;border-width:1px;">2021</td>
-	</tr>
-	<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">Pasir Ris Our Home Colouring Contest</td>
-	<td style="border-color:#000000;solid;border-width:1px;">2nd place<br>Recipient: Teo Zhi Xuan</td>
-		<td style="border-color:#000000;solid;border-width:1px;">2021</td>
-	</tr>
-		<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">Draw My Stamp Story Art Competition 2021</td>
-	<td style="border-color:#000000;solid;border-width:1px;">Bronze Award<br>Recipient: Patil Prisha Gurunath</td>
-		<td style="border-color:#000000;solid;border-width:1px;">2021</td>
-	</tr>
-		<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">Our Heart for Singapore (OHFSG) Project</td>
-	<td style="border-color:#000000;solid;border-width:1px;">30 submission<br> 
-◦&nbsp;20 Merit Award<br>  
-◦&nbsp;10 Participation</td>
-		<td style="border-color:#000000;solid;border-width:1px;">2021</td>
-	</tr>
-		<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">SYF 2021 Design Challenge</td>
-	<td style="border-color:#000000;solid;border-width:1px;">Participation</td>
-		<td style="border-color:#000000;solid;border-width:1px;">2021</td>
-	</tr>
-		<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">12th KAO International Environment Children Painting Contest</td>
-	<td style="border-color:#000000;solid;border-width:1px;">Participation</td>
-		<td style="border-color:#000000;solid;border-width:1px;">2021</td>
-	</tr>
-		<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">SOTA Primary 6 Art Competition<br>  
-Theme: ‘Artist and Technology’</td>
-	<td style="border-color:#000000;solid;border-width:1px;">Participation</td>
-		<td style="border-color:#000000;solid;border-width:1px;">2021</td>
-	</tr>
-		<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">S.T.A.R. Awards Programme</td>
-	<td style="border-color:#000000;solid;border-width:1px;">Platinum Award</td>
-		<td style="border-color:#000000;solid;border-width:1px;">2020</td>
-	</tr>
-		<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">S.T.A.R. Awards Programme/ LOO Kidz Award</td>
-	<td style="border-color:#000000;solid;border-width:1px;">LOO Kidz Award<br>  Recipient: Patil Prisha Gurunath</td>
-		<td style="border-color:#000000;solid;border-width:1px;">2020</td>
-	</tr>
-		<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">“Draw My Stamp Story” Art Competition</td>
-	<td style="border-color:#000000;solid;border-width:1px;">GOLD Award<br>Patil Prisha Gurunath</td>
-		<td style="border-color:#000000;solid;border-width:1px;">2020</td>
-	</tr>
-			<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">E6 Cluster Art Exhibition</td>
-	<td style="border-color:#000000;solid;border-width:1px;">Artworks from P6 cohort and Art &amp; Craft Club School Team were showcased digitally at Tampines Library Level 2, Tampines Hub</td>
-		<td style="border-color:#000000;solid;border-width:1px;">2020</td>
-	</tr>
-			<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">NDP2020 Funpack Pledge Card Design Competition</td>
-	<td style="border-color:#000000;solid;border-width:1px;">4 artworks were selected for display in the inaugural Time Capsule and at National Museum Singapore Gallery</td>
-		<td style="border-color:#000000;solid;border-width:1px;">2020</td>
-	</tr>
-			<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">#SYFstrongerTogether Project</td>
-	<td style="border-color:#000000;solid;border-width:1px;">25 artworks were showcased in the SYF Online Interactive Artwork platform</td>
-		<td style="border-color:#000000;solid;border-width:1px;">2020</td>
-	</tr>
-	</tbody>
-	</table>
-
-<h4>Singapore Youth Festivals Art Presentation </h4>
-
-<img src="/images/1%20syf%20category%20a%20kampung%20coffeeshop.jpg">
-<img src="/images/2%20syf_category%20b_plastic%20fishes.jpg">
-<img src="/images/3%20syf_category%20c_crushing%20our%20earth.jpg">
-
-<h4>Nationwide Mid-Autumn Festival Colouring Contest</h4>
-<img src="/images/Nationwide_Mid_Autumn_Festival_Colouring_Contest.JPG">
-	
-
- <h4>Superior Culture Hong Kong Celebrating Dragon Boat Festival Colouring Contest</h4>
- <img src="/images/Superior_Culture_Hong_Kong_Celebrating_Dragon_Boat_Festival_Colouring_Contest.JPG">
- 
- 
- <h4>OMNI Racial Harmony Art Competition</h4>
- <img src="/images/OMNI_Racial_Harmony_Art_Competition.JPG">
- 
-
-
-<h4>Nationwide Drawing Contest 2023</h4>
-<img src="/images/Nationwide_Drawing_Contest_2023.JPG">
-
-
-
-<h4>Pasir Ris East National Day Art Contest </h4>
-<img src="/images/Pasir_Ris_East_National_Day_Art_Contest.JPG">
-
-<h4>Radin Mas Arts Week Colouring Competition </h4>
-<img src="/images/Radin_Mas_Arts_Week_Colouring_Competition.JPG">
-
-<h4>SOTA Primary 6 Art Competition</h4>
-<img src="/images/SOTA_Primary_6_Art_Competition__2_.JPG">
-<img src="/images/SOTA_Primary_6_Art_Competition__1_.JPG">
-
-<h4> National Independence Day Colouring Contest</h4>
-<img src="/images/National_Independence_Day_Colouring_Contest.JPG">
-
-
-
-<h4>The Singapore International Art Contest (SIAC)</h4>
-<img src="/images/The_Singapore_International_Art_Contest__SIAC_.jpg">
-
-<h4>The Singapore International Art Contest (SIAC)</h4>
-<img src="/images/6%20art%20for%20trash.JPG">
-					
-
-
-
-
-<h4>URA LTPR ART COMPETITION</h4>
-
-<img src="/images/URA_LTPR_Art_Competition__2_.JPG">
-
-<h4>Community Outreach Programme (COP) thru’ Recycled Art</h4>
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/sUn1nNqdg1U" height="315" width="560"></iframe>
-
-Despite the challenges faced due to the pandemic, both PVPS Art &amp; Craft Club and Sparkletots Preschool@Blk 517 worked closely to ensure our annual collaboration could continue. This year, to commemorate Earth Day on 22 April 2021, 2 of our Art Club students, Kenneth and Rasleen, recorded an instructional video on creating photo frames using recycled cardboards and twigs. The K1 and K2 students followed the steps in the video to create their own photo frames. This was a maiden attempt by the Art Club students and the experience was both meaningful and exhilarating.
-
-![](/images/Community%20Outreach%20Programme%20through%20Recycled%20Art%20Earth%20Day.jpg)
-
+<tr>
+<td rowspan="1" colspan="1">
+<p>URA LTPR Art Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd place Recipient: Teo Zhi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Art Presentation
+<br>Theme: ‘Artist and Technology’</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation
+<br>Artist Talk (Category C)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pasir Ris Our Home Colouring Contest</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd place Recipient:
+<br>Teo Zhi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Draw My Stamp Story Art Competition 2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Award Recipient:
+<br>Patil Prisha Gurunath</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our Heart for Singapore (OHFSG) Project</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30 submission
+<br>◦&nbsp;20 Merit Award
+<br>◦&nbsp;10 Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF 2021 Design Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12th KAO International Environment Children Painting Contest</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SOTA Primary 6 Art Competition
+<br>Theme: ‘Artist and Technology’</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Gallery</h4>
+<h4></h4>
+<h4></h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sUn1nNqdg1U"></iframe>
+</div>
+<p>Despite the challenges faced due to the pandemic, both PVPS Art &amp;
+Craft Club and Sparkletots Preschool@Blk 517 worked closely to ensure our
+annual collaboration could continue. This year, to commemorate Earth Day
+on 22 April 2021, 2 of our Art Club students, Kenneth and Rasleen, recorded
+an instructional video on creating photo frames using recycled cardboards
+and twigs. The K1 and K2 students followed the steps in the video to create
+their own photo frames. This was a maiden attempt by the Art Club students
+and the experience was both meaningful and exhilarating.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community%20Outreach%20Programme%20through%20Recycled%20Art%20Earth%20Day.jpg">
+</div>
+<p></p>
