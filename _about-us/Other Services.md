@@ -68,32 +68,27 @@ and dental treatment is provided as well.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>1 FEB</strong>
-</p>
-<p><strong>CLOSED</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2 FEB</strong>
-</p>
-<p><strong>CLOSED</strong>
+<p><strong>2 FEB </strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>5 FEB</strong>
-</p>
-<p>OPEN 8AM TO 5PM</p>
+<br>OPEN 8AM TO 5PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>6 FEB</strong>
-</p>
-<p>OPEN 8AM TO 5.30PM</p>
+<br>OPEN 8AM TO 5.30PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>7 FEB</strong>
-</p>
-<p>OPEN 8AM TO 5PM</p>
+<br>OPEN 8AM TO 5PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>8 FEB<br></strong>OPEN 8AM TO 5.30PM</p>
@@ -105,88 +100,73 @@ and dental treatment is provided as well.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>12 FEB</strong>
+<br><strong>CLOSED</strong>
 </p>
-<p><strong>CLOSED</strong>
-</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>13 FEB</strong>
-</p>
-<p><strong>CLOSED</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>14 FEB</strong>
-</p>
-<p><strong>CLOSED</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>15 FEB</strong>
-</p>
-<p><strong>CLOSED</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>16 FEB</strong>
-</p>
-<p><strong>CLOSED</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>19 FEB</strong>
-</p>
-<p><strong>CLOSED</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>20 FEB</strong>
-</p>
-<p><strong>CLOSED</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>21 FEB</strong>
-</p>
-<p>OPEN 8AM TO 5PM</p>
+<br>OPEN 8AM TO 5PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>22 FEB</strong>
-</p>
-<p>OPEN 8AM&nbsp; TO 5.30PM</p>
+<br>OPEN 8AM&nbsp; TO 5.30PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>23 FEB</strong>
-</p>
-<p>OPEN 8AM TO 5PM</p>
+<br>OPEN 8AM TO 5PM</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>26 FEB</strong>
-</p>
-<p><strong>CLOSED</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>27 FEB</strong>
-</p>
-<p><strong>CLOSED</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>28 FEB</strong>
-</p>
-<p><strong>CLOSED</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>29 FEB</strong>
-</p>
-<p><strong>CLOSED</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
