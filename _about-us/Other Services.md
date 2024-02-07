@@ -2,74 +2,278 @@
 title: Other Services
 permalink: /about-us/other-services/
 description: ""
+variant: tiptap
 ---
-<h4>School Dental Services</h4>  
-
-<p align="justify">The school has its own dental clinic managed by a dentist therapist. All students in the school are seen by the dental therapist for routine check-up and dental treatment is provided as well.</p>
-Dental Therapist - Mdm Tan<br>
-Tel: 6598211985
-
-<h4>Opening Days and Hours</h4>
-
-Monday &amp; Wednesday: 8:00 a.m. - 5:30 p.m.
-School Holidays (Selected Days Only): 8:00 a.m. - 5:30 p.m.
-Lunch Hour: 1:00 p.m. - 2:00 p.m.
-
-<i>** The school dental clinic is closed. For emergency treatment, call one of the following clinics for assistance. These clinics are not open daily, call before going there.:</i>
-
-<h4>Buddy Clinics</h4>
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><td style="border-color:#000000;solid;border-width:1px;">Meridian Pr School Dental Clinic</td>
-	<td style="border-color:#000000;solid;border-width:1px;">20 Pasir Ris St 71 (518798)</td>
-	<td style="border-color:#000000;solid;border-width:1px;">9821 1985</td>
-	</tr>
-<tr><td style="border-color:#000000;solid;border-width:1px;">Elias Park Pr School Dental Clinic</td>
-	<td style="border-color:#000000;solid;border-width:1px;"> 11 Pasir Ris St 52 (518866)</td>
-	<td style="border-color:#000000;solid;border-width:1px;">8940 1873</td>
-	</tr>
-<tr><td style="border-color:#000000;solid;border-width:1px;">Whitesands Pr School Dental Clinic</td>
-	<td style="border-color:#000000;solid;border-width:1px;">2 Pasir Ris St 11 (519075)</td>
-	<td style="border-color:#000000;solid;border-width:1px;">9113 9758</td>
-	</tr>
-<tr><td style="border-color:#000000;solid;border-width:1px;">Mobile Dental Clinic 6</td>
-	<td style="border-color:#000000;solid;border-width:1px;"> Ask for current location</td>
-	<td style="border-color:#000000;solid;border-width:1px;">9237 9143</td>
-	</tr>
-	</tbody>
-	</table>
-
-
-
-
-<li>Singaporean <b>may</b> have to <b>pay</b> for treatment.</li>
-<li>Foreigners &amp; Permanent Residents have to <b>pay</b> for treatment.</li>
-
+<h3>School Dental Services</h3>
+<p>The school has its own dental clinic managed by a dentist therapist. All
+students in the school are seen by the dental therapist for routine check-ups,
+and dental treatment is provided as well.</p>
 <table>
-	<thead>
-		<tr>
-			<th style="border:1px solid black;color:#2b5fce;">School Book Shop &amp; School Uniform Supplier</th>
-			<th style="border:1px solid black;color:#2b5fce;">School Bus Services
-			</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td style="border:1px solid black;">
-				 Pacific Bookshop Centre<br>
-				Tel: 6581 2317<br>
-				Opening Days and Hours<br>
-				Monday to Friday<br>
-				8:30 a.m - 12:00 p.m.<br>
-				1:00 p.m. - 3:15 p.m.<br>
-				<br>
-				Parents are allowed to go to the bookshop only from<br>
-				2.00pm – 3.00pm
-			</td>
-			<td style="border:1px solid black;">
-				Golden Lion Transport Services<br>
-				Miss April Chia<br>
-				Hp: 9146 6258
-			</td>
-		</tr>
-	</tbody>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Dental Therapist</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Contact</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9113 6538
+<br>(preferably whatsapp for appointment/enquiries)</p>
+</td>
+</tr>
+</tbody>
 </table>
+<h4>Dental Clinic's Schedule for February 2024</h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>MONDAY</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>TUESDAY</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>WEDNESDAY</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>THURSDAY</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>FRIDAY</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1 FEB</strong>
+</p>
+<p><strong>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2 FEB</strong>
+</p>
+<p><strong>CLOSED</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>5 FEB</strong>
+</p>
+<p>OPEN 8AM TO 5PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>6 FEB</strong>
+</p>
+<p>OPEN 8AM TO 5.30PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>7 FEB</strong>
+</p>
+<p>OPEN 8AM TO 5PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>8 FEB<br></strong>OPEN 8AM TO 5.30PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>9 FEB*<br></strong>OPEN 8AM TO 12PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>12 FEB</strong>
+</p>
+<p><strong>CLOSED</strong>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>13 FEB</strong>
+</p>
+<p><strong>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>14 FEB</strong>
+</p>
+<p><strong>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>15 FEB</strong>
+</p>
+<p><strong>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>16 FEB</strong>
+</p>
+<p><strong>CLOSED</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>19 FEB</strong>
+</p>
+<p><strong>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>20 FEB</strong>
+</p>
+<p><strong>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>21 FEB</strong>
+</p>
+<p>OPEN 8AM TO 5PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>22 FEB</strong>
+</p>
+<p>OPEN 8AM&nbsp; TO 5.30PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>23 FEB</strong>
+</p>
+<p>OPEN 8AM TO 5PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>26 FEB</strong>
+</p>
+<p><strong>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>27 FEB</strong>
+</p>
+<p><strong>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>28 FEB</strong>
+</p>
+<p><strong>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>29 FEB</strong>
+</p>
+<p><strong>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>Opening Days and Hours: Please refer to the above schedule for more details. Avoid lunch hour from 1.00pm to 2.00pm.</em>
+</p>
+<p>During clinic closure days , students who require&nbsp;<strong>urgent</strong>&nbsp;dental
+treatment can contact the following school dental clinic for appointment:</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Yumin Pri School Dental Clinic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Tampines St 21 (529393)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9863 2732</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Meridian Pri School Dental Clinic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 Pasir Ris St 71 (518798)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9821 1985</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Elias Park Pri School Dental Clinic</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11 Pasir Ris St 52 (518866)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8940 1873</p>
+</td>
+</tr>
+</tbody>
+</table>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singaporean <strong>may</strong> have to <strong>pay</strong> for treatment.</p>
+</li>
+<li>
+<p>Foreigners &amp; Permanent Residents have to <strong>pay</strong> for treatment.</p>
+</li>
+</ul>
+<h3>Other Services</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>School Book Shop &amp; School Uniform Supplier</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>School Bus Services</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pacific Bookshop Centre
+<br>Tel: 6581 2317
+<br>Opening Days and Hours
+<br>Monday to Friday
+<br>8:30 a.m - 12:00 p.m.
+<br>1:00 p.m. - 3:15 p.m.
+<br>
+<br>Parents are allowed to go to the bookshop only from
+<br>2.00pm – 3.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Golden Lion Transport Services
+<br>Miss April Chia
+<br>Hp: 9146 6258</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
