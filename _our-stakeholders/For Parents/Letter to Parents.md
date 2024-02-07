@@ -19,7 +19,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2024 Letter to Parents/Parents_handbook_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Handbook 2024</a>
+<p><a href="/files/2024 Info for Parents/Parents_handbook_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Handbook 2024</a>
 </p>
 </li>
 </ul>
