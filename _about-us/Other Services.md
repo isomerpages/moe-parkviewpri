@@ -225,14 +225,9 @@ treatment can contact the following school dental clinic for appointment:</p>
 <p>Foreigners &amp; Permanent Residents have to <strong>pay</strong> for treatment.</p>
 </li>
 </ul>
-<h3>Other Services</h3>
+<h3>School Book Shop &amp; Uniform Supplier</h3>
 <table>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>School Book Shop &amp; School Uniform Supplier</p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Pacific Bookshop Centre
