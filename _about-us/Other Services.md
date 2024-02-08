@@ -68,105 +68,105 @@ and dental treatment is provided as well.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>1 FEB</strong> 
-<br><strong>CLOSED</strong>
+<br><strong>Closed</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2 FEB </strong>
-<br><strong>CLOSED</strong>
+<br><strong>Closed</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>5 FEB</strong> 
-<br>OPEN 8AM TO 5PM</p>
+<br>Open 8am to 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>6 FEB</strong> 
-<br>OPEN 8AM TO 5.30PM</p>
+<br>Open 8am to 5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>7 FEB</strong> 
-<br>OPEN 8AM TO 5PM</p>
+<br>Open 8am to 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>8 FEB<br></strong>OPEN 8AM TO 5.30PM</p>
+<p><strong>8 FEB<br></strong>Open 8am to 5.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>9 FEB*<br></strong>OPEN 8AM TO 12PM</p>
+<p><strong>9 FEB*<br></strong>Open 8am - 12pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>12 FEB</strong> 
-<br><strong>CLOSED</strong>
+<br><strong>Closed</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>13 FEB</strong> 
-<br><strong>CLOSED</strong>
+<br><strong>Closed</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>14 FEB</strong> 
-<br><strong>CLOSED</strong>
+<br><strong>Closed</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>15 FEB</strong> 
-<br><strong>CLOSED</strong>
+<br><strong>Closed</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>16 FEB</strong> 
-<br><strong>CLOSED</strong>
+<br><strong>Closed</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>19 FEB</strong> 
-<br><strong>CLOSED</strong>
+<br><strong>Closed</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>20 FEB</strong> 
-<br><strong>CLOSED</strong>
+<br><strong>Closed</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>21 FEB</strong> 
-<br>OPEN 8AM TO 5PM</p>
+<br>Open 8am to 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>22 FEB</strong> 
-<br>OPEN 8AM&nbsp; TO 5.30PM</p>
+<br>Open 8am to 5pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>23 FEB</strong> 
-<br>OPEN 8AM TO 5PM</p>
+<br>Open 8am to 5pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>26 FEB</strong> 
-<br><strong>CLOSED</strong>
+<br><strong>Closed</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>27 FEB</strong> 
-<br><strong>CLOSED</strong>
+<br><strong>Closed</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>28 FEB</strong> 
-<br><strong>CLOSED</strong>
+<br><strong>Closed</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>29 FEB</strong> 
-<br><strong>CLOSED</strong>
+<br><strong>Closed</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -225,17 +225,9 @@ treatment can contact the following school dental clinic for appointment:</p>
 <p>Foreigners &amp; Permanent Residents have to <strong>pay</strong> for treatment.</p>
 </li>
 </ul>
-<h3>Other Services</h3>
+<h3>School Book Shop &amp; Uniform Supplier</h3>
 <table>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>School Book Shop &amp; School Uniform Supplier</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>School Bus Services</p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Pacific Bookshop Centre
@@ -247,11 +239,6 @@ treatment can contact the following school dental clinic for appointment:</p>
 <br>
 <br>Parents are allowed to go to the bookshop only from
 <br>2.00pm – 3.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Golden Lion Transport Services
-<br>Miss April Chia
-<br>Hp: 9146 6258</p>
 </td>
 </tr>
 </tbody>
