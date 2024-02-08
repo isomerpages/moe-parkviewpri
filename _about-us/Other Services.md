@@ -232,9 +232,6 @@ treatment can contact the following school dental clinic for appointment:</p>
 <th rowspan="1" colspan="1">
 <p>School Book Shop &amp; School Uniform Supplier</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>School Bus Services</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -247,11 +244,6 @@ treatment can contact the following school dental clinic for appointment:</p>
 <br>
 <br>Parents are allowed to go to the bookshop only from
 <br>2.00pm – 3.00pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Golden Lion Transport Services
-<br>Miss April Chia
-<br>Hp: 9146 6258</p>
 </td>
 </tr>
 </tbody>
