@@ -3,61 +3,109 @@ title: Guzheng
 permalink: /co-curriculum/Performing-Arts/guzheng/
 description: ""
 third_nav_title: Performing Arts
-variant: markdown
+variant: tiptap
 ---
-<p align="justify">Park View Primary School Guzheng Ensemble has been established since the school started in 1997. Guzheng, a traditional Chinese musical instrument plays an important part in the Chinese culture. Playing the Guzheng helps to build patience, self-discipline and foster co-operation among the students besides learning to appreciate and enjoy the musical pieces.</p>
-
-<p align="justify">Despite spending many hours honing their Guzheng playing skills, some of our former Guzheng members had achieved good academic results and are currently studying in renowned secondary schools, such as Dunman High School, Chung Cheng High School and Raffles Girls School.</p>
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Mdm Tan Poh Soon<br>Mdm Shi Rui<br>Mdm Wong Peh Yan
-	</td>
-	</tr>
-	<tr>
-	<th style="border-color:#000000;solid;border-width:1px;">Training Dates</th>
-	<td style="border-color:#000000;solid;border-width:1px;"><u><b>Tuesdays</b><br></u>3.30pm – 5pm (Selected P4 &amp;P5 students)<br><br>
-		<u><b>Thursdays</b><br></u>3.30pm – 5pm (Selected P4 &amp;P5 students)<br><br>
-	<u><b>Fridays</b></u>
-<br>7.30am to 9.00am (All members)<br>
+<h4>Introduction</h4>
+<p>Park View Primary School Guzheng Ensemble has been established since the
+school started in 1997. Guzheng, a traditional Chinese musical instrument,
+plays an important part in the Chinese culture. Playing the Guzheng helps
+to build patience as well as self-discipline and foster cooperation among
+the students. In addition, they also learn to appreciate and enjoy the
+musical pieces.
+<br>Beside participating in biennial Singapore Youth Festival (SYF) Arts Presentation,
+the ensemble performs during school events such as Chinese New Year concert
+and Mid-Autumn concert. In the recent years, the ensemble has also been
+invited to perform at the Pasir Ris West CNY dinner celebration.</p>
+<h4>Training Schedule</h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-in-charge</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Poh Soon (OIC)
+<br>Mdm Wong Peh Yan
+<br>Mdm Shi Rui</p>
 </td>
 </tr>
-	<tr>
-	</tr></tbody>
-	</table>
-		
-
-<h4>Achievements</h4>
-		
- <table class="tg" style="border-collapse:collapse;border-spacing:0"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Events</th><th style="border-color:#000000;solid;border-width:1px;">Achievements</th><th style="border-color:#000000;solid;border-width:1px;">Year</th>
-	</tr>
-	<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">SYF</td>
-	<td style="border-color:#000000;solid;border-width:1px;">Certificate of Participation</td>
-		<td style="border-color:#000000;solid;border-width:1px;">2022</td>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Training Days/ Time/ Venue</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong><u>Tuesdays</u></strong><u><br></u>3.30pm – 5pm (School Team)
+<br><strong><u>Thursdays</u></strong><u><br></u>3.30pm – 5pm (School Team)
+<br><strong><u>Fridays</u></strong> 
+<br>7.30am to 9.00am (All members)
+<br>
+</p>
+</td>
 </tr>
-	</tbody>
-	</table>
-
-
-![](/images/P6.jpg)
-
-![](/images/P5.jpeg)
-
-![](/images/P4.jpeg)
-
-![](/images/P3.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-![](/images/Guzheng_2.jpg)
-
-![](/images/Guzheng_3.jpg)
+</tbody>
+</table>
+<h4>Achievements</h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Events</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SYF</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Gallery</h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guzheng/Guzheng_2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/CCA/Guzheng/Guzheng_1.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/CCA/Guzheng/Guzheng.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guzheng/Guzheng_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Guzheng/Guzheng_3.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
