@@ -43,9 +43,7 @@ development, ready to apply their skills in real-life contexts.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Fridays</u></strong> 
 <br>7.30am to 9.00am
-<br>Hotspot (Library)
-<br>
-</p>
+<br>Hotspot (Library)</p>
 </td>
 </tr>
 </tbody>
