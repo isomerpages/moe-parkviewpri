@@ -585,8 +585,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>We are happy to share some of the achievements by our student, Teo Zhi
-Xuan from 5R3:</p>
+<p>Teo Zhi Xuan from 5R3</p>
 </th>
 </tr>
 <tr>
