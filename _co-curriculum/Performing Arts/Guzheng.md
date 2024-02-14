@@ -102,7 +102,7 @@ invited to perform at the Pasir Ris West CNY dinner celebration.</p>
 <tr>
 <td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Guzheng/Guzheng_3.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/CCA/Guzheng/Guzheng_3.jpg">
 </div>
 </td>
 </tr>
