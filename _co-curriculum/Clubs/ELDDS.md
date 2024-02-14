@@ -23,7 +23,7 @@ the world around. To boost the students’&nbsp;<strong>confidence</strong>&nbsp
 instill self-control and discipline, our Drama Club offers a safe platform
 where the students can practise, perform, inspire and fuel their overall
 development, ready to apply their skills in real-life contexts.</p>
-<h4>Training Schedule </h4>
+<h4>Training Schedule</h4>
 <table>
 <tbody>
 <tr>
@@ -92,4 +92,64 @@ development, ready to apply their skills in real-life contexts.</p>
 </tbody>
 </table>
 <h4>Gallery</h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/ELDDS/WhatsApp_Image_2024_02_02_at_12_59_46.jpeg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 62%;" height="auto" width="100%" alt="" src="/images/CCA/ELDDS/WhatsApp_Image_2024_02_02_at_12_59_47.jpeg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ELDDS/WhatsApp_Image_2024_02_02_at_13_00_23.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 79%;" height="auto" width="100%" alt="" src="/images/CCA/ELDDS/WhatsApp_Image_2024_02_02_at_13_04_42.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ELDDS/WhatsApp_Image_2024_02_02_at_13_03_01.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 78%;" height="auto" width="100%" alt="" src="/images/CCA/ELDDS/WhatsApp_Image_2024_02_02_at_13_03_41.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/ELDDS/WhatsApp_Image_2024_02_02_at_12_59_47__1_.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 78%;" height="auto" width="100%" alt="" src="/images/CCA/ELDDS/WhatsApp_Image_2024_02_02_at_13_05_28.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/CCA/ELDDS/WhatsApp_Image_2024_02_02_at_13_01_09.jpeg">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
