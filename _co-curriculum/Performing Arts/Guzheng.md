@@ -16,6 +16,7 @@ musical pieces.
 the ensemble performs during school events such as Chinese New Year concert
 and Mid-Autumn concert. In the recent years, the ensemble has also been
 invited to perform at the Pasir Ris West CNY dinner celebration.</p>
+<h4>Training Schedule</h4>
 <table>
 <tbody>
 <tr>
