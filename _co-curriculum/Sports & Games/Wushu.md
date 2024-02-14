@@ -3,140 +3,321 @@ title: Wushu
 permalink: /co-curriculum/Sports-and-Games/wushu/
 description: ""
 third_nav_title: Sports & Games
+variant: tiptap
 ---
-<p align="justify">
-Wushu (武术) is a form of contemporary Chinese martial arts that blends elements of performance and martial application. Wushu training emphasizes quickness, explosive power, natural and relaxed movement. The wushu practitioner must combine flexibility with strength, speed with flawless technique, discipline and controlled execution. There are also opportunities for our students to develop SEL competencies through Internal School performance and National School Games Wushu Championship.</p>
-
-<!-- Table -->
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Miss Low Kin Eng(OIC)<br>  
-Mdm Chen Shuang Shuang
-	</td>
-	</tr>
-	<tr>
-	<th style="border-color:#000000;solid;border-width:1px;">Training Dates</th>
-	<td style="border-color:#000000;solid;border-width:1px;"><u><b>Mondays</b><br></u>3.30pm – 5.30pm (School Team)<br>ISH Level 6<br><br>
-	<u><b>Fridays</b></u>
-<br>7.30am to 9.00am<br>
-ISH Level 6<br>
+<h4>Introduction</h4>
+<p>Wushu (武术) is a form of contemporary Chinese martial arts that blends
+elements of performance and martial application. Wushu training emphasises
+quickness, explosive power, natural and relaxed movement. The wushu practitioner
+must combine flexibility with strength, speed with flawless technique,
+discipline and controlled execution. There are also opportunities for our
+students to develop SEL competencies through Internal School performance
+and National School Games Wushu Championship.</p>
+<h4>Training Schedule</h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-in-charge</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Miss Low Kin Eng (OIC)
+<br>Mrs Este Chow (Term 1 only)
+<br>Mdm Chen Shuang Shuang</p>
 </td>
 </tr>
-	<tr>
-	<th style="border-color:#000000;solid;border-width:1px;">Coach</th>
-	<td style="border-color:#000000;solid;border-width:1px;"></td>
-	</tr>
-	</tbody>
-	</table>
-
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Training Days/ Time/ Venue</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong><u>Mondays</u></strong><u><br></u>3.30pm – 5.30pm (School Team)
+<br>ISH Level 6
+<br><strong><u>Fridays</u></strong> 
+<br>7.30am to 9.00am
+<br>ISH Level 6
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Coach</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Ivy Loy
+<br>Neo Hung Song</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Achievements</h4>
-<!-- Table-->
- <table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Events</th><th style="border-color:#000000;solid;border-width:1px;">Achievements</th><th style="border-color:#000000;solid;border-width:1px;">Year</th>
-	</tr>
-	<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">National School Games Wushu Championships Senior Boys 4-Duan Cudge</td>
-	<td style="border-color:#000000;solid;border-width:1px;">Participation</td>
-		<td style="border-color:#000000;solid;border-width:1px;">2021</td>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Event</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievements</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
 </tr>
-	<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">National School Games Wushu Championships Senior Boys 5-Duan Sword</td>
-	<td style="border-color:#000000;solid;border-width:1px;">Participation</td>
-		<td style="border-color:#000000;solid;border-width:1px;">2021</td>
-	</tr>
-		<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">National School Games Wushu Championships Senior Boys 5-Duan Sword</td>
-	<td style="border-color:#000000;solid;border-width:1px;">Participation</td>
-		<td style="border-color:#000000;solid;border-width:1px;">2021</td>
-	</tr>
-			<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">National School Games Wushu Championships Senior Girls 4-Duan Sword</td>
-	<td style="border-color:#000000;solid;border-width:1px;">Participation</td>
-		<td style="border-color:#000000;solid;border-width:1px;">2021</td>
-	</tr>
-	</tbody>
-	</table>
-
-<h4>Activities/Events</h4>
-
-<!-- Table -->
- <table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Activity/Event</th><th style="border-color:#000000;solid;border-width:1px;">Description</th><th style="border-color:#000000;solid;border-width:1px;">Year</th>
-	</tr>
-	<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">16th National Primary Schools Wushu Champion 2021</td>
-	<td style="border-color:#000000;solid;border-width:1px;">School team members were selected to participate in the annual national Wushu competition.</td>
-		<td style="border-color:#000000;solid;border-width:1px;">March-April 2021</td>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Senior Girls 4-Duan Spear</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
 </tr>
-	<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">Chinese New Year Performance</td>
-	<td style="border-color:#000000;solid;border-width:1px;">Students performed for Chinese New Year celebration(Pre-recorded)</td>
-		<td style="border-color:#000000;solid;border-width:1px;">Feb 2021</td>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Senior Girls 32-Style Taijijian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
 </tr>
-	<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">Camp Excellence 2021</td>
-	<td style="border-color:#000000;solid;border-width:1px;">Organized by our school as part of team building to prepare the pupils for their yearly National Inter-School competitions</td>
-		<td style="border-color:#000000;solid;border-width:1px;">Jan 2021</td>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Senior Girls 32-Style Taijiquan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
 </tr>
-	<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">P3-P5 End of Year Prize Giving</td>
-	<td style="border-color:#000000;solid;border-width:1px;">Selected school team members performed during EOY prize giving day.</td>
-		<td style="border-color:#000000;solid;border-width:1px;">Nov 2020</td>
-	</tr>
-		<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">Camp Excellence 2020</td>
-	<td style="border-color:#000000;solid;border-width:1px;">Organized by our school as part of team building to prepare the pupils for their yearly National Inter-School competitions</td>
-		<td style="border-color:#000000;solid;border-width:1px;">Jan 2020</td>
-	</tr>
-			<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">Chinese New Year Performance</td>
-	<td style="border-color:#000000;solid;border-width:1px;">Students performed during Chinese New Year.</td>
-		<td style="border-color:#000000;solid;border-width:1px;">Jan 2020</td>
-	</tr>
-	</tbody>
-	</table>
-
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Junior Girls 3-Duan Nanquan
+(Southern Fist)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Junior Girls 24-Style Taijiquan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Junior Girls 4-Duan Cudget</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Senior Boys 4-Duan Sword</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Senior Boys 4-Duan Broadsword</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Senior Boys 4-Duan Spear</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Junior Boys 4-Duan Cudgel</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Junior Boys 4-Duan Broadsword</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Junior Boys 3-Duan Nanquan (Southern
+Fist)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Junior Boys</p>
+<p>Group Quanshu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Senior Boys 5-Duan Nan Quan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Medal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Senior Boys 4-Duan Cudge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Senior Boys 4-Duan Sword</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Senior Boys 5-Duan Sword</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Senior Girls 4-Duan Sword</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Senior Boys 4-Duan Cudge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Senior Boys 4-Duan Sword</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Senior Boys 5-Duan Sword</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Senior Girls 4-Duan Sword</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Gallery</h4>
-
-<!-- Photo Grid Style-->
-<style>
-* {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-  font-family: Arial;
-}
-
-.header {
-  text-align: center;
-  padding: 32px;
-}
-
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
-}
-
-.column img {
-  margin-top: 12px;
-}
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
-
-
-	
-<!-- Photo Grid -->
-<div class="row"> 
-<div class="column">
-<img src="/images/15th%20National%20Primary%20Schools%20Wushu%20Champion%202019.jpg" style="width:100%">
-<img src="/images/2019%20Prize%20Giving%20Ceremony%20Performance.jpg" style="width:100%">
-	</div>
-  
-<div class="column">
-<img src="/images/2020%20CAMP%20EXCELLENCE%2001.jpg" style="width:100%">
-<img src="/images/2020%20CAMP%20EXCELLENCE%2002.jpg" style="width:100%"></div>
-</div>
+<p></p>
