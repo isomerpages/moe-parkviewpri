@@ -79,7 +79,7 @@ variant: markdown
              </table>
 
 
-#### MOE INNERGY AWARDS
+#### 2023 MOE INNERGY AWARDS
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg">
 	<thead>
