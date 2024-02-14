@@ -3,27 +3,93 @@ title: ELDDS
 permalink: /co-curriculum/Clubs/ELDDS/
 description: ""
 third_nav_title: Clubs
-variant: markdown
+variant: tiptap
 ---
-Our weekly drama activities during ELDDS sessions encompasses and integrates the elements of Drama and oral communication. We engage our students by involving them in decision making, problem solving and relationship management through theatrical hands on activities for their holistic development. This is achieved by creating avenues for them to communicate with others, devise their own creative pieces and work in an ensemble to perform for an audience.
-  
-The objective of the Club is to stimulate the young&nbsp;**curious**&nbsp;mind with imaginative activities enabling them to develop effective&nbsp;**communication**&nbsp;and interpersonal skills through drama activities such as role play and improvisation.
-
-The learning process involves the ability to&nbsp;**collaborate**&nbsp;with team members, display empathy and tolerance for effective teamwork. It also helps develop the students’ ability to comprehend and&nbsp;**connect**&nbsp;with the world around.
-
-To boost the students’&nbsp;**confidence**&nbsp;and instill self-control and discipline, ELDDS offers a safe platform where the students can practice, perform, inspire and fuel their overall development. This ensures the moulding of committed and responsible students who are ready to take on real life situations.
-
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Mdm Shirin Osman<br>  
-Ms Joyce Low
-	</td>
-	</tr>
-	<tr>
-	<th style="border-color:#000000;solid;border-width:1px;">Training Dates</th>
-		<td style="border-color:#000000;solid;border-width:1px;"><u><b>Fridays</b></u>
-<br>7.30am to 9.00am<br>
-Hotspot<br>
+<h4>Introduction</h4>
+<p>The objective of our Drama Club is to stimulate the young&nbsp;<strong>curious</strong>&nbsp;minds
+with imaginative activities enabling them to develop effective&nbsp;<strong>communication</strong>&nbsp;and
+interpersonal skills through drama activities such as role play and improvisation.
+<br>Our weekly drama activities during these sessions encompass and integrate
+the elements of drama and oral communication. We engage our students by
+involving them in decision-making, problem-solving and relationship management
+through theatrical hands-on activities for their holistic development.
+This is achieved by creating avenues for them to communicate with others,
+devise their own creative pieces and work in an ensemble to perform for
+an audience.
+<br>The learning process involves the ability to&nbsp;<strong>collaborate</strong>&nbsp;with
+team members, display empathy and tolerance for effective teamwork. It
+also helps develop the students’ ability to comprehend and&nbsp;<strong>connect</strong>&nbsp;with
+the world around. To boost the students’&nbsp;<strong>confidence</strong>&nbsp;and
+instill self-control and discipline, our Drama Club offers a safe platform
+where the students can practise, perform, inspire and fuel their overall
+development, ready to apply their skills in real-life contexts.</p>
+<h4>Training Schedule </h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-in-charge</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Mdm Pavani</p>
+<p>Mdm Shirin Osman
+<br>Ms Joyce Low</p>
 </td>
 </tr>
-	</tbody>
-	</table>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Training Dates</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong><u>Fridays</u></strong> 
+<br>7.30am to 9.00am
+<br>Hotspot (Library)
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Achievements</h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Event</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievement</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International Science Drama Competition (Junior Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Third Place</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International Science Drama Competition (Junior Category)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Outstanding Performer Award - &nbsp;Gourika Renjith</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Gallery</h4>
+<p></p>
