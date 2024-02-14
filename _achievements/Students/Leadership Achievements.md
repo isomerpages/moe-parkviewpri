@@ -9,6 +9,23 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p>2023 <strong>Lee Yun Han Award</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Auni Afiqah Binte Noor Ariffin - 6R2
+<br>Ryyan Azfar Bin La Ode Indra Karnain - 6R2
+<br>Liu Tongxi - 6R3</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p>2023 <strong>PVPS Excellence Award</strong>
 </p>
 </th>
