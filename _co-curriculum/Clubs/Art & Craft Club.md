@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs
 variant: tiptap
 ---
-<h4>Our Objectives</h4>
+<h4>Introduction</h4>
 <p>Through our 4<strong>E</strong>&nbsp;approach -<strong>Exposure</strong>,&nbsp;<strong>Experience</strong>,&nbsp;<strong>Excursion</strong>,&nbsp;<strong>Excellence</strong>,&nbsp;we
 aim to develop and harness the full range of our students’ talents and
 contribute to their overall development. Art Club members are exposed to
