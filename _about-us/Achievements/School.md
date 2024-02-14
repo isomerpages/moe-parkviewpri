@@ -490,4 +490,146 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Malay Language Fiesta 2023 (Choral Recitation Competition) organised by Malay Language Learning &amp; Promotion Committee</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Consolation Prize</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p><strong>Sayembara Bahasa Pasir Ris 2023 organised by Pasir Ris Central MAEC, Pasir Ris West MAEC, Pasir Ris East MAEC and Casuarina Primary School</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choral Singing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Skit (Folklore)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Consolation Prize</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Book Promotion</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Skit – Folklore (Twisted Ending)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Consolation Prize</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Language Quiz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Place</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>We are happy to share some of the achievements by our student, Teo Zhi
+Xuan from 5R3:</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Superior Culture Hong Kong: Celebrating Dragon Boat Festival Colouring
+Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Radin Mas Arts Week Colouring Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pasir Ris East National Day Art Contest</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nationwide Drawing Contest 全国绘画比赛</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Runner Up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Independence Day Colouring Contest</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Runner Up</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
