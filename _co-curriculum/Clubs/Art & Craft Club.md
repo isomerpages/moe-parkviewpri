@@ -25,21 +25,22 @@ trash into interesting works of art.</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Mrs Eileen Yap (OIC)
-<br>Mdm Nor Iqmalia&nbsp;
-<br>Mdm Kirthi Shihlpa Pillai
-<br>
-</p>
+<br>Mdm Nor Iqmalia
+<br>Mdm Kirthi Shihlpa Pillai</p>
 </td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Training Dates</p>
+<p><strong>Training Days/ Time/ Venue</strong>
+</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong><u>Tuesdays</u></strong><u><br></u>3.30pm – 5pm (School Team)
+<p><strong><u>Tuesdays</u></strong>
+<br>School Team
+<br>3.30 pm – 5.00 pm
 <br>Art Room 1
-<br><strong><u>Fridays</u></strong> 
-<br>7.30am - 9.00am (All members)
+<br><strong><u>Fridays</u></strong>
+<br>7.30 am – 9.00 am (All members)
 <br>School Team (Art Room 1)
 <br>Non-School Team (Art Room 2)</p>
 </td>
@@ -311,20 +312,85 @@ Contest</p>
 </tbody>
 </table>
 <h4>Gallery</h4>
-<h4></h4>
-<h4></h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sUn1nNqdg1U"></iframe>
-</div>
-<p>Despite the challenges faced due to the pandemic, both PVPS Art &amp;
-Craft Club and Sparkletots Preschool@Blk 517 worked closely to ensure our
-annual collaboration could continue. This year, to commemorate Earth Day
-on 22 April 2021, 2 of our Art Club students, Kenneth and Rasleen, recorded
-an instructional video on creating photo frames using recycled cardboards
-and twigs. The K1 and K2 students followed the steps in the video to create
-their own photo frames. This was a maiden attempt by the Art Club students
-and the experience was both meaningful and exhilarating.</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/SOTA_Primary_6_Art_Competition__2_.JPG" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SOTA Primary 6 Art Competition" src="/images/CCA/Art &amp; Craft Club/SOTA_Primary_6_Art_Competition__2_.JPG"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SOTA Primary 6 Art Competition</div><div class="isomer-card-link">Click to view</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/SOTA_Primary_6_Art_Competition__1_.JPG" class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Community%20Outreach%20Programme%20through%20Recycled%20Art%20Earth%20Day.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SOTA Primary 6 Art Competition" src="/images/CCA/Art &amp; Craft Club/SOTA_Primary_6_Art_Competition__1_.JPG">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">SOTA Primary 6 Art Competition</div>
+<div class="isomer-card-link">Click to view</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Radin_Mas_Arts_Week_Colouring_Competition.JPG" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Radin Mas Arts Week Colouring Competition" src="/images/CCA/Art &amp; Craft Club/Radin_Mas_Arts_Week_Colouring_Competition.JPG"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Radin Mas Arts Week Colouring Competition</div><div class="isomer-card-link">Click to view</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Pasir_Ris_East_National_Day_Art_Contest.JPG" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pasir Ris East National Day Art Contest" src="/images/CCA/Art &amp; Craft Club/Pasir_Ris_East_National_Day_Art_Contest.JPG">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Pasir Ris East National Day Art Contest</div>
+<div class="isomer-card-link">Click to view</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Our_Hearts_for_SG_Art_Competition.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Our Hearts for SG Art Competition" src="/images/CCA/Art &amp; Craft Club/Our_Hearts_for_SG_Art_Competition.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Our Hearts for SG Art Competition</div><div class="isomer-card-link">Click to View</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/OMNI_Racial_Harmony_Art_Competition.JPG" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="OMNI Racial Harmony Art Competition" src="/images/CCA/Art &amp; Craft Club/OMNI_Racial_Harmony_Art_Competition.JPG">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">OMNI Racial Harmony Art Competition</div>
+<div class="isomer-card-link">Click to view</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Nationwide_Mid_Autumn_Festival_Colouring_Contest.JPG" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Nationwide Mid-Autumn Festival Colouring Contest" src="/images/CCA/Art &amp; Craft Club/Nationwide_Mid_Autumn_Festival_Colouring_Contest.JPG"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Nationwide Mid-Autumn Festival Colouring Contest</div><div class="isomer-card-link">Click to view</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Nationwide_Drawing_Contest_2024.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Nationwide Drawing Contest 2024" src="/images/CCA/Art &amp; Craft Club/Nationwide_Drawing_Contest_2024.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Nationwide Drawing Contest 2024</div>
+<div class="isomer-card-link">Click to view</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Nationwide_Drawing_Contest_2023.JPG" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Nationwide Drawing Contest 2023" src="/images/CCA/Art &amp; Craft Club/Nationwide_Drawing_Contest_2023.JPG"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Nationwide Drawing Contest 2023</div><div class="isomer-card-link">Click to view</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/National_Independence_Day_Colouring_Contest.JPG" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="National Independence Day Colouring Contest" src="/images/CCA/Art &amp; Craft Club/National_Independence_Day_Colouring_Contest.JPG">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">National Independence Day Colouring Contest</div>
+<div class="isomer-card-link">Click to view</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/URA_LTPR_Art_Competition__2_.JPG" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="URA LTPR Art Competition" src="/images/CCA/Art &amp; Craft Club/URA_LTPR_Art_Competition__2_.JPG"></div></div><div class="isomer-card-body"><div class="isomer-card-title">URA LTPR Art Competition</div><div class="isomer-card-link">Click to view</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/URA_LTPR_Art_Competition__1_.JPG" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="URA LTPR Art Competition" src="/images/CCA/Art &amp; Craft Club/URA_LTPR_Art_Competition__1_.JPG">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">URA LTPR Art Competition</div>
+<div class="isomer-card-link">Click to view</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/The_Singapore_International_Art_Contest__SIAC_.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Singapore International Art Contest (SIAC)" src="/images/CCA/Art &amp; Craft Club/The_Singapore_International_Art_Contest__SIAC_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Singapore International Art Contest (SIAC)</div><div class="isomer-card-link">Click to view</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Superior_Culture_Hong_Kong_Celebrating_Dragon_Boat_Festival_Colouring_Contest.JPG" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Superior Culture Hong Kong Celebrating Dragon Boat Festival Colouring Contest" src="/images/CCA/Art &amp; Craft Club/Superior_Culture_Hong_Kong_Celebrating_Dragon_Boat_Festival_Colouring_Contest.JPG">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Superior Culture Hong Kong Celebrating Dragon Boat Festival Colouring
+Contest</div>
+<div class="isomer-card-link">Click to view</div>
+</div>
+</a>
 </div>
 <p></p>
