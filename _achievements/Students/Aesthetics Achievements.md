@@ -3,34 +3,33 @@ title: Aesthetics Achievements
 permalink: /about-us/achievements/students/aesthetics-achievements/
 description: ""
 third_nav_title: Students
-variant: markdown
+variant: tiptap
 ---
-<h4> 2019</h4>
-
-![](/images/Picture8.png)
-
-![](/images/Picture9.png)
-
-![](/images/Picture10.png)
-
-![](/images/Picture11.png)
-
-![](/images/Picture12.png)
-
-![](/images/Picture13.png)
-
-![](/images/Picture14.png)
-
-![](/images/Picture15.png)
-
-<h4>STAR&nbsp;(Sustaining Toilets As Restrooms) Awards Programme 2018</h4>
-
-![](/images/STAR.jpg)
-
-<p align="justify">The school was awarded the <b>Gold Star</b> in the S.T.A.R (Sustaining Toilets As Restrooms)Awards Programme in 2018.</p>
-
-<p>Our student, Kaylea Toh, also received the LOO Kidz Award for displaying commitment and passion in executing the ‘S.T.A.R project. She has contributed her artworks to decorate the school toilets, and carried out a presentation during morning assembly to encourage the school to practise good toilet habits. She shared tips on how to keep and maintain clean toilets. She also encouraged her schoolmates to show appreciation to the cleaners for their hard work.</p>
-
-<p align="justify">Kaylea’s reach has been extended beyond the boundaries of the school. She has been featured in a video in conjunction with the Singapore Kindness Movement and National Environment Agency. The video showcases her good initiatives like decorating the toilets, and spreading awareness on maintaining clean toilets and being kind to the cleaners. The video has been shared on the Singapore Kindness Movement’s Facebook page.</p>
-
-<p align="justify">Kaylea is a good role model for others. She hopes that the younger children will see the importance of the initiatives she has undertaken, and will continue advocating for them.</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>2023 <strong>PVPS Excellence Award</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nurul Aatiqah Binte Muhammad Hairul - 6I
+<br>Khilfie Rusyaidi Bin Hisham - 6I
+<br>Kaizer Neo Kai Jun - 6I
+<br>Ryyan Azfar Bin La Ode Indra Karnain - 6R2
+<br>Vishanth S/O Muruga Kumaran - 6R2
+<br>Gourika Renjith - 6R2
+<br>Ahmad Alhady Bin Shahrunizam - 6R3
+<br>Wu Yun-Hsuan - 6R3
+<br>Yuan Qingning - 6R3
+<br>Bhatia Vedansh - 6R3
+<br>Jaime Wong - 6R3
+<br>Sukrit Nautiyal - 6R3
+<br>Krish Khanna - 6R3</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

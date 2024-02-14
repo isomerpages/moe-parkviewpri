@@ -3,20 +3,26 @@ title: Physical Achievements
 permalink: /about-us/achievements/students/physical-achievements/
 description: ""
 third_nav_title: Students
-variant: markdown
+variant: tiptap
 ---
-<h4>2019</h4>
-
-![](/images/Picture1.png)
-
-![](/images/Picture2.png)
-
-![](/images/Picture3.png)
-
-![](/images/Picture4.png)
-
-![](/images/Picture5.png)
-
-![](/images/Picture6.png)
-
-![](/images/Picture7.png)
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>2023 PVPS Excellence Award</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Yi Ning Kaylene - 6R2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
