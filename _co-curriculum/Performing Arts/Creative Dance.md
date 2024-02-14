@@ -18,7 +18,7 @@ cultural awareness.
 school values which are regularly reinforced by our team of dedicated teachers
 and instructors. It also prides itself on the strong friendships forged
 and rapport between the dancers, teachers, and instructors.</p>
-<h4>Training Schedule </h4>
+<h4>Training Schedule</h4>
 <table>
 <tbody>
 <tr>
