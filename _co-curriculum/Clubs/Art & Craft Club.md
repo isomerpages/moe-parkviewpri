@@ -35,11 +35,11 @@ trash into interesting works of art.</p>
 </p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong><u>Tuesdays</u></strong>
+<p><strong><u>Tuesdays</u></strong> 
 <br>School Team
 <br>3.30 pm – 5.00 pm
 <br>Art Room 1
-<br><strong><u>Fridays</u></strong>
+<br><strong><u>Fridays</u></strong> 
 <br>7.30 am – 9.00 am (All members)
 <br>School Team (Art Room 1)
 <br>Non-School Team (Art Room 2)</p>
