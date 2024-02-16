@@ -6,15 +6,13 @@ third_nav_title: School Policies
 variant: tiptap
 ---
 <p><em>Any Device Capable of Storing/Providing Information is considered a smart device (e.g. smart watch)</em>
-</p>
-<p>With the advancement of technology, owning mobile phones or any smart
+<br>With the advancement of technology, owning mobile phones or any smart
 device capable of storing or providing information is increasingly becoming
 commonplace. The school recognises that parents need the ease and convenience
 of contacting their children after school hours. While the school allows
 students to bring mobile phones or any smart device to school, it is not
 encouraged. Students who bring mobile phones or a smart device to school
 are to adhere to the following guidelines as listed below:</p>
-<p></p>
 <h4><strong>1. Proper Usage in School</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -28,10 +26,9 @@ out of sight during all school activities.</p>
 non-assessment or non-examination period.&nbsp;</p>
 </li>
 <li>
-<p>All smart devices will be held by the teacher during assessments and</p>
+<p>All smart devices will be held by the teacher during assessments and examinations.</p>
 </li>
 </ul>
-<p></p>
 <h4><strong>2. Confiscation and Collection</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -47,27 +44,27 @@ from the General Office.</p>
 <li>
 <p>Student’s privilege to bring his/her mobile phone, smart device or smart
 watch to school may be removed.</p>
-<p></p>
 </li>
 </ul>
-<h4><strong>3. Loss of Mobile Phones or Smart Devices</strong></h4>
+<h4><strong>3.Loss of Mobile Phones or Smart Devices</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>If students bring mobile phones or smart devices to school, they should
-be responsible for their property and not flaunt it or invite envy and
-draw attention to it.</p>
+<p>If a student is caught using mobile phone, smart device or smart watch
+outside the permissible time and place, his/her mobile phone, smart device
+or smart watch will be confiscated.</p>
 </li>
 <li>
-<p>The school will not be held accountable for any damage or losses.</p>
+<p>The form teacher or another staff member will contact the parent to make
+arrangements to collect the mobile phone, smart device or smatch watch
+from the General Office.</p>
 </li>
 <li>
-<p>The school reserves the right to not to conduct a search for the lost
-mobile phone or smart devices as this may result in a loss of curriculum
-time.</p>
+<p>Student’s privilege to bring his/her mobile phone, smart device or smart
+watch to school may be removed.</p>
 </li>
 </ul>
-<p></p>
 <p>To reach students in cases of emergency, parents can call the General
 Office at Tel: 65851421 if they need to contact their children. Students
 can also make calls to parents / caregivers using a public phone in the
 canteen or from the General Office, if necessary.</p>
+<p></p>
