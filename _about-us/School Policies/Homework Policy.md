@@ -116,11 +116,9 @@ abilities.</p>
 <h4><strong>2. Quality of homework</strong></h4>
 <ul>
 <li>
-<p>Homework must be well-thought through and quality in nature.</p>
+<p>Homework must be well-thought through and quality in nature.
+<br>A well-designed homework should:</p>
 </li>
-</ul>
-<p>A well-designed homework should:</p>
-<ul>
 <li>
 <p>be purposeful and encourage critical thinking;</p>
 </li>
