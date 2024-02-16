@@ -313,7 +313,29 @@ Contest</p>
 </table>
 <h4>Gallery</h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/SOTA_Primary_6_Art_Competition__2_.JPG" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SOTA Primary 6 Art Competition" src="/images/CCA/Art &amp; Craft Club/SOTA_Primary_6_Art_Competition__2_.JPG"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SOTA Primary 6 Art Competition</div><div class="isomer-card-link">Click to view</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/1a__SYF_Category_A_Kampung_Coffeeshop.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SYF_Category A_Kampung Coffeeshop" src="/images/CCA/Art &amp; Craft Club/1a__SYF_Category_A_Kampung_Coffeeshop.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SYF_Category A_Kampung Coffeeshop</div><div class="isomer-card-link">Click to view</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/1b__SYF_Category_B_Plastic_Fishes.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SYF_Category B_Plastic Fishes" src="/images/CCA/Art &amp; Craft Club/1b__SYF_Category_B_Plastic_Fishes.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">SYF_Category B_Plastic Fishes</div>
+<div class="isomer-card-link">Click to view</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/1c__SYF_Category_C_Crushing_Our_Earth.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SYF_Category C_Crushing Our Earth" src="/images/CCA/Art &amp; Craft Club/1c__SYF_Category_C_Crushing_Our_Earth.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SYF_Category C_Crushing Our Earth</div><div class="isomer-card-link">Click to view</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Revised_Teo_Zhi_Xuan_6R3_Achievements.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="International, National &amp; Zonal Art Competition" src="/images/CCA/Art &amp; Craft Club/Revised_Teo_Zhi_Xuan_6R3_Achievements.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">International, National &amp; Zonal Art Competition</div>
+<div class="isomer-card-link">Click to view</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/SOTA_Primary_6_Art_Competition__2_.JPG" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SOTA Primary 6 Art Competition" src="/images/CCA/Art &amp; Craft Club/SOTA_Primary_6_Art_Competition__2_.JPG"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SOTA Primary 6 Art Competition</div><div class="isomer-card-link">Click to view</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/SOTA_Primary_6_Art_Competition__1_.JPG" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -336,16 +358,5 @@ Contest</p>
 <div class="isomer-card-link">Click to view</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/URA_LTPR_Art_Competition__1_.JPG" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="URA LTPR Art Competition" src="/images/CCA/Art &amp; Craft Club/URA_LTPR_Art_Competition__1_.JPG"></div></div><div class="isomer-card-body"><div class="isomer-card-title">URA LTPR Art Competition</div><div class="isomer-card-link">Click to view</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Revised_Teo_Zhi_Xuan_6R3_Achievements.jpg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="International, National &amp; Zonal Art Competition" src="/images/CCA/Art &amp; Craft Club/Revised_Teo_Zhi_Xuan_6R3_Achievements.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">International, National &amp; Zonal Art Competition</div>
-<div class="isomer-card-link">Click to view</div>
-</div>
-</a>
 </div>
 <p></p>
