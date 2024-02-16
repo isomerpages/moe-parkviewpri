@@ -360,9 +360,15 @@ Contest</p>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/URA_LTPR_Art_Competition__1_.JPG" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="URA LTPR Art Competition" src="/images/CCA/Art &amp; Craft Club/URA_LTPR_Art_Competition__1_.JPG"></div></div><div class="isomer-card-body"><div class="isomer-card-title">URA LTPR Art Competition</div><div class="isomer-card-link">Click to view</div></div></a>
 </div>
+<hr>
 <p></p>
 <h4>Chingay NE Community Engagement Programme</h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTf7geEGMhAwiz8Z1MucQ4WNpSB4057CdoMGuYI22S8EIpNSRgCNqzEvbMH072Hj2LSuUXp7WPciLtf/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
+<h4>Chingay Installation at F1</h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UZN0Nz8lxz0?si=xoXHuZgFSqF16JNO"></iframe>
 </div>
 <p></p>
