@@ -208,8 +208,7 @@ papers in the week before the examinations.</p>
 <p>Students will be given some homework assignments for revision purposes</p>
 </li>
 </ul>
-<p><em>Consequences if students do not complete and/or submit homework</em>
-<br>
+<p><em>Consequences if students do not complete and/or submit homework</em> 
 <br>Teachers will:</p>
 <ul>
 <li>
