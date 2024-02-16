@@ -43,5 +43,34 @@ teacher will key in ‘AB’ in the report book.</p>
 time will be given.</p>
 </li>
 </ul>
-<p></p>
+<h4><strong>Examination Materials</strong></h4>
+<ul>
+<li>
+<p>Students expected to bring the required examination materials (e.g. standard
+Mathematical instruments, calculator, blue/black ballpoint pen with a 0.5mm
+tip, 2B pencil, and dictionary) for their examination.</p>
+</li>
+<li>
+<p>The school will not provide students with these materials during the examination.</p>
+</li>
+</ul>
+<h4><strong>Things to take note&nbsp;before the examination</strong></h4>
+<p>Students are to:</p>
+<ul>
+<li>
+<p>be in school uniform and be punctual for all examination papers.</p>
+</li>
+<li>
+<p>bring all materials needed for the examination. They include blue / black
+ballpoint pens, 2B pencils, soft erasers, sharpeners and standard mathematical
+instruments (ruler, protractor and set squares).&nbsp;</p>
+</li>
+<li>
+<p>place all bags, water bottles &amp; other belongings neatly outside the
+classroom.&nbsp;</p>
+</li>
+<li>
+<p>pay attention when the invigilator is giving instructions.</p>
+</li>
+</ul>
 <p></p>
