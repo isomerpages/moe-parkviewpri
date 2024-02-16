@@ -45,12 +45,55 @@ load?</p>
 <ul>
 <li>
 <p>Homework refers to any learning activity that students are required to
-do by the school to complete outside of curriculum time.</p>
+do by the school outside of curriculum time.</p>
 </li>
 <li>
 <p>Homework is an important part of our students’ holistic development in
 becoming life-long learners.</p>
 </li>
 </ul>
-<p></p>
+<h4><strong>Why is homework a necessity?</strong></h4>
+<p><strong>Effective use of homework enables students to:</strong>
+</p>
+<ul>
+<li>
+<p>retain knowledge better ;</p>
+</li>
+<li>
+<p>be more skillful in application of skills and concepts ;</p>
+</li>
+<li>
+<p>deepen their conceptual understanding ;</p>
+</li>
+<li>
+<p>develop good study habits and skills, such as time management, self-evaluation
+and self direction ;and</p>
+</li>
+<li>
+<p>take greater ownership and responsibility for independent learning.</p>
+</li>
+</ul>
+<p><strong>Judicious use of homework allows teachers to:</strong>
+</p>
+<ul>
+<li>
+<p>consolidate learning that has taken place in class ;</p>
+</li>
+<li>
+<p>check for students’ understanding and progress, so as to provide timely
+feedback, intervention and support ; and</p>
+</li>
+<li>
+<p>review effectiveness of lesson.</p>
+</li>
+</ul>
+<h4><strong>Homework provides parents with:</strong></h4>
+<ul>
+<li>
+<p>timely information on the learning progress of their children; and</p>
+</li>
+<li>
+<p>opportunity to be involved in their children’s learning.</p>
+</li>
+</ul>
 <p></p>
