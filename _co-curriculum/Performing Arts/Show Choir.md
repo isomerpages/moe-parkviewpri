@@ -63,57 +63,10 @@ and acting</p>
 <p>Coach</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong><u>Vocal Instructor</u></strong>
+<p><strong><u>Vocal Instructor</u></strong> 
 <br>Mr Rayhan
-<br><strong><u>Dance and Movement Instructors</u></strong>
-<br>Ms Cher</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>Achievements</h4>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Event</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Achievement</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Year</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>B’Dazzled Grand Festival
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Emerald Award
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2018
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<br><strong><u>Dance and Movement Instructors</u></strong> 
+<br>Ms Che</p>
 </td>
 </tr>
 </tbody>
@@ -122,108 +75,45 @@ and acting</p>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Year</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>Activity/Event</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Date</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p><strong>2020</strong>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Ministry of Education Teacher’s Day Virtual Choir
-<br>(featuring Elise Cuerdo)</p>
+<p>National Day Celebrations</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 September</p>
+<p>2023</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher’s Day Celebrations</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2023</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Show Choir Exchange Programme with Tampines North Pri Sch</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2023</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National Day Celebrations</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p><strong>2019<br></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher’s Day Concert and EAS Appreciation Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 September</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>B-Dazzled Grand Festival</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20 July</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year-End Prize Giving Ceremony</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>15 November</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p><strong>2018<br></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher’s Day Concert</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>30 August</p>
+<p>2022</p>
 </td>
 </tr>
 <tr>
@@ -231,7 +121,7 @@ and acting</p>
 <p>Mid-Autumn Festival</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 September</p>
+<p>2022</p>
 </td>
 </tr>
 <tr>
@@ -239,15 +129,63 @@ and acting</p>
 <p>Year-End Prize Giving Ceremony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 November</p>
+<p>2022</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher’s Day Performance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mid-Autumn Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ministry of Education Virtual Choir
+<br>(featuring Show Choir member Elise Cuerdo)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2020</p>
 </td>
 </tr>
 </tbody>
 </table>
+<h4>Gallery</h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALL_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/Picture7.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic44.jpg">
+<img style="width: 88%;" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/Picture8.jpg">
 </div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 91%;" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/Picture9.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/Picture6.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
