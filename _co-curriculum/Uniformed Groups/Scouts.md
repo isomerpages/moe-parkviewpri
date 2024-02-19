@@ -81,5 +81,5 @@ Badges.</p>
 </tr>
 </tbody>
 </table>
-<h3>Gallery</h3>
+<h4>Gallery</h4>
 <p></p>
