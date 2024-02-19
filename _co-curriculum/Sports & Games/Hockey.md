@@ -65,7 +65,7 @@ the skills being taught by the coach in a game situation.</p>
 <p>Training Dates</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong><u>Tuesdays</u></strong>
+<p><strong><u>Tuesdays</u></strong> 
 <br>P4, P5 &amp; P6 Boys
 <br>3.30pm – 5.30pm
 <br>Sheltered Court (ISH)
