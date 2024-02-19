@@ -144,7 +144,7 @@ greater heights in the coming years.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 76%;" height="auto" width="100%" alt="" src="/images/CCA/Football/Picture14.jpg">
+<img style="width: 72%;" height="auto" width="100%" alt="" src="/images/CCA/Football/Picture14.jpg">
 </div>
 </td>
 </tr>
