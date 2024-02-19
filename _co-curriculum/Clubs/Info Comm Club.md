@@ -25,9 +25,9 @@ with score-keeping.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chang Tiantian (OIC)</p>
-<p>Mdm Catherine Shum</p>
-<p>Mdm Zatty Sabrina</p>
+<p>Ms Chang Tiantian (OIC)
+<br>Mdm Catherine Shum
+<br>Mdm Zatty Sabrina</p>
 </td>
 </tr>
 <tr>
@@ -36,7 +36,7 @@ with score-keeping.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><u>Fridays</u></strong>
+<p><strong><u>Fridays</u></strong> 
 <br>7.30am to 9.00am (All members)</p>
 </td>
 </tr>
