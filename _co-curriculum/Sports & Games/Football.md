@@ -40,13 +40,13 @@ greater heights in the coming years.</p>
 <p>Training Dates</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong><u>Tuesdays</u></strong>
+<p><strong><u>Tuesdays</u></strong> 
 <br>3.30pm – 5.30pm (Selected Students)
 <br>School Field
-<br><strong><u>Thursdays</u></strong>
+<br><strong><u>Thursdays</u></strong> 
 <br>3.30pm- 5.30pm (Selected Students)
 <br>School Field
-<br><strong><u>Fridays</u></strong>
+<br><strong><u>Fridays</u></strong> 
 <br>7.30am- 9.00am (All students)</p>
 </td>
 </tr>
@@ -126,13 +126,11 @@ greater heights in the coming years.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Picture13.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Picture12.jpg">
 </div>
@@ -140,7 +138,6 @@ greater heights in the coming years.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Picture11.jpg">
 </div>
@@ -149,7 +146,6 @@ greater heights in the coming years.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 76%;" height="auto" width="100%" alt="" src="/images/CCA/Football/Picture14.jpg">
 </div>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -157,7 +153,6 @@ greater heights in the coming years.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Football/Picture10.jpg">
 </div>
-<p></p>
 </td>
 </tr>
 </tbody>
