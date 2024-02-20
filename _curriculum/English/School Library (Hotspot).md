@@ -190,7 +190,7 @@ supervision of teachers or librarian.</p>
 <p>The&nbsp;Online Public Access Catalogue (OPAC) allows pupils to search
 through the existing school library resources and find the specific item
 they are looking for.
-<br>Pupils can access OPAC at home or in school: <a rel="noopener noreferrer nofollow" target="_blank">https://schoolibrary.moe.edu.sg/parkviewpri</a>
+<br>Pupils can access OPAC at home or in school: <a href="https://schoolibrary.moe.edu.sg/parkviewpri" rel="noopener noreferrer nofollow" target="_blank">https://schoolibrary.moe.edu.sg/parkviewpri</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/English/Hotspot_3.jpg">
