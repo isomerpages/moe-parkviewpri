@@ -14,11 +14,9 @@ of teamwork, trust and loyalty will always be honed. Outdoor Scouting,
 Sports and Hobbies, Science and Nature, Creativity, Knowing Your Community
 and Country, Taking Care of Oneself and Helping Others, and many other
 activities are all part of Cub Scouting.&nbsp; The commemoration of our
-Founder’s Day and the Diamond Jubilee Challenge Fund Raising are the two
-major activities for 2022.&nbsp; Outdoor activities will resume once the
-MOE and SSA have given the approval.&nbsp; Cub Scouts will be guided through
-the process of completing their Scout Proficiency Book and earning Proficiency
-Badges.</p>
+Founder’s Day, Scout Camp and the Gang Show are the two major activities
+for 2023. Cub Scouts will be guided through the process of completing their
+Scout Proficiency Book and earning Proficiency Badges.</p>
 <h4>Training Schedule</h4>
 <table>
 <tbody>
@@ -64,22 +62,128 @@ Badges.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Frank Cooper Sands Award
-<br>
-</p>
+<p>Frank Cooper Sands Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold
-<br>
-</p>
+<p>Gold</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2019
-<br>
-</p>
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Cub Scout Gang Show</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Frank Cooper Sands Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Cub Scout</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chief Commissioner’s Well-Done Badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brayyan Bennazril Yeo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chief Commissioner’s Well-Done Badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jaylen Wong Yi Cong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+</tr>
+</tbody>
+</table>
+<ul data-tight="true" class="tight">
+<li>
+<p>The&nbsp;Chief Commissioner’s Well-Done Badge is presented to Scouts who
+have exemplified the Scout Promise and Law and contributed to the well-being
+of their unit, school, or community</p>
+</li>
+</ul>
 <h4>Gallery</h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/Picture3.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/Picture4.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/Picture5.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/Picture8.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scouts_2.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
