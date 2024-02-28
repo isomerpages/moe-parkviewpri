@@ -263,7 +263,6 @@ creativity through group performances.</p>
 </tbody>
 </table>
 <h4>Gallery</h4>
-<p></p>
 <table>
 <tbody>
 <tr>
