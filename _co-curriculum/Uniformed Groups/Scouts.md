@@ -143,7 +143,7 @@ have exemplified the Scout Promise and Law and contributed to the well-being
 of their unit, school, or community</p>
 </li>
 </ul>
-<h4>2024 Activities/ Events</h4>
+<h4>2023 Activities/ Events</h4>
 <p></p>
 <table>
 <tbody>
