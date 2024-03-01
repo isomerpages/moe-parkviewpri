@@ -29,7 +29,7 @@ and dental treatment is provided as well.</p>
 </tr>
 </tbody>
 </table>
-<h4>Dental Clinic's Schedule for February 2024</h4>
+<h4>Dental Clinic's Schedule for March 2024</h4>
 <table>
 <tbody>
 <tr>
@@ -56,121 +56,104 @@ and dental treatment is provided as well.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<p><strong>4 MAR</strong>
+<br>OPEN 8AM TO 5PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>5 MAR *</strong>
+<br>OPEN 8AM TO 12.30PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>6 MAR *</strong>
+<br>OPEN 8AM TO 10.30AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>7 MAR</strong>
+<br>OPEN 8AM&nbsp; TO 5.30PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>8 MAR</strong>
+<br>OPEN 8AM TO 5PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>11 MAR (SH)</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<p><strong>12 MAR (SH)</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1 FEB</strong> 
-<br><strong>Closed</strong>
+<p><strong>13 MAR (SH)</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2 FEB </strong>
-<br><strong>Closed</strong>
+<p><strong>14 MAR (SH)</strong>
+<br><strong>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>15 MAR (SH)</strong>
+<br><strong>&nbsp;CLOSED</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>5 FEB</strong> 
-<br>Open 8am to 5pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>6 FEB</strong> 
-<br>Open 8am to 5.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>7 FEB</strong> 
-<br>Open 8am to 5pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>8 FEB<br></strong>Open 8am to 5.30pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>9 FEB*<br></strong>Open 8am - 12pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>12 FEB</strong> 
-<br><strong>Closed</strong>
+<p><strong>18 MAR</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>13 FEB</strong> 
-<br><strong>Closed</strong>
+<p><strong>19 MAR</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>14 FEB</strong> 
-<br><strong>Closed</strong>
+<p><strong>20 MAR</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>15 FEB</strong> 
-<br><strong>Closed</strong>
+<p><strong>21 MAR</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>16 FEB</strong> 
-<br><strong>Closed</strong>
+<p><strong>22 MAR</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>19 FEB</strong> 
-<br><strong>Closed</strong>
+<p><strong>25 MAR</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>20 FEB</strong> 
-<br><strong>Closed</strong>
+<p><strong>26 MAR</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>21 FEB</strong> 
-<br>Open 8am to 5pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>22 FEB</strong> 
-<br>Open 8am to 5pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>23 FEB</strong> 
-<br>Open 8am to 5pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>26 FEB</strong> 
-<br><strong>Closed</strong>
+<p><strong>27 MAR</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>27 FEB</strong> 
-<br><strong>Closed</strong>
+<p><strong>28 MAR</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>28 FEB</strong> 
-<br><strong>Closed</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>29 FEB</strong> 
-<br><strong>Closed</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<p><strong>29 MAR (PH)</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 </tr>
