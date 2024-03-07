@@ -3,82 +3,157 @@ title: Netball
 permalink: /co-curriculum/Sports-and-Games/Netball/
 description: ""
 third_nav_title: Sports & Games
+variant: tiptap
 ---
-<p align="justify">PVPS Netball was introduced to the school for the girls in 2000. We have a very committed coach, as well as teachers and players who work together to achieve our goals.
-<br>
-Netball builds team spirit and team building as it is not an individual sport. Through netball, our girls not only acquire the skills of the game but also develop their bond and friendship with one another through their training sessions. It always involves a team effort and it is truly a fun and exciting game.
-<br>
-In Netball, we believe in developing each player to her fullest potential in the sport. We nurture our players’ character anchored on our school’s shared values ‘Respect for All’, ‘Responsibility in Action’, ‘Resilience in Adversity’, ‘Integrity our Core’, ‘Care for Community’ and ‘Harmony in Diversity’. We believe that our players will grow to be people of exemplary character if they are able to be disciplined in managing the demands of school work and CCA.</p>
-
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Teachers-in-charge</th><td style="border-color:#000000;solid;border-width:1px;">Mrs Evie Goh<br>
-	Miss Khairina Binte Omar<br>
-	Mdm Nur Farizah
-	</td>
-	</tr>
-	<tr>
-	<th style="border-color:#000000;solid;border-width:1px;">Training Dates</th>
-	<td style="border-color:#000000;solid;border-width:1px;"><u><b>Thursdays</b></u><br>P4 - P6 (School Team)<br>3.30pm – 5.30pm<br>Netball Court (Indoor Sports Hall)<br><br>
-	<u><b>Fridays</b></u>
-<br>7.30am to 9.00am (All members)<br>
-Netball Court (Parade Square)<br>
-<br>*Dates may vary during East Zone Tournament
+<h4>Introduction</h4>
+<p>The Park View Primary School Netball Junior and Senior teams have been
+consistent participants in the National School Games each year. Supported
+by a team of devoted and dedicated teachers who oversee training sessions,
+engage in friendly matches and carnivals, and accompany the students to
+tournaments, we are poised for continued success. Our collective goal is
+to strive for excellence, aiming for accolades and aspiring to reach new
+heights in the years ahead.</p>
+<h4>Training Programme</h4>
+<p>Training begins with a strong emphasis on skill development for players
+joining in Primary 3, where they receive personalised guidance from the
+coach to equip them for the school team. As they advance to Primary 4 and
+beyond, training shifts to emphasize gameplay, teamwork, and honing their
+skills. Selected players from Primary 4 to 6 will have the opportunity
+to compete in the Netball National School Games (NSG).</p>
+<h4>Training Schedule</h4>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers-in-charge</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Mrs Evie Goh (OIC)
+<br>Mdm Nur Farizah
+<br>Mdm Khairina</p>
 </td>
 </tr>
-	<tr>
-	<th style="border-color:#000000;solid;border-width:1px;">Coach</th>
-	<td style="border-color:#000000;solid;border-width:1px;">Ms Carolyn Lim</td>
-	</tr>
-	</tbody>
-	</table>
-
-
-
+<tr>
+<th rowspan="1" colspan="1">
+<p>Training Dates</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong><u>Tuesdays</u></strong>
+<br>Selected P4s, P5 &amp; P6 girls
+<br>3.30pm – 5.30pm
+<br>Indoor Sports Hall (ISH)
+<br>
+<br><strong><u>Fridays</u></strong>
+<br>All students
+<br>7.30am to 9.00am (All members)
+<br>Parade Square</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Coach</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Ms Neo
+<br>Ms Deborah</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Achievements</h4>
-<!-- Table-->
- <table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Events</th><th style="border-color:#000000;solid;border-width:1px;">Achievements</th><th style="border-color:#000000;solid;border-width:1px;">Year</th>
-	</tr>
-	<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">East Zone Inter-Primary Schools Netball Championships 2020</td>
-	<td style="border-color:#000000;solid;border-width:1px;">Participation</td>
-		<td style="border-color:#000000;solid;border-width:1px;">2020</td>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Events</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
 </tr>
-	<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">East Zone COE Carnival</td>
-	<td style="border-color:#000000;solid;border-width:1px;">3rd</td>
-		<td style="border-color:#000000;solid;border-width:1px;">2019</td>
-	</tr>
-		<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">East Zone Inter-Primary Schools Netball Championships 2019</td>
-	<td style="border-color:#000000;solid;border-width:1px;">Participation</td>
-		<td style="border-color:#000000;solid;border-width:1px;">2019</td>
-	</tr>
-	</tbody>
-	</table>
-
-<h4>Activities/Events</h4>
-
-<!-- Table -->
- <table style="border-collapse:collapse;border-spacing:0" class="tg"><tbody><tr><th style="border-color:#000000;solid;border-width:1px;">Activity/Event</th><th style="border-color:#000000;solid;border-width:1px;">Description</th><th style="border-color:#000000;solid;border-width:1px;">Year</th>
-	</tr>
-	<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">Camp Excellence</td>
-	<td style="border-color:#000000;solid;border-width:1px;">CCA Camp for all pupils to bond and learn on striving for excellence</td>
-		<td style="border-color:#000000;solid;border-width:1px;">Yearly</td>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Netball Championships (Seniors - P6)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
 </tr>
-	<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">East Zone Inter-Primary Schools Netball Championships</td>
-	<td style="border-color:#000000;solid;border-width:1px;">Event for school team members to interact and compete against netball teams from respective schools in the East Zone.</td>
-		<td style="border-color:#000000;solid;border-width:1px;">Yearly</td>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Netball Championships (Juniors - P4, P5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
 </tr>
-	<tr>
-	<td style="border-color:#000000;solid;border-width:1px;">EZ COE Carnival</td>
-	<td style="border-color:#000000;solid;border-width:1px;">Event for all netball members to interact and play with netball teams from various schools.</td>
-		<td style="border-color:#000000;solid;border-width:1px;">Yearly</td>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Netball Championships (Seniors - P6)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
 </tr>
-	</tbody>
-	</table>
-
+<tr>
+<td rowspan="1" colspan="1">
+<p>NSG Netball Championships (Juniors - P4, P5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Gallery</h4>
-<img src="/images/Netball%202021%2001.jpg">
-<img src="/images/Netball%202021%2002.jpg">
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/In_action.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/In_action_4.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/In_action_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/In_action_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Team_Photo.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
