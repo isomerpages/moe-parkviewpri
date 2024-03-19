@@ -2,7 +2,6 @@ collections:
   our-stakeholders:
     output: true
     order:
-      - Appreciation & Feedback.md
       - For Parents/.keep
       - For Parents/Letter to Parents.md
       - For Parents/Information for P1 (Y2024).md
@@ -20,3 +19,4 @@ collections:
       - Alumni/News & Events.md
       - Alumni/Join Us.md
       - Alumni/Code of Conduct.md
+      - Appreciation & Feedback.md
