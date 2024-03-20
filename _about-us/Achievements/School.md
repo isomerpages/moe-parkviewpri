@@ -9,8 +9,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>2023 National English Writing Competition 2023</strong>
-</p>
+<h4><strong>2023 National English Writing Competition 2023</strong></h4>
 </td>
 </tr>
 <tr>
@@ -52,8 +51,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p><strong>2023 Asia-Pacific Mathematical Olympiad for Primary School</strong>
-</p>
+<h4><strong>2023 Asia-Pacific Mathematical Olympiad for Primary School</strong></h4>
 </th>
 </tr>
 <tr>
@@ -95,8 +93,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p><strong>2023 Fo Guang Shan National Pri/Sec Schools Pen Calligraphy Finals</strong>
-</p>
+<h4><strong>2023 Fo Guang Shan National Pri/Sec Schools Pen Calligraphy Finals</strong></h4>
 </th>
 </tr>
 <tr>
@@ -116,8 +113,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p><strong>8th National Primary School “Picture Book Creation” Competition</strong>
-</p>
+<h4><strong>8th National Primary School “Picture Book Creation” Competition</strong></h4>
 </th>
 </tr>
 <tr>
@@ -165,8 +161,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>Singapore Youth Festival (SYF) 2023 Art Exhibition</strong>
-</p>
+<h4><strong>Singapore Youth Festival (SYF)2023 Art Exhibition</strong></h4>
 </th>
 </tr>
 <tr>
@@ -199,8 +194,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p><strong>International Science Drama Competition 2023 Singapore Finals</strong>
-</p>
+<h4><strong>International Science Drama Competition 2023 Singapore Finals</strong></h4>
 </th>
 </tr>
 <tr>
@@ -226,8 +220,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>NewsMaker 2023</strong>
-</p>
+<h4><strong>NewsMaker 2023</strong></h4>
 </th>
 </tr>
 <tr>
@@ -241,8 +234,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p><strong>National School Games Wushu 2023 (Senior Division Girls)</strong>
-</p>
+<h4><strong>National School Games Wushu 2023 (Senior Division Girls)</strong></h4>
 </th>
 </tr>
 <tr>
@@ -262,8 +254,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p><strong>National Mathematical Olympiad of Singapore 2023</strong>
-</p>
+<h4><strong>National Mathematical Olympiad of Singapore 2023</strong></h4>
 </th>
 </tr>
 <tr>
@@ -393,8 +384,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>National Pen Calligraphy Competition</strong>
-</p>
+<h4><strong>National Pen Calligraphy Competition</strong></h4>
 </th>
 </tr>
 <tr>
@@ -408,8 +398,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p><strong>National Oral Recitation - </strong><em>Lower Primary (Individual) Category</em>
-</p>
+<h4><strong>National Oral Recitation - Lower Primary (Individual) Category</strong></h4>
 </th>
 </tr>
 <tr>
@@ -440,8 +429,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p><strong><em>National Oral Recitation - </em></strong><em>Lower Primary (Group) Category</em>
-</p>
+<h4><strong>National Oral Recitation - Lower Primary (Group) Category</strong></h4>
 </th>
 </tr>
 <tr>
@@ -494,8 +482,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Malay Language Fiesta 2023 (Choral Recitation Competition) organised by Malay Language Learning &amp; Promotion Committee</strong>
-</p>
+<h4><strong>Malay Language Fiesta 2023 (Choral Recitation Competition) organised by Malay Language Learning &amp; Promotion Committee</strong></h4>
 </th>
 </tr>
 <tr>
@@ -509,8 +496,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p><strong>Sayembara Bahasa Pasir Ris 2023 organised by Pasir Ris Central MAEC, Pasir Ris West MAEC, Pasir Ris East MAEC and Casuarina Primary School</strong>
-</p>
+<h4><strong>Sayembara Bahasa Pasir Ris 2023 organised by Pasir Ris Central MAEC, Pasir Ris West MAEC, Pasir Ris East MAEC and Casuarina Primary School</strong></h4>
 </th>
 </tr>
 <tr>
@@ -585,7 +571,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Teo Zhi Xuan from 5R3</p>
+<h4><strong>Teo Zhi Xuan from 5R3</strong></h4>
 </th>
 </tr>
 <tr>
