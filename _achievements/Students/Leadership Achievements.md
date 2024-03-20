@@ -9,8 +9,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>2023 <strong>Lee Yun Han Award</strong>
-</p>
+<h4><strong>2023 Lee Yun Han Award</strong></h4>
 </th>
 </tr>
 <tr>
@@ -26,8 +25,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>2023 <strong>PVPS Excellence Award</strong>
-</p>
+<h4><strong>2023 PVPS Excellence Award</strong></h4>
 </th>
 </tr>
 <tr>
