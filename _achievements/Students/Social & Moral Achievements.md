@@ -9,8 +9,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Frank Cooper Sands Award - Gold</strong>
-</p>
+<h4><strong>Frank Cooper Sands Award - Gold</strong></h4>
 </th>
 </tr>
 <tr>
