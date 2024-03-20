@@ -59,7 +59,7 @@ etc</p>
 via email OR to the School’s General Office.</p>
 <p>60 Pasir Ris Drive 1, Singapore 519524
 <br>Contact No: 6585 1421
-<br>Email:&nbsp;<a href="mailto:pvps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pvps@moe.edu.sg</a>
+<br>Email:&nbsp;<a href="mailto:pvps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pvps@moe.edu.sg</a> 
 <br>Contact Person: Mdm Teo Chui Ping</p>
 <h4><strong>How to get there?</strong></h4>
 <ul data-tight="true" class="tight">
