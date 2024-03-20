@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Achievements
 variant: tiptap
 ---
-<h4>2023 - MOE Service Excellence Award</h4>
+<h4><strong>2023 - MOE Service Excellence Award</strong></h4>
 <table>
 <tbody>
 <tr>
