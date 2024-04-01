@@ -56,104 +56,137 @@ and dental treatment is provided as well.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>4 MAR</strong>
-<br>OPEN 8AM TO 5PM</p>
+<p><strong>1 APR</strong>
+<br><strong>CLOSED</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>5 MAR *</strong>
-<br>OPEN 8AM TO 12.30PM</p>
+<p><strong>2 APR</strong>
+<br><strong>OPEN 8AM TO 5.30PM</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>6 MAR *</strong>
-<br>OPEN 8AM TO 10.30AM</p>
+<p><strong>3 APR</strong>
+<br><strong>CLOSED</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>7 MAR</strong>
-<br>OPEN 8AM&nbsp; TO 5.30PM</p>
+<p><strong>4 APR</strong>
+<br><strong>OPEN 8AM&nbsp; TO 5.30PM</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>8 MAR</strong>
-<br>OPEN 8AM TO 5PM</p>
+<p><strong>5 APR</strong>
+<br><strong>CLOSED</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>11 MAR (SH)</strong>
+<p><strong>8 APR</strong>
 <br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>12 MAR (SH)</strong>
+<p><strong>9 APR</strong>
 <br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>13 MAR (SH)</strong>
+<p><strong>10 APR</strong>
 <br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>14 MAR (SH)</strong>
-<br><strong>CLOSED</strong>
+<p><strong>11 APR</strong>
+<br><strong>&nbsp;CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>15 MAR (SH)</strong>
+<p><strong>12 APR</strong>
 <br><strong>&nbsp;CLOSED</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>18 MAR</strong>
+<p><strong>15 APR</strong>
 <br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>19 MAR</strong>
+<p><strong>16 APR</strong>
 <br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>20 MAR</strong>
-<br><strong>CLOSED</strong>
+<p><strong>17 APR*</strong>
+<br><strong>OPEN 8AM TO 9.45AM</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>21 MAR</strong>
-<br><strong>CLOSED</strong>
+<p><strong>18 APR</strong>
+<br><strong>OPEN 8AM&nbsp; TO 5.30PM</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>22 MAR</strong>
+<p><strong>19 APR</strong>
 <br><strong>CLOSED</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>25 MAR</strong>
+<p><strong>22 APR</strong>
 <br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>26 MAR</strong>
+<p><strong>23 APR</strong>
 <br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>27 MAR</strong>
+<p><strong>24 APR</strong>
 <br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>28 MAR</strong>
+<p><strong>25 APR</strong>
 <br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>29 MAR (PH)</strong>
+<p><strong>26 APR</strong>
 <br><strong>CLOSED</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>29 APR</strong>
+<br><strong>OPEN 8AM TO 5PM</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>30 APR</strong>
+<br><strong>OPEN 8AM&nbsp; TO 5.30PM</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
 </p>
 </td>
 </tr>
