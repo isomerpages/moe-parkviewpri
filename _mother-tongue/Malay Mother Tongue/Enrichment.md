@@ -3,25 +3,36 @@ title: Enrichment
 permalink: /curriculum/mother-tongue/Malay-Mother-Tongue/enrichment/
 description: ""
 third_nav_title: Malay Mother Tongue
+variant: tiptap
 ---
-#### Key Programmes
-
-#### HARI RAYA CELEBRATION
-
-<p align="justify">The Hari Raya Celebration at Park View Primary School this year took a different spin as the celebration was done via ZOOM. The celebration started with a quiz on Hari Raya featuring our two non-Muslim teachers to test their knowledge on Hari Raya. This was followed by another video by our P5 students, Haziq Rayyan, Nur Raudha & Shaistah Nadia sharing about Hari Raya. The celebration ended with a dance featuring our wonderful teachers and school leaders!</p>
-
-<b>Do enjoy the videos below!</b>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IZ59MIE4am4" title="Hari raya dance video 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<br>
-<div style="margin:0;padding:0;">
-<ol style="list-style-type: lower-latin;"><li>quiz</li><li>explanation by students</li><li>dance</li>
+<h4><strong><u>PERTANDINGAN BICARA BERIRAMA</u></strong></h4>
+<p>The Malay Language Learning and Promotion Committee (MLLPC) in conjunction
+with Malay Language Fiesta 2023 organised a Choral Recitation Competition<em> (Pertandingan Bicara Berirama)</em>,
+for primary school students in June 2023. The competition required participants
+to record a 3-minute choral recitation on the joy of using the Malay language.
+Our P5 and P6 boys took part in the competition. They definitely had a
+lot of fun! You can view their performance below!</p>
+<p>
+<br><strong><u>SAYEMBARA BAHASA<br></u></strong>Our students participated
+in Sayembara Bahasa, held on 26 August 2023, in conjunction with the Malay
+Language Month (Bulan Bahasa). Sayembara Bahasa is a competition for P1
+to P6 students with the following objectives:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>To enhance students’ interest in Malay Language through competition</p>
+</li>
+<li>
+<p>To improve student’ oracy skills and confidence in using Sebutan Baku
+(Standard Malay)</p>
+</li>
+<li>
+<p>To showcase students’ talent in acting and doing character portrayal on
+Malay Folktales</p>
+</li>
 </ol>
+<p>Our students worked hard and bagged the following awards</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/1.jpg">
 </div>
-
-#### MTL Fortnight
-
-<p align="justify">The MTL Fortnight Programme is a platform to engage students in the learning and appreciation of their MT languages outside the context of their lessons. Usually conducted in conjunction with Bulan Bahasa (Malay Language Month), it allows students opportunities to participate in various activities catered to their level.</p>
-
-<img src="/images/Curriculum/Mother%20Tongue/Malay/MTL%20Fortnight.jpg" alt="" style="width:100%">
+<p><strong>  P1 – Mass Singing <br></strong>3<sup>rd</sup> Place</p>
+<p></p>
