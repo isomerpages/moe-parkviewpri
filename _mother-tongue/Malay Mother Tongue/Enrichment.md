@@ -3,7 +3,7 @@ title: Enrichment
 permalink: /curriculum/mother-tongue/malay-mother-tongue/enrichment/
 description: ""
 third_nav_title: Malay Mother Tongue
-variant: markdown
+variant: tiptap
 ---
 <h4><strong><u>PERTANDINGAN BICARA BERIRAMA</u></strong></h4>
 <p>The Malay Language Learning and Promotion Committee (MLLPC) in conjunction
@@ -31,37 +31,74 @@ Malay Folktales</p>
 </li>
 </ol>
 <p>Our students worked hard and bagged the following awards</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/1.jpg">
 </div>
-<p><strong>P1 – Mass Singing <br></strong>3<sup>rd</sup> Place</p>
-<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>P1 – Mass Singing  </strong>3<sup>rd</sup> Place</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/2.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>P2 – Folklore</strong> 
 <br>Consolation</p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/3.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>P3 – Promoting a Book</strong> 
 <br>3<sup>rd</sup> Place</p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/4.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>P4 – Twisted Tale</strong> 
 <br>Consolation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/5.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>P5 – Rap<br></strong>1<sup>st</sup> Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/6.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/6.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>P6 – Language Quiz</strong> 
 <br>2<sup>nd</sup> Place</p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/7.png">
 </div>
