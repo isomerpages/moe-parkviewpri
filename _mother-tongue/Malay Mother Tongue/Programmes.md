@@ -129,6 +129,20 @@ variant: tiptap
 <p>To Be Advised</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Submission of Kembara Rakan Bahasa Activity Cards</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25 September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
