@@ -34,5 +34,36 @@ Malay Folktales</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/1.jpg">
 </div>
-<p><strong>  P1 – Mass Singing <br></strong>3<sup>rd</sup> Place</p>
+<p><strong>P1 – Mass Singing <br></strong>3<sup>rd</sup> Place</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/2.png">
+</div>
+<p><strong>P2 – Folklore</strong>
+<br>Consolation</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/3.jpg">
+</div>
+<p><strong>P3 – Promoting a Book</strong>
+<br>3<sup>rd</sup> Place</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/4.jpg">
+</div>
+<p><strong>P4 – Twisted Tale</strong>
+<br>Consolation</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/5.jpg">
+</div>
+<p><strong>P5 – Rap<br></strong>1<sup>st</sup> Place</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/6.png">
+</div>
+<p><strong>P6 – Language Quiz</strong>
+<br>2<sup>nd</sup> Place</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/7.png">
+</div>
+<p>Kudos to our students and teachers and we hoped our students had fun during
+the competition!</p>
