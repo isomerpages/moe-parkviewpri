@@ -39,19 +39,19 @@ Malay Folktales</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/2.png">
 </div>
-<p><strong>P2 – Folklore</strong>
+<p><strong>P2 – Folklore</strong> 
 <br>Consolation</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/3.jpg">
 </div>
-<p><strong>P3 – Promoting a Book</strong>
+<p><strong>P3 – Promoting a Book</strong> 
 <br>3<sup>rd</sup> Place</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/4.jpg">
 </div>
-<p><strong>P4 – Twisted Tale</strong>
+<p><strong>P4 – Twisted Tale</strong> 
 <br>Consolation</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/5.jpg">
@@ -60,10 +60,20 @@ Malay Folktales</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/6.png">
 </div>
-<p><strong>P6 – Language Quiz</strong>
+<p><strong>P6 – Language Quiz</strong> 
 <br>2<sup>nd</sup> Place</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/7.png">
 </div>
 <p>Kudos to our students and teachers and we hoped our students had fun during
 the competition!</p>
+<p></p>
+<p><strong><u>MTL FORTNIGHT</u></strong>
+</p>
+<p><strong>The MTL Fortnight Programme is a platform to engage students in the learning and appreciation of their MT languages outside the context of their lessons. Usually conducted in conjunction with Bulan Bahasa (Malay Language Month), it allows students opportunities to participate in various activities catered to their level.</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/8.jpg">
+</div>
+<p></p>
