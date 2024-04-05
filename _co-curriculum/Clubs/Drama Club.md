@@ -1,6 +1,6 @@
 ---
-title: ELDDS
-permalink: /co-curriculum/Clubs/ELDDS/
+title: Drama Club
+permalink: /co-curriculum/clubs/dramaclub/
 description: ""
 third_nav_title: Clubs
 variant: tiptap
