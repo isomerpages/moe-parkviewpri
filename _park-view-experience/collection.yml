@@ -1,0 +1,21 @@
+collections:
+  park-view-experience:
+    output: true
+    order:
+      - Park View Yearbook/.keep
+      - Park View Yearbook/2023.md
+      - Park View Yearbook/2022.md
+      - Programme for Active Learning/Programme for Active Learning (PAL).md
+      - Programme for Active Learning/Visual Arts Module.md
+      - Programme for Active Learning/Outdoor Education Module.md
+      - Programme for Active Learning/Sports and Creative Movements Module.md
+      - Programme for Active Learning/.keep
+      - Applied Learning Programme.md
+      - Park View Gallery/2024.md
+      - Park View Gallery/2023.md
+      - Park View Gallery/2022.md
+      - Park View Gallery/2021.md
+      - Park View Gallery/2020.md
+      - Park View Gallery/2019.md
+      - Park View Gallery/Video Gallery.md
+      - Park View Gallery/.keep

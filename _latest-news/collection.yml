@@ -1,0 +1,7 @@
+collections:
+  latest-news:
+    output: true
+    order:
+      - What is Your Child Learning in Social Studies.md
+      - Parents Gateway User Guide.md
+      - Rules for Video Conferencing SLS Support for HBL.md

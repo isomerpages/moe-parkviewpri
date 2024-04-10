@@ -1,0 +1,30 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - Teaching & Learning.md
+      - English/.keep
+      - English/English.md
+      - English/School Library (Hotspot).md
+      - Mathematics.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Mother Tongue.md
+      - Mother Tongue/Chinese Language.md
+      - Mother Tongue/Malay Language.md
+      - Mother Tongue/Tamil Language.md
+      - Science.md
+      - Aesthetics/.keep
+      - Aesthetics/Aesthetics.md
+      - Aesthetics/Art.md
+      - Aesthetics/Music.md
+      - Physical & Health Education.md
+      - CCE/.keep
+      - CCE/Character & Citizenship Education (CCE).md
+      - CCE/Student Leadership.md
+      - CCE/Character Development.md
+      - CCE/Citizenship.md
+      - CCE/Values in Action (VIA).md
+      - CCE/Recognition & Motivation.md
+      - ICT/.keep
+      - ICT/Information & Communication Technology (ICT).md
+      - ICT/Cyber Wellness @ PVPS.md

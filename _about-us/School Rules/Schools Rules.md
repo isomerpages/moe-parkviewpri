@@ -1,0 +1,8 @@
+---
+title: Schools Rules
+permalink: /about-us/schools-rules/
+description: ""
+third_nav_title: School Rules
+variant: tiptap
+---
+<ol data-tight="true" class="tight"><li><p>Students are to be respectful and courteous to their teachers, friends, and visitors.</p></li><li><p>Students must observe punctuality at all times.</p></li><li><p>Students are to keep the school premises clean and tidy.</p></li><li><p>Students must not leave the school premises on their own during school hours</p></li><li><p>Students are to wear the prescribed school uniform, and modifications to the school uniform are not allowed.<br>(<em>Should students need to wear either a jacket, sweater, or cardigan, it must be a dark or white plain colour, </em><strong><em>i.e., white, black, grey, blue, or dark green</em></strong><em>. There should not be any large logos of brands, advertisements, or designs on them.)</em></p></li><li><p>Students are to be neatly and properly attired at all times.</p></li><li><p>Boys must be clean-shaven, and no wearing of beards and moustaches.</p></li><li><p>Students who are Singapore citizens must sing the National Anthem and take the Pledge. Students will take the Pledge with the right fist placed over their heart.</p></li><li><p>Students are to behave well at all times.</p></li><li><p>All students are not allowed to have any weapons in their possession. They are also not allowed to bring any weapon-like item that is used or intended to be used to cause harm to others.</p></li></ol><p></p>

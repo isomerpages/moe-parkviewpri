@@ -1,0 +1,9 @@
+collections:
+  clubs:
+    output: true
+    order:
+      - Art & Craft Club/Art & Craft Club.md
+      - Art & Craft Club/.keep
+      - Info Comm Club/Info Comm Club.md
+      - Info Comm Club/Digital Sculpting.md
+      - Info Comm Club/.keep
