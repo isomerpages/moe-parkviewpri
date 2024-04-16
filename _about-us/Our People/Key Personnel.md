@@ -77,8 +77,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="225" width="175" alt="Mr Jerry Chua_optimisedforweb.jpg" src="/images/mr%20jerry%20chua%20chun%20wei.JPG">
 </div>
-<p>
-<br>Mr Jerry Chua
+<p>Mr Jerry Chua
 <br>HOD - PE CCA
 <br><a href="mailto:chua_chun_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chun_wei<br>@schools.gov.sg</a> 
 <br>
@@ -86,10 +85,9 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="225" width="175" alt="Mr Justin Luo Yanzhong_optimisedforweb.jpg" src="/images/mr%20justin%20luo%20yanzhong.JPG">
+<img style="width: 87%;" height="225" width="175" alt="Mr Justin Luo Yanzhong_optimisedforweb.jpg" src="/images/mr%20justin%20luo%20yanzhong.JPG">
 </div>
-<p>
-<br>Mr Justin Luo
+<p>Mr Justin Luo
 <br>HOD - ICT
 <br><a href="mailto:justin_luo_yanzhong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">justin_luo_yanzhong<br>@schools.gov.sg</a> 
 <br>
@@ -97,10 +95,9 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="225" width="175" alt="IMG_9053.JPG" src="/images/miss%20chua%20shuan%20kwee.JPG">
+<img style="width: 95%;" height="225" width="175" alt="IMG_9053.JPG" src="/images/miss%20chua%20shuan%20kwee.JPG">
 </div>
-<p>
-<br>Miss Chua Shuan Kwee
+<p>Miss Chua Shuan Kwee
 <br>School Staff Developer
 <br><a href="mailto:chua_shuan_kwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_shuan_kwee<br>@schools.gov.sg</a> 
 <br>
@@ -115,10 +112,9 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="225" width="175" alt="tn.IMG_7629.JPG.mid.jpg" src="/images/mrs%20hazel%20cheong-tan%20kar%20tiang.JPG">
+<img style="width: 100%;" height="225" width="175" alt="tn.IMG_7629.JPG.mid.jpg" src="/images/mrs%20hazel%20cheong-tan%20kar%20tiang.JPG">
 </div>
-<p>
-<br>Mrs Hazel Cheong
+<p>Mrs Hazel Cheong
 <br>YH (lower primary)
 <br><a href="mailto:tan_kar_tiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kar_tiang<br>@schools.gov.sg</a> 
 <br>
@@ -126,10 +122,9 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="225" width="175" alt="Ms_Lee_Rui_Ying_June.jpg" src="/images/Ms_Lee_Rui_Ying_June.jpg">
+<img style="width: 97%;" height="225" width="175" alt="Ms_Lee_Rui_Ying_June.jpg" src="/images/Ms_Lee_Rui_Ying_June.jpg">
 </div>
-<p>
-<br>Mrs June Law
+<p>Mrs June Law
 <br>YH (middle primary)
 <br><a href="mailto:lee_rui_ying_june@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_rui_ying_june<br>@schools.gov.sg</a> 
 <br>
@@ -137,10 +132,9 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="225" width="175" alt="MR DARVINDER EDITER FINAL.jpg" src="/images/mr%20darvinder%20singh%20so%20k%20singh.JPG">
+<img style="width: 80%;" height="225" width="175" alt="MR DARVINDER EDITER FINAL.jpg" src="/images/mr%20darvinder%20singh%20so%20k%20singh.JPG">
 </div>
-<p>
-<br>Mr Darvinder Singh
+<p>Mr Darvinder Singh
 <br>YH (upper primary)
 <br><a href="mailto:darvinder_singh_karam_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">darvinder_singh_karam<br>_singh@schools.gov.sg</a> 
 <br>
@@ -152,8 +146,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="225" width="175" alt="pat.jpg" src="/images/mdm%20yeo%20peck%20hui%20patricia.JPG">
 </div>
-<p>
-<br>Mdm Patricia Yeo
+<p>Mdm Patricia Yeo
 <br>AYH (lower primary)
 <br><a href="mailto:yeo_peck_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_peck_hui<br>@schools.gov.sg</a> 
 <br>
@@ -163,8 +156,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="225" width="175" alt="Lee Eng Tiong_optimisedforweb.jpg" src="/images/mr%20lee%20eng%20tiong.JPG">
 </div>
-<p>
-<br>Mr Lee Eng Tiong
+<p>Mr Lee Eng Tiong
 <br>AYH (middle primary)
 <br><a href="mailto:lee_eng_tiong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_eng_tiong<br>@schools.gov.sg</a> 
 <br>
@@ -172,10 +164,9 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="225" width="175" alt="Miss Pamela See cropped.jpg" src="/images/ms%20pamela%20see%20yuen%20heng%20(1).JPG">
+<img style="width: 82%;" height="225" width="175" alt="Miss Pamela See cropped.jpg" src="/images/ms%20pamela%20see%20yuen%20heng%20(1).JPG">
 </div>
-<p>
-<br>Miss Pamela See
+<p>Miss Pamela See
 <br>AYH (upper primary)
 <br><a href="mailto:see_yuen_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">see_yuen_heng<br>@schools.gov.sg</a> 
 <br>
