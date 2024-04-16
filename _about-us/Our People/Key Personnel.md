@@ -183,8 +183,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="225" width="175" alt="Mdm_Sim_Shiyu_optimisedforweb.jpg" src="/images/mrs%20yeo-sim%20shiyu.JPG">
 </div>
-<p>
-<br>Mrs Yeo
+<p>Mrs Yeo
 <br>LH - EL
 <br><a href="mailto:sim_shiyu
 @schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_shiyu<br>@schools.gov.sg</a> 
@@ -193,10 +192,9 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="225" width="175" alt="Ms_Este_Chow.jpg" src="/images/Our%20People/Key%20Personnel%20/Ms_Este_Chow.jpg">
+<img style="width: 80%;" height="225" width="175" alt="Ms_Este_Chow.jpg" src="/images/Our%20People/Key%20Personnel%20/Ms_Este_Chow.jpg">
 </div>
-<p>
-<br>Ms Este Chow
+<p>Ms Este Chow
 <br>LH - MTL
 <br><a href="mailto:este_chow@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">este_chow<br>@schools.gov.sg</a> 
 <br>
@@ -204,10 +202,9 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="225" width="175" src="/images/mdm%20angeline%20loo%20nga%20hoon.JPG">
+<img style="width: 90%;" height="225" width="175" src="/images/mdm%20angeline%20loo%20nga%20hoon.JPG">
 </div>
-<p>
-<br>Mdm Angeline Loo
+<p>Mdm Angeline Loo
 <br>LH - Math
 <br><a href="mailto:loo_nga_hoonangeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loo_nga_hoonangeline<br>@schools.gov.sg</a> 
 <br>
@@ -219,8 +216,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="225" width="175" alt="Miss_Lee_siew_Kiang_optimisedforweb.jpg" src="/images/miss%20lee%20siew%20kiang.JPG">
 </div>
-<p>
-<br>Miss Lee Siew Kiang
+<p>Miss Lee Siew Kiang
 <br>SH - ICT
 <br>
 <br><a href="mailto:lee_siew_kiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_siew_kiang<br>@schools.gov.sg</a> 
@@ -229,10 +225,9 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="225" width="175" alt="Mr Watson Tay cropped.jpg" src="/images/mr%20watson%20teh%20chiew%20hwa.JPG">
+<img style="width: 80%;" height="225" width="175" alt="Mr Watson Tay cropped.jpg" src="/images/mr%20watson%20teh%20chiew%20hwa.JPG">
 </div>
-<p>
-<br>Mr Watson Teh
+<p>Mr Watson Teh
 <br>SH - Student Management
 <br><a href="mailto:teh_chiew_hwa_watson@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teh_chiew_hwa_<br>watson@schools.gov.sg</a> 
 <br>
