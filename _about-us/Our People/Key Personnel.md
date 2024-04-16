@@ -247,8 +247,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="225" width="175" alt="Mrs Helen Chong.jpg" src="/images/mrs%20helen%20chong-low.JPG">
 </div>
-<p>
-<br>Mrs Chong Helen Low
+<p>Mrs Chong Helen Low
 <br>LT - PE
 <br><a href="mailto:helen_low_kwee_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helen_low_kwee<br>@schools.gov.sg</a>
 </p>
@@ -256,20 +255,18 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="225" width="175" alt="Mdm_Sharina" src="/images/Our%20People/Key%20Personnel%20/Mdm_Sharina_Bte_Mohamed_Tahale.JPG">
+<img style="width: 90%;" height="225" width="175" alt="Mdm_Sharina" src="/images/Our%20People/Key%20Personnel%20/Mdm_Sharina_Bte_Mohamed_Tahale.JPG">
 </div>
-<p>
-<br>Mdm Sharina
+<p>Mdm Sharina
 <br>ST (Lower Primary)
 <br><a href="mailto:sharina_mohd_tahale@schools.gov.sg>;" rel="noopener noreferrer nofollow" target="_blank">sharina_mohd_tahale<br>@schools.gov.sg</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="225" width="175" alt="tn.Mdm_Chen_ShuangShuang_optimisedforweb.jpg.mid.jpg" src="/images/mdm%20chen%20shuangshuang.JPG">
+<img style="width: 95%;" height="225" width="175" alt="tn.Mdm_Chen_ShuangShuang_optimisedforweb.jpg.mid.jpg" src="/images/mdm%20chen%20shuangshuang.JPG">
 </div>
-<p>
-<br>Mdm Chen ShuangShuang
+<p>Mdm Chen ShuangShuang
 <br>ST - CL
 <br><a href="mailto:chen_shuangshuang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_shuangshuang<br>@schools.gov.sg</a> 
 <br>
@@ -290,7 +287,7 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="225" width="175" src="/images/mrs%20eileen%20yap-soh%20chin%20ping.JPG">
+<img style="width: 90%;" height="225" width="175" src="/images/mrs%20eileen%20yap-soh%20chin%20ping.JPG">
 </div>
 <p>
 <br>Mrs Eileen Yap
@@ -301,7 +298,7 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="225" width="175" alt="Sherylene Soh siew yin.jpg" src="/images/miss%20sherylene%20soh%20siew%20yin.JPG">
+<img style="width: 95%;" height="225" width="175" alt="Sherylene Soh siew yin.jpg" src="/images/miss%20sherylene%20soh%20siew%20yin.JPG">
 </div>
 <p>
 <br>Miss Sherylene Soh
