@@ -2,6 +2,7 @@ collections:
   our-stakeholders:
     output: true
     order:
+      - For Parents/P5 & P6 Parents Workshop.md
       - For Parents/.keep
       - For Parents/Letter to Parents.md
       - For Parents/Information for P1 (Y2024).md
