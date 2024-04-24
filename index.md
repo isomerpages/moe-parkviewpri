@@ -18,12 +18,4 @@ sections:
         - title: School Canteen Advertisement
           description: ""
           url: https://parkviewpri.moe.edu.sg/school-canteen-advertisement-pvps/
-  - infopic:
-      title: Make a date with us!
-      id: infopic
-      button: Click here for registration
-      url: https://go.gov.sg/parkview-openhouse
-      image: /images/PVPS___Open_House_1_for_website.png
-      alt: Image alt text
-      description: Registration closes on Thursday, 16 May 2024
 ---
