@@ -25,4 +25,5 @@ sections:
       button: Click here for registration
       url: https://go.gov.sg/parkview-openhouse
       image: /images/PVPS___Open_House_1_for_website.png
+      alt: Open House
 ---
