@@ -29,7 +29,7 @@ and dental treatment is provided as well.</p>
 </tr>
 </tbody>
 </table>
-<h4>Dental Clinic's Schedule for March 2024</h4>
+<h4>Dental Clinic's Schedule for May 2024</h4>
 <table>
 <tbody>
 <tr>
@@ -56,137 +56,144 @@ and dental treatment is provided as well.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>1 APR</strong> 
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1 MAY (PH)</strong>
+</p>
+<p><strong>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2 MAY</strong>
+</p>
+<p>OPEN 8AM&nbsp; TO 5.30PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3 MAY</strong>
+</p>
+<p>OPEN 8AM TO 5PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>6 MAY</strong>
+</p>
+<p><strong>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>7 MAY</strong>
 <br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2 APR</strong> 
-<br><strong>OPEN 8AM TO 5.30PM</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>3 APR</strong> 
+<p><strong>8 MAY</strong>
 <br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>4 APR</strong> 
-<br><strong>OPEN 8AM&nbsp; TO 5.30PM</strong>
+<p><strong>9 MAY</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>5 APR</strong> 
+<p><strong>10 MAY</strong>
 <br><strong>CLOSED</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>8 APR</strong> 
+<p><strong>13 MAY</strong> 
 <br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>9 APR</strong> 
+<p><strong>14 MAY</strong> 
 <br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>10 APR</strong> 
-<br><strong>CLOSED</strong>
+<p><strong>15 MAY</strong>
+</p>
+<p>OPEN 8AM TO 5PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>16 MAY</strong>
+</p>
+<p>OPEN 8AM&nbsp; TO 5.30PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>17 MAY</strong>
+</p>
+<p>OPEN 8AM TO 5PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>20 MAY</strong>
+</p>
+<p><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>11 APR</strong> 
-<br><strong>&nbsp;CLOSED</strong>
+<p><strong>21 MAY</strong>
+</p>
+<p><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>12 APR</strong> 
-<br><strong>&nbsp;CLOSED</strong>
+<p><strong>22 MAY (PH)</strong>
+</p>
+<p><strong>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>23 MAY</strong>
+</p>
+<p><strong>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>24 MAY</strong>
+</p>
+<p><strong>CLOSED</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>15 APR</strong> 
-<br><strong>CLOSED</strong>
+<p><strong>27 MAY (SH)</strong>
+</p>
+<p><em>to be confirmed</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>16 APR</strong> 
-<br><strong>CLOSED</strong>
+<p><strong>28 MAY (SH)</strong>
+</p>
+<p><em>to be confirmed</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>17 APR*</strong> 
-<br><strong>OPEN 8AM TO 9.45AM</strong>
+<p><strong>29 MAY (SH)</strong>
+</p>
+<p><em>to be confirmed</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>18 APR</strong> 
-<br><strong>OPEN 8AM&nbsp; TO 5.30PM</strong>
+<p><strong>30 MAY (SH)</strong>
+</p>
+<p><em>to be confirmed</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>19 APR</strong> 
-<br><strong>CLOSED</strong>
+<p><strong>31 MAY (SH)</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>22 APR</strong> 
-<br><strong>CLOSED</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>23 APR</strong> 
-<br><strong>CLOSED</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>24 APR</strong> 
-<br><strong>CLOSED</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>25 APR</strong> 
-<br><strong>CLOSED</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>26 APR</strong> 
-<br><strong>CLOSED</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>29 APR</strong> 
-<br><strong>OPEN 8AM TO 5PM</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>30 APR</strong> 
-<br><strong>OPEN 8AM&nbsp; TO 5.30PM</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>&nbsp;</strong>
+<p><em>to be confirmed</em>
 </p>
 </td>
 </tr>
