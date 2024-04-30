@@ -62,22 +62,22 @@ and dental treatment is provided as well.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1 MAY (PH)</strong>
+<p><strong>1 MAY (PH)</strong> 
 <br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2 MAY</strong>
+<p><strong>2 MAY</strong> 
 <br>OPEN 8AM&nbsp; TO 5.30PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>3 MAY</strong>
+<p><strong>3 MAY</strong> 
 <br>OPEN 8AM TO 5PM</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>6 MAY</strong>
+<p><strong>6 MAY</strong> 
 <br><strong>CLOSED</strong>
 </p>
 </td>
@@ -114,68 +114,68 @@ and dental treatment is provided as well.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>15 MAY</strong>
+<p><strong>15 MAY</strong> 
 <br>OPEN 8AM TO 5PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>16 MAY</strong>
+<p><strong>16 MAY</strong> 
 <br>OPEN 8AM&nbsp; TO 5.30PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>17 MAY</strong>
+<p><strong>17 MAY</strong> 
 <br>OPEN 8AM TO 5PM</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>20 MAY</strong>
+<p><strong>20 MAY</strong> 
 <br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>21 MAY</strong>
+<p><strong>21 MAY</strong> 
 <br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>22 MAY (PH)</strong>
+<p><strong>22 MAY (PH)</strong> 
 <br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>23 MAY</strong>
+<p><strong>23 MAY</strong> 
 <br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>24 MAY</strong>
+<p><strong>24 MAY</strong> 
 <br><strong>CLOSED</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>27 MAY (SH)</strong>
+<p><strong>27 MAY (SH)</strong> 
 <br><em>to be confirmed</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>28 MAY (SH)</strong>
+<p><strong>28 MAY (SH)</strong> 
 <br><em>to be confirmed</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>29 MAY (SH)</strong>
+<p><strong>29 MAY (SH)</strong> 
 <br><em>to be confirmed</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>30 MAY (SH)</strong>
+<p><strong>30 MAY (SH)</strong> 
 <br><em>to be confirmed</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>31 MAY (SH)</strong>
+<p><strong>31 MAY (SH)</strong> 
 <br><em>to be confirmed</em>
 </p>
 </td>
