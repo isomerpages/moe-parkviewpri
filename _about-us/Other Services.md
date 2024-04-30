@@ -63,45 +63,41 @@ and dental treatment is provided as well.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>1 MAY (PH)</strong>
-</p>
-<p><strong>CLOSED</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>2 MAY</strong>
-</p>
-<p>OPEN 8AM&nbsp; TO 5.30PM</p>
+<br>OPEN 8AM&nbsp; TO 5.30PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>3 MAY</strong>
-</p>
-<p>OPEN 8AM TO 5PM</p>
+<br>OPEN 8AM TO 5PM</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>6 MAY</strong>
-</p>
-<p><strong>CLOSED</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>7 MAY</strong>
 <br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>8 MAY</strong>
+<p><strong>7 MAY</strong> 
 <br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>9 MAY</strong>
+<p><strong>8 MAY</strong> 
 <br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>10 MAY</strong>
+<p><strong>9 MAY</strong> 
+<br><strong>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>10 MAY</strong> 
 <br><strong>CLOSED</strong>
 </p>
 </td>
@@ -119,81 +115,68 @@ and dental treatment is provided as well.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>15 MAY</strong>
-</p>
-<p>OPEN 8AM TO 5PM</p>
+<br>OPEN 8AM TO 5PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>16 MAY</strong>
-</p>
-<p>OPEN 8AM&nbsp; TO 5.30PM</p>
+<br>OPEN 8AM&nbsp; TO 5.30PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>17 MAY</strong>
-</p>
-<p>OPEN 8AM TO 5PM</p>
+<br>OPEN 8AM TO 5PM</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>20 MAY</strong>
-</p>
-<p><strong>CLOSED</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>21 MAY</strong>
-</p>
-<p><strong>CLOSED</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>22 MAY (PH)</strong>
-</p>
-<p><strong>CLOSED</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>23 MAY</strong>
-</p>
-<p><strong>CLOSED</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>24 MAY</strong>
-</p>
-<p><strong>CLOSED</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>27 MAY (SH)</strong>
-</p>
-<p><em>to be confirmed</em>
+<br><em>to be confirmed</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>28 MAY (SH)</strong>
-</p>
-<p><em>to be confirmed</em>
+<br><em>to be confirmed</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>29 MAY (SH)</strong>
-</p>
-<p><em>to be confirmed</em>
+<br><em>to be confirmed</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>30 MAY (SH)</strong>
-</p>
-<p><em>to be confirmed</em>
+<br><em>to be confirmed</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>31 MAY (SH)</strong>
-</p>
-<p><em>to be confirmed</em>
+<br><em>to be confirmed</em>
 </p>
 </td>
 </tr>
