@@ -4,26 +4,44 @@ permalink: /about-us/school-canteen-menu/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Stall_1.jpg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stall_1.jpg"></a>
-<p></p>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/2024 Canteen Menu/Canteen_Menu_2024_13_May_2024_Page_1.jpg">
+</div>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Stall_2.jpg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stall_2.jpg"></a>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Stall_4.jpg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stall_4.jpg"></a>
-<p></p>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Stall_7.jpg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stall_7.jpg"></a>
-<p></p>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/2024 Canteen Menu/Canteen_Menu_2024_13_May_2024_Page_2.jpg">
+</div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/images/Stall_8.jpg"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Stall_8.jpg"></a>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/2024 Canteen Menu/Canteen_Menu_2024_13_May_2024_Page_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/2024 Canteen Menu/Canteen_Menu_2024_13_May_2024_Page_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/2024 Canteen Menu/Canteen_Menu_2024_13_May_2024_Page_5.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
