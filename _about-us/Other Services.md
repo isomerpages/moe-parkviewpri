@@ -8,7 +8,11 @@ variant: tiptap
 <p>The school has its own dental clinic managed by a dentist therapist. All
 students in the school are seen by the dental therapist for routine check-ups,
 and dental treatment is provided as well.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -30,7 +34,14 @@ and dental treatment is provided as well.</p>
 </tbody>
 </table>
 <h4>Dental Clinic's Schedule for May 2024</h4>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -56,128 +67,68 @@ and dental treatment is provided as well.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3 JUNE
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>4 JUNE
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>1 MAY (PH)</strong> 
-<br><strong>CLOSED</strong>
-</p>
+<p>5 JUNE
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2 MAY</strong> 
-<br>OPEN 8AM&nbsp; TO 5.30PM</p>
+<p>6 JUNE
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>3 MAY</strong> 
-<br>OPEN 8AM TO 5PM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>6 MAY</strong> 
-<br><strong>CLOSED</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>7 MAY</strong> 
-<br><strong>CLOSED</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>8 MAY</strong> 
-<br><strong>CLOSED</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>9 MAY</strong> 
-<br><strong>CLOSED</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>10 MAY</strong> 
-<br><strong>CLOSED</strong>
-</p>
+<p>7 JUNE
+<br>CLOSED</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>13 MAY</strong> 
-<br><strong>CLOSED</strong>
-</p>
+<p>10 JUNE
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>14 MAY</strong> 
-<br><strong>CLOSED</strong>
-</p>
+<p>11 JUNE
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>15 MAY</strong> 
-<br>OPEN 8AM TO 5PM</p>
+<p>12 JUNE
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>16 MAY</strong> 
-<br>OPEN 8AM&nbsp; TO 5.30PM</p>
+<p>13 JUNE
+<br>&nbsp;CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>17 MAY</strong> 
-<br>OPEN 8AM TO 5PM</p>
+<p>14 JUNE
+<br>&nbsp;CLOSED</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>20 MAY</strong> 
-<br><strong>CLOSED</strong>
-</p>
+<p>17 JUNE
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>21 MAY</strong> 
-<br><strong>CLOSED</strong>
-</p>
+<p>18 JUNE
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>22 MAY (PH)</strong> 
-<br><strong>CLOSED</strong>
-</p>
+<p>19 JUNE
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>23 MAY</strong> 
-<br><strong>CLOSED</strong>
-</p>
+<p>20 JUNE
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>24 MAY</strong> 
-<br><strong>CLOSED</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>27 MAY (SH)</strong> 
-<br><em>to be confirmed</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>28 MAY (SH)</strong> 
-<br><em>to be confirmed</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>29 MAY (SH)</strong> 
-<br><em>to be confirmed</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>30 MAY (SH)</strong> 
-<br><em>to be confirmed</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>31 MAY (SH)</strong> 
-<br><em>to be confirmed</em>
-</p>
+<p>21 JUNE
+<br>CLOSED</p>
 </td>
 </tr>
 </tbody>
@@ -186,7 +137,12 @@ and dental treatment is provided as well.</p>
 </p>
 <p>During clinic closure days , students who require&nbsp;<strong>urgent</strong>&nbsp;dental
 treatment can contact the following school dental clinic for appointment:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -232,7 +188,10 @@ treatment can contact the following school dental clinic for appointment:</p>
 </li>
 </ul>
 <h3>School Book Shop &amp; Uniform Supplier</h3>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
