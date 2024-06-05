@@ -6,7 +6,12 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h3>Heads Of Department</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -107,7 +112,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Year Heads</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -176,7 +186,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Level Heads / Subject Heads</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -240,7 +255,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Teacher Leaders</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -279,7 +299,7 @@ variant: tiptap
 <img style="width: 100%" height="225" width="175" alt="MdmHanim.jpeg" src="/images/mdm%20norhanim%20bte%20hashim.JPG">
 </div>
 <p>
-<br>Mdm Nohanim
+<br>Mdm Norhanim
 <br>ST - ML
 <br><a href="mailto:norhanim_hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norhanim_hashim<br>@schools.gov.sg</a> 
 <br>
