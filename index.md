@@ -21,4 +21,5 @@ sections:
   - infopic:
       id: infopic
       image: /images/Phone_Upgrade__2_.jpg
+      alt: Phone System Upgrade
 ---
