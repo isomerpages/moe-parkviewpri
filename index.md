@@ -18,4 +18,7 @@ sections:
         - title: School Canteen Advertisement
           description: ""
           url: https://parkviewpri.moe.edu.sg/school-canteen-advertisement-pvps/
+  - infopic:
+      id: infopic
+      image: /images/Phone_Upgrade__2_.jpg
 ---
