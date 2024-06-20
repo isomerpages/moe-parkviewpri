@@ -57,7 +57,7 @@ variant: markdown
 		</td></tr>
 		<tr>
 			<td style="border:1px solid black;">Mdm Low Mui Kwoon Irene</td>
-			<td style="border:1px solid black;">Teacher of P4CL2，P2CL2</td>
+			<td style="border:1px solid black;"><b>Teacher of P4CL2，P2CL2</b></td>
 		</tr>
 	</tbody>
 </table>
