@@ -33,27 +33,31 @@ variant: markdown
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">Miss Low Kin Eng</td>
-			<td style="border:1px solid black;"><b>P6 Level Rep</b><br>Teacher of P6CL3, P3CL4(MTSP), P2CL3</td>
+			<td style="border:1px solid black;"><b>P6 Level Rep</b><br>Teacher of P3CL3, P6CL2</td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">Mdm Wong Peh Yan</td>
-			<td style="border:1px solid black;"><b>P3 Level Rep</b><br>Teacher of P5CL5, P3CL2, P1CL2</td>
+			<td style="border:1px solid black;"><b>P3 Level Rep</b><br>Teacher of P2CL2，P3CL4，P6CL5</td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">Miss Pamela See</td>
-			<td style="border:1px solid black;"><b>P6 HCL Level Rep</b><br>Teacher of P6CL1(HCL), P2CL4</td>
-		</tr>
+			<td style="border:1px solid black;"><b>Teacher of P1CL4，P5CL2</b></td>
+			</tr>
 		<tr>
 			<td style="border:1px solid black;">Miss Chang Tiantian</td>
-			<td style="border:1px solid black;"><b>P5 Level Rep</b><br>Teacher of P5CL4, P3CL3, P1CL1</td>
+			<td style="border:1px solid black;"><b>P1 Level Rep</b><br>Teacher of P1CL2，P6CL4</td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">Mdm Shi Rui</td>
-			<td style="border:1px solid black;l"><b>P5HCL Level Rep</b><br>Teacher of P5CL1(HCL), P2CL1</td>
+			<td style="border:1px solid black;l"><b>P6HCL Level Rep, P2 Level Rep</b><br>Teacher of P6CL1，P2CL4</td>
 		</tr>
 		<tr>
+			<td style="border:1px solid black;">Ms Este Chow</td>
+			<td style="border:1px solid black;l"><b>Teacher of P1CL1，P5CL3</b>
+		</td></tr>
+		<tr>
 			<td style="border:1px solid black;">Mdm Low Mui Kwoon Irene</td>
-			<td style="border:1px solid black;">Teacher of P4CL2, P2CL2</td>
+			<td style="border:1px solid black;">Teacher of P4CL2，P2CL2</td>
 		</tr>
 	</tbody>
 </table>
