@@ -131,6 +131,28 @@ and dental treatment is provided as well.</p>
 <br>CLOSED</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 JUNE
+<br>OPEN 8AM to 5PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25 JUNE
+<br>OPEN 8AM to 5PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26 JUNE
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27 JUNE
+<br>OPEN 8AM to 5PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28 JUNE
+<br>OPEN 8AM to 5PM</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><em>Opening Days and Hours: Please refer to the above schedule for more details. Avoid lunch hour from 1.00pm to 2.00pm.</em>
