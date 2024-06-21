@@ -3,6 +3,7 @@ title: English Version
 permalink: /curriculum/mother-tongue/Chinese-Mother-Tongue/english-version/
 description: ""
 third_nav_title: Chinese Mother Tongue
+variant: markdown
 ---
 <h4>Department Members 2023</h4>
 
@@ -10,49 +11,53 @@ third_nav_title: Chinese Mother Tongue
 	<thead>
 		<tr>
 			<th style="border:1px solid black;font-weight:normal;">Mdm Teo Siew Yeun</th>
-			<th style="border:1px solid black;font-weight:normal;"><b>Head of Department</b><br>Teacher of P4CL1, P1CL4</th>
+			<th style="border:1px solid black;font-weight:normal;"><b>Head of Department</b><br>Teacher of P3CL2, P4CL4</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td style="border:1px solid black;">Mr Lee Eng Tiong</td>
-			<td style="border:1px solid black;"><b>Subject Head</b><br>Teacher of P5CL3, P3CL1</td>
+				<td style="border:1px solid black;"><b>Subject Head</b><br>Teacher of P3CL1, P6CL3</td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">Mdm Tan Poh Soon</td>
-			<td style="border:1px solid black;"><b>P4 Level Rep</b><br>Teacher of P6CL4, P4CL4(MTSP), P1CL3</td>
+			<td style="border:1px solid black;"><b>P4 Level Rep</b><br>Teacher of P2CL3, P4CL1</td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">Mdm Wang Luning</td>
-			<td style="border:1px solid black;"><b>P1 Level Rep</b><br>Teacher of P6CL2, P1CL5</td>
+			<td style="border:1px solid black;"><b>P5 HCL Level Rep</b><br>Teacher of P5CL1, P1CL3</td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">Mdm Chen Shuang Shuang</td>
-			<td style="border:1px solid black;"><b>P5 Assistant Level Rep</b><br>Teacher of P5CL2, P4CL3</td>
+			<td style="border:1px solid black;"><b>P5 Level Rep</b><br>Teacher of P4CL2, P5CL4</td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">Miss Low Kin Eng</td>
-			<td style="border:1px solid black;"><b>P6 Level Rep</b><br>Teacher of P6CL3, P3CL4(MTSP), P2CL3</td>
+			<td style="border:1px solid black;"><b>P6 Level Rep</b><br>Teacher of P3CL3, P6CL2</td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">Mdm Wong Peh Yan</td>
-			<td style="border:1px solid black;"><b>P3 Level Rep</b><br>Teacher of P5CL5, P3CL2, P1CL2</td>
+			<td style="border:1px solid black;"><b>P3 Level Rep</b><br>Teacher of P2CL2，P3CL4，P6CL5</td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">Miss Pamela See</td>
-			<td style="border:1px solid black;"><b>P6 HCL Level Rep</b><br>Teacher of P6CL1(HCL), P2CL4</td>
-		</tr>
+			<td style="border:1px solid black;"><b>Teacher of P1CL4，P5CL2</b></td>
+			</tr>
 		<tr>
 			<td style="border:1px solid black;">Miss Chang Tiantian</td>
-			<td style="border:1px solid black;"><b>P5 Level Rep</b><br>Teacher of P5CL4, P3CL3, P1CL1</td>
+			<td style="border:1px solid black;"><b>P1 Level Rep</b><br>Teacher of P1CL2，P6CL4</td>
 		</tr>
 		<tr>
 			<td style="border:1px solid black;">Mdm Shi Rui</td>
-			<td style="border:1px solid black;l"><b>P5HCL Level Rep</b><br>Teacher of P5CL1(HCL), P2CL1</td>
+			<td style="border:1px solid black;l"><b>P6HCL Level Rep, P2 Level Rep</b><br>Teacher of P6CL1，P2CL4</td>
 		</tr>
 		<tr>
+			<td style="border:1px solid black;">Ms Este Chow</td>
+			<td style="border:1px solid black;l"><b>Teacher of P1CL1，P5CL3</b>
+		</td></tr>
+		<tr>
 			<td style="border:1px solid black;">Mdm Low Mui Kwoon Irene</td>
-			<td style="border:1px solid black;">Teacher of P4CL2, P2CL2</td>
+			<td style="border:1px solid black;"><b>Teacher of P4CL2，P2CL2</b></td>
 		</tr>
 	</tbody>
 </table>
