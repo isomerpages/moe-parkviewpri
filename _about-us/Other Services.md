@@ -33,7 +33,7 @@ and dental treatment is provided as well.</p>
 </tr>
 </tbody>
 </table>
-<h4>Dental Clinic's Schedule for May 2024</h4>
+<h4>Dental Clinic's Schedule for June 2024</h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -129,6 +129,28 @@ and dental treatment is provided as well.</p>
 <td rowspan="1" colspan="1">
 <p>21 JUNE
 <br>CLOSED</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 JUNE
+<br>OPEN 8AM to 5PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25 JUNE
+<br>OPEN 8AM to 5PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26 JUNE
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27 JUNE
+<br>OPEN 8AM to 5PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28 JUNE
+<br>OPEN 8AM to 5PM</p>
 </td>
 </tr>
 </tbody>
