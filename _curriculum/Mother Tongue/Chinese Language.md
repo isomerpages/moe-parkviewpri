@@ -224,98 +224,126 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 <th rowspan="1" colspan="1">
 <p>Mdm Teo Siew Yeun</p>
 </th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>Head of Department</strong>
-<br>Teacher of P4CL1, P1CL4</p>
-</th>
+</p>
+<p>Teacher of P3CL2，P4CL4</p>
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Eng Tiong</p>
+<p><strong>Mr Lee Eng Tiong</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Subject Head</strong>
-<br>Teacher of P5CL3, P3CL1</p>
+<br>Teacher of P3CL1，P6CL3</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Poh Soon</p>
+<p><strong>Mdm Tan Poh Soon</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>P4 Level Rep</strong>
-<br>Teacher of P6CL4, P4CL4(MTSP), P1CL3</p>
+<br>Teacher of P2CL3，P4CL1</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Wang Luning</p>
+<p><strong>Mdm Wang Luning</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P1 Level Rep</strong>
-<br>Teacher of P6CL2, P1CL5</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Chen Shuang Shuang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>P5 Assistant Level Rep</strong>
-<br>Teacher of P5CL2, P4CL3</p>
+<p><strong>P5 HCL Level Rep</strong>
+</p>
+<p><strong>Teacher of P5CL1，P1CL3</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Low Kin Eng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>P6 Level Rep</strong>
-<br>Teacher of P6CL3, P3CL4(MTSP), P2CL3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Wong Peh Yan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>P3 Level Rep</strong>
-<br>Teacher of P5CL5, P3CL2, P1CL2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Pamela See</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>P6 HCL Level Rep</strong>
-<br>Teacher of P6CL1(HCL), P2CL4</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Chang Tiantian</p>
+<p><strong>Mdm Chen Shuang Shuang</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>P5 Level Rep</strong>
-<br>Teacher of P5CL4, P3CL3, P1CL1</p>
+</p>
+<p>Teacher of P4CL2，P5CL4</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Shi Rui</p>
+<p><strong>Miss Low Kin Eng</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P5HCL Level Rep</strong>
-<br>Teacher of P5CL1(HCL), P2CL1</p>
+<p><strong>P6 Level Rep</strong>
+<br>Teacher of P3CL3，P6CL2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Low Mui Kwoon Irene</p>
+<p><strong>Mdm Wong Peh Yan</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher of P4CL2, P2CL2</p>
+<p><strong>P3 Level Rep</strong>
+<br>Teacher of P2CL2，P3CL4，P6CL5</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Miss Pamela See</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teacher of P1CL4，P5CL2</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Miss Chang Tiantian</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>P1 Level Rep</strong>
+</p>
+<p>Teacher of P1CL2，P6CL4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Shi Rui</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>P6HCL Level Rep, P2 Level Rep</strong>
+</p>
+<p>Teacher of P6CL1，P2CL4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Este Chow</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teacher of P1CL1，P5CL3</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Low Mui Kwoon Irene</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teacher of P4CL2，P2CL2</strong>
+</p>
 </td>
 </tr>
 </tbody>
