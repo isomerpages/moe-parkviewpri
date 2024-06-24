@@ -15,7 +15,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Blue_and_Pink_Geometric_Bake_Sale_Flyer__1_.jpg">
 </div>
-<p>2024年，我校蒋宜庭、许君诚、黄俊稀、孙新雨、王丽心同学在由新加坡书法家协会主办、观音庙赞助的全国中小学生硬笔书法比赛大决赛中获得优胜奖</p>
+<p>2024年，我校蒋宜庭、许君诚、黄俊稀、孙新雨、王丽心同学在由新加坡书法家协会主办、观音庙赞助的全国中小学生硬笔书法比赛大决赛中获得优胜奖。</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/pic%20student%2001.jpeg">
@@ -99,9 +99,6 @@ variant: tiptap
 <p></p>
 <h3>各项活动</h3>
 <h4>农历新年庆祝活动</h4>
-<p>百惠的师生们每年都会举行多种多样的文化活动来庆祝农历新年。同学们除了在课室里听老师介绍农历新年的各种传统习俗以外，还会在休息时间时来到食堂——在那里，华文老师和家长义工们已经设置了写春联、剪纸和中国结等多个文化摊位，供同学们尝试。大家热情高涨，积极参与，结束时还能带走一份小小的纪念品呢。
-2021年，由于疫情的影响，往年热闹的“捞鱼生”无法进行，舞狮团队也无法进入校园，老师们就自己扮演狮子，走进每一间课室，给同学们带来欢乐。</p>
-<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/CL_CNY.jpg">
 </div>
