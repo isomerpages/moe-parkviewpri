@@ -224,7 +224,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 <td rowspan="1" colspan="1">
 <p><strong>Head of Department</strong>
 </p>
-<p>Teacher of P3CL2，P4CL4</p>
+<p><strong>Teacher of P3CL2，P4CL4</strong>
+</p>
 <p></p>
 </td>
 </tr>
@@ -235,7 +236,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Subject Head</strong>
-<br>Teacher of P3CL1，P6CL3</p>
+<br><strong>Teacher of P3CL1，P6CL3</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -245,7 +247,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>P4 Level Rep</strong>
-<br>Teacher of P2CL3，P4CL1</p>
+<br><strong>Teacher of P2CL3，P4CL1</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -268,7 +271,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 <td rowspan="1" colspan="1">
 <p><strong>P5 Level Rep</strong>
 </p>
-<p>Teacher of P4CL2，P5CL4</p>
+<p><strong>Teacher of P4CL2，P5CL4</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -278,7 +282,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>P6 Level Rep</strong>
-<br>Teacher of P3CL3，P6CL2</p>
+<br><strong>Teacher of P3CL3，P6CL2</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -288,7 +293,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>P3 Level Rep</strong>
-<br>Teacher of P2CL2，P3CL4，P6CL5</p>
+<br><strong>Teacher of P2CL2，P3CL4，P6CL5</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -309,7 +315,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 <td rowspan="1" colspan="1">
 <p><strong>P1 Level Rep</strong>
 </p>
-<p>Teacher of P1CL2，P6CL4</p>
+<p><strong>Teacher of P1CL2，P6CL4</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -320,7 +327,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 <td rowspan="1" colspan="1">
 <p><strong>P6HCL Level Rep, P2 Level Rep</strong>
 </p>
-<p>Teacher of P6CL1，P2CL4</p>
+<p><strong>Teacher of P6CL1，P2CL4</strong>
+</p>
 </td>
 </tr>
 <tr>
