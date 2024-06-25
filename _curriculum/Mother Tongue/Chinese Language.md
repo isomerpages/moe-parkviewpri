@@ -3,7 +3,7 @@ title: Chinese Language
 permalink: /curriculum/mother-tongue/chinese-language/
 description: ""
 third_nav_title: Mother Tongue
-variant: markdown
+variant: tiptap
 ---
 <h4>我们的骄傲</h4>
 <p></p>
@@ -207,7 +207,7 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 <h4>执教老师</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Screenshot_2024_06_20_090147.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Screenshot_2024_06_26_074748.png">
 </div>
 <h4>English Version</h4>
 <h5>Department Members 2024</h5>
