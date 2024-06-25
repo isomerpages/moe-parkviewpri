@@ -230,6 +230,16 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </td>
 </tr>
 <tr>
+<th rowspan="1" colspan="1">
+<p>Mdm Teo</p>
+</th>
+<td rowspan="1" colspan="1">
+<p><strong>Subject Head</strong>
+<br><strong>Teacher of P3CL1，P6CL3</strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Lee Eng Tiong</strong>
 </p>
