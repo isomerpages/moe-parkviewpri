@@ -1,9 +1,9 @@
 ---
 title: Chinese Language
-permalink: /curriculum/mother-tongue/Chinese-Language/
+permalink: /curriculum/mother-tongue/chinese-language/
 description: ""
 third_nav_title: Mother Tongue
-variant: tiptap
+variant: markdown
 ---
 <h4>我们的骄傲</h4>
 <p></p>
@@ -207,7 +207,7 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 <h4>执教老师</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Screenshot_2024_06_20_090147.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Screenshot_2024_06_26_074748.png">
 </div>
 <h4>English Version</h4>
 <h5>Department Members 2024</h5>
@@ -222,10 +222,9 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 <p>Mdm Teo Siew Yeun</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>Head of Department</strong>
+<p><strong>Subject Head</strong>
+<br><strong>Teacher of P3CL2，P4CL4</strong>
 </p>
-<p>Teacher of P3CL2，P4CL4</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -235,7 +234,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Subject Head</strong>
-<br>Teacher of P3CL1，P6CL3</p>
+<br><strong>Teacher of P3CL1，P6CL3</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -245,7 +245,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>P4 Level Rep</strong>
-<br>Teacher of P2CL3，P4CL1</p>
+<br><strong>Teacher of P2CL3，P4CL1</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -255,8 +256,7 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>P5 HCL Level Rep</strong>
-</p>
-<p><strong>Teacher of P5CL1，P1CL3</strong>
+<br><strong>Teacher of P5CL1，P1CL3</strong>
 </p>
 </td>
 </tr>
@@ -267,8 +267,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>P5 Level Rep</strong>
+<br><strong>Teacher of P4CL2，P5CL4</strong>
 </p>
-<p>Teacher of P4CL2，P5CL4</p>
 </td>
 </tr>
 <tr>
@@ -278,7 +278,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>P6 Level Rep</strong>
-<br>Teacher of P3CL3，P6CL2</p>
+<br><strong>Teacher of P3CL3，P6CL2</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -288,7 +289,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>P3 Level Rep</strong>
-<br>Teacher of P2CL2，P3CL4，P6CL5</p>
+<br><strong>Teacher of P2CL2，P3CL4，P6CL5</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -308,8 +310,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>P1 Level Rep</strong>
+<br><strong>Teacher of P1CL2，P6CL4</strong>
 </p>
-<p>Teacher of P1CL2，P6CL4</p>
 </td>
 </tr>
 <tr>
@@ -319,8 +321,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>P6HCL Level Rep, P2 Level Rep</strong>
+<br><strong>Teacher of P6CL1，P2CL4</strong>
 </p>
-<p>Teacher of P6CL1，P2CL4</p>
 </td>
 </tr>
 <tr>
