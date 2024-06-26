@@ -222,20 +222,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 <p>Mdm Teo Siew Yeun</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>Head of Department</strong>
-</p>
-<p><strong>Teacher of P3CL2，P4CL4</strong>
-</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Mdm Teo</p>
-</th>
-<td rowspan="1" colspan="1">
 <p><strong>Subject Head</strong>
-<br><strong>Teacher of P3CL1，P6CL3</strong>
+<br><strong>Teacher of P3CL2，P4CL4</strong>
 </p>
 </td>
 </tr>
@@ -268,8 +256,7 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>P5 HCL Level Rep</strong>
-</p>
-<p><strong>Teacher of P5CL1，P1CL3</strong>
+<br><strong>Teacher of P5CL1，P1CL3</strong>
 </p>
 </td>
 </tr>
@@ -280,8 +267,7 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>P5 Level Rep</strong>
-</p>
-<p><strong>Teacher of P4CL2，P5CL4</strong>
+<br><strong>Teacher of P4CL2，P5CL4</strong>
 </p>
 </td>
 </tr>
@@ -324,8 +310,7 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>P1 Level Rep</strong>
-</p>
-<p><strong>Teacher of P1CL2，P6CL4</strong>
+<br><strong>Teacher of P1CL2，P6CL4</strong>
 </p>
 </td>
 </tr>
@@ -336,8 +321,7 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>P6HCL Level Rep, P2 Level Rep</strong>
-</p>
-<p><strong>Teacher of P6CL1，P2CL4</strong>
+<br><strong>Teacher of P6CL1，P2CL4</strong>
 </p>
 </td>
 </tr>
