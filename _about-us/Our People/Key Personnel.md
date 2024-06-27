@@ -35,14 +35,7 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 95%;" height="225" width="175" alt="Miss_Veronica_Poon_optimisedforweb.jpg" src="/images/miss%20veronica%20poon%20sook%20yee.JPG">
-</div>
-<p>Miss Veronica Poon
-<br>HOD - Science
-<br><a href="mailto:poon_sook_yee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">poon_sook_yee<br>@schools.gov.sg</a> 
-<br>
-</p>
+<p></p>
 </th>
 </tr>
 <tr>
