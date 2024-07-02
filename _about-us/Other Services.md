@@ -67,90 +67,110 @@ and dental treatment is provided as well.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 JUNE
+<p>1 JULY
 <br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4 JUNE
+<p>2 JULY
 <br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5 JUNE
+<p>3 JULY
 <br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 JUNE
+<p>4 JULY
 <br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7 JUNE
-<br>CLOSED</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10 JUNE
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11 JUNE
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12 JUNE
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>13 JUNE
-<br>&nbsp;CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>14 JUNE
-<br>&nbsp;CLOSED</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>17 JUNE
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>18 JUNE
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>19 JUNE
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20 JUNE
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>21 JUNE
+<p>5 JULY
 <br>CLOSED</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>24 JUNE
-<br>OPEN 8AM to 5PM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>25 JUNE
-<br>OPEN 8AM to 5PM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>26 JUNE
+<p>8 JULY
 <br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 JUNE
-<br>OPEN 8AM to 5PM</p>
+<p>9 JULY
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 JUNE
-<br>OPEN 8AM to 5PM</p>
+<p>10 JULY
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11 JULY
+<br>OPEN 8AM TO 5.30PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 JULY
+<br>OPEN 8AM TO 5PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 JULY
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16 JULY
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7 JULY
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 JULY
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19 JULY
+<br>CLOSED</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 JULY
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23 JULY
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24 JULY
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25 JULY
+<br>OPEN 8AM TO 5.30PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26 JULY
+<br>OPEN 8AM TO 5PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 JULY
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30 JULY
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 JULY
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
