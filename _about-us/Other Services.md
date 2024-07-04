@@ -33,7 +33,7 @@ and dental treatment is provided as well.</p>
 </tr>
 </tbody>
 </table>
-<h4>Dental Clinic's Schedule for June 2024</h4>
+<h4>Dental Clinic's Schedule for July 2024</h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
