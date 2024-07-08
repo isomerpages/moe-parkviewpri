@@ -3,7 +3,7 @@ title: Chinese Language
 permalink: /curriculum/mother-tongue/chinese-language/
 description: ""
 third_nav_title: Mother Tongue
-variant: markdown
+variant: tiptap
 ---
 <h4>我们的骄傲</h4>
 <p></p>
@@ -109,13 +109,13 @@ variant: markdown
 <p>无论学习哪一种语言，阅读都是最重要的学习途径，让孩子受用一生。 百惠小学“好饿的毛毛虫”阅读活动旨在让孩子们拿起书本、爱上读书、读到好书。现在，孩子们已经养成习惯，常常记录自己读过的华文故事书、听故事会的故事、主动借阅课室图书、爱上了日本作家宫西达也的恐龙们……更不会忘记找老师们给自己的阅读手册盖个印章！</p>
 <p>令我们感到骄傲的是，由我校同学创作的绘本《鱼尾狮的秘密》、《榴莲的心愿》、《口罩英“熊”》、《时间糖果》等绘本在历届全国小学生绘本创作大赛中屡获奖项。为了鼓励更多同学参与创作，校内每年也都举办华文绘本比赛，最近还特别推出了四格漫画比赛和绘本配音比赛，希望未来的百惠小学能涌现出更多充满创意的小作家哦！</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/Curriculum/Mother%20Tongue/CL/tab2_img_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Untitled_design__2_.jpg">
 </div>
 <h4>文化活动</h4>
 <h5>母语双周活动</h5>
 <p>为了弘扬华族文化，让学生们了解、热爱自己的母语，华文部每年都为一至六年级的学生举办一系列精彩的母语双周活动。活动主要是针对各年级的需要而设计，内容涵盖书法、儿歌朗诵、创意绘画和文化营等，还联合家长义工和商家共同举办语文嘉年华和文化嘉年华，让学生“乐学善用”母语，并细细品茗珍贵的文化资产。母语双周活动不仅让学生学习到课本以外的知识，拉近了学生与文化之间的距离，同时也让大家见证了华族文化的魅力。</p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/Curriculum/Mother%20Tongue/CL/tab2_img_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/collage.jpg">
 </div>
 <h4>学习资源</h4>
 <table style="minWidth: 100px">
@@ -207,7 +207,7 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 <h4>执教老师</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Screenshot_2024_06_26_074748.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Screenshot_2024_07_08_091954.png">
 </div>
 <h4>English Version</h4>
 <h5>Department Members 2024</h5>
