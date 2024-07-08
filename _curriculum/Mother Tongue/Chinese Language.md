@@ -287,8 +287,7 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>P4 Level Rep</strong>
-</p>
-<p><strong>Teacher of P2CL3, P4CL1</strong>
+<br><strong>Teacher of P2CL3，P4CL1</strong>
 </p>
 </td>
 </tr>
@@ -298,9 +297,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P5HCL Level Rep</strong>
-</p>
-<p><strong>Teacher of P5CL1, P1CL3</strong>
+<p><strong>P5 Level Rep</strong>
+<br><strong>Teacher of P5CL1，P1CL3</strong>
 </p>
 </td>
 </tr>
@@ -311,8 +309,7 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>P3 Level Rep</strong>
-</p>
-<p><strong>Teacher of P2CL2, P3CL4, P6CL5</strong>
+<br><strong>Teacher of P2CL2，P3CL4, P6CL5</strong>
 </p>
 </td>
 </tr>
@@ -323,8 +320,7 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>P1 Level Rep</strong>
-</p>
-<p><strong>Teacher of P1CL2, P6CL4</strong>
+<br><strong>Teacher of P1CL2，P6CL4</strong>
 </p>
 </td>
 </tr>
@@ -335,8 +331,7 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>P6HCL Level Rep, P2 Level Rep</strong>
-</p>
-<p><strong>Teacher of P6CL1, P2CL4</strong>
+<br><strong>Teacher of P6CL1，P2CL4</strong>
 </p>
 </td>
 </tr>
