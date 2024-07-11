@@ -26,14 +26,10 @@ Celebrations.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 69%;" height="auto" width="100%" alt="" src="/images/Our Stakeholders/SAC Members/Mr_Lim__SAC_Chairman_.jpg">
-</div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Our People/SL/Ms_Jamie_Lie_Suyin__1_.jpg">
-</div>
+<p></p>
 </th>
 </tr>
 <tr>
@@ -58,52 +54,37 @@ Celebrations.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Stakeholders/SAC Members/Mr_Tang_Haitao.jpg">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Stakeholders/SAC Members/Mr_Foster.jpg">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Stakeholders/SAC Members/Mr_Jason_Chua.jpg">
-</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Member - Mr Tang Haitao</p>
+<p><strong>Member</strong>
+<br>Mr Tang Haitao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Member - Mr Kevin Alan Foster</p>
+<p><strong>Member</strong>
+<br>Mr Kevin Alan Foster</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Member -Mr Jason Chua Yew Hoe</p>
+<p><strong>Member</strong>
+<br>Mr Jason Chua Yew Hoe</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Stakeholders/SAC Members/Mr_Lee_Ee_Win.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Stakeholders/SAC Members/Mr_Sanjeev.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Stakeholders/SAC Members/Mr_Sean_Neo.jpg">
-</div>
 </td>
 </tr>
 <tr>
