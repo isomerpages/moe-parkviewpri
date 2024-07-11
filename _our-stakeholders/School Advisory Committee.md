@@ -89,13 +89,16 @@ Celebrations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Member – Mr Lee Ee Win</p>
+<p><strong>Member</strong>
+<br>Mr Lee Ee Win</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Member – Mr Sanjeev Agrawal</p>
+<p><strong>Member</strong>
+<br>Mr Sanjeev Agrawal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Member – Mr Sean Neo</p>
+<p><strong>Member</strong>
+<br>Mr Sean Neo</p>
 </td>
 </tr>
 </tbody>
