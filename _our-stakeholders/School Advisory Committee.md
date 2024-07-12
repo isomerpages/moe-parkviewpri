@@ -18,6 +18,7 @@ charity. Not only are the SAC members strong supporters of school events
 and programmes, they also participate in and work with the school to engage
 the Pasir Ris Community through events such as the Walkaton and Mid-Autumn
 Celebrations.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
