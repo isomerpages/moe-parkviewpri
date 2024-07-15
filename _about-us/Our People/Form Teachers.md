@@ -474,8 +474,8 @@ variant: tiptap
 <br>(5R2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Farah</p>
-<p>Ms Este Chow</p>
+<p>Mdm Farah
+<br>Ms Este Chow</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="farah_abdul_rashid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">farah_abdul_rashid@schools.gov.sg</a>
