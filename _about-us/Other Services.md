@@ -67,94 +67,6 @@ and dental treatment is provided as well.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1 JULY
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 JULY
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 JULY
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4 JULY
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 JULY
-<br>CLOSED</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>8 JULY
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9 JULY
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>10 JULY
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11 JULY
-<br>OPEN 8AM TO 5.30PM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12 JULY
-<br>OPEN 8AM TO 5PM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>15 JULY
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>16 JULY
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7 JULY
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8 JULY
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>19 JULY
-<br>CLOSED</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>22 JULY
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>23 JULY
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>24 JULY
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>25 JULY
-<br>OPEN 8AM TO 5.30PM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>26 JULY
-<br>OPEN 8AM TO 5PM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>29 JULY
 <br>CLOSED</p>
 </td>
@@ -167,10 +79,100 @@ and dental treatment is provided as well.</p>
 <br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1 AUGUST
+<br>CLOSED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2 AUGUST
+<br>CLOSED</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 AUGUST
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 AUGUST
+<br>OPEN 8AM to 5.30 PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7 AUGUST
+<br>OPEN 8AM to 5.30 PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 AUGUST
+<br>OPEN 8AM to 5.30 PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 AUGUST
+<br>CLOSED</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12 AUGUST
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13 AUGUST
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14 AUGUST
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 AUGUST
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16 AUGUST
+<br>CLOSED</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19 AUGUST
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 AUGUST
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21 AUGUST
+<br>OPEN 8AM to 5.30 PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22 AUGUST
+<br>OPEN 8AM to 5.30 PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>23 AUGUST
+<br>OPEN 8AM to 5.30 PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 AUGUST
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27 AUGUST
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28 AUGUST
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>29 AUGUST
+<br>CLOSED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30 AUGUST
+<br>CLOSED</p>
 </td>
 </tr>
 </tbody>
