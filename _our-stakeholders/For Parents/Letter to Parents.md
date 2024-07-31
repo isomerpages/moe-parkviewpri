@@ -8,6 +8,10 @@ variant: tiptap
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/2024 Letter to Parents/PVPS_2024_13.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter to Parents - 13</a>
+</p>
+</li>
+<li>
 <p><a href="/files/2024 Letter to Parents/PVPS_2024_12_Merged.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter to Parents - 12</a>
 </p>
 </li>
