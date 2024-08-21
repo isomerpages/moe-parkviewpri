@@ -4,7 +4,12 @@ permalink: /school-canteen-advertisement-pvps/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -25,7 +30,7 @@ description: ""
 <p>Chinese Cooked Food</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>24 May 2024</p>
+<p>15 Nov 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese/Japanese/Korean Rice or noodle stalls are acceptable.</p>
