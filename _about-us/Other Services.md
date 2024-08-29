@@ -33,7 +33,16 @@ and dental treatment is provided as well.</p>
 </tr>
 </tbody>
 </table>
-<h4>Dental Clinic's Schedule for July 2024</h4>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_08_29_124623.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<h4>Dental Clinic's Schedule for September 2024</h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -67,112 +76,103 @@ and dental treatment is provided as well.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>29 JULY
-<br>CLOSED</p>
+<p><strong>2 SEPTEMBER<br>CLOSED</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 JULY
-<br>CLOSED</p>
+<p><strong>3 SEPTEMBER<br>CLOSED</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 JULY
-<br>CLOSED</p>
+<p><strong>4 SEPTEMBER<br>CLOSED</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 AUGUST
-<br>CLOSED</p>
+<p><strong>5 SEPTEMBER<br>CLOSED</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 AUGUST
-<br>CLOSED</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>5 AUGUST
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6 AUGUST
-<br>OPEN 8AM to 5.30 PM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7 AUGUST
-<br>OPEN 8AM to 5.30 PM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8 AUGUST
-<br>OPEN 8AM to 5.30 PM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9 AUGUST
-<br>CLOSED</p>
+<p><strong>6 SEPTEMBER<br>CLOSED</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>12 AUGUST
-<br>CLOSED</p>
+<p><strong>9 SEPTEMBER<br>CLOSED</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13 AUGUST
-<br>CLOSED</p>
+<p><strong>10 SEPTEMBER<br>CLOSED</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>14 AUGUST
-<br>CLOSED</p>
+<p><strong>11 SEPTEMBER<br>CLOSED</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>15 AUGUST
-<br>CLOSED</p>
+<p><strong>12 SEPTEMBER<br>CLOSED</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>16 AUGUST
-<br>CLOSED</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>19 AUGUST
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20 AUGUST
-<br>CLOSED</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>21 AUGUST
-<br>OPEN 8AM to 5.30 PM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>22 AUGUST
-<br>OPEN 8AM to 5.30 PM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>23 AUGUST
-<br>OPEN 8AM to 5.30 PM</p>
+<p><strong>13 SEPTEMBER<br>CLOSED</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 AUGUST
-<br>CLOSED</p>
+<p><strong>16 SEPTEMBER<br></strong>OPEN 8AM TO 5PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 AUGUST
-<br>CLOSED</p>
+<p><strong>17 SEPTEMBER<br></strong>OPEN 8AM TO 5.30PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>28 AUGUST
-<br>CLOSED</p>
+<p><strong>18 SEPTEMBER<br></strong>OPEN 8AM TO 5PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>29 AUGUST
-<br>CLOSED</p>
+<p><strong>17 SEPTEMBER<br></strong>OPEN 8AM TO 5.30PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 AUGUST
-<br>CLOSED</p>
+<p><strong>18 SEPTEMBER<br></strong>OPEN 8AM TO 5PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>23 SEPTEMBER<br>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>24 SEPTEMBER<br>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>25 SEPTEMBER<br>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>26 SEPTEMBER<br>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>27 SEPTEMBER<br>CLOSED</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>30 SEPTEMBER<br></strong>OPEN 8AM TO 5PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>1 SEPTEMBER<br></strong>OPEN 8AM TO 5.30PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2 SEPTEMBER<br></strong>OPEN 8AM TO 5PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>3 SEPTEMBER<br></strong>OPEN 8AM TO 5.30PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>4 SEPTEMBER<br>CLOSED</strong>
+</p>
 </td>
 </tr>
 </tbody>
