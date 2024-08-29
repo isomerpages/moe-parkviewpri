@@ -33,6 +33,15 @@ and dental treatment is provided as well.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_08_29_124623.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h4>Dental Clinic's Schedule for September 2024</h4>
 <table style="minWidth: 125px">
 <colgroup>
