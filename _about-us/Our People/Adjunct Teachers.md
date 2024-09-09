@@ -105,7 +105,7 @@ variant: tiptap
 <p>Mdm Haslinah Bte Osman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="jeannie_yap_tiew_li_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jeannie_yap_tiew_li_A@schools.gov.sg</a>
+<p><a href="haslinah_osman@schools.gov.sg" rel="noopener nofollow" target="_blank">haslinah_osman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -114,7 +114,7 @@ variant: tiptap
 <p>Miss Jeannie Yap Tiew Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="nurfitriah_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurfitriah_abdul_rahman@schools.gov.sg</a>
+<p><a href="jeannie_yap_tiew_li_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jeannie_yap_tiew_li_A@schools.gov.sg</a>
 </p>
 </td>
 </tr>
