@@ -476,7 +476,40 @@ Contest</p>
 <p></p>
 <h4>Gallery</h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/1a__SYF_Category_A_Kampung_Coffeeshop.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SYF_Category A_Kampung Coffeeshop" src="/images/CCA/Art &amp; Craft Club/1a__SYF_Category_A_Kampung_Coffeeshop.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SYF_Category A_Kampung Coffeeshop</div><div class="isomer-card-link">Click to view</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Children_and_Youth_Online_Art_Contest.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Children &amp; Youth Online Art Contest" src="/images/CCA/Art &amp; Craft Club/Children_and_Youth_Online_Art_Contest.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Children &amp; Youth Online Art Contest</div><div class="isomer-card-description">儿童及青年线上绘画比赛</div><div class="isomer-card-link">Click to View</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Darlie_Bunny_Kids_Colouring_Contest.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Darlie Bunny Kids Colouring Contest" src="/images/CCA/Art &amp; Craft Club/Darlie_Bunny_Kids_Colouring_Contest.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Darlie Bunny Kids Colouring Contest</div>
+<div class="isomer-card-link">Click to View</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/JQA_International_Environment_Children_s_Drawing_Contest" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="JQA International Environment" src="/images/CCA/Art &amp; Craft Club/JQA_International_Environment_Children_s_Drawing_Contest.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">JQA International Environment</div><div class="isomer-card-description">Children's Drawing Contest</div><div class="isomer-card-link">Click to View</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/National_Drawing_Contest_December.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Nationwide Drawing Contest (December)" src="/images/CCA/Art &amp; Craft Club/Nationwide_Drawing_Contest_December.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Nationwide Drawing Contest (December)</div>
+<div class="isomer-card-link">Click to View</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/National_Drawing_Contest_November.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Nationwide Drawing Contest (November)" src="/images/CCA/Art &amp; Craft Club/Nationwide_Drawing_Contest_November.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Nationwide Drawing Contest (November)</div><div class="isomer-card-link">Click to View</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Planetopia_International_Children_and_Youth_Visual_Art_Competition.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Planetopia International Children &amp; Youth Visual Art Competition" src="/images/CCA/Art &amp; Craft Club/Planetopia_International_Children_and_Youth_Visual_Art_Competition.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Planetopia International Children &amp; Youth Visual Art Competition</div>
+<div class="isomer-card-link">Click to View</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/1a__SYF_Category_A_Kampung_Coffeeshop.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SYF_Category A_Kampung Coffeeshop" src="/images/CCA/Art &amp; Craft Club/1a__SYF_Category_A_Kampung_Coffeeshop.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SYF_Category A_Kampung Coffeeshop</div><div class="isomer-card-link">Click to view</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/1b__SYF_Category_B_Plastic_Fishes.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
