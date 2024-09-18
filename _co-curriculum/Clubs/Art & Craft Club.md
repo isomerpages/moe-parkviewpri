@@ -556,6 +556,14 @@ Contest</p>
 </a><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/URA_LTPR_Art_Competition__1_.JPG" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="URA LTPR Art Competition" src="/images/CCA/Art &amp; Craft Club/URA_LTPR_Art_Competition__1_.JPG"></div></div><div class="isomer-card-body"><div class="isomer-card-title">URA LTPR Art Competition</div><div class="isomer-card-link">Click to view</div></div></a>
 </div>
 <p></p>
+<h4>Chingay Community Engagement Programme</h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1qKgI9RCTmA9KQIg0aucEkD6SSGIKrwhbZ38k7bD-0-Y/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YUoPkTnkT9I?si=IdYPjKYGcgc7tBEq"></iframe>
+</div>
 <h4>Singapore Watercolour Society (SWS) Junior Watercolour Painting Competition</h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1SiCIydG41jxFd7_RejpwQ3V2J7TOIh5THDv7Tsk95B4/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
