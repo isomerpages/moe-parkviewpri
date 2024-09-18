@@ -17,7 +17,11 @@ Art. Art Club members also have the opportunity to teach the K1 &amp; K2
 children in neighbourhood Sparkletots Preschool how to transform everyday
 trash into interesting works of art.</p>
 <h4>Training Schedule</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -48,7 +52,12 @@ trash into interesting works of art.</p>
 </tbody>
 </table>
 <h4>Achievements</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -60,6 +69,159 @@ trash into interesting works of art.</p>
 <th rowspan="1" colspan="1">
 <p>Year</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Children &amp; Youth Online Art Contest
+<br>儿童及青年线上绘画比赛</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> place recipient: Teo Zhi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Darlie Bunny Kids Colouring Contest</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 3 Recipient: Teo Zhi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Staedtler World Kids Colouring
+<br>Day Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Place Recipient: Teo Zhi Xuan
+<br>
+<br>Certificate of Participation:
+<br>- Charlene Kuniawan
+<br>- Nicole Kuniawan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LTA Community Placemaking
+<br>Project Art Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 3 Winners:
+<br>1<sup>st</sup> - Teo Zhi Xuan
+<br>2<sup>nd</sup> – Ayra Aisya Bte Nazrul
+<br>3<sup>rd</sup> - Kesaraneni Devi Sravanthi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SOTA Primary 6 Art Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JQA International Environment
+<br>Children's Drawing Contest</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation
+<br>Nicole Kuniawan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Staedtler Graphite Diaries Singapore Heritage - Charcoal Drawing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation
+<br>Teo Zhi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nationwide Drawing Contest (December)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner up Recipient
+<br>Teo Zhi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nationwide Drawing Contest (December)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Runner up Recipient
+<br>Teo Zhi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Planetopia International Children &amp; Youth Visual Art Competition
+<br><em>Theme: Sustainable Ocean Sustainable Future</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Emerging Talent Award
+<br>Teo Zhi Xuan</p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
