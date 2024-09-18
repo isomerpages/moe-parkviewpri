@@ -17,7 +17,11 @@ Art. Art Club members also have the opportunity to teach the K1 &amp; K2
 children in neighbourhood Sparkletots Preschool how to transform everyday
 trash into interesting works of art.</p>
 <h4>Training Schedule</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -48,7 +52,12 @@ trash into interesting works of art.</p>
 </tbody>
 </table>
 <h4>Achievements</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -60,6 +69,159 @@ trash into interesting works of art.</p>
 <th rowspan="1" colspan="1">
 <p>Year</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chingay Community Engagement Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art Installation @ F1 Pit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Watercolour Society (SWS) Junior Watercolour Painting Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Most Participants Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Children &amp; Youth Online Art Contest
+<br>儿童及青年线上绘画比赛</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> place recipient: Teo Zhi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Darlie Bunny Kids Colouring Contest</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 3 Recipient: Teo Zhi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Staedtler World Kids Colouring
+<br>Day Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Place Recipient: Teo Zhi Xuan
+<br>
+<br>Certificate of Participation:
+<br>- Charlene Kuniawan
+<br>- Nicole Kuniawan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LTA Community Placemaking
+<br>Project Art Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 3 Winners:
+<br>1<sup>st</sup> - Teo Zhi Xuan
+<br>2<sup>nd</sup> – Ayra Aisya Bte Nazrul
+<br>3<sup>rd</sup> - Kesaraneni Devi Sravanthi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SOTA Primary 6 Art Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JQA International Environment
+<br>Children's Drawing Contest</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation
+<br>Nicole Kuniawan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Staedtler Graphite Diaries Singapore Heritage - Charcoal Drawing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation
+<br>Teo Zhi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nationwide Drawing Contest (November)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner up Recipient
+<br>Teo Zhi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nationwide Drawing Contest (December)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Runner up Recipient
+<br>Teo Zhi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Planetopia International Children &amp; Youth Visual Art Competition
+<br><em>Theme: Sustainable Ocean Sustainable Future</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Emerging Talent Award
+<br>Teo Zhi Xuan</p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -314,7 +476,40 @@ Contest</p>
 <p></p>
 <h4>Gallery</h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/1a__SYF_Category_A_Kampung_Coffeeshop.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SYF_Category A_Kampung Coffeeshop" src="/images/CCA/Art &amp; Craft Club/1a__SYF_Category_A_Kampung_Coffeeshop.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SYF_Category A_Kampung Coffeeshop</div><div class="isomer-card-link">Click to view</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Children_and_Youth_Online_Art_Contest.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Children &amp; Youth Online Art Contest" src="/images/CCA/Art &amp; Craft Club/Children_and_Youth_Online_Art_Contest.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Children &amp; Youth Online Art Contest</div><div class="isomer-card-description">儿童及青年线上绘画比赛</div><div class="isomer-card-link">Click to View</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Darlie_Bunny_Kids_Colouring_Contest.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Darlie Bunny Kids Colouring Contest" src="/images/CCA/Art &amp; Craft Club/Darlie_Bunny_Kids_Colouring_Contest.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Darlie Bunny Kids Colouring Contest</div>
+<div class="isomer-card-link">Click to View</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/JQA_International_Environment_Children_s_Drawing_Contest" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="JQA International Environment" src="/images/CCA/Art &amp; Craft Club/JQA_International_Environment_Children_s_Drawing_Contest.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">JQA International Environment</div><div class="isomer-card-description">Children's Drawing Contest</div><div class="isomer-card-link">Click to View</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/National_Drawing_Contest_December.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Nationwide Drawing Contest (December)" src="/images/CCA/Art &amp; Craft Club/Nationwide_Drawing_Contest_December.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Nationwide Drawing Contest (December)</div>
+<div class="isomer-card-link">Click to View</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/National_Drawing_Contest_November.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Nationwide Drawing Contest (November)" src="/images/CCA/Art &amp; Craft Club/Nationwide_Drawing_Contest_November.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Nationwide Drawing Contest (November)</div><div class="isomer-card-link">Click to View</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Planetopia_International_Children_and_Youth_Visual_Art_Competition.jpg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Planetopia International Children &amp; Youth Visual Art Competition" src="/images/CCA/Art &amp; Craft Club/Planetopia_International_Children_and_Youth_Visual_Art_Competition.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Planetopia International Children &amp; Youth Visual Art Competition</div>
+<div class="isomer-card-link">Click to View</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/1a__SYF_Category_A_Kampung_Coffeeshop.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SYF_Category A_Kampung Coffeeshop" src="/images/CCA/Art &amp; Craft Club/1a__SYF_Category_A_Kampung_Coffeeshop.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SYF_Category A_Kampung Coffeeshop</div><div class="isomer-card-link">Click to view</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/1b__SYF_Category_B_Plastic_Fishes.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -360,7 +555,23 @@ Contest</p>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/URA_LTPR_Art_Competition__1_.JPG" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="URA LTPR Art Competition" src="/images/CCA/Art &amp; Craft Club/URA_LTPR_Art_Competition__1_.JPG"></div></div><div class="isomer-card-body"><div class="isomer-card-title">URA LTPR Art Competition</div><div class="isomer-card-link">Click to view</div></div></a>
 </div>
-<hr>
+<p></p>
+<h4>Chingay Community Engagement Programme</h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1qKgI9RCTmA9KQIg0aucEkD6SSGIKrwhbZ38k7bD-0-Y/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YUoPkTnkT9I?si=IdYPjKYGcgc7tBEq"></iframe>
+</div>
+<h4>Singapore Watercolour Society (SWS) Junior Watercolour Painting Competition</h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1SiCIydG41jxFd7_RejpwQ3V2J7TOIh5THDv7Tsk95B4/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<h4>Staedtler World Kids Colouring Day Competition</h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/11-Tt0MxLNS_1HFE4NSOhXkABsTbsE0AH4E9oP9KnSxI/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p></p>
 <h4>Chingay NE Community Engagement Programme</h4>
 <div class="iframe-wrapper">
