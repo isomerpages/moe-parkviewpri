@@ -72,10 +72,10 @@ trash into interesting works of art.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chingay Community Engagement Programme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Art Installation @ F1 Pit</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2024</p>
@@ -83,10 +83,10 @@ trash into interesting works of art.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Singapore Watercolour Society (SWS) Junior Watercolour Painting Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Most Participants Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2024</p>
@@ -185,7 +185,7 @@ trash into interesting works of art.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nationwide Drawing Contest (December)</p>
+<p>Nationwide Drawing Contest (November)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2nd Runner up Recipient
