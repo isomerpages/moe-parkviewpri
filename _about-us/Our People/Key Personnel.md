@@ -169,7 +169,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 82%;" height="225" width="175" alt="Miss Pamela See cropped.jpg" src="/images/ms%20pamela%20see%20yuen%20heng%20(1).JPG">
 </div>
-<p>Miss Pamela See
+<p>Ms Pamela See
 <br>AYH (upper primary)
 <br><a href="mailto:see_yuen_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">see_yuen_heng<br>@schools.gov.sg</a> 
 <br>
