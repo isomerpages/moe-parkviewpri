@@ -631,11 +631,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Faizah
-<br>Mr Muslim</p>
+<br>Mrs Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="Nur_Faizah_Abdan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_faizah_abdan@schools.gov.sg</a>
-<br><a href="muslim_mohamed_amin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muslim_mohamed_amin@schools.gov.sg</a>
+<br><a href="quek_shi_rui@schools.gov.sg" rel="noopener nofollow" target="_blank">quek_shi_rui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
