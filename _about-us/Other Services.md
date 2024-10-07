@@ -39,7 +39,7 @@ and dental treatment is provided as well.</p>
 <p></p>
 <p></p>
 <p></p>
-<h4>Dental Clinic's Schedule for September 2024</h4>
+<h4>Dental Clinic's Schedule for October 2024</h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
