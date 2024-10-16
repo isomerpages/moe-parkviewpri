@@ -7,7 +7,11 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2024 Info for P1/p1__y2024__orientation_slides.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1 Orientation 2024</a>
+<p><a href="https://go.gov.sg/pvps-y2025-p1-orientation" rel="noopener nofollow" target="_blank">Y2025 P1 Orientation</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Things_to_bring_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Things to Bring 2025</a>
 </p>
 </li>
 <li>
