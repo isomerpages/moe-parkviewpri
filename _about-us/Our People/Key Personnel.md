@@ -258,11 +258,11 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="225" width="175" alt="Mrs Helen Chong.jpg" src="/images/mrs%20helen%20chong-low.JPG">
+<img style="width: 55%;" height="225" width="175" alt="Mrs Helen Chong.jpg" src="/images/mrs%20helen%20chong-low.JPG">
 </div>
 <p>Mrs Chong Helen Low
 <br>LT - PE
-<br><a href="mailto:helen_low_kwee_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helen_low_kwee<br>@schools.gov.sg</a>
+<br><a href="mailto:helen_low_kwee_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helen_low_kwee_fong@schools.gov.sg</a>
 </p>
 <p></p>
 </th>
@@ -289,7 +289,7 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="225" width="175" alt="MdmHanim.jpeg" src="/images/mdm%20norhanim%20bte%20hashim.JPG">
+<img style="width: 55%;" height="225" width="175" alt="MdmHanim.jpeg" src="/images/mdm%20norhanim%20bte%20hashim.JPG">
 </div>
 <p>
 <br>Mdm Norhanim
