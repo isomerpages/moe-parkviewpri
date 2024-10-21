@@ -260,7 +260,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 55%;" height="225" width="175" alt="Mrs Helen Chong.jpg" src="/images/mrs%20helen%20chong-low.JPG">
 </div>
-<p>Mrs Chong Helen Low
+<p>Mrs Helen Chong
 <br>LT - PE
 <br><a href="mailto:helen_low_kwee_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helen_low_kwee_fong@schools.gov.sg</a>
 </p>
