@@ -32,7 +32,7 @@ learning which promotes higher order thinking skills</p>
 <p>Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Teaching Levels (Year 2023)</p>
+<p>Teaching Levels (Year 2024)</p>
 </th>
 </tr>
 <tr>
