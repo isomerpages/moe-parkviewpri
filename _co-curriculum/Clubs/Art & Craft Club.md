@@ -72,6 +72,54 @@ trash into interesting works of art.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>16<sup>th</sup> Singapore Watercolour Society (SWS) Junior Watercolour
+Competition 2024&nbsp;</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Most Participation Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LTA Traffic Sign Design Competition</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of participation&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Edupod Children's Art Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Award: Teo Zhi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ViaRT Art Competition&nbsp;</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Chingay Community Engagement Programme</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -392,7 +440,17 @@ Contest</p>
 <p></p>
 <h4>Gallery</h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Children_and_Youth_Online_Art_Contest.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Children &amp; Youth Online Art Contest" src="/images/CCA/Art &amp; Craft Club/Children_and_Youth_Online_Art_Contest.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Children &amp; Youth Online Art Contest</div><div class="isomer-card-description">儿童及青年线上绘画比赛</div><div class="isomer-card-link">Click to View</div></div></a>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Edupod Children's Art Competition 2024_Teo Zhixuan_Gold Award" src="/images/CCA/Art &amp; Craft Club/Edupod_Children_s_Art_Competition_2024_Teo_Zhixuan_Gold_Award.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Edupod Children's Art Competition 2024_Teo Zhixuan_Gold Award</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Children_and_Youth_Online_Art_Contest.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Children &amp; Youth Online Art Contest" src="/images/CCA/Art &amp; Craft Club/Children_and_Youth_Online_Art_Contest.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Children &amp; Youth Online Art Contest</div><div class="isomer-card-description">儿童及青年线上绘画比赛</div><div class="isomer-card-link">Click to View</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Darlie_Bunny_Kids_Colouring_Contest.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -472,6 +530,14 @@ Contest</p>
 </a><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/URA_LTPR_Art_Competition__1_.JPG" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="URA LTPR Art Competition" src="/images/CCA/Art &amp; Craft Club/URA_LTPR_Art_Competition__1_.JPG"></div></div><div class="isomer-card-body"><div class="isomer-card-title">URA LTPR Art Competition</div><div class="isomer-card-link">Click to view</div></div></a>
 </div>
 <p></p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pfLreLyxsx8?si=kPzWw0A7ZxDsZY2o"></iframe>
+</div>
+<h4>ViaRT Award Competition</h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WHqw2Y_t71w?si=JiGc6oMLUYIBudNs"></iframe>
+</div>
 <h4>Chingay Community Engagement Programme</h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1qKgI9RCTmA9KQIg0aucEkD6SSGIKrwhbZ38k7bD-0-Y/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
