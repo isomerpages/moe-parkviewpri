@@ -72,6 +72,54 @@ trash into interesting works of art.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>16<sup>th</sup> Singapore Watercolour Society (SWS) Junior Watercolour
+Competition 2024&nbsp;</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Most Participation Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LTA Traffic Sign Design Competition</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of participation&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Edupod Children's Art Competition 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Award: Teo Zhi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ViaRT Art Competition&nbsp;</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Chingay Community Engagement Programme</p>
 </td>
 <td rowspan="1" colspan="1">
