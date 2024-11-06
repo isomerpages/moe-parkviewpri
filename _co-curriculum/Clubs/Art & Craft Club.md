@@ -440,7 +440,17 @@ Contest</p>
 <p></p>
 <h4>Gallery</h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Children_and_Youth_Online_Art_Contest.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Children &amp; Youth Online Art Contest" src="/images/CCA/Art &amp; Craft Club/Children_and_Youth_Online_Art_Contest.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Children &amp; Youth Online Art Contest</div><div class="isomer-card-description">儿童及青年线上绘画比赛</div><div class="isomer-card-link">Click to View</div></div></a>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Edupod Children's Art Competition 2024_Teo Zhixuan_Gold Award" src="/images/CCA/Art &amp; Craft Club/Edupod_Children_s_Art_Competition_2024_Teo_Zhixuan_Gold_Award.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Edupod Children's Art Competition 2024_Teo Zhixuan_Gold Award</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Children_and_Youth_Online_Art_Contest.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Children &amp; Youth Online Art Contest" src="/images/CCA/Art &amp; Craft Club/Children_and_Youth_Online_Art_Contest.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Children &amp; Youth Online Art Contest</div><div class="isomer-card-description">儿童及青年线上绘画比赛</div><div class="isomer-card-link">Click to View</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Darlie_Bunny_Kids_Colouring_Contest.jpg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
