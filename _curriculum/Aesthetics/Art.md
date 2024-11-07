@@ -161,10 +161,6 @@ activity to National Day Celebration.</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" alt="" src="/images/Curriculum/Aesthetics/Art/2022–LargestDisplayofStringArt.jpg">
 </div>
-<h4>2021 - Largest Bread Tag Mural</h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4Vt9O4I6YXk"></iframe>
-</div>
 <p>
 <br>
 </p>
