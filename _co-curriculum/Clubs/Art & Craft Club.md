@@ -541,10 +541,6 @@ Contest</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/h_pTjPZHLg8?si=MVKGtMVA0I1yzKRy"></iframe>
 </div>
-<h4>P6 Dragon Kiln LJ Photo Montage 2024</h4>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9OoTF_0g4Nc?si=kBoGqeyULJAor-Z2"></iframe>
-</div>
 <h4>ViaRT Award Competition</h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WHqw2Y_t71w?si=JiGc6oMLUYIBudNs"></iframe>
