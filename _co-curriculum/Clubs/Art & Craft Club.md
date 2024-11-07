@@ -530,9 +530,13 @@ Contest</p>
 </a><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/URA_LTPR_Art_Competition__1_.JPG" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="URA LTPR Art Competition" src="/images/CCA/Art &amp; Craft Club/URA_LTPR_Art_Competition__1_.JPG"></div></div><div class="isomer-card-body"><div class="isomer-card-title">URA LTPR Art Competition</div><div class="isomer-card-link">Click to view</div></div></a>
 </div>
 <p></p>
-<p></p>
+<h4>PVPS x TMJC x LTA</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pfLreLyxsx8?si=kPzWw0A7ZxDsZY2o"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4IqfBwWOOJw?si=XjcHGa6qXYtskS8v"></iframe>
+</div>
+<h4>P6 Dragon Kiln LJ Photo Montage 2024</h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9OoTF_0g4Nc?si=kBoGqeyULJAor-Z2"></iframe>
 </div>
 <h4>ViaRT Award Competition</h4>
 <div class="iframe-wrapper">
