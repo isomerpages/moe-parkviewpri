@@ -2,7 +2,7 @@
 title: SLC
 permalink: /curriculum/cce/pupil-leadership/slc/
 description: ""
-third_nav_title: Pupil Leadership
+third_nav_title: Student Leadership
 variant: markdown
 ---
 <h4>SLC Pledge</h4>
