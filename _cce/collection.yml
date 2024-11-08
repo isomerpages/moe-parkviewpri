@@ -2,9 +2,9 @@ collections:
   cce:
     output: true
     order:
-      - Pupil Leadership/Training & Development.md
-      - Pupil Leadership/SLC.md
-      - Pupil Leadership/.keep
+      - Student Leadership/Training & Development.md
+      - Student Leadership/SLC.md
+      - Student Leadership/.keep
       - Character Development/Values in Practice (VIP) Programme.md
       - Character Development/CCE Form Teacher Guidance Period.md
       - Character Development/.keep
