@@ -39,7 +39,7 @@ and dental treatment is provided as well.</p>
 <p></p>
 <p></p>
 <p></p>
-<h4>Dental Clinic's Schedule for October 2024</h4>
+<h4>Dental Clinic's Schedule for November 2024</h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -76,106 +76,117 @@ and dental treatment is provided as well.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>1 </strong>
-<br><strong>OCTOBER<br></strong>OPEN 8AM TO 5.30PM</p>
+<br><strong>NOVEMBER<br></strong>OPEN 8AM TO 5PM</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><strong>2 </strong>
-<br><strong>OCTOBER<br></strong>OPEN 8AM TO 5.30PM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>3 OCTOBER<br></strong>OPEN 8AM TO 5.30PM</p>
-</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>4 </strong>
-<br><strong>OCTOBER<br>CLOSED</strong>
+<br><strong>NOVEMBER<br>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>5</strong>
+<br><strong>NOVEMBER<br>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>6 </strong>
+<br><strong>NOVEMBER<br>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>7 </strong>
+<br><strong>NOVEMBER<br>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>8</strong>
+<br><strong>NOVEMBER<br></strong>OPEN 8AM TO 5PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1 1</strong>
+<br><strong>NOVEMBER<br></strong>OPEN 8AM TO 5PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>12</strong>
+<br><strong>NOVEMBER<br></strong>OPEN 8AM TO 5PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>13</strong>
+<br><strong>NOVEMBER<br></strong>OPEN 8AM TO 5PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>14 </strong>
+<br><strong>NOVEMBER<br>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>15</strong>
+<br><strong>NOVEMBER<br>CLOSED</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>7 OCTOBER<br>CLOSED</strong>
+<p><strong>18 </strong>
+<br><strong>NOVEMBER<br>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>8 OCTOBER<br>CLOSED</strong>
+<p><strong>19</strong>
+<br><strong>NOVEMBER<br>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>9 </strong>
-<br><strong>OCTOBER<br>CLOSED</strong>
+<p><strong>20 </strong>
+<br><strong>NOVEMBER<br>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>10 OCTOBER<br>CLOSED</strong>
+<p><strong>21 </strong>
+<br><strong>NOVEMBER<br>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>11 OCTOBER<br>CLOSED</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>14 OCTOBER<br>CLOSED</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>15 OCTOBER<br>CLOSED</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>16</strong>
-<br><strong>OCTOBER<br>CLOSED</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>17 OCTOBER<br></strong>OPEN 8AM TO 5.30PM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>18 OCTOBER<br></strong>OPEN 8AM TO 5.30PM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>21 OCTOBER<br>CLOSED</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>22 OCTOBER<br>CLOSED</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>23 </strong>
-<br><strong>OCTOBER<br>CLOSED</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>24 OCTOBER<br>CLOSED</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>25 OCTOBER<br>CLOSED</strong>
+<p><strong>22 </strong>
+<br><strong>NOVEMBER<br>CLOSED</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>28 OCTOBER<br></strong>OPEN 8AM TO 5.30PM</p>
+<p><strong>25 </strong>
+<br><strong>NOVEMBER<br></strong>OPEN 8AM TO 5PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>29 OCTOBER<br></strong>OPEN 8AM TO 5.30PM</p>
+<p><strong>26</strong>
+<br><strong>NOVEMBER<br></strong>OPEN 8AM TO 5.30PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>30 </strong>
-<br><strong>OCTOBER<br></strong>OPEN 8AM TO 5.30PM</p>
+<p><strong>27 </strong>
+<br><strong>NOVEMBER<br></strong>OPEN 8AM TO 5PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>31 OCTOBER<br>CLOSED</strong>
+<p><strong>28</strong>
+<br><strong>NOVEMBER<br></strong>OPEN 8AM TO 5.30PM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>29 </strong>
+<br><strong>NOVEMBER<br>CLOSED</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>1 NOVEMBER<br></strong>OPEN 8AM TO 5.30PM</p>
 </td>
 </tr>
 </tbody>
