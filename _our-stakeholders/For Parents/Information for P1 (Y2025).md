@@ -1,6 +1,6 @@
 ---
-title: Information for P1 (Y2024)
-permalink: /our-stakeholders/information-for-p1-y2024/
+title: Information for P1 (Y2025)
+permalink: /our-stakeholders/information-for-p1-y2025/
 description: ""
 third_nav_title: For Parents
 variant: tiptap
@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Things_to_bring_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Things to Bring 2025</a>
+<p><a href="https://go.gov.sg/things-to-bring-2025" rel="noopener nofollow" target="_blank">Thanks to Bring 2025</a>
 </p>
 </li>
 <li>
