@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Things_to_bring_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Things to Bring 2025</a>
+<p><a href="https://go.gov.sg/things-to-bring-2025" rel="noopener nofollow" target="_blank">Thanks to Bring 2025</a>
 </p>
 </li>
 <li>
