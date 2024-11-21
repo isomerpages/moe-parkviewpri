@@ -161,10 +161,6 @@ activity to National Day Celebration.</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" alt="" src="/images/Curriculum/Aesthetics/Art/2022–LargestDisplayofStringArt.jpg">
 </div>
-<h4><br>P6 Dragon Kiln LJ Photo Montage 2024</h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9OoTF_0g4Nc?si=kBoGqeyULJAor-Z2"></iframe>
-</div>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AmIcJCh9Ad0"></iframe>
