@@ -41,7 +41,8 @@ trash into interesting works of art.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Tuesdays</u></strong> 
 <br>School Team
-<br>3.30 pm – 5.00 pm
+<br>3.30 pm – 5.30 pm (Semester 1)</p>
+<p>3.30 pm – 5.00 pm (Semester 2)
 <br>Art Room 1
 <br><strong><u>Fridays</u></strong> 
 <br>7.30 am – 9.00 am (All members)
@@ -124,17 +125,6 @@ Competition 2024&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art Installation @ F1 Pit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore Watercolour Society (SWS) Junior Watercolour Painting Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Most Participants Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2024</p>
