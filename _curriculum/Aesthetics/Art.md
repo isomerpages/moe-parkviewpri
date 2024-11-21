@@ -37,12 +37,7 @@ of art making techniques and skills.</p>
 <img style="width:90%" height="auto" width="100%" alt="Digital Art Programmes" src="/images/Curriculum/Aesthetics/Art/DigitalArtProgrammes.jpg">
 </div>
 <p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" alt="" src="/images/Curriculum/Aesthetics/Art/DigitalArtProgrammes_1.jpg">
-</div>
-<h4>Excursion</h4>
+<br>Excursion</p>
 <p>The school expands and extends the learning environment of the students
 beyond the classrooms by bringing them to visit museums, galleries, and
 theatres.</p>
