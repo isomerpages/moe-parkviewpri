@@ -130,6 +130,10 @@ environment whereby they are given clay to create their own artworks.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9OoTF_0g4Nc?si=Evpkfy_2iGC5EJKl"></iframe>
 </div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bHMRgXJKcBU?si=5bNMO8mK-L8TXYgj"></iframe>
+</div>
 <h4>Excellence</h4>
 <p>Students celebrate their artistic efforts and achievements through Internal
 and external art exhibitions, projects, performances, competitions and
