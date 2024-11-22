@@ -353,3 +353,171 @@ schools’ 3R efforts.</p>
 </tbody>
 </table>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4>Peer Support Leaders</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers-in-charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Pamela See, Mr Lee Eng Tiong, Miss Lee Siew Kiang, Mdm Patricia Yeo.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>About Us</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A Peer Support Leader serves as a cornerstone in nurturing a strong, inclusive
+school culture. By actively fostering connections, they help students feel
+valued and integrated into the wider school community. They offer both
+practical assistance and socio-emotional support, whether it’s helping
+peers navigate academic pressures or providing a listening ear during personal
+struggles. Their role extends beyond support—they are catalysts for positive
+change, influencing mindsets and behaviors that promote kindness, respect,
+and perseverance. As advocates for well-being, they embody the qualities
+of good character, leading by example and promoting mental, emotional,
+and social health. Peer Support Leaders are crucial in building resilience,
+not only within themselves but also among their peers, instilling a sense
+of solidarity and shared responsibility in tackling both personal and collective
+challenges within the school.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Gallery</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4>CCA Leaders</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers-in-charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chua Chun Wei
+<br>Mr Azmi Bin Kasim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>About Us</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Healthy living promotion is the goal of CCA leaders in schools. They take
+an active part in school activities including the P1 orientation program,
+lead the school in Active Friday workout, and help teachers oversee Play@Recess
+every day at different locations. They also played an essential role in
+raising awareness of the value of health during Healthy Lifestyle Week.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Gallery</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h3><strong>Leadership for Key Leaders</strong></h3>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Key Leaders</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Introduction</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leadership for Key Leaders is tailored for selected SLC leaders who exhibit
+exceptional leadership potential.</p>
+<p>&nbsp;They assume significant roles in advancing causes within and beyond
+the school environment.</p>
+<p>These students typically engage in high-impact initiatives, such as planning
+Values-in-Action (VIA) projects using Design Thinking, collaborating with
+external partners like the Cerebral Palsy Alliance Singapore (CPAS), and
+implementing suggestions gathered through the Active Contributor Programme
+(ACP).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers-in-charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 – Mrs Julie Ling
+<br>P5 – Ms Pamela See, Ms Kimberly Aeria
+<br>P6 – Mrs Ong &amp; Mrs Celine Lim&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Gallery</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h3>Conclusion</h3>
+<p>A whole-school approach to PVPS Student Leadership Development Programme,
+encompassing the three tiers of Leadership for All, Leadership for the
+Student Leadership Council, and Leadership for Key Leaders, ensures that
+leadership development is both inclusive and impactful. By integrating
+differentiated training, maintaining a student-centric focus, emphasizing
+core values, and adopting a developmental and spiral curriculum, the school
+can effectively nurture leadership qualities at all levels. This approach
+not only enhances student engagement and personal growth but also contributes
+to a more vibrant and effective school community.</p>
+<p>&nbsp;</p>
+<p></p>
