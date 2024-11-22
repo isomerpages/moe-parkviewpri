@@ -272,7 +272,8 @@ schools’ 3R efforts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teachers-in-charge</p>
+<p><strong>Teachers-in-charge</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sherylene Soh and Mdm Norhanim</p>
@@ -280,7 +281,8 @@ schools’ 3R efforts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>About Us</p>
+<p><strong>About Us</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Reading Ambassadors promote a love of reading across the school by conducting Book Talks and Storytelling during assemblies, supporting reading events like the Library Fiesta, and serving as reading buddies to younger students and the community. They inspire a culture of literary enjoyment, encouraging peers to explore new books and helping younger students develop their reading skills.</em>
@@ -289,10 +291,63 @@ schools’ 3R efforts.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Gallery</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCE FTGP/Morning_Briefing_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCE FTGP/WhatsApp_Image_2024_09_20_at_9_28_14_AM__1_.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCE FTGP/WhatsApp_Image_2024_07_30_at_11_41_54_AM__1_.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCE FTGP/WhatsApp_Image_2024_11_12_at_10_48_45_AM__1_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCE FTGP/Group_Photo_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 </td>
 </tr>
 </tbody>
