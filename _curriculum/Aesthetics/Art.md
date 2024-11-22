@@ -37,12 +37,7 @@ of art making techniques and skills.</p>
 <img style="width:90%" height="auto" width="100%" alt="Digital Art Programmes" src="/images/Curriculum/Aesthetics/Art/DigitalArtProgrammes.jpg">
 </div>
 <p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" alt="" src="/images/Curriculum/Aesthetics/Art/DigitalArtProgrammes_1.jpg">
-</div>
-<h4>Excursion</h4>
+<br>Excursion</p>
 <p>The school expands and extends the learning environment of the students
 beyond the classrooms by bringing them to visit museums, galleries, and
 theatres.</p>
@@ -229,33 +224,7 @@ artwork.</p>
 </div>
 <h4><em><u>Achievement Singapore Youth Festivl (SYF) Arts Presentation &amp; Exhibition</u></em></h4>
 <p></p>
-<p><strong><em>2021: Category B - Certificate of Recognition</em></strong>
-</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" alt="" src="/images/Curriculum/Aesthetics/Art/CategoryBCertificateofRecognition.png">
-</div>
-<p></p>
-<p><strong><em>2019: Category A – Certificate of Recognition</em></strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" alt="" src="/images/Curriculum/Aesthetics/Art/CategoryCCertificateofParticipationArtistTalk.png">
-</div>
-<p></p>
-<p><strong><em>2019: Category B - Certificate of Participation</em></strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" alt="" src="/images/Curriculum/Aesthetics/Art/CategoryC.png">
-</div>
-<p></p>
-<p><strong><em>2019: Category C – Certificate of Recognition (Special Mention)</em></strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" alt="" src="/images/Curriculum/Aesthetics/Art/CategoryCCertificateofRecognitionSpecial Mention.png">
-</div>
 <h4><em>Youth Illustrator Awards (Season 7)</em></h4>
 <p><em>Rasleen Kaur Khaira of class 4A was one of the Top 6 Finalist in the Young Illustrator Awards. Out of 1300 submissions under the Primary School category, Rasleen came in 4th in this national competition. Working on the given theme ‘Explorer’, Rasleen created a captivating painting entitled “Autumn Is Here”; an artwork inspired by Vincent Van Gogh’s impasto technique.</em>
 </p>
