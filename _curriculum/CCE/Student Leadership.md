@@ -77,7 +77,7 @@ skills.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Prefects</p>
+<h4>Prefects</h4>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -170,6 +170,8 @@ atmosphere, showcasing the pride and dedication of PVPS students.</p>
 </tbody>
 </table>
 <p></p>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -178,7 +180,7 @@ atmosphere, showcasing the pride and dedication of PVPS students.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Eco Ambassadors</p>
+<h4>Eco Ambassadors</h4>
 </th>
 </tr>
 <tr>
@@ -201,7 +203,6 @@ is dedicated to spread awareness and educate the school in environmental
 issues as well as making meaningful contribution to saving the Earth.</p>
 <p>The Green ambassadors seek to work on Green Projects and spearhead the
 schools’ 3R efforts.</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -219,14 +220,14 @@ schools’ 3R efforts.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCE FTGP/WhatsApp_Image_2024_11_20_at_9_40_44_AM.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCE FTGP/WhatsApp_Image_2024_11_20_at_9_40_44_AM.jpg">
 </div>
 </th>
 </tr>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCE FTGP/Eco_Ambassadors_whole_group.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCE FTGP/Eco_Ambassadors_whole_group.jpg">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
@@ -237,7 +238,7 @@ schools’ 3R efforts.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCE FTGP/WhatsApp_Image_2024_11_20_at_9_39_29_AM.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCE FTGP/WhatsApp_Image_2024_11_20_at_9_39_29_AM.jpg">
 </div>
 </td>
 </tr>
@@ -246,13 +247,44 @@ schools’ 3R efforts.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCE FTGP/Eco_Ambassadors_whole_group__2_.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCE FTGP/Eco_Ambassadors_whole_group__2_.jpg">
 </div>
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4>Reading Ambassadors</h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teachers-in-charge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sherylene Soh and Mdm Norhanim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>About Us</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Reading Ambassadors promote a love of reading across the school by conducting Book Talks and Storytelling during assemblies, supporting reading events like the Library Fiesta, and serving as reading buddies to younger students and the community. They inspire a culture of literary enjoyment, encouraging peers to explore new books and helping younger students develop their reading skills.</em>
+</p>
 </td>
 </tr>
 </tbody>
