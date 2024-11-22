@@ -170,3 +170,91 @@ atmosphere, showcasing the pride and dedication of PVPS students.</p>
 </tbody>
 </table>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Eco Ambassadors</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers-in-charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zahrah, Miss Charlene Lee &amp; Mdm Natalie Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>About Us</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Eco Ambassadors focus is environmental conservation.&nbsp; The Council
+is dedicated to spread awareness and educate the school in environmental
+issues as well as making meaningful contribution to saving the Earth.</p>
+<p>The Green ambassadors seek to work on Green Projects and spearhead the
+schools’ 3R efforts.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Gallery</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCE FTGP/WhatsApp_Image_2024_11_20_at_9_40_44_AM.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCE FTGP/Eco_Ambassadors_whole_group.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCE FTGP/WhatsApp_Image_2024_11_20_at_9_39_29_AM.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCE FTGP/Eco_Ambassadors_whole_group__2_.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
