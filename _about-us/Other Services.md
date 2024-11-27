@@ -34,12 +34,8 @@ and dental treatment is provided as well.</p>
 </tbody>
 </table>
 <p></p>
+<h4>Dental Clinic's Schedule for December 2024</h4>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<h4>Dental Clinic's Schedule for November 2024</h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -73,119 +69,129 @@ and dental treatment is provided as well.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>1 </strong>
-<br><strong>NOVEMBER<br></strong>OPEN 8AM TO 5PM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>4 </strong>
-<br><strong>NOVEMBER<br>CLOSED</strong>
+<p><strong>2 DEC</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>5</strong>
-<br><strong>NOVEMBER<br>CLOSED</strong>
+<p><strong>3 DEC</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>6 </strong>
-<br><strong>NOVEMBER<br>CLOSED</strong>
+<p><strong>4 DEC</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>7 </strong>
-<br><strong>NOVEMBER<br>CLOSED</strong>
+<p><strong>5 DEC</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>8</strong>
-<br><strong>NOVEMBER<br></strong>OPEN 8AM TO 5PM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>1 1</strong>
-<br><strong>NOVEMBER<br></strong>OPEN 8AM TO 5PM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>12</strong>
-<br><strong>NOVEMBER<br></strong>OPEN 8AM TO 5PM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>13</strong>
-<br><strong>NOVEMBER<br></strong>OPEN 8AM TO 5PM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>14 </strong>
-<br><strong>NOVEMBER<br>CLOSED</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>15</strong>
-<br><strong>NOVEMBER<br>CLOSED</strong>
+<p><strong>6 DEC</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>18 </strong>
-<br><strong>NOVEMBER<br>CLOSED</strong>
-</p>
+<p><strong>9 DEC</strong>
+<br>OPEN 8AM TO 5PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>19</strong>
-<br><strong>NOVEMBER<br>CLOSED</strong>
-</p>
+<p><strong>10 DEC</strong>
+<br>OPEN 8AM TO 5.30PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>20 </strong>
-<br><strong>NOVEMBER<br>CLOSED</strong>
-</p>
+<p><strong>11 DEC</strong>
+<br>OPEN 8AM TO 5PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>21 </strong>
-<br><strong>NOVEMBER<br>CLOSED</strong>
-</p>
+<p><strong>12 DEC</strong>
+<br>OPEN 8AM TO 5.30PM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>22 </strong>
-<br><strong>NOVEMBER<br>CLOSED</strong>
+<p><strong>13 DEC</strong>
+<br><strong>CLOSED</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>25 </strong>
-<br><strong>NOVEMBER<br></strong>OPEN 8AM TO 5PM</p>
+<p><strong>16 DEC</strong>
+<br><strong>CLOSED</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>26</strong>
-<br><strong>NOVEMBER<br></strong>OPEN 8AM TO 5.30PM</p>
+<p><strong>17 DEC</strong>
+<br><strong>CLOSED</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>27 </strong>
-<br><strong>NOVEMBER<br></strong>OPEN 8AM TO 5PM</p>
+<p><strong>18 DEC</strong>
+<br><strong>CLOSED</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>28</strong>
-<br><strong>NOVEMBER<br></strong>OPEN 8AM TO 5.30PM</p>
+<p><strong>19 DEC</strong>
+<br><strong>CLOSED</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>29 </strong>
-<br><strong>NOVEMBER<br>CLOSED</strong>
+<p><strong>20 DEC</strong>
+<br><strong>CLOSED</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>23 DEC</strong>
+<br><strong>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>24 DEC</strong>
+<br><strong>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>25 DEC</strong>
+<br><strong>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>26 DEC</strong>
+<br><strong>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>27 DEC</strong>
+<br><strong>CLOSED</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>30 DEC</strong>
+<br><strong>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>31 DEC</strong>
+<br><strong>CLOSED</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
 </p>
 </td>
 </tr>
