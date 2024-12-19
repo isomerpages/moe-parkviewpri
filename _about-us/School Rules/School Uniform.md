@@ -5,187 +5,124 @@ description: ""
 third_nav_title: School Rules
 variant: tiptap
 ---
-<h3>School Uniform and Others</h3>
-<h4>School Uniform</h4>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/About%20Us/School%20Uniform%20and%20Others/Uniform_Boy.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/About%20Us/School%20Uniform%20and%20Others/Uniform_Girl.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Students are to wear the prescribed school uniform.</p>
-</li>
-<li>
-<p>Any modification to the uniform is not allow.</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>PE Attire</h4>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/About%20Us/School%20Uniform%20and%20Others/PE_Boy.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/About%20Us/School%20Uniform%20and%20Others/PE-Girl.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>PE attires should be worn on days that the class have PE and PAL lessons.
-PE T-shirts must be tucked in and buttoned up.</p>
-</li>
-<li>
-<p>On Fridays, P1 &amp; P2 students are to wear their PE attires while P3-P6
-students are to wear their CCA T-shirts/attire.</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>Name Tag</h4>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<h3><strong>Attire and Appearance</strong></h3>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/uniform.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/School Uniform and Others/Picture1.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PE.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
+<h4><strong>Attire</strong></h4>
+<ol data-tight="true" class="tight">
 <li>
-<p>Name tags must be sewn above the school crest for the school uniform and
-PE or CCA T-shirts.</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>Footwear</h4>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/About%20Us/School%20Uniform%20and%20Others/Footwear_1.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/About%20Us/School%20Uniform%20and%20Others/Footwear_2.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" src="/images/About%20Us/School%20Uniform%20and%20Others/Footwear_3.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<ul data-tight="true" class="tight">
-<li>
-<p>Students are to wear <strong>all-white</strong> or PVPS socks (sale in school
-bookshop). The length of the socks must be at least 7 cm above the shoes.</p>
+<p>Students must wear the prescribed school uniform and PE attire without
+modifications. <s>&nbsp;</s>If students need to wear a jacket, sweater or
+cardigan, it must be plain and in approved colors (white, black, grey,
+blue, or dark green). Large logos, advertisements, or designs are not permitted.&nbsp;</p>
 </li>
 <li>
-<p>Students are to wear&nbsp;<strong>all black</strong>&nbsp;school shoes.
-Sports shoes may be worn on Friday, CCA day only.</p>
-</li>
-</ul>
-<h4>Personal Hygiene</h4>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/About%20Us/School%20Uniform%20and%20Others/Personal%20Hygiene.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Nails are clean and cut short.</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>Hair ~ Boy</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>No tinting, bleaching and colouring of hair are allowed for&nbsp;<strong>all</strong>&nbsp;students.</p>
+<p>Students must wear a name tag, which should be ironed on just above the
+school badge.</p>
 </li>
 <li>
-<p>Hair must be kept short and neat.</p>
+<p>Students must wear the school uniform or PE attire when returning to school
+outside regular hours.</p>
 </li>
 <li>
-<p>Hair must not touch the eyebrows, ears or collar.</p>
+<p>PE T-shirts must always be worn tucked in.</p>
 </li>
 <li>
-<p>No pierced ears are allowed.</p>
+<p>Students must wear either all-white socks or PVPS socks (sold in school
+bookshop)</p>
 </li>
 <li>
-<p>No outlandish hairstyles are allowed&nbsp;(e.g. spiky, punk, layered,
-shaved, tails).</p>
-</li>
-</ul>
-<h4>Hair ~ Girl</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>No tinting, bleaching and colouring of hair are allowed for&nbsp;<strong>all</strong> students.</p>
+<p>Socks should cover the ankles.</p>
 </li>
 <li>
-<p>Fringe must not be touching the eyebrows.</p>
+<p>Students are required to wear all-black school shoes.</p>
 </li>
 <li>
-<p>Hair beyond shoulder length must be plaited or tied up into one or two
-braids.</p>
+<p>Sport shoes may be worn on Fridays, and only for sports-related CCAs only.</p>
+</li>
+</ol>
+<h4><strong>Appearance</strong></h4>
+<p><strong>For Both Boys and Girls</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Hair should be kept neat and tidy, with the fringe trimmed above the eyebrows.</p>
 </li>
 <li>
-<p>Only black hair accessories are allowed.</p>
+<p>Dyeing of hair is not permitted.</p>
+<p></p>
+</li>
+</ol>
+<p><strong>For Boys</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Boys must always maintain a clean-shaven appearance. Beards, moustaches
+and<s> </s>sideburns are not permitted.</p>
 </li>
 <li>
-<p>No fanciful hairbands are allowed.</p>
+<p>Boys must maintain a neat and tidy hairstyle, with hair kept short and
+well-groomed.</p>
+</li>
+</ol>
+<p><strong>For Girls&nbsp;</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Girls with hair reaching shoulder level or longer are required to secure
+it neatly using approved hair accessories, such as hairbands, ribbons,
+or clips, in the approved colors of white, black, navy blue, or dark brown.<strong> </strong>Loose
+strands of hair must be neatly pinned up.&nbsp;</p>
+</li>
+</ol>
+<h4>&nbsp;<strong>Accessories&nbsp;</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Girls are permitted to wear a pair of simple, identical ear studs in gold
+or silver only. No outlandish earrings (e.g. hoops, dangling or cosmetic
+jewellery earrings) are allowed.</p>
 </li>
 <li>
-<p>One set of plain gold / silver studs may be worn on one ear hole of each
-ear. Other forms of piercing are not allowed.</p>
+<p>Students are not allowed to wear jewellery, necklaces, bracelets, personal
+adornments and cosmetics.</p>
 </li>
-</ul>
-<h4>Others</h4>
-<ul data-tight="true" class="tight">
+</ol>
+<p>&nbsp;</p>
+<h4><strong>Use of Communication or Smart Device</strong></h4>
+<p>Students are discouraged from bringing communication devices (such as
+mobile phones or smart watches with communication functions) to school
+as they can be a major distraction.</p>
+<p>If there are strong reasons for a student to bring a communication device
+to school, the following rules and regulations must be adhered to:</p>
+<ol data-tight="true" class="tight">
 <li>
-<p>No jewellery or any items of personal adornments are allowed.</p>
+<p>Mobile phones and smart devices must be switched off and be kept out of
+sight during school hours including recess, CCA and after-school programmes
+(e.g.&nbsp; supplementary / enrichment / remedial lessons).</p>
 </li>
-</ul>
+<li>
+<p>The use of communication device is strictly for communication purposes
+only in the school canteen and main gate after school hours. Video or audio
+recording and photography are not allowed within the school compound at
+all times.&nbsp;</p>
+</li>
+<li>
+<p>Students who use their communication devices inappropriately will have
+their devices confiscated.</p>
+</li>
+<li>
+<p>Students are responsible for the safekeeping of their own communication
+devices. The school will not be responsible for any loss or damage.</p>
+</li>
+</ol>
+<p></p>
+<p></p>
+<p></p>
+<hr>
+<p></p>
+<h4></h4>
 <p></p>
