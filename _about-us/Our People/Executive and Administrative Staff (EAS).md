@@ -129,7 +129,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Asleena Bte Abdul Hamid</p>
+<p>Mdm Asleena</p>
 </td>
 </tr>
 <tr>
@@ -139,12 +139,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ronnie Seu Kum Kwong</p>
+<p>Mdm Lee Bee Lan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Bee Lan</p>
+<p>Mdm Zaharina</p>
 </td>
 </tr>
 </tbody>
