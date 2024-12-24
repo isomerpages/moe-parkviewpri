@@ -18,24 +18,23 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="225" width="175" alt="Mr_Choo_Sing_Wee_3.jpg" src="/images/Our%20People/Key%20Personnel%20/Mr_Choo_Sing_Wee_4.jpg">
 </div>
-<p>Mr Choo Sing Wee
-<br>HOD - English
-<br><a href="mailto:choo_sing_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choo_sing_wee<br>@schools.gov.sg </a>
-<br>
+<p><strong>Mr Choo Sing Wee <br>HOD - English <br><a href="mailto:choo_sing_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choo_sing_wee<br>@schools.gov.sg </a><br></strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 87%;" height="225" width="175" alt="Mr_Tay_Lip_Seng_optimisedforweb.jpg" src="/images/mr%20tay%20lip%20seng.JPG">
 </div>
-<p>Mr Tay Lip Seng
-<br>HOD - Math
-<br><a href="mailto:tay_lip_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_lip_seng<br>@schools.gov.sg</a> 
-<br>
+<p><strong>Mr Tay Lip Seng <br>HOD - Math <br></strong><a href="mailto:tay_lip_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_lip_seng<br>@schools.gov.sg</a>  <strong><br></strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 95%;" height="225" width="175" alt="IMG_9053.JPG" src="/images/miss%20chua%20shuan%20kwee.JPG">
+</div>
+<p><strong>Miss Chua Shuan Kwee<br>HOD - SCI</strong>
+<br>School Staff Developer<strong><br></strong><a href="mailto:chua_shuan_kwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_shuan_kwee<br>@schools.gov.sg</a> 
+</p>
 </th>
 </tr>
 <tr>
@@ -92,14 +91,7 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 95%;" height="225" width="175" alt="IMG_9053.JPG" src="/images/miss%20chua%20shuan%20kwee.JPG">
-</div>
-<p>Miss Chua Shuan Kwee
-<br>School Staff Developer
-<br><a href="mailto:chua_shuan_kwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_shuan_kwee<br>@schools.gov.sg</a> 
-<br>
-</p>
+<p></p>
 </th>
 </tr>
 </tbody>
