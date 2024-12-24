@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Irene Low Mui Kwoon</p>
+<p>Mdm Irene Low</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="low_mui_kwoon_irene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_mui_kwoon_irene@schools.gov.sg</a>
@@ -30,16 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Jorah Bte Salim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="tan_poh_soon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jorah_salim@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Kenny Wong Kai Keong</p>
+<p>Mr Kenny Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="wong_kai_keong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_kai_keong@schools.gov.sg</a>
@@ -48,25 +39,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Yeo Yew Peng Patrick</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_yew_peng_patrick@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_yew_peng_patrick@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Ong Bee Hoo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="ong_bee_hoo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_bee_hoo@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Norinna Binte Musari</p>
+<p>Mdm Norinna</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="norinna_musari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norinna_musari@schools.gov.sg</a>
@@ -84,16 +57,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mazher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mazher_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mazher_a@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Norjannah Binte Ali</p>
+<p>Mdm Norjannah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:norjannah_ali@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norjannah_ali@schools.gov.sg</a>
@@ -102,7 +66,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Haslinah Bte Osman</p>
+<p>Mdm Haslinah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="haslinah_osman@schools.gov.sg" rel="noopener nofollow" target="_blank">haslinah_osman@schools.gov.sg</a>
@@ -111,7 +75,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Jeannie Yap Tiew Li</p>
+<p>Miss Jeannie Yap</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="jeannie_yap_tiew_li_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jeannie_yap_tiew_li_A@schools.gov.sg</a>
@@ -138,7 +102,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Norla Binte Jailani</p>
+<p>Mdm Norla</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Norla_Jailani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Norla_Jailani@schools.gov.sg</a>
@@ -156,29 +120,43 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Evie Goh</p>
+<p>Mrs Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:evie_quah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">evie_quah@schools.gov.sg</a>
+<p><a href="mailto:tan_kar_tiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kar_tiang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Quek</p>
+<p>Mdm Zairina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sham_pui_yue@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sham_pui_yue@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Nelly Tan</p>
+<p>Mdm Abidah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Teo_Siok_Eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_siok_eng@schools.gov.sg</a>
-</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Steffi Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Sheen Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
