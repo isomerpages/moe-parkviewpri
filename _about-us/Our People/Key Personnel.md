@@ -111,7 +111,7 @@ variant: tiptap
 </div>
 <p>Ms Pamela See
 <br>YH (lower primary)
-<br><a href="mailto:see_yuen_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">see_yuen_heng<br>@schools.gov.sg</a> 
+<br><a href="mailto:see_yuen_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">see_yuen_heng<br>@schools.gov.sg</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -187,7 +187,7 @@ variant: tiptap
 </div>
 <p>Ms Este Chow
 <br>LH - MTL
-<br><a href="mailto:este_chow@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">este_chow<br>@schools.gov.sg</a> 
+<br><a href="mailto:este_chow@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">este_chow<br>@schools.gov.sg</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -196,7 +196,7 @@ variant: tiptap
 </div>
 <p>Mdm Angeline Loo
 <br>LH - Math
-<br><a href="mailto:loo_nga_hoonangeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loo_nga_hoonangeline<br>@schools.gov.sg</a> 
+<br><a href="mailto:loo_nga_hoonangeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loo_nga_hoonangeline<br>@schools.gov.sg</a>
 </p>
 </th>
 </tr>
@@ -207,7 +207,7 @@ variant: tiptap
 </div>
 <p>Miss Lee Siew Kiang
 <br>SH - ICT
-<br><a href="mailto:lee_siew_kiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_siew_kiang<br>@schools.gov.sg</a> 
+<br><a href="mailto:lee_siew_kiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_siew_kiang<br>@schools.gov.sg</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -216,7 +216,7 @@ variant: tiptap
 </div>
 <p>Mr Watson Teh
 <br>SH - Student Management
-<br><a href="mailto:teh_chiew_hwa_watson@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teh_chiew_hwa_<br>watson@schools.gov.sg</a> 
+<br><a href="mailto:teh_chiew_hwa_watson@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teh_chiew_hwa_<br>watson@schools.gov.sg</a>
 </p>
 </th>
 </tr>
@@ -233,11 +233,12 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 55%;" height="225" width="175" alt="Mrs Helen Chong.jpg" src="/images/mrs%20helen%20chong-low.JPG">
+<img style="width: 90%;" height="225" width="175" alt="Mrs Helen Chong.jpg" src="/images/mrs%20helen%20chong-low.JPG">
 </div>
 <p>Mrs Helen Chong
 <br>LT - PE
-<br><a href="mailto:helen_low_kwee_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helen_low_kwee_fong@schools.gov.sg</a>
+<br><a href="mailto:helen_low_kwee_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">helen_low_kwee_</a>
+<br><a href="mailto:helen_low_kwee_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">fong@schools.gov.sg</a>
 </p>
 <p></p>
 </th>
@@ -264,10 +265,9 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 55%;" height="225" width="175" alt="MdmHanim.jpeg" src="/images/mdm%20norhanim%20bte%20hashim.JPG">
+<img style="width: 90%;" height="225" width="175" alt="MdmHanim.jpeg" src="/images/mdm%20norhanim%20bte%20hashim.JPG">
 </div>
-<p>
-<br>Mdm Norhanim
+<p>Mdm Norhanim
 <br>ST - ML
 <br><a href="mailto:norhanim_hashim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norhanim_hashim<br>@schools.gov.sg</a> 
 <br>
@@ -275,23 +275,15 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="225" width="175" src="/images/mrs%20eileen%20yap-soh%20chin%20ping.JPG">
+<img style="width: 90%;" height="225" width="175" alt="Sherylene Soh siew yin.jpg" src="/images/miss%20sherylene%20soh%20siew%20yin.JPG">
 </div>
-<p>
-<br>Mrs Eileen Yap
-<br>ST - Art
-<br><a href="mailto:soh_chin_ping_eileen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_chin_ping_eileen<br>@schools.gov.sg</a> 
-<br>
+<p>Miss Sherylene Soh
+<br>ST - EL
+<br><a href="mailto:sherylene_soh_siew_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sherylene_soh_siew<br>_yin@schools.gov.sg</a> 
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 95%;" height="225" width="175" alt="Sherylene Soh siew yin.jpg" src="/images/miss%20sherylene%20soh%20siew%20yin.JPG">
-</div>
 <p>
-<br>Miss Sherylene Soh
-<br>ST - EL
-<br><a href="mailto:sherylene_soh_siew_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sherylene_soh_siew<br>_yin@schools.gov.sg</a> 
 <br>
 </p>
 </th>
