@@ -5,6 +5,11 @@ description: ""
 third_nav_title: Mother Tongue
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL_Table.png">
+</div>
+<p></p>
 <h4>我们的骄傲</h4>
 <p></p>
 <p></p>
@@ -65,6 +70,38 @@ variant: tiptap
 </tbody>
 </table>
 <p>2024年，我校薛舒雅同学在由新加坡圣婴小学和中国浙江省舟山市普陀区沈家门小学共同主办的国际小学生电脑创意写作比赛中获得国际银奖与新加坡银奖。</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/six.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/seven.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/eight.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>2024年，我校蔡钧杰、王丽心、黄俊稀同学在由新加坡文化学术协会主办的新加坡信约硬笔书法大赛中获得优胜奖。</p>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -211,9 +248,6 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </table>
 <h4>执教老师</h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Screenshot_2024_07_08_091954.png">
-</div>
 <h4>English Version</h4>
 <h5>Department Members 2024</h5>
 <table style="minWidth: 50px">
@@ -228,7 +262,7 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>Head of Department</strong>
-<br><strong>Teacher of P3CL2，P4CL4</strong>
+<br><strong>Teacher of P4CL2，P5CL4</strong>
 </p>
 </td>
 </tr>
@@ -239,7 +273,7 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Subject Head</strong>
-<br><strong>Teacher of P1CL1，P5CL3</strong>
+<br><strong>Teacher of P2CL1，P6CL3</strong>
 </p>
 </td>
 </tr>
@@ -249,7 +283,7 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher of P3CL1, P6CL3</strong>
+<p><strong>Teacher of P4CL1，P5CL3</strong>
 </p>
 </td>
 </tr>
@@ -259,7 +293,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher of P1CL4, P5CL2</strong>
+<p><strong>P6 Level Rep</strong>
+<br><strong>Teacher of P1CL4，P6CL2</strong>
 </p>
 </td>
 </tr>
@@ -269,8 +304,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P5 Level Rep</strong>
-<br><strong>Teacher of P4CL2，P5CL4</strong>
+<p><strong>P5 HCL Level Rep</strong>
+<br><strong>Teacher of P5CL1，P6CL4</strong>
 </p>
 </td>
 </tr>
@@ -280,8 +315,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P6 Level Rep</strong>
-<br><strong>Teacher of P3CL3，P6CL2</strong>
+<p><strong>P3 Level Rep</strong>
+<br><strong>Teacher of P3CL2，P4CL3</strong>
 </p>
 </td>
 </tr>
@@ -291,8 +326,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P4 Level Rep</strong>
-<br><strong>Teacher of P2CL3，P4CL1</strong>
+<p><strong>P1 Level Rep</strong>
+<br><strong>Teacher of P1CL3，P3CL4</strong>
 </p>
 </td>
 </tr>
@@ -302,8 +337,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P5 Level Rep</strong>
-<br><strong>Teacher of P5CL1，P1CL3</strong>
+<p><strong>P6 HCL Level Rep</strong>
+<br><strong>Teacher of P6CL1，P2CL3</strong>
 </p>
 </td>
 </tr>
@@ -313,8 +348,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P3 Level Rep</strong>
-<br><strong>Teacher of P2CL2，P3CL4, P6CL5</strong>
+<p><strong>P4 Level Rep</strong>
+<br><strong>Teacher of P1CL1，P4CL4</strong>
 </p>
 </td>
 </tr>
@@ -324,8 +359,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P1 Level Rep</strong>
-<br><strong>Teacher of P1CL2，P6CL4</strong>
+<p><strong>P2 Level Rep</strong>
+<br><strong>Teacher of P2CL2，P3CL1</strong>
 </p>
 </td>
 </tr>
@@ -335,8 +370,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P6HCL Level Rep, P2 Level Rep</strong>
-<br><strong>Teacher of P6CL1，P2CL4</strong>
+<p><strong>P5 Level Rep</strong>
+<br><strong>Teacher of P1CL2，P5CL2</strong>
 </p>
 </td>
 </tr>
@@ -346,7 +381,7 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher of P4CL2，P2CL2</strong>
+<p><strong>Teacher of P2CL4，P3CL3</strong>
 </p>
 </td>
 </tr>
@@ -405,3 +440,5 @@ from the Chinese classics – Journey to the West.</p>
 <p>Chinese New Year is the most important festival of the Chinese. Many activities
 are organised to get the students know more about the food, customs and
 traditions associated with Chinese New Year.</p>
+<p></p>
+<p></p>
