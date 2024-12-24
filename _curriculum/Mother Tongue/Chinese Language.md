@@ -5,11 +5,103 @@ description: ""
 third_nav_title: Mother Tongue
 variant: tiptap
 ---
-<h4>我们的骄傲</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Picture1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL_Table.png">
 </div>
+<p></p>
+<h4>我们的骄傲</h4>
+<p></p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/one.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/two.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/three.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>2024年，在由新加坡阿弥陀佛关怀中心主办的《文字飞扬 触动心灵》华文写作大赛中，我校薛舒雅同学获得金奖，袁恩睿同学和薛舒晴同学获得银奖。</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/four.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/five.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>2024年，我校薛舒雅同学在由新加坡圣婴小学和中国浙江省舟山市普陀区沈家门小学共同主办的国际小学生电脑创意写作比赛中获得国际银奖与新加坡银奖。</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/six.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/seven.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/eight.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>2024年，我校蔡钧杰、王丽心、黄俊稀同学在由新加坡文化学术协会主办的新加坡信约硬笔书法大赛中获得优胜奖。</p>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -45,57 +137,7 @@ variant: tiptap
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Curriculum/Mother%20Tongue/CL/img_4.jpg">
-</div>
-<p>2021年，在第七届全国小学生绘本创作大赛中，我校许梓乐、张祯迅、王杰洋、林定恩同学合作完成的绘本《队长鸽子》获得佳作奖。</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Curriculum/Mother%20Tongue/CL/img_5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Curriculum/Mother%20Tongue/CL/img_6.jpg">
-</div>
-<p>2020年，在第六届全国小学生绘本创作大赛中，我校张晓君、李佳耘与陈知遥同学合作完成的绘本《口罩英熊》获得有声组银奖；彭星晴、刘沐恩、闫一诺、黄铂雅与夏华蔓同学合作完成的绘本《时间糖果》获得有声组佳作奖。指导教师王路宁获得优秀指导教师奖。</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Curriculum/Mother%20Tongue/CL/img_7.jpg">
-</div>
-<p>2020年，在福清会馆和培青学校联合主办的“翰墨逸香迎国庆”——第九届全国中小学书法比赛中，我校刘沐恩同学的书法作品从117件作品中脱颖而出，荣获优胜奖。</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Curriculum/Mother%20Tongue/CL/img_8.jpg">
-</div>
-<p>2020年，张桢迅同学参加由新加坡书法家协会主办的第27届全国青少年书法展，他的作品在新加坡书法中心李光前堂展出，并于开幕日当天当众挥毫，与其他青少年切磋书艺。</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Curriculum/Mother%20Tongue/CL/img_9.jpg">
-</div>
-<p>2020年，在第三届新加坡中小学课文朗诵比赛中，我校彭星晴、刘沐恩同学荣获高年级团体组银奖；李择存同学荣获低年级个人组银奖；冯嘉宣、叶献阳、朱勇威同学荣获高年级团体组铜奖；王杰阳同学荣获高年级个人组铜奖；郭芮希、锺廷谦、林妍雅、李思彤同学荣获低年级团体组铜奖；刘卓睿同学荣获低年级个人组铜奖。</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Curriculum/Mother%20Tongue/CL/img_10.jpg">
-</div>
-<p>2020年，在佛光山全国中小学硬笔书法比赛中，我校林楚涵、彭星晴同学获得优胜奖；罗子涵、许汶宣、刘昕怡、李星安和张煜哲同学获得入围奖；阿里雅同学获得入围及文化奖项。百惠小学获得踊跃参与奖。</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Curriculum/Mother%20Tongue/CL/img_11.jpg">
-</div>
-<p>2020年，在由新加坡书法家协会及联合早报联办的第37届全国挥春大会中，百惠小学的八名学生各自挥毫写下一个大字，共同组成一幅对联，分别是：春（刘沐恩)，回（郑赛儿)，大（黄铂雅)，地（张祯迅)，
-幸（彭星晴)，福（刘睿怡)，安（陈子惠)，康（林楚涵)。同学们也借此机会参观了"庚子迎新春联展"，观摩他人的作品，提升自己的水平。来自百惠小学的萧老师和卢老师也分别写下了“喜迎”和“新春”四字。本届"全国挥春大会"
-由新加坡官委议员何伟山担任大会主宾。</p>
+<p></p>
 <p></p>
 <h3>各项活动</h3>
 <h4>农历新年庆祝活动</h4>
@@ -206,9 +248,6 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </table>
 <h4>执教老师</h4>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Screenshot_2024_07_08_091954.png">
-</div>
 <h4>English Version</h4>
 <h5>Department Members 2024</h5>
 <table style="minWidth: 50px">
@@ -223,7 +262,7 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>Head of Department</strong>
-<br><strong>Teacher of P3CL2，P4CL4</strong>
+<br><strong>Teacher of P4CL2，P5CL4</strong>
 </p>
 </td>
 </tr>
@@ -234,7 +273,7 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Subject Head</strong>
-<br><strong>Teacher of P1CL1，P5CL3</strong>
+<br><strong>Teacher of P2CL1，P6CL3</strong>
 </p>
 </td>
 </tr>
@@ -244,7 +283,7 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher of P3CL1, P6CL3</strong>
+<p><strong>Teacher of P4CL1，P5CL3</strong>
 </p>
 </td>
 </tr>
@@ -254,7 +293,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher of P1CL4, P5CL2</strong>
+<p><strong>P6 Level Rep</strong>
+<br><strong>Teacher of P1CL4，P6CL2</strong>
 </p>
 </td>
 </tr>
@@ -264,8 +304,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P5 Level Rep</strong>
-<br><strong>Teacher of P4CL2，P5CL4</strong>
+<p><strong>P5 HCL Level Rep</strong>
+<br><strong>Teacher of P5CL1，P6CL4</strong>
 </p>
 </td>
 </tr>
@@ -275,8 +315,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P6 Level Rep</strong>
-<br><strong>Teacher of P3CL3，P6CL2</strong>
+<p><strong>P3 Level Rep</strong>
+<br><strong>Teacher of P3CL2，P4CL3</strong>
 </p>
 </td>
 </tr>
@@ -286,8 +326,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P4 Level Rep</strong>
-<br><strong>Teacher of P2CL3，P4CL1</strong>
+<p><strong>P1 Level Rep</strong>
+<br><strong>Teacher of P1CL3，P3CL4</strong>
 </p>
 </td>
 </tr>
@@ -297,8 +337,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P5 Level Rep</strong>
-<br><strong>Teacher of P5CL1，P1CL3</strong>
+<p><strong>P6 HCL Level Rep</strong>
+<br><strong>Teacher of P6CL1，P2CL3</strong>
 </p>
 </td>
 </tr>
@@ -308,8 +348,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P3 Level Rep</strong>
-<br><strong>Teacher of P2CL2，P3CL4, P6CL5</strong>
+<p><strong>P4 Level Rep</strong>
+<br><strong>Teacher of P1CL1，P4CL4</strong>
 </p>
 </td>
 </tr>
@@ -319,8 +359,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P1 Level Rep</strong>
-<br><strong>Teacher of P1CL2，P6CL4</strong>
+<p><strong>P2 Level Rep</strong>
+<br><strong>Teacher of P2CL2，P3CL1</strong>
 </p>
 </td>
 </tr>
@@ -330,8 +370,8 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P6HCL Level Rep, P2 Level Rep</strong>
-<br><strong>Teacher of P6CL1，P2CL4</strong>
+<p><strong>P5 Level Rep</strong>
+<br><strong>Teacher of P1CL2，P5CL2</strong>
 </p>
 </td>
 </tr>
@@ -341,7 +381,7 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher of P4CL2，P2CL2</strong>
+<p><strong>Teacher of P2CL4，P3CL3</strong>
 </p>
 </td>
 </tr>
@@ -400,3 +440,5 @@ from the Chinese classics – Journey to the West.</p>
 <p>Chinese New Year is the most important festival of the Chinese. Many activities
 are organised to get the students know more about the food, customs and
 traditions associated with Chinese New Year.</p>
+<p></p>
+<p></p>
