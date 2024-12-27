@@ -3,24 +3,23 @@ title: News & Events
 permalink: /our-stakeholders/alumni/news-n-events/
 description: ""
 third_nav_title: Alumni
-variant: markdown
+variant: tiptap
 ---
-![](/images/alumni%20write%20up.png)
-
-<h4>School Event Photography</h4>
-
-![](/images/Alumni_Website_update_Jan_2024.jpg)
-
+<h4>Alumni Bonding Session</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni_Website_update_Jan_2024.jpg">
+</div>
 <h4>CNY Celebrations Photography</h4>
-
-![](/images/CNY%20Celebrations%20Photography.jpg)
-
-<h4>Exco Bonding Sessions</h4>
-
-![](/images/EXCO%20Bonding%20Sessions.jpg)
-
-<h4>School Events Photography</h4>
-
-![](/images/School%20Events%20Photography.jpg)
-
-![](/images/School%20Events%20Photography1.jpg)
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY%20Celebrations%20Photography.jpg">
+</div>
+<h4>Little Stars &amp; Broadway Photography</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EXCO%20Bonding%20Sessions.jpg">
+</div>
+<h4>P6 Graduation Photography</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School%20Events%20Photography.jpg">
+</div>
+<h4>PVPS Olympics Photography</h4>
+<p></p>
