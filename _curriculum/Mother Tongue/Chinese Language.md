@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Mother Tongue
 variant: tiptap
 ---
+<h4>执教老师</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL_Table.png">
@@ -246,7 +247,7 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </tr>
 </tbody>
 </table>
-<h4>执教老师</h4>
+<h4></h4>
 <p></p>
 <h4>English Version</h4>
 <h5>Department Members 2024</h5>
