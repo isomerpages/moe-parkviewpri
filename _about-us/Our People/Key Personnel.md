@@ -157,18 +157,10 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /IMG_0472__1_.jpg">
+</div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><strong>Mdm Kimberly Jean Aeria</strong>
-<br>AYH (upper primary)
-<br><a href="mailto:kimberly_jean_aeria@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kimberly_jean_aeria@schools.gov.sg</a>
-</p>
 </th>
 </tr>
 </tbody>
@@ -279,7 +271,7 @@ variant: tiptap
 </div>
 <p>Miss Sherylene Soh
 <br>ST - EL
-<br><a href="mailto:sherylene_soh_siew_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sherylene_soh_siew<br>_yin@schools.gov.sg</a> 
+<br><a href="mailto:sherylene_soh_siew_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sherylene_soh_siew<br>_yin@schools.gov.sg</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
