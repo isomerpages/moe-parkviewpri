@@ -13,38 +13,37 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/2024 Canteen Menu/Canteen_Menu_2024_13_May_2024_Page_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/2024 Canteen Menu/Canteen_Menu_2025_Page_1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/2024 Canteen Menu/Canteen_Menu_2024_13_May_2024_Page_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/2024 Canteen Menu/Canteen_Menu_2025_Page_2.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/2024 Canteen Menu/Canteen_Menu_2024_13_May_2024_Page_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/2024 Canteen Menu/Canteen_Menu_2025_Page_3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/2024 Canteen Menu/Canteen_Menu_2024_13_May_2024_Page_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/2024 Canteen Menu/Canteen_Menu_2025_Page_4.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/2024 Canteen Menu/Canteen_Menu_2024_13_May_2024_Page_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/2024 Canteen Menu/Canteen_Menu_2025_Page_5.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/2024 Canteen Menu/Canteen_Menu_2025_Page_6.jpg">
+</div>
 </td>
 </tr>
 </tbody>
