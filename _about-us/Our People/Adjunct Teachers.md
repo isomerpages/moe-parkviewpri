@@ -13,7 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Name</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Email Address</p>
@@ -102,58 +102,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Norla</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Norla_Jailani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Norla_Jailani@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Norhidayati</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Norhidayati_Abdol_Rahim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Norhidayati_Abdol_Rahim@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Cheong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kar_tiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kar_tiang@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Zairina</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Abidah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Steffi Chong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Sheen Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
