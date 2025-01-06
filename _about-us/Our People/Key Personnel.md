@@ -126,7 +126,7 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 57%;" height="225" width="175" alt="MR DARVINDER EDITER FINAL.jpg" src="/images/mr%20darvinder%20singh%20so%20k%20singh.JPG">
+<img style="width: 65%;" height="225" width="175" alt="MR DARVINDER EDITER FINAL.jpg" src="/images/mr%20darvinder%20singh%20so%20k%20singh.JPG">
 </div>
 <p>Mr Darvinder Singh
 <br>YH (upper primary)
@@ -157,22 +157,18 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>
-<br>
-</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><strong>Mdm Kimberly Jean Aeria</strong>
-<br>AYH (upper primary)
-<br><a href="mailto:kimberly_jean_aeria@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kimberly_jean_aeria@schools.gov.sg</a>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /Kimberly_final.jpg">
+</div>
+<p>Mdm Kimberly Jean Aeria
+<br>AYH (upper primary) <a href="mailto:kimberly_jean_aeria@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kimberly_jean_aeria</a>
+<br><a href="mailto:kimberly_jean_aeria@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@schools.gov.sg</a>
 </p>
 </th>
 </tr>
 </tbody>
 </table>
+<h3></h3>
 <h3>Level Heads / Subject Heads</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -279,7 +275,7 @@ variant: tiptap
 </div>
 <p>Miss Sherylene Soh
 <br>ST - EL
-<br><a href="mailto:sherylene_soh_siew_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sherylene_soh_siew<br>_yin@schools.gov.sg</a> 
+<br><a href="mailto:sherylene_soh_siew_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sherylene_soh_siew<br>_yin@schools.gov.sg</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
