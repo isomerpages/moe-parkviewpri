@@ -279,9 +279,7 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p></p>
 </th>
 </tr>
 </tbody>
