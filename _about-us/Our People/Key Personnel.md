@@ -279,7 +279,14 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/mrs eileen yap-soh chin ping.JPG">
+</div>
+<p>Mrs Eileen Yap
+<br>ST - Art
+<br><a href="mailto:chen_shuangshuang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sog_chin_ping_eileen</a>
+<br><a href="mailto:chen_shuangshuang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@schools.gov.sg</a>
+</p>
 </th>
 </tr>
 </tbody>
