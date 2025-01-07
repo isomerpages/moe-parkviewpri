@@ -394,7 +394,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Eileen Yap
-<br>Mr Mr Muslim</p>
+<br>Mr Muslim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="soh_chin_ping_eileen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_chin_ping_eileen@schools.gov.sg</a>
