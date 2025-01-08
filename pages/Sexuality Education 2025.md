@@ -4,7 +4,7 @@ permalink: /sexuality-education-2025/
 variant: tiptap
 description: ""
 ---
-<p><strong>Moe Sexuality Education in Schools</strong>
+<p><strong>MOE Sexuality Education in Schools</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
