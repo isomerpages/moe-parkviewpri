@@ -9,7 +9,7 @@ variant: tiptap
 <p>In the Character Development of our pupils, we have adopted the ESEE (Engagement,
 Support, Expertise, Extension) approach. The ESEE approach consists of
 the following:</p>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p><strong><u>E</u></strong>ngagement of all pupils in the various school
 wide character development programmes adopting pupil-centred strategies.</p>
@@ -21,7 +21,7 @@ differentiated resources and strategies.</p>
 <li>
 <p><strong><u>E</u></strong>xpertise of teachers and partners to enhance
 character development.</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Encouraging teacher leadership in the design and implementation of character
 development programmes and activities</p>
@@ -29,14 +29,15 @@ development programmes and activities</p>
 <li>
 <p>Establishing strategic partnership in the area of character development</p>
 </li>
-</ol>
+</ul>
 </li>
 <li>
 <p><strong><u>E</u></strong>xtension of character development through infusion
 across disciplines in school, at home and to the community.</p>
 </li>
-</ul>
-<ol data-tight="true" class="tight">
+</ol>
+<p></p>
+<ul data-tight="true" class="tight">
 <li>
 <p><a href="/curriculum/cce/character-development/values-in-practice-vip-programme/" rel="noopener noreferrer nofollow" target="_blank">Values in Practice (VIP) Programme</a>
 </p>
@@ -61,5 +62,5 @@ across disciplines in school, at home and to the community.</p>
 <p><a href="/curriculum/cce/character-development/discipline/" rel="noopener noreferrer nofollow" target="_blank">Discipline</a>
 </p>
 </li>
-</ol>
+</ul>
 <p></p>
