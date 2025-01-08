@@ -5,16 +5,15 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCE FTGP/SLC_Framework.png">
 </div>
-<h4>Vision: Leaders of Character, championing Service &amp; Excellence<br>Mission: To nurture future-ready students, anchored on values</h4>
+<p>Vision: Leaders of Character, championing Service &amp; Excellence
+<br>Mission: To nurture future-ready students, anchored on values</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCE FTGP/SLC_Framework_2.png">
 </div>
-<p></p>
 <p>In Park View, we believe that every child is a leader. PVPS adopts a whole-school
 approach to student leadership using a 3-tier approach, the ASK approach:</p>
 <p>Leadership for <strong>A</strong>ll
@@ -25,7 +24,6 @@ approach to student leadership using a 3-tier approach, the ASK approach:</p>
 competencies and E21CC while anchoring our students in values. Every student
 is given an opportunity to be a leader through our differentiated, student-centric
 and values-driven programmes. &nbsp;</p>
-<p></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -49,7 +47,6 @@ Through this, the children can recognise their potential as leaders as
 well as work on developing and improving their leadership competencies
 while serving their class.&nbsp;</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/CCE FTGP/Picture3_2.png">
 </div>
@@ -62,13 +59,10 @@ or focus areas of the respective SLCs.</p>
 events and programmes pertaining to the focus area of their SLC. They undergo
 training, workshop and attend leadership camps to hone their leadership
 skills.</p>
-<p></p>
 <p>&nbsp;The SLC in PVPS comprises of the following:</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCE FTGP/Untitled_design__7_.jpg">
 </div>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -169,8 +163,6 @@ atmosphere, showcasing the pride and dedication of PVPS students.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -452,9 +444,7 @@ raising awareness of the value of health during Healthy Lifestyle Week.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h3><strong>Leadership for Key Leaders</strong></h3>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -508,7 +498,6 @@ implementing suggestions gathered through the Active Contributor Programme
 </tr>
 </tbody>
 </table>
-<p></p>
 <h3>Conclusion</h3>
 <p>A whole-school approach to PVPS Student Leadership Development Programme,
 encompassing the three tiers of Leadership for All, Leadership for the
