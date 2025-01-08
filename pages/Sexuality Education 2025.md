@@ -122,8 +122,6 @@ from sexuality-related risks.</p>
 <p></p>
 <p><strong>At Park View Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>
 </p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
-</p>
 <p></p>
 <p><strong>Primary 5 -2025 Sexuality Education Lessons in CCE</strong>
 </p>
