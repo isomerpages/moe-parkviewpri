@@ -2,6 +2,7 @@ collections:
   our-students:
     output: true
     order:
+      - Monday.md
       - Homework Board.md
       - Student Learning Space (SLS)/Student Learning Space (SLS).md
       - Student Learning Space (SLS)/Step By Step Guide to Join Google Meet from
