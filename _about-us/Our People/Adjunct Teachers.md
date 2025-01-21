@@ -102,10 +102,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Abidah</p>
+<p>Mdm Zairina</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:zairina_rahmat_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zairina_rahmat_b@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
