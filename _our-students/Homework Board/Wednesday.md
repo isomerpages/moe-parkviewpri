@@ -1,8 +1,37 @@
 ---
 title: Wednesday
 permalink: /wednesday/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Homework Board
 ---
-<p></p><div style="clear: both; text-align: center;" class="separator"><a style="margin-left: 1em; margin-right: 1em;" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw1CIMK7GJ03T3ivLO06zczUeI0TWcTQvGpvHDgu9fQnILdqG96RZjP4vuBOBEtvgxa0mUDupA2yxoQZayinEzzlO1tshgAsi5IuyoCRxY9LLbhp5FOqcdYoxb1p96XOlni0-x9cuSRCyurAXWnlnhBxd9DuSwBBqogq7OXJLY7ZfGssCYl9qQIbaQSFE/s1280/6071069902669725898.jpg"><img width="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw1CIMK7GJ03T3ivLO06zczUeI0TWcTQvGpvHDgu9fQnILdqG96RZjP4vuBOBEtvgxa0mUDupA2yxoQZayinEzzlO1tshgAsi5IuyoCRxY9LLbhp5FOqcdYoxb1p96XOlni0-x9cuSRCyurAXWnlnhBxd9DuSwBBqogq7OXJLY7ZfGssCYl9qQIbaQSFE/s320/6071069902669725898.jpg" height="320" data-original-width="1280" data-original-height="1280" border="0"></a></div><br><div style="clear: both; text-align: center;" class="separator"><a style="margin-left: 1em; margin-right: 1em;" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiz72Z_kXwYxDJ2V4AD9f1h1d3UTM9GRXhQS9R46krSg8Rsh-gdm2phG5LwCMHK4mOg6VF4qiKLLolWGuDaTGuLbrlHkLV_Nw6vM02a93erD4mocNS9E2So76XcsuomPNbMqETlVXgkiepvfXg5afNEhkR7bBixbRU8HBcpubNlEGGTZ3x_pp5KYL0Q8g/s1280/6071069902669725899.jpg"><img width="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiz72Z_kXwYxDJ2V4AD9f1h1d3UTM9GRXhQS9R46krSg8Rsh-gdm2phG5LwCMHK4mOg6VF4qiKLLolWGuDaTGuLbrlHkLV_Nw6vM02a93erD4mocNS9E2So76XcsuomPNbMqETlVXgkiepvfXg5afNEhkR7bBixbRU8HBcpubNlEGGTZ3x_pp5KYL0Q8g/s320/6071069902669725899.jpg" height="320" data-original-width="1280" data-original-height="1280" border="0"></a></div><br><div style="clear: both; text-align: center;" class="separator"><a style="margin-left: 1em; margin-right: 1em;" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxp53CWx5DrIrPYczAaiEOK5KuTTIvMGWRa5tIZrDFfSvPW1pqnDuGZzcrJgord1Gc0TZvs88SN0xke9_n6XLyFPNEyKSaoAELjE7DUU3-qW9iUbSsyMH-u1YOuI826WWg4r-wT1018pCMEUywY1H0yC1OKuibN0VqRevoV-bZSp53av44IUk4dzoxW1Y/s1280/6071069902669725897.jpg"><img width="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxp53CWx5DrIrPYczAaiEOK5KuTTIvMGWRa5tIZrDFfSvPW1pqnDuGZzcrJgord1Gc0TZvs88SN0xke9_n6XLyFPNEyKSaoAELjE7DUU3-qW9iUbSsyMH-u1YOuI826WWg4r-wT1018pCMEUywY1H0yC1OKuibN0VqRevoV-bZSp53av44IUk4dzoxW1Y/s320/6071069902669725897.jpg" height="320" data-original-width="1280" data-original-height="1280" border="0"></a></div><br><div style="clear: both; text-align: center;" class="separator"><a style="margin-left: 1em; margin-right: 1em;" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu_StFMRZIhN5EtPncUb907ozOs7aX0i1iuRSuxaVOyE90sOx2jfftnLJNGTiCs6OTnU_Y9PglIWkce24Lop24St-pnvr7_kYl-QNUnlaNjwpm5jNdYFFidHJPu1s8-Ix9T8k2ZYQergS10VDoiZF3vPGBbsJJakHYOfqG398DIJ1DdPOGwAYjhPjjiYk/s1280/6071069902669725896.jpg"><img width="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu_StFMRZIhN5EtPncUb907ozOs7aX0i1iuRSuxaVOyE90sOx2jfftnLJNGTiCs6OTnU_Y9PglIWkce24Lop24St-pnvr7_kYl-QNUnlaNjwpm5jNdYFFidHJPu1s8-Ix9T8k2ZYQergS10VDoiZF3vPGBbsJJakHYOfqG398DIJ1DdPOGwAYjhPjjiYk/s320/6071069902669725896.jpg" height="320" data-original-width="1280" data-original-height="1280" border="0"></a></div><br><div style="clear: both; text-align: center;" class="separator"><a style="margin-left: 1em; margin-right: 1em;" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfSKJcrKLs-CC5tC1cKZKAehQiyRvdSR8ZE1wQrdxxWswqpeKhxlYKCuS9nJzKW7tVyyiLh8dU281uIC-lLUHJ6X_xjRPMb2oagD47Y7rGwY_6RDCBc6g1Djo4K6mwtiPNfqXQQVAlzgjlxyE_3lAlPPBIXoUbim3ZiKNAhbSZEE1t9tmWqmZjRuqmUF8/s1280/6071069902669725895.jpg"><img width="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfSKJcrKLs-CC5tC1cKZKAehQiyRvdSR8ZE1wQrdxxWswqpeKhxlYKCuS9nJzKW7tVyyiLh8dU281uIC-lLUHJ6X_xjRPMb2oagD47Y7rGwY_6RDCBc6g1Djo4K6mwtiPNfqXQQVAlzgjlxyE_3lAlPPBIXoUbim3ZiKNAhbSZEE1t9tmWqmZjRuqmUF8/s320/6071069902669725895.jpg" height="320" data-original-width="1280" data-original-height="1280" border="0"></a></div><br><div style="clear: both; text-align: center;" class="separator"><a style="margin-left: 1em; margin-right: 1em;" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpaGfNWRRprXjm0LXDWXmPfpZz4oyvdad0P5DH2VJrYGimwVYUTOGzswDl-PhZr0aqfq_W2H6XqSjWR18tP_rR0VOwtCzY5CaxSgTC8H-c3j_CUkME9LSfcEItM5tBOSmkCPQJliRbG5LyI3bQwsht5vXleAxlCdIrcSMCtkvoYodQ7JkOQmjf4YDNhuE/s1280/6071069902669725894.jpg"><img width="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpaGfNWRRprXjm0LXDWXmPfpZz4oyvdad0P5DH2VJrYGimwVYUTOGzswDl-PhZr0aqfq_W2H6XqSjWR18tP_rR0VOwtCzY5CaxSgTC8H-c3j_CUkME9LSfcEItM5tBOSmkCPQJliRbG5LyI3bQwsht5vXleAxlCdIrcSMCtkvoYodQ7JkOQmjf4YDNhuE/s320/6071069902669725894.jpg" height="320" data-original-width="1280" data-original-height="1280" border="0"></a></div><br><div style="clear: both; text-align: center;" class="separator"><a style="margin-left: 1em; margin-right: 1em;" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1mIJUHPGOgxYSvVGrOLLiXBkwqGPxVI4-ibF5IjmT_eC9hAq-6eZU5kddIDtA_mVCJftbDCuFCHLcR6wNRQi4qCNDEXqxDvaQBtNfhjbuENicfKrSA1bmAaYN8kI22MVcP9JNwS2VJw7kJeQKq7DKhdIXz-0fkebGJzIgF1-3TNPpELrDuYBpUQEj7xM/s1280/6071069902669725893.jpg"><img width="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1mIJUHPGOgxYSvVGrOLLiXBkwqGPxVI4-ibF5IjmT_eC9hAq-6eZU5kddIDtA_mVCJftbDCuFCHLcR6wNRQi4qCNDEXqxDvaQBtNfhjbuENicfKrSA1bmAaYN8kI22MVcP9JNwS2VJw7kJeQKq7DKhdIXz-0fkebGJzIgF1-3TNPpELrDuYBpUQEj7xM/s320/6071069902669725893.jpg" height="320" data-original-width="1280" data-original-height="1280" border="0"></a></div><br>&nbsp;<p></p>
+<p></p>
+<h4><strong><u>1R1</u></strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Students/HW Board/Wednesday/WhatsApp_Image_2025_01_22_at_2_34_08_PM__1_.jpg">
+</div>
+<h4><strong><u>1R2</u></strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Students/HW Board/Wednesday/WhatsApp_Image_2025_01_22_at_2_34_08_PM.jpg">
+</div>
+<h4><br><strong><u>1R3</u></strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Students/HW Board/Wednesday/WhatsApp_Image_2025_01_22_at_2_34_07_PM__3_.jpg">
+</div>
+<h4><br><strong><u>1I</u></strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Students/HW Board/Wednesday/WhatsApp_Image_2025_01_22_at_2_34_07_PM__2_.jpg">
+</div>
+<h4><br><strong><u>1C</u></strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Students/HW Board/Wednesday/WhatsApp_Image_2025_01_22_at_2_34_07_PM__1_.jpg">
+</div>
+<h4><br><strong><u>1H</u></strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Students/HW Board/Wednesday/WhatsApp_Image_2025_01_22_at_2_34_07_PM.jpg">
+</div>
+<h4><strong><u>1G</u></strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Students/HW Board/Wednesday/WhatsApp_Image_2025_01_22_at_2_34_06_PM.jpg">
+</div>
+<p></p>
