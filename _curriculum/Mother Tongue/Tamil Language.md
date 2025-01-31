@@ -32,7 +32,7 @@ learning which promotes higher order thinking skills</p>
 <p>Name</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Teaching Levels (Year 2024)</p>
+<p>Teaching Levels (Year 2025)</p>
 </th>
 </tr>
 <tr>
@@ -274,7 +274,7 @@ levels</p>
 <p>Tamil Dictionary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.tamildict.com/)" rel="noopener noreferrer nofollow" target="_blank">https://www.tamildict.com/</a>
+<p><a href="https://www.tamildict.com/tamilsearch.php?language=tamil" rel="noopener nofollow" target="_blank">https://www.tamildict.com/tamilsearch.php?language=tamil</a>
 </p>
 </td>
 </tr>
@@ -283,16 +283,7 @@ levels</p>
 <p>Tamil Seithi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="=https://seithi.mediacorp.sg/" rel="noopener noreferrer nofollow" target="_blank">https://seithi.mediacorp.sg/</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore Examination &amp; Assessment Board</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="http://seab.gov.sg/home/examinations/psle" rel="noopener noreferrer nofollow" target="_blank">http://seab.gov.sg/home/examinations/psle</a>
+<p><a href="https://seithi.mediacorp.sg/" rel="noopener noreferrer nofollow" target="_blank">https://seithi.mediacorp.sg/</a>
 </p>
 </td>
 </tr>
