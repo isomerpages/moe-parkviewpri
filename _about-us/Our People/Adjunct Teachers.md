@@ -113,7 +113,8 @@ variant: tiptap
 <p>Mdm Hazel Tan Kar Tiang (Mrs Cheong)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_kar_tiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kar_tiang@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
