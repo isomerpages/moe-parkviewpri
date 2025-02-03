@@ -76,7 +76,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Bek
-<br>Ms Lim Hwee Tin</p>
+<br>Ms Tina Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="tan_xiuling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_xiuling@schools.gov.sg</a>
@@ -120,7 +120,7 @@ variant: tiptap
 <br>(1G)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Khairina
+<p>Mdm Khairina
 <br>Miss Goh Phoebe</p>
 </td>
 <td rowspan="1" colspan="1">
