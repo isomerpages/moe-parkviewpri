@@ -76,7 +76,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Bek
-<br>Ms Lim Hwee Tin</p>
+<br>Ms Tina Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="tan_xiuling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_xiuling@schools.gov.sg</a>
@@ -120,7 +120,7 @@ variant: tiptap
 <br>(1G)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Khairina
+<p>Mdm Khairina
 <br>Miss Goh Phoebe</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -302,6 +302,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="nor_iqmalia_saharudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nor_iqmalia_saharudin@schools.gov.sg</a>
+</p>
+<p><a href="mailto:zairina_rahmat_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zairina_rahmat_b@schools.gov.sg</a>
 <br>
 </p>
 </td>
@@ -313,11 +315,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zatty Sabrina
-<br>Mdm Raihana Binte Ahmad</p>
+<br>Mdm Vera Liew Mee Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zatty_sabrina_mohd_razif@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zatty_sabrina_mohd_razif@schools.gov.sg</a>
-<br><a href="mailto:Raihana_Ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Raihana_Ahmad@schools.gov.sg</a>
+<br><a href="mailto:vera_liew_mee_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vera_liew_mee_lee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -379,11 +381,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Emily Ambrose
-<br>Mdm Nurfarhannah</p>
+<br>Mr Izdihar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Emily_Ambrose@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">emily_ambrose@schools.gov.sg</a>
-<br><a href="mailto:nurfarhannah_hazmi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurfarhannah_hazmi@schools.gov.sg</a>
+<br><a href="mailto:Muhammad_Izdihar_Othman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_Izdihar_Othman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -635,7 +637,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="tay_lip_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_lip_seng@schools.gov.sg</a>
-<br>
+<br><a href="mailto:chong_siew_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_siew_hui@schools.gov.sg</a>
 </p>
 <p></p>
 </td>

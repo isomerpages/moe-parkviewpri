@@ -93,10 +93,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Raihana</p>
+<p>Mdm Abidah Binte M Mohammed Arrifen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="raihana_ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">raihana_ahmad@schools.gov.sg</a>
+<p><a href="mailto:abidah_m_mohammed_ariffen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abidah_m_mohammed_ariffen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -106,6 +106,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zairina_rahmat_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zairina_rahmat_b@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Hazel Tan Kar Tiang (Mrs Cheong)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_kar_tiang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kar_tiang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
