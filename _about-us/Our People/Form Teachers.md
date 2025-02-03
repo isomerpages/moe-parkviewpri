@@ -302,6 +302,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="nor_iqmalia_saharudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nor_iqmalia_saharudin@schools.gov.sg</a>
+</p>
+<p><a href="mailto:zairina_rahmat_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zairina_rahmat_b@schools.gov.sg</a>
 <br>
 </p>
 </td>
@@ -313,11 +315,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zatty Sabrina
-<br>Mdm Raihana Binte Ahmad</p>
+<br>Mdm Vera Liew Mee Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zatty_sabrina_mohd_razif@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zatty_sabrina_mohd_razif@schools.gov.sg</a>
-<br><a href="mailto:Raihana_Ahmad@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Raihana_Ahmad@schools.gov.sg</a>
+<br><a href="mailto:vera_liew_mee_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vera_liew_mee_lee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
