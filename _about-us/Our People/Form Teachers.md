@@ -381,11 +381,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Emily Ambrose
-<br>Mdm Nurfarhannah</p>
+<br>Mr Izdihar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Emily_Ambrose@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">emily_ambrose@schools.gov.sg</a>
-<br><a href="mailto:nurfarhannah_hazmi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurfarhannah_hazmi@schools.gov.sg</a>
+<br><a href="mailto:Muhammad_Izdihar_Othman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Muhammad_Izdihar_Othman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
