@@ -96,7 +96,8 @@ variant: tiptap
 <p>Mdm Abidah Binte M Mohammed Arrifen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:abidah_m_mohammed_ariffen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abidah_m_mohammed_ariffen@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
