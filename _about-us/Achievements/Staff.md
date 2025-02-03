@@ -5,22 +5,11 @@ description: ""
 third_nav_title: Achievements
 variant: tiptap
 ---
-<h4><strong>2023 - MOE Service Excellence Award</strong></h4>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Platinum</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ng Tee Tee</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table>
+<h4><strong>2024 - MOE Service Excellence Award</strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -30,20 +19,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Tee Tee
-<br>Abdul Rashid Lim
-<br>Asleena Binte Abdul Hamid
-<br>Grace Yeo Jie Xin
-<br>Kamariah Binte Abdullah
-<br>Low Kin Eng
-<br>Pang Cui Ling
-<br>See Yuen Heng
-<br>Soh chin Ping Eileen</p>
+<p>Lee Shu Qi Charlene
+<br>Ng Kah Leng
+<br>Sherylene Soh Siew Yin
+<br>Tan Chuan Siang Felicia
+<br>Tay Lip Seng
+<br>Teh Chiew Hwa Watson</p>
 </td>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -53,24 +42,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chua Chun Wei
-<br>Chua Shuan Kwee
-<br>Kirthi Shihilpa Pillai
-<br>Lee Bee Lan
-<br>Lee Shu Qi Charlene
-<br>Lu Huishu Joyce
-<br>Nailul Azmi Ismail
-<br>Ng Kah Leng
-<br>Norhanim Hashim
-<br>Seu Kum Kwong
-<br>Sherylene Soh Siew Yin
-<br>Zubaidah Bte Othman</p>
+<p>Celine Neo Sie Ling
+<br>Darvinder Singh
+<br>Fok Lai Beng
+<br>Goh Phoebe
+<br>Kang Yong Ngee
+<br>Lee Gek Yeong
+<br>Lee Siew Kiang
+<br>Luo Yanzhong, Justin
+<br>Nor Iqmalia Bte Saharudin
+<br>Nurul Ainy Binte Suhaimi
+<br>Seah Jia Xin Anna
+<br>Seah Sock Luang Adeline (She Shuluan Adeline)
+<br>Sharina Bte Mohamed Tahale
+<br>Sim Shiyu
+<br>Tan Poh Soon</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4><strong>2023 National Awards</strong></h4>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -88,7 +83,10 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>2023 MOE Innergy Award</strong></h4>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
