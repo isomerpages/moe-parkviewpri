@@ -61,5 +61,18 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h4><strong>2024 Innergy Award </strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>PVPS_PQ (Personal Qualities) System</h4>
+</td>
+</tr>
+</tbody>
+</table>
 <h4></h4>
 <p></p>
