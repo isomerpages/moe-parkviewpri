@@ -61,43 +61,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>2023 National Awards</strong></h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>COVID-19 Resilience Medal</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ng Tee Tee
-<br>Teo Chui Ping
-<br>Tay Lip Seng</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4><strong>2023 MOE Innergy Award</strong></h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Commendation</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Project Work @ Park View Primary School</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4></h4>
 <p></p>
