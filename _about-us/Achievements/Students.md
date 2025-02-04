@@ -76,3 +76,10 @@ Award during the second preliminary round.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Screenshot_2025_02_04_092842.png">
 </div>
 <p></p>
+<h4>National School Games 2024 - Football Senior Division Boys</h4>
+<p><strong>Quarter-Finals in League 1:</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Screenshot_2025_02_04_093112.png">
+</div>
+<p></p>
