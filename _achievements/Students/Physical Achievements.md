@@ -12,7 +12,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4><strong>2023 PVPS Excellence Award</strong></h4>
+<h4><strong>2024 PVPS Excellence Award</strong></h4>
 </th>
 </tr>
 <tr>
