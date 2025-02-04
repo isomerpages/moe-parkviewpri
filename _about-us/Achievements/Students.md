@@ -38,7 +38,7 @@ Award during the second preliminary round.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Maths Deaprtment</strong>
+<p><strong>Math Department</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
