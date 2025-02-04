@@ -17,9 +17,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><u>Cognitive</u></strong>
+<p></p>
+<p><strong>National Mathematical Olympiad of Singapore 2023:</strong>
 </p>
-<p>National Mathematical Olympiad of Singapore 2023:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -55,8 +55,8 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p>Singapore Primary Science Olympiad 2023:</p>
-<p></p>
+<p><strong>Singapore Primary Science Olympiad 2023:</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -111,7 +111,8 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p>8th National Primary School “Picture Book Creation” Competition:</p>
+<p><strong>8th National Primary School “Picture Book Creation” Competition:</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -169,7 +170,8 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p>National Oral Recitation:&nbsp;</p>
+<p><strong>National Oral Recitation:&nbsp;</strong>
+</p>
 <p><em><u>Lower Primary (Individual) Category</u></em>
 </p>
 <table style="minWidth: 75px">
@@ -217,8 +219,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><em><u>Lower Primary (Group) Category</u></em>
+<p>&nbsp;<em><u>Lower Primary (Group) Category</u></em>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -262,7 +263,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
