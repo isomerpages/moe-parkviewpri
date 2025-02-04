@@ -72,4 +72,7 @@ Award during the second preliminary round.</p>
 <h4>National School Games 2024 - Hockey Senior Division Boys</h4>
 <p><strong>Champions in League 3:</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Screenshot_2025_02_04_092842.png">
+</div>
 <p></p>
