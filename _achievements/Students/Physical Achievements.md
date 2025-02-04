@@ -17,8 +17,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SPSSC National School Games Football Junior Division Boys' Competition
-(Top 3 in Tier 1)</p>
+<p><strong><u>SPSSC National School Games Football Junior Division Boys' Competition (Top 3 in Tier 1)</u></strong>
+</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -148,7 +148,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>National Primary Schools Sport Climbing Championship</p>
+<p><strong><u>National Primary Schools Sport Climbing Championship</u></strong>
+</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
