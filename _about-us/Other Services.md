@@ -51,10 +51,10 @@ treatment can contact the following school dental clinic for appointment:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yumin Pri School Dental Clinic</p>
+<p>Angsana Pri School Dental Clinic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 Tampines St 21 (529393)</p>
+<p>51 Tampines Street 61 (528565)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9863 2732</p>
@@ -62,24 +62,24 @@ treatment can contact the following school dental clinic for appointment:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Meridian Pri School Dental Clinic</p>
+<p>Elias Park Pri School Dental Clinic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20 Pasir Ris St 71 (518798)</p>
+<p>11 Pasir Ris St. 52 (518866)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9821 1985</p>
+<p>8940 1873</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Elias Park Pri School Dental Clinic</p>
+<p>Pasir Ris Park Pri School Dental Clinic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11 Pasir Ris St 52 (518866)</p>
+<p>5 Pasir Ris Street 21 (518968)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8940 1873</p>
+<p>8940 6770</p>
 </td>
 </tr>
 </tbody>
