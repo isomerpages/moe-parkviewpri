@@ -83,3 +83,27 @@ Award during the second preliminary round.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Screenshot_2025_02_04_093112.png">
 </div>
 <p></p>
+<h4>Sports Clibming - Hong Kong Boulder League 2024 (Overseas Competition)</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/About Us/Screenshot_2025_02_04_093301.png">
+</div>
+<h4>2024 SPSSC Swimming National Boys &amp; Girls</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Screenshot_2025_02_04_093504.png">
+</div>
+<p></p>
+<h4>75<sup>th</sup> National Schools Individual Chess Championships 2024</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Screenshot_2025_02_04_093851.png">
+</div>
+<p></p>
+<h4>Guzheng - Singapore Youth Festival (SYF) Arts Presentation 2024 </h4>
+<p><strong>Awarded Certificate of Distinction</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Screenshot_2025_02_04_094130.png">
+</div>
+<p></p>
