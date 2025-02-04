@@ -113,3 +113,8 @@ Award during the second preliminary round.</p>
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/About Us/Screenshot_2025_02_04_094602.png">
 </div>
 <p></p>
+<h4>Drama Club - Participation in International Science Drama Competition 2024</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/About Us/Screenshot_2025_02_04_094912.png">
+</div>
+<p></p>
