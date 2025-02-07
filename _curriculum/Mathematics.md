@@ -650,21 +650,7 @@ Jung and Jaslenn Kaur.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Muhammad Ismaeel Ebrahim Ahmed
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>- Bronze
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Kelvin Ng Bing Rui
-<br>
-</p>
+<p>Muhammad Ismaeel Ebrahim Ahmed</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- Bronze</p>
@@ -672,9 +658,7 @@ Jung and Jaslenn Kaur.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Phebe Lim Pei Ying
-<br>
-</p>
+<p>Kelvin Ng Bing Rui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- Bronze</p>
@@ -682,141 +666,103 @@ Jung and Jaslenn Kaur.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Shen Jiawen
-<br>
-</p>
+<p>Phebe Lim Pei Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Certificate of Participation
-<br>
-</p>
+<p>- Bonze</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chong Yu Siang
-<br>
-</p>
+<p>Shen Jiawen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Certificate of Participation
-<br>
-</p>
+<p>- Certificate of Participation</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Crystal Lai Jie Yu
-<br>
-</p>
+<p>Chong Yu Siang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Certificate of Participation
-<br>
-</p>
+<p>- Certificate of Participation</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Daga Shreyansh Kumar
-<br>
-</p>
+<p>Crystal Lai Jie Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Certificate of Participation
-<br>
-</p>
+<p>- Certificate of Participation</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Goh Isaac
-<br>
-</p>
+<p>Daga Shreyansh Kumar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Certificate of Participation
-<br>
-</p>
+<p>- Certificate of Participation</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Goh Ser Koon
-<br>
-</p>
+<p>Goh Isaac</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Certificate of Participation
-<br>
-</p>
+<p>- Certificate of Participation</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Justin Kok Bing Qian
-<br>
-</p>
+<p>Goh Ser Koon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Certificate of Participation
-<br>
-</p>
+<p>- Certificate of Participation</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yeow Chun Siang
-<br>
-</p>
+<p>Justin Kok Bing Qian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Certificate of Participation
-<br>
-</p>
+<p>- Certificate of Participation</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Koh Wisen
-<br>
-</p>
+<p>Yeow Chun Siang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Certificate of Participation
-<br>
-</p>
+<p>- Certificate of Participation</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kumaraguru s/o Sreenivasan
-<br>
-</p>
+<p>Koh Wisen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Certificate of Participation
-<br>
-</p>
+<p>- Certificate of Participation</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Low Jingxuan Alyssa
-<br>
-</p>
+<p>Kumaraguru s/o Sreenivasan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Certificate of Participation
-<br>
-</p>
+<p>- Certificate of Participation</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Muhammad Danial Ashraf B Buang
-<br>
-</p>
+<p>Low Jinxuan Alyssa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- Certificate of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muhammad Danial Ashraf B Buang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- Certificate of Participation</p>
@@ -1030,12 +976,9 @@ took part in this World Contest.</p>
 <p><a href="https://www.seab.gov.sg/home/examinations/approved-calculators" rel="noopener noreferrer nofollow" target="_blank">https://www.seab.gov.sg/home/examinations/approved-calculators</a>
 </p>
 <p>Other websites:
-<br><a href="http://www.worldmathday.com/" rel="noopener noreferrer nofollow" target="_blank">www.worldmathday.com</a>
 <br><a href="http://www.mathplayground.com/" rel="noopener noreferrer nofollow" target="_blank">www.mathplayground.com</a>
 <br><a href="http://mathworld.wolfram.com/" rel="noopener noreferrer nofollow" target="_blank">http://mathworld.wolfram.com</a>
-<br><a href="http://www.amathsdictionaryforkids.com/" rel="noopener noreferrer nofollow" target="_blank">http://www.amathsdictionaryforkids.com</a>
 <br><a href="http://www.mathwords.com/" rel="noopener noreferrer nofollow" target="_blank">http://www.mathwords.com</a>
-<br><a href="http://www.hbschool.com/glossary/math2/index_temp.html" rel="noopener noreferrer nofollow" target="_blank">http://www.hbschool.com/glossary/math2/index_temp.html</a>
 </p>
 </li>
 </ul>
