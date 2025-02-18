@@ -13,21 +13,29 @@ to society.&nbsp; Our cub scouts work in a patrol system where the values
 of teamwork, trust and loyalty will always be honed. Outdoor Scouting,
 Sports and Hobbies, Science and Nature, Creativity, Knowing Your Community
 and Country, Taking Care of Oneself and Helping Others, and many other
-activities are all part of Cub Scouting.&nbsp; The commemoration of our
-Founder’s Day, Scout Camp and the Gang Show are the two major activities
-for 2023. Cub Scouts will be guided through the process of completing their
-Scout Proficiency Book and earning Proficiency Badges.</p>
+activities are all part of Cub Scouting.&nbsp;</p>
+<p>Our cub scouts participated in the Adiji Chief Scout event, which is an
+official event to formally welcome our Chief Scout, President Tharman Shanmugaratnam,
+as well as to commemorate Founder’s Day. We are proud to be part of the
+largest human-formed imaged of a fleur-de-lys (Scout Logo). The formation
+consisted of 2,902 Singapore Scouts and were joined by the Chief Scout
+and was reflected in the Singapore Book of Records.</p>
 <h4>Training Schedule</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Teachers-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Nailul Azmi Ismail (Group Scout Leader)
-<br>Mr Kang Yong Ngee (Scout Leader)
-<br>Mdm Nur Faizah Abdan (Asst. Scout Leader)</p>
+<p>Mdm Nailul Azmi Ismail (Group Scout Leader)</p>
+<p>&nbsp;Mr Kang Yong Ngee (Scout Leader)</p>
+<p>&nbsp;Mdm Yusneeta Md Yusof (Asst. Scout Leader)</p>
+<p>&nbsp;Mdm Nur Faizah Abdan (Asst. Scout Leader)</p>
 </td>
 </tr>
 <tr>
@@ -35,16 +43,37 @@ Scout Proficiency Book and earning Proficiency Badges.</p>
 <p>Training Dates</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong><u>Fridays</u></strong> 
-<br>7.30am to 9.00am
-<br>ISH Level 5
-<br>Attire: Scouts Uniform</p>
+<p><strong>&nbsp;Fridays</strong>
+</p>
+<p>&nbsp;7.30am – 9.00am
+<br>&nbsp;ISH Level 5</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Attire</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Scout Uniform</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>No. Of Scouts</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>46</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4>Achievements</h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -96,7 +125,12 @@ Scout Proficiency Book and earning Proficiency Badges.</p>
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -144,7 +178,10 @@ of their unit, school, or community</p>
 </li>
 </ul>
 <h4>Gallery</h4>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
