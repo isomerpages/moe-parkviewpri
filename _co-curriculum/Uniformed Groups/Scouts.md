@@ -178,30 +178,37 @@ of their unit, school, or community</p>
 </li>
 </ul>
 <h4>Gallery</h4>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/Picture3.jpg">
-</div>
-<p></p>
-</td>
-</tr>
-<tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/Picture4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/0230c956_ab73_4f82_bdbe_026379701406.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/2330dfe8_d9ff_4920_af8e_79202a24f5c5.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/Picture5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/36e805f1_5859_4c6f_bd6f_b58ace74f623.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/4bb4cdb0_f646_4d33_9b6b_126aecac9fef.jpg">
 </div>
 </td>
 </tr>
@@ -209,7 +216,13 @@ of their unit, school, or community</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/Picture8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/d91a3982_ba60_4986_b744_ba39077283c2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/3aa0c1bc_6580_4eba_8e47_e29ab9eb4265.jpg">
 </div>
 </td>
 </tr>
@@ -217,7 +230,27 @@ of their unit, school, or community</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/scouts_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/e4fc6b4c_765c_4806_a482_77ab59afe0b6.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/a3f0a488_81df_4ea0_a765_b598d3041090.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/ae8ca947_7100_4f63_9c37_b3407663f3d3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Scouts/43333b16_743e_47dd_ac34_0b83525eec88.jpg">
 </div>
 </td>
 </tr>
