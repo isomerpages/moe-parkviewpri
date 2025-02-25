@@ -180,17 +180,16 @@ classes and levels to mingle, forge friendships and to demonstrate qualities
 such as sportsmanship, teamwork and fair play. The PVPS Olympics put to
 test both individual competencies and team camaraderie through various
 sports events</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Curriculum/PE/PVPS%20Olympics_1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Curriculum/PE/PVPS%20Olympics_3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Curriculum/PE/PVPS%20Olympics_4.png">
-</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Curriculum/PE/PVPS%20Olympics_5.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/PE/JUS00491.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/PE/JUS00487.jpg">
 </div>
 <p><strong>P1 Orientation Programme (Telematch)</strong>
 </p>
