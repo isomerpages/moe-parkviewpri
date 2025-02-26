@@ -1,8 +1,10 @@
 ---
 title: Teaching & Learning
 permalink: /curriculum/teaching-and-learning/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-<h4>Framework</h4>
-<p align="center"><img height="100" width="100" src="/images/Curriculum/teaching_learning_framework.png"></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About%20Us/Slide1.jpg">
+</div>
+<p></p>
