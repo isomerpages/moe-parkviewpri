@@ -232,66 +232,11 @@ Maridian JC.</p>
 </tbody>
 </table>
 <p>*The following is the operation time of the three gates on school days*</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="3" colspan="1">
-<p>Main Gate (Gate A)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>7.00 a.m. – 6.00 p.m.</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Walk-in Gate: Open</p>
-</th>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>7.00 a.m. - 7.30 a.m.</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Vehicle Gate: Open</p>
-</th>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>7.30 a.m. – 6.00 p.m.</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Vehicle Gate: Closed (open for authorized entry only)</p>
-</th>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>Side Gate (Gate D)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7.00 a.m. – 7.30 a.m.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Open</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mon</p>
-<p>1.30 pm – 2.00 pm</p>
-<p>2.30pm – 3.00pm</p>
-<p>&nbsp;</p>
-<p>Tuesday</p>
-<p>1.30 pm – 2.00 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Open (will also be open after 2 p.m. for student exit when it rains</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Screenshot_2025_02_27_101204.png">
+</div>
+<p></p>
 <p><strong>Due to safety concerns, with effect from Monday, 27 June 2022, the turnstile gate (Gate C) at the back of our school will remain closed at all times of day.</strong>&nbsp;Parents/caregivers
 may drop-off or pick up their child at any of the above gates according
 to the gate operation timings. Parents/caregivers are allowed to drive
