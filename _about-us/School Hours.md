@@ -2,7 +2,7 @@
 title: School Hours
 permalink: /about-us/school-hours/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h4>Primary 1 to 3</h4>
 <table style="minWidth: 150px">
