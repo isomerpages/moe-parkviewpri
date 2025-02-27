@@ -19,11 +19,7 @@ are to adhere to the following guidelines as listed below:</p>
 <p>Usage of mobile phones, smart device or smart watch is allowed only in
 the canteen either before school or after school hours to contact care-givers/
 parents. The devices are to be switched off during other times and be kept
-out of sight during all school activities.</p>
-</li>
-<li>
-<p>In the classrooms, smart watches can be used only to tell time during
-non-assessment or non-examination period.&nbsp;</p>
+out of sight during all school activities.&nbsp;</p>
 </li>
 <li>
 <p>All smart devices will be held by the teacher during assessments and examinations.</p>
