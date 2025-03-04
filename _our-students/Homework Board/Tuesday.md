@@ -27,11 +27,11 @@ third_nav_title: Homework Board
 </div>
 <h4><u>1H</u></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Students/HW Board/Tuesday/WhatsApp_Image_2025_03_04_at_2_29_03_PM__1_.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Students/HW Board/Tuesday/WhatsApp_Image_2025_03_04_at_2_29_03_PM.jpg">
 </div>
 <h4><u>1G</u></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Students/HW Board/Tuesday/WhatsApp_Image_2025_03_04_at_2_29_03_PM__1_.jpg">
+</div>
 <p></p>
 <p></p>
