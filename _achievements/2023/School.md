@@ -1,15 +1,20 @@
 ---
-title: students
-permalink: /about-us/achievements/students/
-description: ""
-third_nav_title: Achievements
+title: School
+permalink: /achievements-2023-school/
 variant: tiptap
+description: ""
+third_nav_title: "2023"
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<h4><strong>2023 National English Writing Competition 2023</strong></h4>
+<h4><strong>National English Writing Competition 2023</strong></h4>
 </td>
 </tr>
 <tr>
@@ -47,11 +52,16 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4><strong>2023 Asia-Pacific Mathematical Olympiad for Primary School</strong></h4>
+<h4><strong>Asia-Pacific Mathematical Olympiad 2023</strong></h4>
 </th>
 </tr>
 <tr>
@@ -89,11 +99,16 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4><strong>2023 Fo Guang Shan National Pri/Sec Schools Pen Calligraphy Finals</strong></h4>
+<h4><strong>Fo Guang Shan National Pri/Sec Schools Pen Calligraphy Finals 2023</strong></h4>
 </th>
 </tr>
 <tr>
@@ -109,7 +124,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -157,11 +177,15 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4><strong>Singapore Youth Festival (SYF)2023 Art Exhibition</strong></h4>
+<h4><strong>Singapore Youth Festival (SYF) Art Exhibition 2023</strong></h4>
 </th>
 </tr>
 <tr>
@@ -190,11 +214,16 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4><strong>International Science Drama Competition 2023 Singapore Finals</strong></h4>
+<h4><strong>International Science Drama Competition Singapore Finals 2023</strong></h4>
 </th>
 </tr>
 <tr>
@@ -216,7 +245,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -230,11 +262,16 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4><strong>National School Games Wushu 2023 (Senior Division Girls)</strong></h4>
+<h4><strong>National School Games Wushu (Senior Division Girls) 2023</strong></h4>
 </th>
 </tr>
 <tr>
@@ -250,7 +287,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -380,7 +422,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -394,7 +439,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -425,7 +475,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -478,11 +533,16 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4><strong>Malay Language Fiesta 2023 (Choral Recitation Competition) organised by Malay Language Learning &amp; Promotion Committee</strong></h4>
+<h4><strong>Malay Language Fiesta 2023</strong></h4>
+<p><strong>(Choral Recitation Competition) organised by Malay Language Learning &amp; Promotion Committee</strong>
+</p>
 </th>
 </tr>
 <tr>
@@ -492,11 +552,18 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h4><strong>Sayembara Bahasa Pasir Ris 2023 organised by Pasir Ris Central MAEC, Pasir Ris West MAEC, Pasir Ris East MAEC and Casuarina Primary School</strong></h4>
+<h4><strong>Sayembara Bahasa Pasir Ris 2023</strong></h4>
+<p><strong>organised by Pasir Ris Central MAEC, Pasir Ris West MAEC, Pasir Ris East MAEC and Casuarina Primary School</strong>
+</p>
 </th>
 </tr>
 <tr>
@@ -567,7 +634,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
