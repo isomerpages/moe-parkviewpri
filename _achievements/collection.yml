@@ -2,7 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - 2025 Achievements.md
       - Students/.keep
       - Students/Cognitive Achievements.md
       - Students/Physical Achievements.md
