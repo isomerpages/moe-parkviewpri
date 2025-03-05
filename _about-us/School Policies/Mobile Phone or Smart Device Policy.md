@@ -45,18 +45,13 @@ watch to school may be removed.</p>
 <h4><strong>3.Loss of Mobile Phones or Smart Devices</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>If a student is caught using mobile phone, smart device or smart watch
-outside the permissible time and place, his/her mobile phone, smart device
-or smart watch will be confiscated.</p>
+<p>If students bring mobile phones or smart devices to school, they should
+beresponsible for their property and not flaunt it or invite envy and draw
+attention to it.</p>
 </li>
 <li>
-<p>The form teacher or another staff member will contact the parent to make
-arrangements to collect the mobile phone, smart device or smatch watch
-from the General Office.</p>
-</li>
-<li>
-<p>Student’s privilege to bring his/her mobile phone, smart device or smart
-watch to school may be removed.</p>
+<p>The school will not be held accountable for any damage or losses.</p>
+<p></p>
 </li>
 </ul>
 <p>To reach students in cases of emergency, parents can call the General
