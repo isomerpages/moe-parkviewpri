@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Achievements.md
       - Our People/.keep
       - Our People/Principal.md
       - Our People/Vice Principal.md
