@@ -2,10 +2,10 @@ collections:
   achievements:
     output: true
     order:
-      - 2025 Achievements/Staff.md
-      - 2025 Achievements/Students.md
-      - 2025 Achievements/School.md
-      - 2025 Achievements/.keep
+      - 2025/Staff.md
+      - 2025/Students.md
+      - 2025/School.md
+      - 2025/.keep
       - Students/.keep
       - Students/Cognitive Achievements.md
       - Students/Physical Achievements.md
