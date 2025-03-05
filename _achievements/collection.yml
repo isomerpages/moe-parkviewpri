@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - 2025 Achievements/Students.md
       - 2025 Achievements/School.md
       - 2025 Achievements/.keep
       - Students/.keep
