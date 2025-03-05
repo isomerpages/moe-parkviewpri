@@ -6,7 +6,6 @@ description: ""
 third_nav_title: "2024"
 ---
 <h4><strong>2024 - MOE Service Excellence Award</strong></h4>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
