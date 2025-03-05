@@ -22,7 +22,7 @@ around them.</p>
 </ul>
 <h4>Framework</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="100" width="100" src="/images/Curriculum/Science/Science%20Framework.png">
+<img style="width: 60%;" height="100" width="100" src="/images/Curriculum/Science/Science%20Framework.png">
 </div>
 <h4>Key Programmes</h4>
 <p><strong>Focus for Science Teaching &amp; Learning</strong>
@@ -515,84 +515,5 @@ to encourage students to recycle paper and plastic bottles.</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/Curriculum/Science/Science_10.jpg">
 </div>
-<h4>Achievements</h4>
-<p><strong>Our Achievements in Science Competitions</strong>Raffles Science
-Olympiad 2022
-<br>Certificates of Participation Awarded to:</p>
-<p>Ahmad Alhady Bin Shahrunizam (5R3)
-<br>Bhatia Vedansh (5R3)
-<br>Koka Menaja Sathya Sai Durga (5R3)
-<br>Por Luo Xi J'nise (5R3)
-<br>Sukrit Nautiya of 5R3</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Curriculum/Science/Science_11.jpg">
-</div>
-<h4>Our Achievements in Environment</h4>
-<p><strong>Community in Bloom Award</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/Curriculum/Science/Science_12.jpg">
-</div>
-<p>NParks has been spearheading the Community In Bloom (CIB) programme to
-create gardening communities within housing estates, educational institutions
-and organisations in Singapore by partnering various stakeholders including
-residents, government agencies, grassroots organisations, schools and organisations.</p>
-<p>Community In Bloom Awards aims to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Recognise and reward gardening efforts by community gardening groups</p>
-</li>
-<li>
-<p>Motivate and encourage community gardeners to enjoy gardening as a fun
-and healthy activity</p>
-</li>
-<li>
-<p>Set &amp; improve the standards of community gardens located in communal
-spaces</p>
-</li>
-<li>
-<p>Spread the gardening bug to others in the community so that they too can
-discover the joy of gardening</p>
-</li>
-</ul>
-<p>Congratulations to Park View Primary School on being awarded the Community
-In Bloom (GOLD) in 2019!</p>
-<h4>Singapore School Green Awards 2022</h4>
-<p>The Singapore School Green Awards (SGA) is a voluntary environmental programme
-which serves as a platform for students to develop and showcase their environmental
-efforts, through customised activities which will help them gain better
-understanding of the environment.</p>
-<p>Students also engage or participate in various environmental programmes
-and/or activities to raise awareness about environmental issues within
-and/or to external communities and organisations.</p>
-<p>Park View Primary School has once again achieved the Vanda Miss Joaquim
-Sustained Achievement Award in 2022.</p>
-<div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/Curriculum/Science/Science_13.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Curriculum/Science/Science_14.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/Curriculum/Science/Science_15.jpg">
-</div>
-<h4>Building and Construction Authority Green Mark Award</h4>
-<div class="isomer-image-wrapper">
-<img style="width:20%" height="auto" width="100%" src="/images/Curriculum/Science/Science_16.jpg">
-</div>
-<p>The BCA Green Mark awards recognises&nbsp;developers, building owners
-and individuals who have made outstanding achievements in environmental
-sustainability in the built environment.</p>
-<p>Congratulations to Park View Primary School on being awarded the BCA Green
-Mark Award (GOLD) 2021 based on the Green Mark for Existing Schools (Version
-2).</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/Curriculum/Science/Science_17.png">
-</div>
-<h4>Community in Nature Award 2022</h4>
-<p>Park View Primary was awarded the Certificate of Participation in the
-2022 Community in Nature Schools Award.</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/Curriculum/Science/Science_8.jpg">
-</div>
+<h4></h4>
 <p></p>
