@@ -84,37 +84,44 @@ and say mean things online.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Parents, the guardians of internet</p>
+<p><a href="https://www.schoolbag.edu.sg/story/children-and-their-devices-how-to-strike-the-right-balance/" rel="noopener noreferrer" target="_blank">Children and their devices: How to strike the right balance</a>
+</p>
 </li>
 <li>
-<p>Guide for parents on setting parental controls</p>
+<p><a href="https://www.schoolbag.edu.sg/story/future-tense-keeping-kids-grounded-while-tech-turns-the-world-upside-down/" rel="noopener noreferrer" target="_blank">Future tense: Keeping kids grounded while tech turns the world upside down</a>
+</p>
 </li>
 <li>
-<p>Understanding cyber wellness</p>
+<p><a href="https://www.schoolbag.edu.sg/story/what-does-a-students-ai-enhanced-day-look-like-heres-a-peek/" rel="noopener noreferrer" target="_blank">What does a student’s AI-enhanced day look like? Here’s a peek</a>
+</p>
 </li>
 <li>
-<p>Navigating the cyber world safely</p>
+<p><a href="https://www.schoolbag.edu.sg/story/are-you-struggling-with-your-child-s-excessive-device-use" rel="noopener noreferrer" target="_blank">Are you struggling with your child’s excessive device use?</a>
+</p>
 </li>
 <li>
-<p>ICT in schools: To use or not to use?</p>
+<p><a href="https://go.gov.sg/7-things-every-parent-can-do-to-keep-kids-cyber-safe-a-tech-dads-special" rel="noopener noreferrer" target="_blank">7 things every parent can do to keep kids cyber-safe: A tech dads special</a>
+</p>
 </li>
 <li>
-<p>Play safe – avoid online gaming addiction</p>
+<p><a href="https://www.schoolbag.edu.sg/story/the-future-looks-rosy-why-this-dad-isn-t-afraid-of-the-rise-of-ai" rel="noopener noreferrer" target="_blank">The future looks rosy’: why this dad isn’t afraid of the rise of AI</a>
+</p>
 </li>
 <li>
-<p>Safeguarding your child online</p>
+<p><a href="https://go.gov.sg/sbarticle-keeping-kids-safe-online" rel="noopener noreferrer" target="_blank">Keeping kids safe online – A community effort</a>
+</p>
 </li>
 <li>
-<p>Exploring online, safely and confidently</p>
+<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf" rel="noopener noreferrer" target="_blank">Parent Kit – Raising A Digitally Smart Child</a>
+</p>
 </li>
 <li>
-<p>Keeping our teens safe online</p>
+<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/experiencing-blended-learning.pdf" rel="noopener noreferrer" target="_blank">Parent Kit - Experiencing Blended Learning with Our Children</a>
+</p>
 </li>
 <li>
-<p>Parent kit - Supporting your child during full home-based learning</p>
-</li>
-<li>
-<p>Parent kit - Cyber wellness for your child</p>
+<p><a href="https://go.gov.sg/instalive-raising-digitally-smart-kids" rel="noopener noreferrer" target="_blank">Recording of Instagram Live – Raising Digitally Smart Kids</a>
+</p>
 </li>
 </ul>
 <p></p>
