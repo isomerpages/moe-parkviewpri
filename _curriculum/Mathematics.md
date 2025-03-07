@@ -4,6 +4,132 @@ permalink: /curriculum/mathematics/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>(Framework)</p>
+<p>The Singapore Mathematics Framework is centered around Mathematical Problem
+Solving, supported by five key components: Concepts, Skills, Processes,
+Metacognition, and Attitudes. It follows a structured approach where students
+build a strong foundation through the Concrete-Pictorial-Abstract (CPA)
+method, develop problem-solving strategies, and apply mathematical thinking
+in real-world contexts. The framework emphasizes reasoning, communication,
+and connections while nurturing critical thinking, perseverance, and confidence
+in learners.</p>
+<p>Through the school's Enrich, Support, and Stretch (ESS) approach, the
+Singapore Mathematics Framework ensures that all students, regardless of
+their learning needs, develop mathematical mastery and a deep appreciation
+for the subject. The Support component provides targeted interventions
+to build a strong foundation, while Enrich enhances learning through problem-solving,
+inquiry based learning and critical thinking. Stretch offers opportunities
+to explore advanced concepts and apply creative strategies. This differentiated
+approach fosters confidence, perseverance, and a growth mindset, equipping
+students with essential skills to excel in mathematics and beyond.</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Enrish</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Support</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Stretch</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Readiness-Engagement-Mastery Approach (e.g. Activity-based learning, Inquiry-based
+learning)</p>
+</li>
+<li>
+<p>STAR Problem Solving</p>
+</li>
+<li>
+<p>Differentiated Instructions</p>
+</li>
+<li>
+<p>Financial Literacy</p>
+</li>
+<li>
+<p>EdTech (e.g. KooBits, SLS)</p>
+</li>
+<li>
+<p>Math Adventures</p>
+</li>
+<li>
+<p>STEM Programme</p>
+</li>
+<li>
+<p>Math@Home Package</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Learning Support for Mathematics (P1 to P4)</p>
+</li>
+<li>
+<p>Focused Learning Groups (P5 and P6)</p>
+</li>
+<li>
+<p>Remedial programme (P4 to P6)</p>
+</li>
+<li>
+<p>Mastery Programme (P6)</p>
+</li>
+<li>
+<p>Heartware Programme (P5 &amp; P6)</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>E2K Programme (P4 to P6)</p>
+</li>
+<li>
+<p>Olympiad Competitions (P5 and P6)</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>STAR Problem Solving</strong>
+</p>
+<p><strong>(image)</strong>
+</p>
+<p>The Mathematics Department adopts the STAR approach, a structured 4-phase
+process designed to equip students with essential problem-solving skills
+and confidence in tackling real-world mathematical challenges. Grounded
+in George Polya’s problem-solving technique, this approach provides a systematic
+framework to guide students in understanding, strategizing, solving, and
+reflecting on problems effectively.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p>The teaching and learning of mathematics aims primarily to equip students
 with a firm foundation of knowledge and skills in mathematics. The central
 focus of our mathematics framework is problem solving, which is supported
