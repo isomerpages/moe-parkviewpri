@@ -255,7 +255,7 @@ to enable them to craft their messages and to ensure information required
 is written correctly in their response. By the end of the programme, students
 will be able to compose short messages or notes based on their understanding
 and interpretation of the given stimuli or text.</p>
-<h4><em>Enrichment</em></h4>
+<h4>Enrichment</h4>
 <p><strong><u>HARI RAYA CELEBRATION</u>:</strong>
 </p>
 <p>Hari Raya Aidilfitri is a joyous occasion celebrated in our school to
@@ -499,8 +499,7 @@ primary schools with the aim of providing a platform for our students to
 showcase their talents. It also aims to develop the love for our mother
 tongue in our students. This competition provided a good opportunity for
 students to celebrate, learn and practice the use of our Malay Language.&nbsp;</p>
-<p>The following students participated in the various level events:&nbsp;</p>
-<p>
+<p>The following students participated in the various level events:&nbsp;
 <br>
 </p>
 <table style="minWidth: 75px">
@@ -512,13 +511,16 @@ students to celebrate, learn and practice the use of our Malay Language.&nbsp;</
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level and Event&nbsp;</p>
+<p><strong>Level and Event&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students Involved</p>
+<p><strong>Students Involved</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Achievement&nbsp;</p>
+<p><strong>Achievement&nbsp;</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -545,9 +547,7 @@ students to celebrate, learn and practice the use of our Malay Language.&nbsp;</
 <br>Alayna Suthihat
 <br>Tya Ikramiya Binte Maisor
 <br>Lutfil Hadi Bin Jumaat
-<br>Sarah Nur Leia Binte Ahmad Naqib
-<br>
-</p>
+<br>Sarah Nur Leia Binte Ahmad Naqib</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2nd Place</p>
@@ -569,9 +569,6 @@ students to celebrate, learn and practice the use of our Malay Language.&nbsp;</
 <br>Mia Nadira Binte Muhammad Shah
 <br>Mohammed Thorique Irsyad Bin Mohammed Syaiful
 <br>Harraz Zayef Bin Mohamad Hermi&nbsp;</p>
-<p>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -588,7 +585,6 @@ students to celebrate, learn and practice the use of our Malay Language.&nbsp;</
 </div>
 <p>Nur Sara Sofea Binte Ja’affar
 <br>Nuh Ukasyah Bin Muhammad Zarie</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Consolation Prize</p>
@@ -632,11 +628,6 @@ students to celebrate, learn and practice the use of our Malay Language.&nbsp;</
 <br>Aaqil Bin Mohamed Ansari&nbsp;
 <br>Muhammad Yaqin Bin Hanapi&nbsp;
 <br>Naila Ifra Binte Mohammad Iffi</p>
-<p>
-<br>
-</p>
-<p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Consolation Prize</p>
@@ -656,11 +647,6 @@ students to celebrate, learn and practice the use of our Malay Language.&nbsp;</
 <br>Muhammad Aqiel Aquilany Bin Rosli
 <br>Mohamad Idlan Danish Bin Mohamad Ridhwan&nbsp;
 <br>Jerisha Jown Patty</p>
-<p>
-<br>
-</p>
-<p></p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2nd Place</p>
@@ -681,7 +667,7 @@ students to celebrate, learn and practice the use of our Malay Language.&nbsp;</
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>https://prpm.dbp.gov.my/</strong>
+<p><a href="https://prpm.dbp.gov.my/" rel="noopener nofollow" target="_blank">https://prpm.dbp.gov.my/</a>
 </p>
 </td>
 </tr>
@@ -691,7 +677,7 @@ students to celebrate, learn and practice the use of our Malay Language.&nbsp;</
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>https://www.moe.gov.sg/primary/curriculum/syllabus</strong>
+<p><a href="https://www.moe.gov.sg/primary/curriculum/syllabus" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/primary/curriculum/syllabus</a>
 </p>
 </td>
 </tr>
@@ -701,7 +687,7 @@ students to celebrate, learn and practice the use of our Malay Language.&nbsp;</
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>https://academyofsingaporeteachers.moe.edu.sg/mlcs</strong>
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg/mlcs" rel="noopener nofollow" target="_blank">https://academyofsingaporeteachers.moe.edu.sg/mlcs</a>
 </p>
 </td>
 </tr>
@@ -711,7 +697,7 @@ students to celebrate, learn and practice the use of our Malay Language.&nbsp;</
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>https://www.mllpc.sg/</strong>
+<p><a href="https://www.mllpc.sg/" rel="noopener nofollow" target="_blank">https://www.mllpc.sg/</a>
 </p>
 </td>
 </tr>
@@ -721,7 +707,7 @@ students to celebrate, learn and practice the use of our Malay Language.&nbsp;</
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>https://www.mtls.edu.sg/</strong>
+<p><a href="https://www.mtls.edu.sg/" rel="noopener nofollow" target="_blank">https://www.mtls.edu.sg/</a>
 </p>
 </td>
 </tr>
