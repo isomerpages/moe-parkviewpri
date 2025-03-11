@@ -554,6 +554,95 @@ students to celebrate, learn and practice the use of our Malay Language.&nbsp;</
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3
+<br>Poetry Recitation</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="227" width="339" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdFYujerG89Qm_s42t8EIGBhOnffRH20oYiXG1iWAqfWoWKRzQ4AUjaVpbboJPMIZgSUDPArD654iPzwywQaaC3NJbzc8_9k1MeyNg0rUbHL5y95c-xNPeyu37E__KjJsvo96nIZw?key=Lxz_MM8hs4LFiCZ043kXQg">
+</div>
+<p>Nur Sara Sofea Binte Ja’affar
+<br>Nuh Ukasyah Bin Muhammad Zarie</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Consolation Prize</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4
+<br>Acting Competition</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="211" width="318" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcxo-7PG4GAfDSjrlcGwSXtTIFmJ7Du7HVSqjJicMFfJ9zeSlxrlnfn-_XrmH4chFB4E4y58aR9ChulRPk7wLAL_PXChOuS0mqLU40WRgm3LOlfqyHLTHtSEJeHE37LxR4UQ6M3-A?key=Lxz_MM8hs4LFiCZ043kXQg">
+</div>
+<p>Mohamad Ihsan Aqil Bin
+<br>Mohamad Ridhwan&nbsp;
+<br>Adrian Bin Abdul Kamal&nbsp;
+<br>Haziq Rifqy Bin Mohammed Hairulnizam&nbsp;
+<br>Kaiyisha Binte Mohamas Robani
+<br>Naura Auni Nafisah Binte Muhammad Fadhil&nbsp;
+<br>Nur Ilyana Haziqah Binte Abdul Wahid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5
+<br>Rap Competition</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="margin-left:0px;margin-top:0px;" height="223" width="339" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeHhRYTuI44aQFLDJZA2e7KopuK5WIAdN4a_eKx3FY4c35RNvoTKPTzJ5UU29B7IDZbnDqLx23M9udEVbfFGzfwjR8iiJB7gOWqrL2lHnE0YfM8oW1AdiMTy0OKzGs0BaolhKosYQ?key=Lxz_MM8hs4LFiCZ043kXQg">
+</div>
+<p>Sarah Qistina Binte Abdul Wahid&nbsp;
+<br>Qistina Edrianna Binte Mohamad Said&nbsp;
+<br>Muhammad Irfan Dimas Bin Mohammad Fahdlie Ismid&nbsp;
+<br>Aaqil Bin Mohamed Ansari&nbsp;
+<br>Muhammad Yaqin Bin Hanapi&nbsp;
+<br>Naila Ifra Binte Mohammad Iffi</p>
+<p>
+<br>
+</p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Consolation Prize</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6
+<br>Language Quiz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/Sayembara_P6.jpg">
+</div>
+<p>Izzatuz Zakiyyah Binte Muhammad Faiznuraffendi&nbsp;
+<br>Muhammad Aqiel Aquilany Bin Rosli
+<br>Mohamad Idlan Danish Bin Mohamad Ridhwan&nbsp;
+<br>Jerisha Jown Patty</p>
+<p>
+<br>
+</p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Place</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
