@@ -469,7 +469,16 @@ for our Middle Primary Level activities.</p>
 </tr>
 </tbody>
 </table>
+<p><strong><u>Sayembara Bahasa</u></strong>
+</p>
+<p>Sayembara Bahasa is a competition organised by the cluster involving six
+primary schools with the aim of providing a platform for our students to
+showcase their talents. It also aims to develop the love for our mother
+tongue in our students. This competition provided a good opportunity for
+students to celebrate, learn and practice the use of our Malay Language.&nbsp;</p>
+<p>The following students participated in the various level events:&nbsp;</p>
 <p>
+<br>
 <br>
 </p>
 <p></p>
