@@ -8,8 +8,10 @@ variant: tiptap
 <h4>Department Goal</h4>
 <p>To develop a generation of confident and effective Malay Language anchored
 in values.</p>
-<p>To provide a positive and culturally vibrant environment for students
+<h4>Department Goal</h4>
+<p>To&nbsp; provide a positive and culturally vibrant environment for students
 to develop a love and appreciation for the language.</p>
+<h4>Our Team</h4>
 <h4>Our Teachers</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -27,42 +29,72 @@ to develop a love and appreciation for the language.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nailul Azmi Ismail</p>
+<p><strong>Mdm Nailul Azmi Ismail</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P1 ML1, P4 ML2, P6ML1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Norhanim Hashim (Senior Teacher – ML)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P4 ML1 and P5 ML2</p>
+<p><strong>P1ML2, P3ML1</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Hannah Hazmi</p>
+<p><strong>Mdm Norhanim Hashim (Senior Teacher)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P2 ML2 , P4 MTSP &amp; P6 ML2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Nor Farizah Roslan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>P2 ML1, P3 ML1 &amp; P4 ML2</p>
+<p><strong>P4ML1, P5ML2</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zubaidah Othman</p>
+<p><strong>Mdm Nurfarhannah Hazmi</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P1 ML2, P3 MTSP, P5 ML1</p>
+<p><strong>P6HML, P6ML1, P2ML2&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Nurfarizah Bte Roslan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>P2ML1, P6ML2</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Nurhaslinah Osman</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>P3ML3, P4ML2</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Nurhazimah Abdul Halim</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>P1ML1, P3ML2</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Zubaidah Othman</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>P1ML1, P5ML1, P5HML</strong>
+</p>
 </td>
 </tr>
 </tbody>
