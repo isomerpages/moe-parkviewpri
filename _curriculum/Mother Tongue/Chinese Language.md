@@ -5,13 +5,12 @@ description: ""
 third_nav_title: Mother Tongue
 variant: tiptap
 ---
-<h4>执教老师</h4>
-<p></p>
+<h4><strong>执教老师</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL_Table.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL_Table.png">
 </div>
 <p></p>
-<h4>我们的骄傲</h4>
+<h4><strong>我们的骄傲</strong></h4>
 <p></p>
 <p></p>
 <table style="minWidth: 75px">
@@ -140,15 +139,17 @@ variant: tiptap
 </p>
 <p></p>
 <p></p>
-<h3>各项活动</h3>
-<h4>农历新年庆祝活动</h4>
+<h4><strong>各项活动</strong></h4>
+<p><strong>农历新年庆祝活动</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/CL_CNY.jpg">
 </div>
 <p>百惠的师生们每年都会举行多种多样的文化活动来庆祝农历新年。同学们除了在礼堂观看舞狮、古筝、武术等精彩的表演外，还会在课室里听老师们介绍农历新年的各种传统习俗，进行丰富有趣的手工活动。此外，华文老师和家长义工们还会趁着休息时间，在食堂设置写春联、剪纸和中国结等多个文化摊位，供同学们自由尝试。</p>
 <p></p>
-<h4>阅读活动</h4>
-<h5>好饿的毛毛虫</h5>
+<h4><strong>阅读活动</strong></h4>
+<p><strong>好饿的毛毛虫</strong>
+</p>
 <p>无论学习哪一种语言，阅读都是最重要的学习途径，让孩子受用一生。 百惠小学“好饿的毛毛虫”阅读活动旨在让孩子们拿起书本、爱上读书、读到好书。现在，孩子们已经养成习惯，常常记录自己读过的华文故事书、听故事会的故事、主动借阅课室图书、爱上了日本作家宫西达也的恐龙们……更不会忘记找老师们给自己的阅读手册盖个印章！</p>
 <p>令我们感到骄傲的是，由我校同学创作的绘本《鱼尾狮的秘密》、《榴莲的心愿》、《口罩英“熊”》、《时间糖果》等绘本在历届全国小学生绘本创作大赛中屡获奖项。为了鼓励更多同学参与创作，校内每年也都举办华文绘本比赛，最近还特别推出了四格漫画比赛和绘本配音比赛，希望未来的百惠小学能涌现出更多充满创意的小作家哦！</p>
 <div class="isomer-image-wrapper">
