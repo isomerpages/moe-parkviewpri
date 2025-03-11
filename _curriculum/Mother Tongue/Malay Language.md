@@ -485,7 +485,14 @@ for our Middle Primary Level activities.</p>
 <p>Our Primary one students had an enjoyable session trying to make the traditional
 kuih normally served during Hari Raya festive. They had the chance to make
 the kuih tart, makmur and kuih siput. Primary two students were exposed
-to a few Malay Traditional Games such as Congkak, Jelon, Chapteh, Ye-Yeh</p>
+to a few Malay Traditional Games such as Congkak, Jelon, Chapteh, Ye-Yeh
+and Batu Seremban. Our Primary three and four students had a collaboration
+activity with the other two Mother Tongue Department. They had the opportunity
+to learn the various spices used in the cooking from the different ethnic
+groups and different traditional kuih respectively. The primary three students
+ended the activity with making scented sachets from the spices and the
+primary four had the opportunity to taste the different ethnic kuih during
+their recess prepared by our parent volunteers.</p>
 <p></p>
 <p><strong><u>Sayembara Bahasa</u></strong>
 </p>
