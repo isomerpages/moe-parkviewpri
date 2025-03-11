@@ -61,20 +61,19 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Hungry__Caterpillar__2_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Hungry__Caterpillar__1_.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Hungry__Caterpillar__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Hungry__Caterpillar__1_.png">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Hungry__Caterpillar__3_.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Hungry__Caterpillar__3_.png">
 </div>
 </td>
 </tr>
@@ -87,7 +86,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Hungry__Caterpillar__1_.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Hungry__Caterpillar__2_.png">
 </div>
 </td>
 </tr>
