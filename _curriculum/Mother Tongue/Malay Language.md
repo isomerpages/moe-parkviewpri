@@ -31,6 +31,9 @@ to develop a love and appreciation for the language.</p>
 </tbody>
 </table>
 <h4>Our Team</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/Group_Picture.jpg">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -117,6 +120,15 @@ to develop a love and appreciation for the language.</p>
 </tr>
 </tbody>
 </table>
+<h4>Programmes</h4>
+<p>The Malay Language Unit is dedicated to nurturing students’ proficiency
+and appreciation of the Malay language and culture. We aim to create a
+vibrant and engaging learning environment where students develop strong
+communication skills and a deep connection to their heritage.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/Screenshot_2025_03_11_110549.png">
+</div>
 <p></p>
 <p><strong>Our Approaches</strong>
 </p>
@@ -195,7 +207,7 @@ in the students’ learning journey, and we truly appreciate your involvement.</
 </p>
 <p><strong><u>Writing Package - Mahir Menulis</u></strong>
 </p>
-<p>-Pictures-
+<p>
 <br>
 </p>
 <p>Our school's Malay Language Writing Package is designed to develop our
@@ -210,8 +222,13 @@ with essential writing skills, empowering them to express their thoughts
 confidently and creatively in the Malay language.</p>
 <p><strong><u>Oral Package - Saya Bijak Bertutur</u>&nbsp;</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/Saya_Bijak_Bertutur_pakej.png">
+</div>
 <p>
-<br>-Pictures-</p>
+<br>
+</p>
 <p>Our Saya Bijak Bertutur (<em>I Can Speak</em>) programme is designed to
 develop our P1-P6 students’ oral communication skills progressively, building
 their confidence and fluency in speaking Malay. This whole-school approach
@@ -226,8 +243,10 @@ and confidently in various contexts.</p>
 speakers who can communicate their ideas effectively in the Malay language.</p>
 <p><strong><u>Interactive Writing Package</u></strong>
 </p>
-<p>
-<br>-Pictures-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/Interaksi_Penulisa_Website.jpg">
+</div>
 <p>The Interactive Writing Programme for Primary 5–6 students is designed
 to develop students' writing skills by exposing them to various graphic
 stimuli and text prompts. This structured approach encourages active participation,
@@ -433,6 +452,10 @@ Usually conducted in conjunction with Bulan Bahasa (Malay Language Month),
 it allows students opportunities to participate in various activities catered
 to their level. We collaborated with the other two Mother Tongue Department
 for our Middle Primary Level activities.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/Screenshot_2025_03_11_111834.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
