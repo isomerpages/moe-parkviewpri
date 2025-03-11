@@ -101,9 +101,6 @@ to develop a love and appreciation for the language.</p>
 </table>
 <h4>Programmes</h4>
 <h5>Key Programmes</h5>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/Curriculum/Mother%20Tongue/Malay/MT-ML-Key%20Programmes.jpg">
-</div>
 <h5><em>RAKAN BAHASA</em></h5>
 <p><em>The school has appointed two students, Nur Raudah Bte Hanapi from P5B and Shaistah Nadia from 5D as the school’s Rakan Bahasa in 2021. The appointment ceremony was held on 9th April 2021. During this ceremony, they were presented with certificates of appointment. Our rakan bahasa is responsible for cultivating and spreading the love for reading amongst students in the school.</em>
 </p>
