@@ -34,20 +34,13 @@ to develop a love and appreciation for the language.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/Group_Picture.jpg">
 </div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Teaching Levels (Year 2023)</p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mdm Nailul Azmi Ismail</strong>
@@ -130,8 +123,7 @@ communication skills and a deep connection to their heritage.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/Screenshot_2025_03_11_110549.png">
 </div>
 <p></p>
-<p><strong>Our Approaches</strong>
-</p>
+<h4><strong>Our Approaches</strong></h4>
 <ol>
 <li>
 <p><strong>Support – </strong>We provide differentiated learning to cater
@@ -207,9 +199,7 @@ in the students’ learning journey, and we truly appreciate your involvement.</
 </p>
 <p><strong><u>Writing Package - Mahir Menulis</u></strong>
 </p>
-<p>
-<br>
-</p>
+<p></p>
 <p>Our school's Malay Language Writing Package is designed to develop our
 P1-P6 students' writing skills progressively, nurturing them into confident
 and creative writers. The package incorporates a variety of approaches
@@ -492,6 +482,11 @@ for our Middle Primary Level activities.</p>
 </tr>
 </tbody>
 </table>
+<p>Our Primary one students had an enjoyable session trying to make the traditional
+kuih normally served during Hari Raya festive. They had the chance to make
+the kuih tart, makmur and kuih siput. Primary two students were exposed
+to a few Malay Traditional Games such as Congkak, Jelon, Chapteh, Ye-Yeh</p>
+<p></p>
 <p><strong><u>Sayembara Bahasa</u></strong>
 </p>
 <p>Sayembara Bahasa is a competition organised by the cluster involving six
