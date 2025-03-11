@@ -11,8 +11,6 @@ variant: tiptap
 </div>
 <p></p>
 <h4><strong>我们的骄傲</strong></h4>
-<p></p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -22,28 +20,33 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/one.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Recital_competition__3_.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/two.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Recital_competition__2_.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/three.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Recital_competition__1_.png">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p>2024年，在由新加坡阿弥陀佛关怀中心主办的《文字飞扬 触动心灵》华文写作大赛中，我校薛舒雅同学获得金奖，袁恩睿同学和薛舒晴同学获得银奖。</p>
-<p></p>
+<p>2024年 ，在第七届全国课文朗读比赛中，我校蒋宜婷、张哲恺、邱子皖、 杨予恩同学获得低年级团体组铜奖；江了凡同学获得高年级个人组银奖。</p>
+<h4><strong>各项活动</strong></h4>
+<p><strong>农历新年庆祝活动</strong>
+</p>
+<p><strong>(cny Pics)</strong>
+</p>
+<p>百惠的师生们每年都会举行多种多样的文化活动来庆祝农历新年。同学们除了在礼堂观看舞狮、古筝、武术等精彩的表演外，还会在课室里听老师们介绍农历新年的各种传统习俗，进行丰富有趣的手工活动。此外，华文老师和家长义工们还会趁着休息时间，在食堂设置写春联、剪纸和中国结等多个文化摊位，供同学们自由尝试。2025年的新年特色活动“寻蛇游戏”更是激起了全校同学的极大热情，纷纷忘我地投入到游戏之中，收获了无限欢乐。</p>
+<h4><strong>阅读活动</strong></h4>
+<p><strong>好饿的毛毛虫</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -51,113 +54,61 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/four.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Hungry__Caterpillar__2_.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/five.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Hungry__Caterpillar__2_.png">
 </div>
-</td>
+</th>
 </tr>
-</tbody>
-</table>
-<p>2024年，我校薛舒雅同学在由新加坡圣婴小学和中国浙江省舟山市普陀区沈家门小学共同主办的国际小学生电脑创意写作比赛中获得国际银奖与新加坡银奖。</p>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/six.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Hungry__Caterpillar__1_.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/seven.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Hungry__Caterpillar__3_.png">
 </div>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/eight.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Hungry__Caterpillar__4_.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Hungry__Caterpillar__1_.png">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p>2024年，我校蔡钧杰、王丽心、黄俊稀同学在由新加坡文化学术协会主办的新加坡信约硬笔书法大赛中获得优胜奖。</p>
-<p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Blue_and_Pink_Geometric_Bake_Sale_Flyer__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Hungry__Caterpillar_seperate.png">
 </div>
-<p>2024年，我校蒋宜庭、许君诚、黄俊稀、孙新雨、王丽心同学在由新加坡书法家协会主办、观音庙赞助的全国中小学生硬笔书法比赛大决赛中获得优胜奖。</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/pic%20student%2001.jpeg">
-</div>
-<p>2023年，我校黄俊稀同学入围新加坡书法中心主办的全国毛笔/硬笔大决赛，并荣获小学组硬笔优秀奖。</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Curriculum/Mother%20Tongue/CL/img_1.jpg">
-</div>
-<p>2022年，在第五届新加坡中小学课文朗诵比赛中，我校吴俊擎同学获得低年级组个人银奖；叶勇克、冯睿一、陈劭齐、李心怡同学获得低年级组团体铜奖；陈语霏同学获得高年级组个人铜奖；高正轩、吴靓萱、简芳菲同学获得高年级组团体银奖；钟慧恩、林桓宇、张昊哲同学获得高年级组团体铜奖。</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Curriculum/Mother%20Tongue/CL/img_2.jpg">
-</div>
-<p>2022年，在佛光山全国中小学硬笔书法比赛中，我校方嘉航同学获得优胜奖，乔生和阿里雅同学获得文化奖，张祯迅同学获得参与奖。</p>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Curriculum/Mother%20Tongue/CL/img_3.jpg">
-</div>
-<p>2022年，在第11届全国中小学生书法比赛 “翰墨寄情迎国庆” 书法比赛中，我校张祯迅同学获得安慰奖。</p>
-<p>
-<br>
-</p>
-<p></p>
-<p></p>
-<h4><strong>各项活动</strong></h4>
-<p><strong>农历新年庆祝活动</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/CL_CNY.jpg">
-</div>
-<p>百惠的师生们每年都会举行多种多样的文化活动来庆祝农历新年。同学们除了在礼堂观看舞狮、古筝、武术等精彩的表演外，还会在课室里听老师们介绍农历新年的各种传统习俗，进行丰富有趣的手工活动。此外，华文老师和家长义工们还会趁着休息时间，在食堂设置写春联、剪纸和中国结等多个文化摊位，供同学们自由尝试。</p>
-<p></p>
-<h4><strong>阅读活动</strong></h4>
-<p><strong>好饿的毛毛虫</strong>
-</p>
 <p>无论学习哪一种语言，阅读都是最重要的学习途径，让孩子受用一生。 百惠小学“好饿的毛毛虫”阅读活动旨在让孩子们拿起书本、爱上读书、读到好书。现在，孩子们已经养成习惯，常常记录自己读过的华文故事书、听故事会的故事、主动借阅课室图书、爱上了日本作家宫西达也的恐龙们……更不会忘记找老师们给自己的阅读手册盖个印章！</p>
-<p>令我们感到骄傲的是，由我校同学创作的绘本《鱼尾狮的秘密》、《榴莲的心愿》、《口罩英“熊”》、《时间糖果》等绘本在历届全国小学生绘本创作大赛中屡获奖项。为了鼓励更多同学参与创作，校内每年也都举办华文绘本比赛，最近还特别推出了四格漫画比赛和绘本配音比赛，希望未来的百惠小学能涌现出更多充满创意的小作家哦！</p>
+<p>令我们感到骄傲的是，由我校同学创作的绘本在历届全国小学生绘本创作大赛中屡获奖项。校内也会时常举办绘本比赛、四格漫画比赛、绘本配音比赛等，希望为百惠小作家们提供多样化的创作平台，激发他们对华文的热情，发挥他们的无限潜力。</p>
+<p>2025年，我们推出了全新的 “闯关大冒险”活动，学生需要完成不同的任务，来获得积分和奖励。作为奖品的百惠闪卡，以本校华文老师为主角而设计，也将带给同学们不一样的惊喜。“闯关大冒险”共四道关卡，学生完成每一关的任务后即可获得闪卡，并可升级解锁新的挑战。</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Untitled_design__2_.jpg">
 </div>
-<h4>文化活动</h4>
-<h5>母语双周活动</h5>
+<h4><strong>文化活动</strong></h4>
+<p><strong>母语双周活动</strong>
+</p>
 <p>为了弘扬华族文化，让学生们了解、热爱自己的母语，华文部每年都为一至六年级的学生举办一系列精彩的母语双周活动。活动主要是针对各年级的需要而设计，内容涵盖书法、儿歌朗诵、创意绘画和文化营等，还联合家长义工和商家共同举办语文嘉年华和文化嘉年华，让学生“乐学善用”母语，并细细品茗珍贵的文化资产。母语双周活动不仅让学生学习到课本以外的知识，拉近了学生与文化之间的距离，同时也让大家见证了华族文化的魅力。</p>
+<h4><strong>“和书一起飞”小图书系列</strong></h4>
+<p>教育部所开发的“和书一起飞”小图书系列，是根据欢乐伙伴 2.0 的字词编写的，旨在帮助学生巩固识字，培养阅读华文图书的兴趣。家长可以通过 “看故事、说故事、做活动”三个步骤，陪同孩子一起阅读，完成活动，让孩子感受阅读的乐趣。
+从小培养阅读的习惯、让孩子爱上阅读，是父母送给孩子最好的礼物。希望爸爸妈妈可以尽早和孩子一起共读，享受阅读的过程，让孩子成为终身喜欢学习的读书人。</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/collage.jpg">
 </div>
