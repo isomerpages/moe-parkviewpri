@@ -200,6 +200,9 @@ in the students’ learning journey, and we truly appreciate your involvement.</
 <p><strong><u>Writing Package - Mahir Menulis</u></strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/Screenshot_2025_03_11_123959.png">
+</div>
 <p>Our school's Malay Language Writing Package is designed to develop our
 P1-P6 students' writing skills progressively, nurturing them into confident
 and creative writers. The package incorporates a variety of approaches
