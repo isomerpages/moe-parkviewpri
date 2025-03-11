@@ -645,4 +645,63 @@ students to celebrate, learn and practice the use of our Malay Language.&nbsp;</
 </tr>
 </tbody>
 </table>
+<h4>Useful Resources</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Dewan Bahasa &amp; Pustaka</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>https://prpm.dbp.gov.my/</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Malay Language Syllabus</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>https://www.moe.gov.sg/primary/curriculum/syllabus</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Malay Language Centre of Singapore</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>https://academyofsingaporeteachers.moe.edu.sg/mlcs</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Malay Language Learning &amp; Promotion Committee</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>https://www.mllpc.sg/</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mother Tongue Languages Symposium</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>https://www.mtls.edu.sg/</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
