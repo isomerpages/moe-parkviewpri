@@ -2,6 +2,7 @@ collections:
   park-view-experience:
     output: true
     order:
+      - Learning for Life Programme.md
       - Park View Yearbook/2024.md
       - Park View Yearbook/.keep
       - Park View Yearbook/2023.md
