@@ -52,7 +52,7 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Sanjevita Martin</p>
+<p>Ms Sanjevita Martin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="sanjevita_martin_rubin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sanjevita_martin_rubin@schools.gov.sg</a>
