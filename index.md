@@ -18,4 +18,5 @@ sections:
   - infopic:
       id: infopic
       image: /images/PVPS___Open_House_2025.png
+      alt: Image alt text
 ---
