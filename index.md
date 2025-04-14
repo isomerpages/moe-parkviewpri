@@ -15,4 +15,7 @@ sections:
         - title: Appreciation & Feedback
           description: ""
           url: https://www.parkviewpri.moe.edu.sg/our-stakeholders/appreciation-and-feedback/
+  - infopic:
+      id: infopic
+      image: /images/PVPS___Open_House_2025.png
 ---
