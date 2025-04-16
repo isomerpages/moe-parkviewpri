@@ -337,14 +337,21 @@ bonds among staff members while capturing precious memories.</p>
 <p>Beyond the festivities, the celebration reinforces important values such
 as forgiveness, generosity, and respect for cultural diversity, fostering
 a harmonious and inclusive school environment.</p>
-<p><strong><u>RAKAN BAHASA 2024&nbsp;</u></strong>
+<p><strong><u>RAKAN BAHASA 2025&nbsp;</u></strong>
 </p>
-<p>As part of Bulan Bahasa, students are appointed as Rakan Bahasa (Friends
-of the Language) to encourage those who are passionate about the Malay
-language and culture, to spread the love of the language to their peers,
-friends and families. Their role is to share the beauty of the Malay language
-and to continue promoting it.</p>
-<p>For the year 2024, the following students were appointed as Rakan Bahasa
+<p>Majlis&nbsp;Bahasa&nbsp;Melayu Singapura (MBMS) organises Bulan&nbsp;Bahasa
+annually with the aim of encouraging the use and appreciation of the Malay
+language,&nbsp;foster a strong community spirit, build cultural identity&nbsp;and
+instil community pride in the use of the Malay language in Singapore&nbsp;through
+various programmes and activities.</p>
+<p>As part of Bulan&nbsp;Bahasa, students who are passionate about the Malay
+language and culture are appointed for a year as&nbsp;<strong>Rakan&nbsp;Bahasa</strong> to
+be role models for the Malay language to their peers, friends and families.</p>
+<p>Students nominated as&nbsp;Rakan&nbsp;Bahasa&nbsp;will be given opportunities
+to refine their presentation skills, build confidence and appreciate the
+Malay culture as a Malay language ambassador. A myriad of language activities
+also awaits this year’s&nbsp;Rakan&nbsp;Bahasa.</p>
+<p>For the year 2025, the following students were appointed as Rakan Bahasa
 in PVPS.&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -354,89 +361,37 @@ in PVPS.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name</p>
+<p><strong>Name:</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mishel Qatrina Binte Mohamed Rizal&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5I</p>
+<p><strong>Class:</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Amira Binte Muhammad Ridjal&nbsp;</p>
+<p>Hannah Sufiyya Binte Muhammad Hafeez Piperdy&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5C&nbsp;</p>
+<p>4R3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nadya Adryana Binte Sulaiman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4R3</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="margin-left:-20.754716981132077px;margin-top:0px;" height="254" width="220.7547169811321" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeKAJobAPBeOvJxEmWwm6HkKX_InvhYyS1PWQUCTPGPTe2QXrg3O0gbBpkdtsL5iUM2tf8w0OXCUmklBMr-GBfDCmxrfc1oekUdn3jf1nO2LWyvwrvWtZPwI3ZG9ho0U4TBFh18YA?key=Lxz_MM8hs4LFiCZ043kXQg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/Picture1_ml.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 95%;" height="256" width="226.34579439252337" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfH0uOxRzjFYQ4SESF22c6PuvrHQHu9MX_xoR-bNK6ee80QECMTYBdZQNeQCNa1eQvPJU7XrAfhi4UFNdC9YLy8QNiPvh05saUy7sPF1EXi4TSUMOGvG3bgyEfbhHFC-mYFMYDDAA?key=Lxz_MM8hs4LFiCZ043kXQg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>As Rakan Bahasa, they have also participated in the following activities
-organized in conjunction with Bulan Bahasa.&nbsp;</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Name of Competition</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Achievement&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Peraduan Pintar Penterjemah 2024
-<br>EL-ML Translation Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Participation&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Pertandingan Teevers 2024
-<br>Teevers Audio-Drama Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Participation&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <p><strong><u>MTL FORTNIGHT&nbsp;</u></strong>
 </p>
 <p>The MTL Fortnight Programme is a platform to engage students in the learning
