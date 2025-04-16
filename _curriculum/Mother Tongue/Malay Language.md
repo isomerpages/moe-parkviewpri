@@ -5,36 +5,16 @@ description: ""
 third_nav_title: Mother Tongue
 variant: tiptap
 ---
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Department Goal</strong>
-</p>
+<h4>Department Goal</h4>
 <p>To develop a generation of confident and effective Malay Language anchored
 in values.</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Department Purpose</strong>
-</p>
-<p>To&nbsp; provide a positive and culturally vibrant environment for students
+<h4>Purpose</h4>
+<p>To provide a positive and culturally vibrant environment for students
 to develop a love and appreciation for the language.</p>
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4>Our Team</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/Group_Picture.jpg">
 </div>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -43,72 +23,58 @@ to develop a love and appreciation for the language.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Nailul Azmi Ismail</strong>
-</p>
+<p>Mdm Nailul Azmi Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P1ML2, P3ML1</strong>
-</p>
+<p>P1ML2, P3ML1</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Norhanim Hashim (Senior Teacher)</strong>
-</p>
+<p>Mdm Norhanim Hashim (Senior Teacher)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P4ML1, P5ML2</strong>
-</p>
+<p>P4ML1, P5ML2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Nurfarhannah Hazmi</strong>
-</p>
+<p>Mdm Nurfarhannah Hazmi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P6HML, P6ML1, P2ML2&nbsp;</strong>
-</p>
+<p>P6HML, P6ML1, P2ML2&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Nurfarizah Bte Roslan</strong>
-</p>
+<p>Mdm Nurfarizah Bte Roslan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P2ML1, P6ML2</strong>
-</p>
+<p>P2ML1, P6ML2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Nurhaslinah Osman</strong>
-</p>
+<p>Mdm Nurhaslinah Osman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P3ML3, P4ML2</strong>
-</p>
+<p>P3ML3, P4ML2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Nurhazimah Abdul Halim</strong>
-</p>
+<p>Mdm Nurhazimah Abdul Halim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P1ML1, P3ML2</strong>
-</p>
+<p>P1ML1, P3ML2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Zubaidah Othman</strong>
-</p>
+<p>Mdm Zubaidah Othman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>P1ML1, P5ML1, P5HML</strong>
-</p>
+<p>P1ML1, P5ML1, P5HML</p>
 </td>
 </tr>
 </tbody>
@@ -118,33 +84,31 @@ to develop a love and appreciation for the language.</p>
 and appreciation of the Malay language and culture. We aim to create a
 vibrant and engaging learning environment where students develop strong
 communication skills and a deep connection to their heritage.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/Screenshot_2025_03_11_110549.png">
 </div>
-<p></p>
-<h4><strong>Our Approaches</strong></h4>
+<h4>Our Approaches</h4>
 <ol>
 <li>
-<p><strong>Support – </strong>We provide differentiated learning to cater
-to students’ varying abilities, ensuring that every learner receives the
-necessary guidance and encouragement to improve their language skills.</p>
+<p>Support – We provide differentiated learning to cater to students’ varying
+abilities, ensuring that every learner receives the necessary guidance
+and encouragement to improve their language skills.</p>
 </li>
 <li>
-<p><strong>Enrich – </strong>Our interactive programs, such as storytelling
-sessions, cultural activities, and reading programs, help deepen students’
-love for the Malay language beyond the classroom.</p>
+<p>Enrich – Our interactive programs, such as storytelling sessions, cultural
+activities, and reading programs, help deepen students’ love for the Malay
+language beyond the classroom.</p>
 </li>
 <li>
-<p><strong>Enhance – </strong>We incorporate ICT tools, gamification, and
-experiential learning to make the learning process fun, meaningful, and
-relevant in today’s digital world.</p>
+<p>Enhance – We incorporate ICT tools, gamification, and experiential learning
+to make the learning process fun, meaningful, and relevant in today’s digital
+world.</p>
 </li>
 </ol>
 <p>Through these approaches, we strive to build confident and effective Malay
 language users who appreciate and uphold the beauty of the language and
 culture.</p>
-<p><strong><u>READING MUM:</u></strong>
+<p><strong><u>READING MUM</u></strong>
 </p>
 <p>Our Reading Mum Programme for Primary 1 and 2 students has been a wonderful
 success, thanks to the dedication of our parent volunteers and the enthusiasm
@@ -159,9 +123,6 @@ eagerly participated in the sessions, showing great enthusiasm.&nbsp;</p>
 <p>A heartfelt thank you to all the parent volunteers who contributed their
 time and effort to this meaningful programme. Your support has made a difference
 in the students’ learning journey, and we truly appreciate your involvement.</p>
-<p>
-<br>
-</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -194,12 +155,9 @@ in the students’ learning journey, and we truly appreciate your involvement.</
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong><u>TEACHER DEVELOPED LESSON PACKAGES</u></strong>
-</p>
+<h4>TEACHER DEVELOPED LESSON PACKAGES</h4>
 <p><strong><u>Writing Package - Mahir Menulis</u></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/Screenshot_2025_03_11_123959.png">
 </div>
@@ -215,13 +173,9 @@ with essential writing skills, empowering them to express their thoughts
 confidently and creatively in the Malay language.</p>
 <p><strong><u>Oral Package - Saya Bijak Bertutur</u>&nbsp;</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/Saya_Bijak_Bertutur_pakej.png">
 </div>
-<p>
-<br>
-</p>
 <p>Our Saya Bijak Bertutur (<em>I Can Speak</em>) programme is designed to
 develop our P1-P6 students’ oral communication skills progressively, building
 their confidence and fluency in speaking Malay. This whole-school approach
@@ -236,7 +190,6 @@ and confidently in various contexts.</p>
 speakers who can communicate their ideas effectively in the Malay language.</p>
 <p><strong><u>Interactive Writing Package</u></strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/Interaksi_Penulisa_Website.jpg">
 </div>
@@ -249,7 +202,7 @@ is written correctly in their response. By the end of the programme, students
 will be able to compose short messages or notes based on their understanding
 and interpretation of the given stimuli or text.</p>
 <h4>Enrichment</h4>
-<p><strong><u>HARI RAYA CELEBRATION</u>:</strong>
+<p><strong><u>Hari Raya Celebration</u></strong>
 </p>
 <p>Hari Raya Aidilfitri is a joyous occasion celebrated in our school to
 foster cultural appreciation and unity among students and staff. Through
@@ -315,9 +268,7 @@ and Izzatuz Zakiyyah who confidently spoke and presented all our performers.</p>
 <p>Our P6 students, Hannah, Awwal, Mikhail and Syafie performed a Hari Raya
 Rap. The crowd went crazy!</p>
 <p>The concert ended with a bang when the whole school participated in a
-mass Hari Raya dance, choreographed by our PE teacher, Mr Azmi.
-<br>
-</p>
+mass Hari Raya dance, choreographed by our PE teacher, Mr Azmi.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/WhatsApp_Image_2025_03_04_at_6_52_39_PM.jpg">
 </div>
@@ -325,8 +276,6 @@ mass Hari Raya dance, choreographed by our PE teacher, Mr Azmi.
 colleagues, setting up a Hari Raya photobooth in the staffroom is a fantastic
 idea. It not only creates a fun and engaging environment but also strengthens
 bonds among staff members while capturing precious memories.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/WhatsApp_Image_2025_03_04_at_9_30_03_AM.jpg">
 </div>
@@ -345,8 +294,8 @@ language,&nbsp;foster a strong community spirit, build cultural identity&nbsp;an
 instil community pride in the use of the Malay language in Singapore&nbsp;through
 various programmes and activities.</p>
 <p>As part of Bulan&nbsp;Bahasa, students who are passionate about the Malay
-language and culture are appointed for a year as&nbsp;<strong>Rakan&nbsp;Bahasa</strong> to
-be role models for the Malay language to their peers, friends and families.</p>
+language and culture are appointed for a year as&nbsp;Rakan&nbsp;Bahasa
+to be role models for the Malay language to their peers, friends and families.</p>
 <p>Students nominated as&nbsp;Rakan&nbsp;Bahasa&nbsp;will be given opportunities
 to refine their presentation skills, build confidence and appreciate the
 Malay culture as a Malay language ambassador. A myriad of language activities
@@ -361,11 +310,11 @@ in PVPS.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Name:</strong>
+<p><strong>Name</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Class:</strong>
+<p><strong>Class</strong>
 </p>
 </td>
 </tr>
@@ -374,7 +323,7 @@ in PVPS.&nbsp;</p>
 <p>Hannah Sufiyya Binte Muhammad Hafeez Piperdy&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4R3</p>
+<p>4R2</p>
 </td>
 </tr>
 <tr>
@@ -382,7 +331,7 @@ in PVPS.&nbsp;</p>
 <p>Nadya Adryana Binte Sulaiman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4R3</p>
+<p>4R2</p>
 </td>
 </tr>
 </tbody>
@@ -392,7 +341,7 @@ in PVPS.&nbsp;</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/Picture1_ml.jpg">
 </div>
 <p></p>
-<p><strong><u>MTL FORTNIGHT&nbsp;</u></strong>
+<p><strong><u>MTL FORTNIGHT</u></strong>
 </p>
 <p>The MTL Fortnight Programme is a platform to engage students in the learning
 and appreciation of their MT languages outside the context of their lessons.
@@ -400,7 +349,6 @@ Usually conducted in conjunction with Bulan Bahasa (Malay Language Month),
 it allows students opportunities to participate in various activities catered
 to their level. We collaborated with the other two Mother Tongue Department
 for our Middle Primary Level activities.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/Screenshot_2025_03_11_111834.png">
 </div>
@@ -451,7 +399,6 @@ groups and different traditional kuih respectively. The primary three students
 ended the activity with making scented sachets from the spices and the
 primary four had the opportunity to taste the different ethnic kuih during
 their recess prepared by our parent volunteers.</p>
-<p></p>
 <p><strong><u>Sayembara Bahasa</u></strong>
 </p>
 <p>Sayembara Bahasa is a competition organised by the cluster involving six
@@ -471,7 +418,7 @@ students to celebrate, learn and practice the use of our Malay Language.&nbsp;</
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level and Event&nbsp;</strong>
+<p><strong>Level and</strong>  <strong>Event&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -479,14 +426,13 @@ students to celebrate, learn and practice the use of our Malay Language.&nbsp;</
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Achievement&nbsp;</strong>
+<p><strong>Achievement</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1
-<br>Singing Competition&nbsp;</p>
+<p>P1 Singing Competition&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -515,11 +461,9 @@ students to celebrate, learn and practice the use of our Malay Language.&nbsp;</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P2
-<br>Acting Competition</p>
+<p>P2 Acting Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="margin-left:0px;margin-top:0px;" height="221" width="339" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXefcLB3DxX01jYgDHNh8nr4h4f3kOGi2AFa7saYO2iM_YM7RE1zdnpo5hQMnYKSB2HUFGI8cH4HYjQC5GeZJW9cBk0OeDmpJkRm07rIUEBmV7OCWL4FRjX4_2JCxV6EV8gOJBc5PA?key=Lxz_MM8hs4LFiCZ043kXQg">
 </div>
@@ -536,8 +480,7 @@ students to celebrate, learn and practice the use of our Malay Language.&nbsp;</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P3
-<br>Poetry Recitation</p>
+<p>P3 Poetry Recitation</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -552,8 +495,7 @@ students to celebrate, learn and practice the use of our Malay Language.&nbsp;</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P4
-<br>Acting Competition</p>
+<p>P4 Acting Competition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -574,8 +516,7 @@ students to celebrate, learn and practice the use of our Malay Language.&nbsp;</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5
-<br>Rap Competition</p>
+<p>P5 Rap Competition</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -595,11 +536,9 @@ students to celebrate, learn and practice the use of our Malay Language.&nbsp;</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P6
-<br>Language Quiz</p>
+<p>P6 Language Quiz</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/Sayembara_P6.jpg">
 </div>
@@ -623,8 +562,7 @@ students to celebrate, learn and practice the use of our Malay Language.&nbsp;</
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dewan Bahasa &amp; Pustaka</strong>
-</p>
+<p>Dewan Bahasa &amp; Pustaka</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://prpm.dbp.gov.my/" rel="noopener nofollow" target="_blank">https://prpm.dbp.gov.my/</a>
@@ -633,8 +571,7 @@ students to celebrate, learn and practice the use of our Malay Language.&nbsp;</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Malay Language Syllabus</strong>
-</p>
+<p>Malay Language Syllabus</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.moe.gov.sg/primary/curriculum/syllabus" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/primary/curriculum/syllabus</a>
@@ -643,8 +580,7 @@ students to celebrate, learn and practice the use of our Malay Language.&nbsp;</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Malay Language Centre of Singapore</strong>
-</p>
+<p>Malay Language Centre of Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://academyofsingaporeteachers.moe.edu.sg/mlcs" rel="noopener nofollow" target="_blank">https://academyofsingaporeteachers.moe.edu.sg/mlcs</a>
@@ -653,8 +589,7 @@ students to celebrate, learn and practice the use of our Malay Language.&nbsp;</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Malay Language Learning &amp; Promotion Committee</strong>
-</p>
+<p>Malay Language Learning &amp; Promotion Committee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.mllpc.sg/" rel="noopener nofollow" target="_blank">https://www.mllpc.sg/</a>
@@ -663,8 +598,7 @@ students to celebrate, learn and practice the use of our Malay Language.&nbsp;</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mother Tongue Languages Symposium</strong>
-</p>
+<p>Mother Tongue Languages Symposium</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.mtls.edu.sg/" rel="noopener nofollow" target="_blank">https://www.mtls.edu.sg/</a>
