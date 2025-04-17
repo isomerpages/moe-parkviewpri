@@ -33,7 +33,7 @@ students with essential skills to excel in mathematics and beyond.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Enrish</p>
+<p>Enrich</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Support</p>
