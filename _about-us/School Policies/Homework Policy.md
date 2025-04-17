@@ -5,13 +5,12 @@ description: ""
 third_nav_title: School Policies
 variant: tiptap
 ---
-<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Homework Policy&nbsp;</strong>
-</p>
+<h4>1. Homework Policy&nbsp;</h4>
 <p>The Homework Policy helps parents understand how homework is designed,
 assigned, and managed to support their child's learning and overall development.
 The policy aims to:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reinforce classroom
-learning through purposeful and meaningful assignments.</p>
+<p><strong>Reinforce classroom learning through purposeful and meaningful assignments.</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Foster critical thinking, creativity, and self-directed learning skills
@@ -30,15 +29,12 @@ levels through differentiated homework.</p>
 accountability, and collaboration among teachers, students, and parents.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; General Guidelines</strong>
-</p>
+<h4>2. General Guidelines</h4>
 <p>Homework is designed to provide students with focused practice while maintaining
 a healthy balance between academics and personal development. Emphasis
 is placed on quality and consistency, rather than excessive or repetitive
 tasks. By adhering to homework time guidelines, we ensure that students
 benefit from meaningful and manageable assignments without feeling overwhelmed</p>
-<p>&nbsp;</p>
 <p><u>2.1 Homework for English, Mathematics, Science and Mother Tongue during School Term</u>
 </p>
 <table style="minWidth: 75px">
@@ -103,7 +99,6 @@ benefit from meaningful and manageable assignments without feeling overwhelmed</
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p><u>2.2 Homework for English, Mathematics, Science and Mother Tongue during School Holidays</u>
 </p>
 <p>School holidays are a time for students to rest, recharge, and explore
@@ -172,19 +167,16 @@ can enjoy a well-deserved break.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p><u>2.3 Homework during Public Holidays</u>
 </p>
 <p>To give students a break from formal learning and allow them to spend
 quality time with their families, no homework will be assigned during public
 holidays.</p>
-<p>&nbsp;</p>
-<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Role of Students</strong>
-</p>
+<h4>3. Role of Students</h4>
 <p>To maximise their homework and learning experience, students should cultivate
 &nbsp;good habits and take responsibility for their assignments.</p>
-<p>Students can develop effective homework habits by adhering to the following
-responsibilities:</p>
+<p><strong>Students can develop effective homework habits by adhering to the following responsibilities:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Record all assignments from the Homework Board in the Student Handbook
@@ -203,18 +195,14 @@ for easy reference.</p>
 <p>Establish and follow a home study timetable to manage time effectively.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Role of Parents</strong>
-</p>
+<h4>4. Role of Parents</h4>
 <p>Parents play a vital role in supporting their child’s learning and homework
 routine. By creating a positive home environment for studying, setting
 expectations, and maintaining open communication with teachers, parents
 can help their child develop good habits, manage time effectively, and
 foster a love for learning.</p>
-<p>&nbsp;</p>
-<p>Parents can support their children’s learning by:</p>
+<p><strong>Parents can support their children’s learning by:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Checking the Student Handbook for homework assignments.</p>
@@ -232,5 +220,4 @@ foster a love for learning.</p>
 <p>Communicating with teachers about their child’s progress.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
