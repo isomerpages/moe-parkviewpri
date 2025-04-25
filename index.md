@@ -21,4 +21,5 @@ sections:
       alt: Image alt text
       button: Click  here to register now
       url: https://go.gov.sg/pvps-openhouse2025
+      title: Make a Date With Us!
 ---
