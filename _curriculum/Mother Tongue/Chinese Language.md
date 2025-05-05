@@ -45,8 +45,76 @@ variant: tiptap
 <h4><strong>各项活动</strong></h4>
 <p><strong>农历新年庆祝活动</strong>
 </p>
-<p><strong>(cny Pics)</strong>
-</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/CNY__1__min.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/CNY__2__min.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/CNY__3__min.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/CNY__4__min.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/CNY__5__min.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/CNY__6__min.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/CNY__7__min.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/CNY__8__min.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/CNY__9__min.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>百惠的师生们每年都会举行多种多样的文化活动来庆祝农历新年。同学们除了在礼堂观看舞狮、古筝、武术等精彩的表演外，还会在课室里听老师们介绍农历新年的各种传统习俗，进行丰富有趣的手工活动。此外，华文老师和家长义工们还会趁着休息时间，在食堂设置写春联、剪纸和中国结等多个文化摊位，供同学们自由尝试。2025年的新年特色活动“寻蛇游戏”更是激起了全校同学的极大热情，纷纷忘我地投入到游戏之中，收获了无限欢乐。</p>
 <h4><strong>阅读活动</strong></h4>
 <p><strong>好饿的毛毛虫</strong>
