@@ -135,9 +135,28 @@ variant: tiptap
 <h4><strong>“和书一起飞”小图书系列</strong></h4>
 <p>教育部所开发的“和书一起飞”小图书系列，是根据欢乐伙伴 2.0 的字词编写的，旨在帮助学生巩固识字，培养阅读华文图书的兴趣。家长可以通过 “看故事、说故事、做活动”三个步骤，陪同孩子一起阅读，完成活动，让孩子感受阅读的乐趣。
 从小培养阅读的习惯、让孩子爱上阅读，是父母送给孩子最好的礼物。希望爸爸妈妈可以尽早和孩子一起共读，享受阅读的过程，让孩子成为终身喜欢学习的读书人。</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/collage.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/MOE_SOAR_book__1_.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/MOE_SOAR_book__2_.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>学习资源</h4>
 <table style="minWidth: 100px">
 <colgroup>
