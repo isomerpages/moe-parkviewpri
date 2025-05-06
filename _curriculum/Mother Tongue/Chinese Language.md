@@ -123,7 +123,10 @@ variant: tiptap
 <p>令我们感到骄傲的是，由我校同学创作的绘本在历届全国小学生绘本创作大赛中屡获奖项。校内也会时常举办绘本比赛、四格漫画比赛、绘本配音比赛等，希望为百惠小作家们提供多样化的创作平台，激发他们对华文的热情，发挥他们的无限潜力。</p>
 <p>2025年，我们推出了全新的 “闯关大冒险”活动，学生需要完成不同的任务，来获得积分和奖励。作为奖品的百惠闪卡，以本校华文老师为主角而设计，也将带给同学们不一样的惊喜。“闯关大冒险”共四道关卡，学生完成每一关的任务后即可获得闪卡，并可升级解锁新的挑战。</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Untitled_design__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Your_paragraph_text__1_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Hungry__Caterpillar_seperate.png">
 </div>
 <h4><strong>文化活动</strong></h4>
 <p><strong>母语双周活动</strong>
