@@ -11,6 +11,7 @@ variant: tiptap
 </div>
 <p></p>
 <h4><strong>我们的骄傲</strong></h4>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -19,21 +20,24 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Recital_competition__3_.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Recital_competition__2_.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Recital_competition__1_.png">
 </div>
-</td>
+</th>
 </tr>
 </tbody>
 </table>
@@ -41,8 +45,76 @@ variant: tiptap
 <h4><strong>各项活动</strong></h4>
 <p><strong>农历新年庆祝活动</strong>
 </p>
-<p><strong>(cny Pics)</strong>
-</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/CNY__1__min.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/CNY__2__min.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/CNY__3__min.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/CNY__4__min.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/CNY__5__min.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/CNY__6__min.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/CNY__7__min.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/CNY__8__min.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/CNY__9__min.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>百惠的师生们每年都会举行多种多样的文化活动来庆祝农历新年。同学们除了在礼堂观看舞狮、古筝、武术等精彩的表演外，还会在课室里听老师们介绍农历新年的各种传统习俗，进行丰富有趣的手工活动。此外，华文老师和家长义工们还会趁着休息时间，在食堂设置写春联、剪纸和中国结等多个文化摊位，供同学们自由尝试。2025年的新年特色活动“寻蛇游戏”更是激起了全校同学的极大热情，纷纷忘我地投入到游戏之中，收获了无限欢乐。</p>
 <h4><strong>阅读活动</strong></h4>
 <p><strong>好饿的毛毛虫</strong>
@@ -51,18 +123,98 @@ variant: tiptap
 <p>令我们感到骄傲的是，由我校同学创作的绘本在历届全国小学生绘本创作大赛中屡获奖项。校内也会时常举办绘本比赛、四格漫画比赛、绘本配音比赛等，希望为百惠小作家们提供多样化的创作平台，激发他们对华文的热情，发挥他们的无限潜力。</p>
 <p>2025年，我们推出了全新的 “闯关大冒险”活动，学生需要完成不同的任务，来获得积分和奖励。作为奖品的百惠闪卡，以本校华文老师为主角而设计，也将带给同学们不一样的惊喜。“闯关大冒险”共四道关卡，学生完成每一关的任务后即可获得闪卡，并可升级解锁新的挑战。</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Untitled_design__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Your_paragraph_text__1_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Hungry__Caterpillar_seperate.png">
 </div>
 <h4><strong>文化活动</strong></h4>
 <p><strong>母语双周活动</strong>
 </p>
-<p>为了弘扬华族文化，让学生们了解、热爱自己的母语，华文部每年都为一至六年级的学生举办一系列精彩的母语双周活动。活动主要是针对各年级的需要而设计，内容涵盖书法、儿歌朗诵、创意绘画和文化营等，还联合家长义工和商家共同举办语文嘉年华和文化嘉年华，让学生“乐学善用”母语，并细细品茗珍贵的文化资产。母语双周活动不仅让学生学习到课本以外的知识，拉近了学生与文化之间的距离，同时也让大家见证了华族文化的魅力。</p>
+<p>为了弘扬华族文化，让学生们了解、热爱自己的母语，我们每年都为一至六年级的学生举办一系列精彩的母语双周活动。活动主要是针对各年级的需要而设计，内容涵盖书法、儿歌朗诵、创意绘画和文化营等，还联合家长义工和商家共同举办语文嘉年华和文化嘉年华，让学生“乐学善用”母语，接受华族文化熏陶的同时也欣赏华族艺术之美。</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/MT_fortnight__1_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/MT_fortnight__2_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/MT_fortnight__3_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/MT_fortnight__4_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/MT_fortnight__5_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/MT_fortnight__6_.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>“和书一起飞”小图书系列</strong></h4>
 <p>教育部所开发的“和书一起飞”小图书系列，是根据欢乐伙伴 2.0 的字词编写的，旨在帮助学生巩固识字，培养阅读华文图书的兴趣。家长可以通过 “看故事、说故事、做活动”三个步骤，陪同孩子一起阅读，完成活动，让孩子感受阅读的乐趣。
 从小培养阅读的习惯、让孩子爱上阅读，是父母送给孩子最好的礼物。希望爸爸妈妈可以尽早和孩子一起共读，享受阅读的过程，让孩子成为终身喜欢学习的读书人。</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/collage.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/MOE_SOAR_book__1_.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/MOE_SOAR_book__2_.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><a href="/files/MOE_SOAR_Parents_Guide_for_Chinese_Language_Reading_English_Version_compressed.pdf" rel="noopener nofollow" target="_blank">MOE SOAR Parents Guide for Chinese Language Reading English Version</a>
+</p>
+<p><a href="/files/CL DEPT/F.pdf" rel="noopener nofollow" target="_blank">“和书一起飞” 家长导读指引（一下）</a>
+</p>
+<p><a href="/files/CL DEPT/1.pdf" rel="noopener nofollow" target="_blank">“和书一起飞” 家长导读指引（一上）</a>
+</p>
+<p></p>
+<p></p>
 <h4>学习资源</h4>
 <table style="minWidth: 100px">
 <colgroup>
