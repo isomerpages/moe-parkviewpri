@@ -131,7 +131,57 @@ variant: tiptap
 <h4><strong>文化活动</strong></h4>
 <p><strong>母语双周活动</strong>
 </p>
-<p>为了弘扬华族文化，让学生们了解、热爱自己的母语，华文部每年都为一至六年级的学生举办一系列精彩的母语双周活动。活动主要是针对各年级的需要而设计，内容涵盖书法、儿歌朗诵、创意绘画和文化营等，还联合家长义工和商家共同举办语文嘉年华和文化嘉年华，让学生“乐学善用”母语，并细细品茗珍贵的文化资产。母语双周活动不仅让学生学习到课本以外的知识，拉近了学生与文化之间的距离，同时也让大家见证了华族文化的魅力。</p>
+<p>为了弘扬华族文化，让学生们了解、热爱自己的母语，我们每年都为一至六年级的学生举办一系列精彩的母语双周活动。活动主要是针对各年级的需要而设计，内容涵盖书法、儿歌朗诵、创意绘画和文化营等，还联合家长义工和商家共同举办语文嘉年华和文化嘉年华，让学生“乐学善用”母语，接受华族文化熏陶的同时也欣赏华族艺术之美。</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/MT_fortnight__1_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/MT_fortnight__2_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/MT_fortnight__3_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/MT_fortnight__4_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/MT_fortnight__5_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/MT_fortnight__6_.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>“和书一起飞”小图书系列</strong></h4>
 <p>教育部所开发的“和书一起飞”小图书系列，是根据欢乐伙伴 2.0 的字词编写的，旨在帮助学生巩固识字，培养阅读华文图书的兴趣。家长可以通过 “看故事、说故事、做活动”三个步骤，陪同孩子一起阅读，完成活动，让孩子感受阅读的乐趣。
 从小培养阅读的习惯、让孩子爱上阅读，是父母送给孩子最好的礼物。希望爸爸妈妈可以尽早和孩子一起共读，享受阅读的过程，让孩子成为终身喜欢学习的读书人。</p>
