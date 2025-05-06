@@ -207,6 +207,14 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p><a href="/files/MOE_SOAR_Parents_Guide_for_Chinese_Language_Reading_English_Version_compressed.pdf" rel="noopener nofollow" target="_blank">MOE SOAR Parents Guide for Chinese Language Reading English Version</a>
+</p>
+<p><a href="/files/CL DEPT/F.pdf" rel="noopener nofollow" target="_blank">“和书一起飞” 家长导读指引（一下）</a>
+</p>
+<p><a href="/files/CL DEPT/1.pdf" rel="noopener nofollow" target="_blank">“和书一起飞” 家长导读指引（一上）</a>
+</p>
+<p></p>
+<p></p>
 <h4>学习资源</h4>
 <table style="minWidth: 100px">
 <colgroup>
