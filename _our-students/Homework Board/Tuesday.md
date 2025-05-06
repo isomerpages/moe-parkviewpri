@@ -5,33 +5,32 @@ variant: tiptap
 description: ""
 third_nav_title: Homework Board
 ---
-<h3>1R1</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Students/HW Board/Tuesday/WhatsApp_Image_2025_04_15_at_2_34_33_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Students/HW Board/Tuesday/WhatsApp_Image_2025_05_06_at_3_04_42_PM.jpg">
 </div>
-<h3>1R2</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Students/HW Board/Tuesday/WhatsApp_Image_2025_04_15_at_2_34_33_PM__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Students/HW Board/Tuesday/WhatsApp_Image_2025_05_06_at_3_04_43_PM.jpg">
 </div>
-<h3>1R3</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Students/HW Board/Tuesday/WhatsApp_Image_2025_04_15_at_2_34_33_PM__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Students/HW Board/Tuesday/WhatsApp_Image_2025_05_06_at_3_04_43_PM__1_.jpg">
 </div>
-<h3>1I</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Students/HW Board/Tuesday/WhatsApp_Image_2025_04_15_at_2_34_34_PM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Students/HW Board/Tuesday/WhatsApp_Image_2025_05_06_at_3_04_43_PM__2_.jpg">
 </div>
-<h3>1C</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Students/HW Board/Tuesday/WhatsApp_Image_2025_04_15_at_2_34_34_PM__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Students/HW Board/Tuesday/WhatsApp_Image_2025_05_06_at_3_04_43_PM__3_.jpg">
 </div>
-<h3>1H</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Students/HW Board/Tuesday/WhatsApp_Image_2025_04_15_at_2_34_34_PM__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Students/HW Board/Tuesday/WhatsApp_Image_2025_05_06_at_3_04_44_PM.jpg">
 </div>
-<h3>1G</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Students/HW Board/Tuesday/WhatsApp_Image_2025_04_15_at_2_34_34_PM__3_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our Students/HW Board/Tuesday/WhatsApp_Image_2025_05_06_at_3_04_44_PM__1_.jpg">
 </div>
-<h3></h3>
 <p></p>
