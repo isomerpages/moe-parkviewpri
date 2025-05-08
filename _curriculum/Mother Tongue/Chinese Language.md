@@ -11,36 +11,9 @@ variant: tiptap
 </div>
 <p></p>
 <h4><strong>我们的骄傲</strong></h4>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Recital_competition__3_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/1.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Recital_competition__2_.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Recital_competition__1_.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <p>2024年 ，在第七届全国课文朗读比赛中，我校蒋宜婷、张哲恺、邱子皖、 杨予恩同学获得低年级团体组铜奖；江了凡同学获得高年级个人组银奖。</p>
 <h4><strong>各项活动</strong></h4>
 <p><strong>农历新年庆祝活动</strong>
