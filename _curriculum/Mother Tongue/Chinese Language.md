@@ -11,10 +11,87 @@ variant: tiptap
 </div>
 <p></p>
 <h4><strong>我们的骄傲</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/1__3_.jpg">
 </div>
 <p>2024年 ，在第七届全国课文朗读比赛中，我校蒋宜婷、张哲恺、邱子皖、 杨予恩同学获得低年级团体组铜奖；江了凡同学获得高年级个人组银奖。</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/02.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/01.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/01.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>2024年，在由新加坡阿弥陀佛关怀中心主办的《文字飞扬 触动心灵》华文写作大赛中，我校薛舒雅同学获得金奖，袁恩睿同学和薛舒晴同学获得银奖。</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/05.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/04.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>2024年，我校薛舒雅同学在由新加坡圣婴小学和中国浙江省舟山市普陀区沈家门小学共同主办的国际小学生电脑创意写作比赛中获得国际银奖与新加坡银奖。</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/06.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/07.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/08.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>2024年，我校蔡钧杰、王丽心、黄俊稀同学在由新加坡文化学术协会主办的新加坡信约硬笔书法大赛中获得优胜奖。</p>
 <h4><strong>各项活动</strong></h4>
 <p><strong>农历新年庆祝活动</strong>
 </p>
