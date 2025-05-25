@@ -73,6 +73,67 @@ trash into interesting works of art.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Singapore Youth Festivals (SYF) Arts Presentation</p>
+<p>&nbsp;</p>
+<p>Theme: <strong>Art<em>i</em>st and Collaboration: <em>Tiny Wonders, Big Ideas</em></strong>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Recognition:</p>
+<p>&nbsp;</p>
+<p>Category B – “BEAR-Y HAPPY TOGETHER”</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fo Guang Shan 2025 Art Competition</p>
+<p>2025佛光山三好绘画比赛</p>
+<p>&nbsp;</p>
+<p>Theme: <em>Together we practice the three Acts of Goodness. Let us unite to save the Earth!</em>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>Active Participation School Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JQA International Environmental Children's Drawing Contest</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Charlene Kurniawan</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nicole Kurniawan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SOTA P6 On-The-Spot Art Competition</p>
+<p>Date: 15 February 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>16<sup>th</sup> Singapore Watercolour Society (SWS) Junior Watercolour
 Competition 2024&nbsp;</p>
 <p></p>
