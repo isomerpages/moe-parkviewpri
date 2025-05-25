@@ -584,6 +584,10 @@ Contest</p>
 </a>
 </div>
 <p></p>
+<h4>Fo Guang Shan (佛光山) &nbsp;Montage</h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/k-izBRXK6gU?si=su6j9WfvH7kA7HCb"></iframe>
+</div>
 <h4>Traffic Signage LTA Collab</h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4IqfBwWOOJw?si=2LxNpZMak8MeIxM6"></iframe>
