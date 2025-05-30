@@ -33,62 +33,28 @@ and dental treatment is provided as well.</p>
 </tr>
 </tbody>
 </table>
+<p>For general enquiry, please email: <a href="mailto:contact_yps@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a>
+</p>
 <h4>Dental Clinic's Schedule</h4>
 <div class="iframe-wrapper">
 <iframe style="border-width:0" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;ctz=Asia%2FSingapore&amp;showPrint=0&amp;mode=MONTH&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;showNav=0&amp;showTitle=0&amp;title=Dental%20Clinic's%20Schedule&amp;src=Y18yODVjZjQ4NDY4NGMxNzcxYjMzYjNiZDZiMGRmZmM3ZGI3NjliZTY4MTMzMWZhN2Y0NzQzNDAzMGEzNWQ3YzNiQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23E4C441"></iframe>
 </div>
-<p><em>Opening Days and Hours: Please refer to the above schedule for more details. Avoid lunch hour from 1.00pm to 2.00pm.</em>
+<p>*May be subjected to change without prior notice due to unforeseen circumstances
+<br><em>Opening Days and Hours: Please refer to the above schedule for more details. </em>
+<br><em>Avoid lunch hour from 1.00pm to 2.00pm.</em>
+<br>
 </p>
 <p>During clinic closure days , students who require&nbsp;<strong>urgent</strong>&nbsp;dental
 treatment can contact the following school dental clinic for appointment:</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Angsana Pri School Dental Clinic</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>51 Tampines Street 61 (528565)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9863 2732</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Elias Park Pri School Dental Clinic</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11 Pasir Ris St. 52 (518866)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8940 1873</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Pasir Ris Park Pri School Dental Clinic</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5 Pasir Ris Street 21 (518968)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8940 6770</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Singaporean <strong>may</strong> have to <strong>pay</strong> for treatment.</p>
 </li>
 <li>
-<p>Foreigners &amp; Permanent Residents have to <strong>pay</strong> for treatment.</p>
+<p>Foreigners &amp; Permanent Residents have to <strong>pay</strong> for treatment.
+<br>
+</p>
 </li>
 </ul>
 <h3>School Book Shop &amp; Uniform Supplier</h3>
