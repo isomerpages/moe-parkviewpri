@@ -30,7 +30,7 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="225" width="175" alt="IMG_9053.JPG" src="/images/miss%20chua%20shuan%20kwee.JPG">
+<img style="width: 55%;" height="225" width="175" alt="IMG_9053.JPG" src="/images/miss%20chua%20shuan%20kwee.JPG">
 </div>
 <p><strong>Miss Chua Shuan Kwee<br>HOD - SCI</strong>
 <br>School Staff Developer<strong><br></strong><a href="mailto:chua_shuan_kwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_shuan_kwee<br>@schools.gov.sg</a>
@@ -60,7 +60,7 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="225" width="175" alt="Miss_wong_Pau_Hui_optimisedforweb.jpg" src="/images/mrs%20ong-pang%20cui%20ling.JPG">
+<img style="width: 60%;" height="225" width="175" alt="Miss_wong_Pau_Hui_optimisedforweb.jpg" src="/images/mrs%20ong-pang%20cui%20ling.JPG">
 </div>
 <p>Mdm Pang Cui Ling
 <br>HOD - CCE
@@ -92,6 +92,13 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /new.jpg">
+</div>
+<p>Mdm Norahmah
+<br>HOD - SSD
+<br><a href="mailto:norahmah_haron@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>norahmah_haron@schools.gov.sg</u></a>
+</p>
 </th>
 </tr>
 </tbody>
