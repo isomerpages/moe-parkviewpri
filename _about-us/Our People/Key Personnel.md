@@ -33,7 +33,7 @@ variant: tiptap
 <img style="width: 55%;" height="225" width="175" alt="IMG_9053.JPG" src="/images/miss%20chua%20shuan%20kwee.JPG">
 </div>
 <p><strong>Miss Chua Shuan Kwee<br>HOD - SCI</strong>
-<br>School Staff Developer<strong><br></strong><a href="mailto:chua_shuan_kwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_shuan_kwee<br>@schools.gov.sg</a>
+<br><a href="mailto:chua_shuan_kwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_shuan_kwee<br>@schools.gov.sg</a>
 </p>
 </th>
 </tr>
