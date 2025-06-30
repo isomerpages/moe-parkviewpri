@@ -46,7 +46,46 @@ and dental treatment is provided as well.</p>
 </p>
 <p>During clinic closure days , students who require&nbsp;<strong>urgent</strong>&nbsp;dental
 treatment can contact the following school dental clinic for appointment:</p>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Buddy Clinic</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Tel</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Angsana Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9863 2732</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Elias Park Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8940 1873</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pasir Ris Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8940 6770</p>
+</td>
+</tr>
+</tbody>
+</table>
 <ul data-tight="true" class="tight">
 <li>
 <p>Singaporean <strong>may</strong> have to <strong>pay</strong> for treatment.</p>
