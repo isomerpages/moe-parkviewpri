@@ -15,94 +15,168 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="225" width="175" alt="Mr_Choo_Sing_Wee_3.jpg" src="/images/Our%20People/Key%20Personnel%20/Mr_Choo_Sing_Wee_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /Sing_wee.jpg">
 </div>
-<p><strong>Mr Choo Sing Wee <br>HOD - English <br><a href="mailto:choo_sing_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choo_sing_wee<br>@schools.gov.sg </a><br></strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 87%;" height="225" width="175" alt="Mr_Tay_Lip_Seng_optimisedforweb.jpg" src="/images/mr%20tay%20lip%20seng.JPG">
-</div>
-<p><strong>Mr Tay Lip Seng <br>HOD - Math <br></strong><a href="mailto:tay_lip_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_lip_seng<br>@schools.gov.sg</a>  <strong><br></strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 55%;" height="225" width="175" alt="IMG_9053.JPG" src="/images/miss%20chua%20shuan%20kwee.JPG">
-</div>
-<p><strong>Miss Chua Shuan Kwee<br>HOD - SCI</strong>
-<br><a href="mailto:chua_shuan_kwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_shuan_kwee<br>@schools.gov.sg</a>
-</p>
-</th>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="225" width="175" alt="tn.Mdm_Teo_Siew_Yeun_optimisedforweb.jpg.mid.jpg" src="/images/mdm%20teo%20siew%20yeun.JPG">
-</div>
-<p>Mdm Teo Siew Yeun
-<br>HOD - MT
-<br><a href="mailto:teo_siew_yeun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_siew_yeun<br>@schools.gov.sg</a> 
-<br>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 87%;" height="225" width="175" alt="Mdm_Lim_Hwee_Tin_optimisedforweb.jpg" src="/images/mdm%20lim%20hwee%20tin%20tina.JPG">
-</div>
-<p>Ms Tina Lim
-<br>HOD - Aesthetics CCA
-<br><a href="mailto:lim_hwee_tin_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hwee_tin_a<br>@schools.gov.sg</a> 
-<br>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="225" width="175" alt="Miss_wong_Pau_Hui_optimisedforweb.jpg" src="/images/mrs%20ong-pang%20cui%20ling.JPG">
-</div>
-<p>Mdm Pang Cui Ling
-<br>HOD - CCE
-<br><a href="mailto:pang_cui_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pang_cui_ling<br>@schools.gov.sg</a> 
-<br>
-</p>
-</th>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="225" width="175" alt="Mr Jerry Chua_optimisedforweb.jpg" src="/images/mr%20jerry%20chua%20chun%20wei.JPG">
-</div>
-<p>Mr Jerry Chua
-<br>HOD - PE CCA
-<br><a href="mailto:chua_chun_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chun_wei<br>@schools.gov.sg</a> 
-<br>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 87%;" height="225" width="175" alt="Mr Justin Luo Yanzhong_optimisedforweb.jpg" src="/images/mr%20justin%20luo%20yanzhong.JPG">
-</div>
-<p>Mr Justin Luo
-<br>HOD - ICT
-<br><a href="mailto:justin_luo_yanzhong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">justin_luo_yanzhong<br>@schools.gov.sg</a> 
-<br>
-</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /new.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /Lip_seng.jpg">
 </div>
-<p>Mdm Norahmah
-<br>HOD - SSD
-<br><a href="mailto:norahmah_haron@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>norahmah_haron@schools.gov.sg</u></a>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /shusng_shuang.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Choo Sing Wee <br>HOD - English <br><a href="mailto:choo_sing_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choo_sing_wee<br>@schools.gov.sg</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Tay Lip Seng <br>HOD - Math <br></strong><a href="mailto:tay_lip_seng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_lip_seng<br>@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Miss Chua Shuan Kwee<br>HOD - SCI</strong>
+<br><a href="mailto:chua_shuan_kwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_shuan_kwee<br>@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /1.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mdm Teo Siew Yeun
+<br>HOD - MT
+<br><a href="mailto:teo_siew_yeun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_siew_yeun<br>@schools.gov.sg</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Ms Tina Lim
+<br>HOD - Aesthetics CCA
+<br><a href="mailto:lim_hwee_tin_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hwee_tin_a<br>@schools.gov.sg</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Mdm Pang Cui Ling
+<br>HOD - CCE
+<br><a href="mailto:pang_cui_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pang_cui_ling<br>@schools.gov.sg</a>
 </p>
 </th>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /jerry.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /justin.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /norah.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mr Jerry Chua
+<br>HOD - PE CCA
+<br><a href="mailto:chua_chun_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chun_wei<br>@schools.gov.sg</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Mr Justin Luo
+<br>HOD - ICT
+<br><a href="mailto:justin_luo_yanzhong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">justin_luo_yanzhong<br>@schools.gov.sg</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Mdm Norahmah
+<br>HOD - SSD
+<br><a href="mailto:norahmah_haron@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>norahmah_haron</u></a>
+<br><a href="mailto:norahmah_haron@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>@schools.gov.sg</u></a>
+</p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3>Year Heads</h3>
 <table style="minWidth: 75px">
 <colgroup>
