@@ -44,7 +44,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Choo Sing Wee <br>HOD - English <br><a href="mailto:choo_sing_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choo_sing_wee<br>@schools.gov.sg </a></strong>
+<p><strong>Mr Choo Sing Wee <br>HOD - English <br><a href="mailto:choo_sing_wee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choo_sing_wee<br>@schools.gov.sg</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -99,19 +99,19 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Mdm Teo Siew Yeun
 <br>HOD - MT
-<br><a href="mailto:teo_siew_yeun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_siew_yeun<br>@schools.gov.sg</a> 
+<br><a href="mailto:teo_siew_yeun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_siew_yeun<br>@schools.gov.sg</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Ms Tina Lim
 <br>HOD - Aesthetics CCA
-<br><a href="mailto:lim_hwee_tin_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hwee_tin_a<br>@schools.gov.sg</a> 
+<br><a href="mailto:lim_hwee_tin_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hwee_tin_a<br>@schools.gov.sg</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Mdm Pang Cui Ling
 <br>HOD - CCE
-<br><a href="mailto:pang_cui_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pang_cui_ling<br>@schools.gov.sg</a> 
+<br><a href="mailto:pang_cui_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pang_cui_ling<br>@schools.gov.sg</a>
 </p>
 </th>
 </tr>
@@ -128,19 +128,19 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /jerry.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /justin.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /Individual_Pics.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /norah.jpg">
 </div>
 </td>
 </tr>
@@ -157,19 +157,20 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Mr Jerry Chua
 <br>HOD - PE CCA
-<br><a href="mailto:chua_chun_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chun_wei<br>@schools.gov.sg</a> 
+<br><a href="mailto:chua_chun_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chun_wei<br>@schools.gov.sg</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Mr Justin Luo
 <br>HOD - ICT
-<br><a href="mailto:justin_luo_yanzhong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">justin_luo_yanzhong<br>@schools.gov.sg</a> 
+<br><a href="mailto:justin_luo_yanzhong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">justin_luo_yanzhong<br>@schools.gov.sg</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Mdm Norahmah
 <br>HOD - SSD
-<br><a href="mailto:norahmah_haron@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>norahmah_haron@schools.gov.sg</u></a>
+<br><a href="mailto:norahmah_haron@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>norahmah_haron</u></a>
+<br><a href="mailto:norahmah_haron@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>@schools.gov.sg</u></a>
 </p>
 </th>
 </tr>
