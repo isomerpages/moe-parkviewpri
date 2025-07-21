@@ -73,6 +73,19 @@ trash into interesting works of art.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>17<sup>th</sup> Singapore Watercolour Society National Junior Watercolour
+Competition 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation:</p>
+<p>Wu Yunxi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Singapore Youth Festivals (SYF) Arts Presentation</p>
 <p>&nbsp;</p>
 <p>Theme: <strong>Art<em>i</em>st and Collaboration: <em>Tiny Wonders, Big Ideas</em></strong>
@@ -490,7 +503,9 @@ Contest</p>
 </table>
 <p></p>
 <h4>Gallery</h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/17th_SWS_Junior_Watercolour_Competition_2025_Wu_Yunxi_5R1.jpg">
+</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Edupod_Children_s_Art_Competition_2024_Teo Zhixuan_Gold Award" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Edupod Children's Art Competition 2024_Teo Zhixuan_Gold Award" src="/images/CCA/Art &amp; Craft Club/Edupod_Children_s_Art_Competition_2024_Teo_Zhixuan_Gold_Award.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Edupod Children's Art Competition 2024_Teo Zhixuan_Gold Award</div><div class="isomer-card-link">Click to View</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Children_and_Youth_Online_Art_Contest.jpg" class="isomer-card">
 <div class="isomer-card-image">
