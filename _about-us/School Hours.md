@@ -15,7 +15,7 @@ break.</p>
 <h4>Primary 4 to 6</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Image_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/school_hours.png">
 </div>
 <p>*The midday break is to allow students to take a light snack if they are
 hungry. Parents are advised to pack a healthy light snack for the 10 minutes
