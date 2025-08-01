@@ -40,9 +40,8 @@ trash into interesting works of art.</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong><u>Tuesdays</u></strong> 
-<br>School Team
-<br>3.30 pm – 5.30 pm (Semester 1)</p>
-<p>3.30 pm – 5.00 pm (Semester 2)
+<br>School Team</p>
+<p>3.30 pm – 5.00 pm (Sem 2)
 <br>Art Room 1
 <br><strong><u>Fridays</u></strong> 
 <br>7.30 am – 9.00 am (All members)
@@ -70,6 +69,17 @@ trash into interesting works of art.</p>
 <th rowspan="1" colspan="1">
 <p>Year</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival (SYF) 2025 Art Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Recognition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -293,210 +303,6 @@ Competition 2024&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nationwide Drawing Contest (November)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd Runner up Recipient
-<br>Teo Zhi Xuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nationwide Drawing Contest (December)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3rd Runner up Recipient
-<br>Teo Zhi Xuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Planetopia International Children &amp; Youth Visual Art Competition
-<br><em>Theme: Sustainable Ocean Sustainable Future</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Emerging Talent Award
-<br>Teo Zhi Xuan</p>
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore Youth Festivals (SYF) Arts Presentation Theme: ‘Artist and Inspiration’</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Recognition:
-<br>Category A – Kampung Coffee Shop
-<br>Category B – Plastic Fishes
-<br>Category C – Crushing Our Earth</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nationwide Mid-Autumn Festival Colouring Contest</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Champion:
-<br>Teo Zhi Xuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Superior Culture Hong Kong: Celebrating Dragon Boat Festival Colouring
-Contest</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver Award:
-<br>Teo Zhi Xuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>OMNI Racial Harmony Day Drawing Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Consolation Prize:
-<br>Teo Zhi Xuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nationwide Drawing Contest 2023\全国绘画比赛</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st Runner-up:
-<br>Teo Zhi Xuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Radin Mas Arts Week Colouring Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd place Recipient:
-<br>Teo Zhi Xuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore Dreaming: A Comics Competition for Young Creators!</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of participation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Pasir Ris East National Day Art Contest</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd place Recipient: Teo Zhi Xuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore Dreaming: A Comics Competition for Young Creators!</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of participation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Independence Day Colouring Contest</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st Runner-up:
-<br>Teo Zhi Xuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SOTA Primary 6 Art Competition Theme: “If I Can Change the World”</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of participation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>The Singapore International Art Contest (SIAC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of participation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Art of Trash Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of participation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>URA LTPR Art Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd place Recipient: Teo Zhi Xuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
 </td>
 </tr>
 </tbody>
