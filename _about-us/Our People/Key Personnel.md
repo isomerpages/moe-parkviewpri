@@ -251,8 +251,9 @@ variant: tiptap
 </table>
 <h3></h3>
 <h3>Level Heads / Subject Heads</h3>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -260,7 +261,7 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="225" width="175" alt="Ms_Este_Chow.jpg" src="/images/Our%20People/Key%20Personnel%20/Ms_Este_Chow.jpg">
+<img style="width: 85%;" height="225" width="175" alt="Ms_Este_Chow.jpg" src="/images/Our%20People/Key%20Personnel%20/Ms_Este_Chow.jpg">
 </div>
 <p>Ms Este Chow
 <br>LH - MTL
@@ -269,18 +270,25 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 54%;" height="225" width="175" src="/images/mdm%20angeline%20loo%20nga%20hoon.JPG">
+<img style="width: 70%;" height="225" width="175" src="/images/mdm%20angeline%20loo%20nga%20hoon.JPG">
 </div>
 <p>Mdm Angeline Loo
 <br>LH - Math
 <br><a href="mailto:loo_nga_hoonangeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loo_nga_hoonangeline<br>@schools.gov.sg</a>
 </p>
 </th>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 87%;" height="auto" width="100%" alt="" src="/images/mrs yeo-sim shiyu.JPG">
+</div>
+<p><strong>Mdm Sim Shiyu<br>LH - EL<br><a href="mailto:SIM_Shiyu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sim_shiyu</u></a><br><a href="mailto:SIM_Shiyu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>@schools.gov.sg</u></a></strong>
+</p>
+</td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 57%;" height="225" width="175" alt="Miss_Lee_siew_Kiang_optimisedforweb.jpg" src="/images/miss%20lee%20siew%20kiang.JPG">
+<img style="width: 87%;" height="225" width="175" alt="Miss_Lee_siew_Kiang_optimisedforweb.jpg" src="/images/miss%20lee%20siew%20kiang.JPG">
 </div>
 <p>Miss Lee Siew Kiang
 <br>SH - ICT
@@ -289,13 +297,16 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 52%;" height="225" width="175" alt="Mr Watson Tay cropped.jpg" src="/images/mr%20watson%20teh%20chiew%20hwa.JPG">
+<img style="width: 70%;" height="225" width="175" alt="Mr Watson Tay cropped.jpg" src="/images/mr%20watson%20teh%20chiew%20hwa.JPG">
 </div>
 <p>Mr Watson Teh
 <br>SH - Student Management
 <br><a href="mailto:teh_chiew_hwa_watson@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teh_chiew_hwa_<br>watson@schools.gov.sg</a>
 </p>
 </th>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
