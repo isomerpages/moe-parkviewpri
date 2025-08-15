@@ -21,12 +21,10 @@ break.</p>
 hungry. Parents are advised to pack a healthy light snack for the 10 minutes
 break.*</p>
 <h4>Gate Operation Hours</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Meridian_JC.png">
 </div>
 <p>*The following is the operation time of the three gates on school days*</p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Image_2.png">
