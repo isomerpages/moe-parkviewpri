@@ -178,7 +178,7 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="225" width="175" alt="Miss Pamela See cropped.jpg" src="/images/ms%20pamela%20see%20yuen%20heng%20(1).JPG">
+<img style="width: 95%;" height="225" width="175" alt="Miss Pamela See cropped.jpg" src="/images/ms%20pamela%20see%20yuen%20heng%20(1).JPG">
 </div>
 <p><a href="see_yuen_heng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Pamela See</a>
 <br>YH (lower primary)</p>
@@ -201,7 +201,7 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="225" width="175" alt="pat.jpg" src="/images/mdm%20yeo%20peck%20hui%20patricia.JPG">
+<img style="width: 95%;" height="225" width="175" alt="pat.jpg" src="/images/mdm%20yeo%20peck%20hui%20patricia.JPG">
 </div>
 <p><a href="yeo_peck_hui@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Yeo Peck hui</a>
 <br>AYH (lower primary)</p>
