@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Our People
 variant: tiptap
 ---
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -19,19 +18,13 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Name of Staff</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Email Address</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>AED (Counselling)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ho</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="chong_yi-tinn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_yi-tinn@schools.gov.sg</a>
+<p><a href="chong_yi-tinn@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Ho</a>
 </p>
 </td>
 </tr>
@@ -40,10 +33,7 @@ variant: tiptap
 <p>Senior SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Felicia Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="tan_chuan_siang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_chuan_siang@schools.gov.sg</a>
+<p><a href="tan_chuan_siang@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Felicia Tan</a>
 </p>
 </td>
 </tr>
@@ -52,10 +42,7 @@ variant: tiptap
 <p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Janice Cheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="janice_cheng_lai_may@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">janice_cheng_lai_may@schools.gov.sg</a>
+<p><a href="janice_cheng_lai_may@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Janice Cheng</a>
 </p>
 </td>
 </tr>
@@ -64,10 +51,7 @@ variant: tiptap
 <p>SEN OFFICER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Bindhu Asokan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Bindhu_Asokan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Bindhu_Asokan@schools.gov.sg</a>
+<p><a href="Bindhu_Asokan@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Bindhu Asokan</a>
 </p>
 </td>
 </tr>
