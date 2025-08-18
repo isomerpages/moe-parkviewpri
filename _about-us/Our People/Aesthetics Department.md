@@ -13,46 +13,22 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name of Teacher</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email Address</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tina Lim</p>
+<p><a href="lim_hwee_tin_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tina Lim</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lim_hwee_tin_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hwee_tin_a@schools.gov.sg</a>
+<p><a href="nor_iqmalia_saharudin@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nor Iqmalia</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Eileen Yap</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="soh_chin_ping_eileen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">soh_chin_ping_eileen@schools.gov.sg</a>
+<p><a href="soh_chin_ping_eileen@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Eileen Yap</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nor Iqmalia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="nor_iqmalia_saharudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nor_iqmalia_saharudin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Miss Kirthi Shihlpa Pillai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="kirthi_shihlpa_pillai@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kirthi_shihlpa_pillai@schools.gov.sg</a>
+<p><a href="kirthi_shihlpa_pillai@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Kirthi Shihlpa</a>
 </p>
 </td>
 </tr>
@@ -66,28 +42,12 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name of Teacher</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Email Address</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Izdihar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="Muhammad_Izdihar_Othman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_izdihar_othman@schools.gov.sg</a>
+<p><a href="muhammad_izdihar_othman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Izdihar</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Miss Kwa Yan Teng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="kwa_yan_teng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kwa_yan_teng@schools.gov.sg</a>
+<p><a href="kwa_yan_teng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Sebby Kwa</a>
 </p>
 </td>
 </tr>
