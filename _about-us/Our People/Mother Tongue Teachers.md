@@ -83,31 +83,31 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="norhanim_hashim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Hanim</a>
+<p><a href="mailto:norhanim_hashim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Hanim</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="zubaidah_othman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Zubaidah</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="nailul_azmi_ismail@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nailul Azmi</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="nur_farizah_roslan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nur Farizah</a>
+<p><a href="mailto:zubaidah_othman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Zubaidah</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="nurfarhannah_hazmi@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nurfarhannah</a>
+<p><a href="mailto:nailul_azmi_ismail@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nailul Azmi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="nurhazimah_abdul_halim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nurhazinah</a>
+<p><a href="mailto:nur_farizah_roslan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nur Farizah</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurfarhannah_hazmi@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nurfarhannah</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurhazimah_abdul_halim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nurhazinah</a>
 </p>
 </td>
 </tr>
@@ -122,17 +122,17 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="valarmathi_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Valarmathi</a>
+<p><a href="mailto:valarmathi_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Valarmathi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="darvinder_singh_karam_singh@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Darvinder Singh</a>
+<p><a href="mailto:darvinder_singh_karam_singh@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Darvinder Singh</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="santhi_Vardeewell@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Santhi</a>
+<p><a href="mailto:santhi_Vardeewell@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Santhi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
