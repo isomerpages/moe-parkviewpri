@@ -24,7 +24,7 @@ variant: tiptap
 <p>AED (Counselling)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="chong_yi-tinn@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Ho</a>
+<p><a href="mailto:chong_yi-tinn@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Ho</a>
 </p>
 </td>
 </tr>
@@ -33,7 +33,7 @@ variant: tiptap
 <p>Senior SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tan_chuan_siang@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Felicia Tan</a>
+<p><a href="mailto:tan_chuan_siang@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Felicia Tan</a>
 </p>
 </td>
 </tr>
@@ -42,16 +42,7 @@ variant: tiptap
 <p>SEN Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="janice_cheng_lai_may@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Janice Cheng</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SEN OFFICER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="Bindhu_Asokan@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Bindhu Asokan</a>
+<p><a href="mailto:janice_cheng_lai_may@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Janice Cheng</a>
 </p>
 </td>
 </tr>
