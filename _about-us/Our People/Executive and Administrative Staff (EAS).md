@@ -24,7 +24,7 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="teo_chui_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Teo Chui Ping</a>
+<p><a href="mailto:teo_chui_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Teo Chui Ping</a>
 </p>
 </td>
 </tr>
@@ -33,7 +33,7 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ng_tee_tee@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Ng Tee Tee</a>
+<p><a href="mailto:ng_tee_tee@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Ng Tee Tee</a>
 </p>
 </td>
 </tr>
@@ -42,7 +42,7 @@ variant: tiptap
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="sanjevita_martin_rubin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Sanjevita Martin</a>
+<p><a href="mailto:sanjevita_martin_rubin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Sanjevita Martin</a>
 </p>
 </td>
 </tr>
@@ -51,7 +51,7 @@ variant: tiptap
 <p>ICT Associate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="leria_dana_pauline_pangasinan@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Leria Dana Pauline</a>
+<p><a href="mailto:leria_dana_pauline_pangasinan@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Leria Dana Pauline</a>
 </p>
 </td>
 </tr>
@@ -60,7 +60,7 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="nurul_ainy_suhaimi@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nurul Ainy</a>
+<p><a href="mailto:nurul_ainy_suhaimi@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nurul Ainy</a>
 </p>
 </td>
 </tr>
@@ -69,7 +69,7 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="fok_lai_beng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Fok Lai Beng, Jenny</a>
+<p><a href="mailto:fok_lai_beng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Fok Lai Beng, Jenny</a>
 </p>
 </td>
 </tr>
@@ -78,7 +78,7 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="lee_gek_yeong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lee Gek Yeong, Irene</a>
+<p><a href="mailto:lee_gek_yeong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lee Gek Yeong, Irene</a>
 </p>
 </td>
 </tr>
@@ -87,7 +87,7 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="syaza_dinah_zainol@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Syaza Dinah</a>
+<p><a href="mailto:syaza_dinah_zainol@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Syaza Dinah</a>
 </p>
 </td>
 </tr>
