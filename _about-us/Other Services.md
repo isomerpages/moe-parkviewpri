@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3>School Dental Services</h3>
-<p>The school has its own dental clinic managed by a dentist therapist. All
+<p>The school has its own dental clinic managed by a dental therapist. All
 students in the school are seen by the dental therapist for routine check-ups,
 and dental treatment is provided as well.</p>
 <table style="minWidth: 50px">
@@ -39,7 +39,7 @@ and dental treatment is provided as well.</p>
 <div class="iframe-wrapper">
 <iframe style="border-width:0" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;ctz=Asia%2FSingapore&amp;showPrint=0&amp;mode=MONTH&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;showNav=0&amp;showTitle=0&amp;title=Dental%20Clinic's%20Schedule&amp;src=Y18yODVjZjQ4NDY4NGMxNzcxYjMzYjNiZDZiMGRmZmM3ZGI3NjliZTY4MTMzMWZhN2Y0NzQzNDAzMGEzNWQ3YzNiQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23E4C441"></iframe>
 </div>
-<p>*May be subjected to change without prior notice due to unforeseen circumstances
+<p>*May be subject to change without prior notice due to unforeseen circumstances
 <br><em>Opening Days and Hours: Please refer to the above schedule for more details. </em>
 <br><em>Avoid lunch hour from 1.00pm to 2.00pm.</em>
 <br>
