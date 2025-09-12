@@ -9,8 +9,8 @@ variant: tiptap
 </div>
 <p>
 <br>Park View Primary School
-<br>60, Pasir Ris Drive1, Singapore 519524
+<br>60, Pasir Ris Drive 1, Singapore 519524
 <br>Tel: 6585 1421
 <br>Fax: 6585 1401
-<br>E-mail:&nbsp;<a href="pvps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pvps@moe.edu.sg</a>
+<br>E-mail:&nbsp;<a href="mailto:pvps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pvps@moe.edu.sg</a>
 </p>
