@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Vision, Mission and Values.md
       - Our People/.keep
       - Our People/Principal.md
       - Our People/Vice Principal.md
@@ -15,9 +14,10 @@ collections:
       - Our People/Executive and Administrative Staff (EAS).md
       - Our People/Support Service Staff.md
       - Our People/Adjunct Teachers.md
+      - School Vision, Mission and Values.md
       - School Crest & History.md
-      - Achievements/2025.md
       - Achievements/.keep
+      - Achievements/2025.md
       - Achievements/2024.md
       - Achievements/2023.md
       - School Hours.md
