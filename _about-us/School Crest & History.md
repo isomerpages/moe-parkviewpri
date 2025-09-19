@@ -10,24 +10,87 @@ variant: tiptap
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>The&nbsp;<strong><em>TORCH</em></strong>&nbsp;represents leadership.</p>
+<p>The&nbsp;<strong>TORCH</strong>&nbsp;represents leadership.</p>
 </li>
 <li>
-<p>The&nbsp;<strong><em>LAUREL GARLAND OF OLIVE LEAVES</em></strong>&nbsp;represents&nbsp;<em>success</em>&nbsp;and&nbsp;<em>glory</em>&nbsp;which
+<p>The&nbsp;<strong>LAUREL GARLAND OF OLIVE LEAVES</strong>&nbsp;represents&nbsp;success&nbsp;and&nbsp;glory&nbsp;which
 binds all the attributes in the badge.</p>
 </li>
 <li>
-<p>The&nbsp;<strong><em>BOOK</em></strong>&nbsp;represents&nbsp;<em>knowledge</em>.</p>
+<p>The&nbsp;<strong>BOOK</strong>&nbsp;represents&nbsp;knowledge.</p>
 </li>
 <li>
-<p>The&nbsp;<strong><em>FOUR RINGS</em></strong>&nbsp;represents racial&nbsp;<em>harmony</em>&nbsp;among
+<p>The&nbsp;<strong>FOUR RINGS</strong>&nbsp;represents racial&nbsp;harmony&nbsp;among
 races.</p>
 </li>
 <li>
-<p>The&nbsp;<strong><em>SCHOOL MOTTO “AMBITIO VIA VIRTUS”</em></strong>&nbsp;
-(Ambition&nbsp;through All the Excellent Qualities of Man).</p>
+<p>The&nbsp;<strong>SCHOOL MOTTO “AMBITIO VIA VIRTUS”&nbsp;</strong> (Ambition&nbsp;through
+All the Excellent Qualities of Man).</p>
 </li>
 </ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School Philosophy</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Every Child Matters</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Our Vision</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leaders of Character, championing Service and Excellence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Our Mission</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To nurture future-ready students, anchored on values</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School Shared Values</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Respect for All</p>
+</li>
+<li>
+<p>Responsibility in Actions</p>
+</li>
+<li>
+<p>Resilience in Adversity</p>
+</li>
+<li>
+<p>Integrity Our Core</p>
+</li>
+<li>
+<p>Care for Community</p>
+</li>
+<li>
+<p>Harmony in Diversity</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Our School Song</h4>
 <p>Park View you are special,
 <br>You are one of the best.
