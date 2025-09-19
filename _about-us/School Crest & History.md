@@ -36,8 +36,7 @@ All the Excellent Qualities of Man).</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Philosophy</strong>
-</p>
+<h4>School Philosophy</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p>Every Child Matters</p>
@@ -45,8 +44,7 @@ All the Excellent Qualities of Man).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Our Vision</strong>
-</p>
+<h4>Our Vision</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p>Leaders of Character, championing Service and Excellence</p>
@@ -54,8 +52,7 @@ All the Excellent Qualities of Man).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Our Mission</strong>
-</p>
+<h4>Our Mission</h4>
 </td>
 <td rowspan="1" colspan="1">
 <p>To nurture future-ready students, anchored on values</p>
@@ -63,8 +60,7 @@ All the Excellent Qualities of Man).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Shared Values</strong>
-</p>
+<h4>School Shared Values</h4>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
