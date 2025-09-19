@@ -63,7 +63,4 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4>School Philosophy</h4>
-<p>Every Child Matters</p>
-<h4>Our Vision</h4>
 <p></p>
