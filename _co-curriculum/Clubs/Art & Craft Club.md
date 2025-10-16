@@ -490,22 +490,19 @@ Competition 2024&nbsp;</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1qKgI9RCTmA9KQIg0aucEkD6SSGIKrwhbZ38k7bD-0-Y/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<h4>Singapore Watercolour Society (SWS) Junior Watercolour Painting Competition</h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YUoPkTnkT9I?si=IdYPjKYGcgc7tBEq"></iframe>
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <p></p>
-<h4>Singapore Watercolour Society (SWS) Junior Watercolour Painting Competition</h4>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1SiCIydG41jxFd7_RejpwQ3V2J7TOIh5THDv7Tsk95B4/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
+<h4></h4>
 <h4>Staedtler World Kids Colouring Day Competition</h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/11-Tt0MxLNS_1HFE4NSOhXkABsTbsE0AH4E9oP9KnSxI/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
