@@ -123,7 +123,7 @@ have the opportunity to view a variety of ceramic wares that show the different
 cultures and styles of Asia. The students immerse in the studio pottery
 environment whereby they are given clay to create their own artworks.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9OoTF_0g4Nc?si=Evpkfy_2iGC5EJKl"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7suqNg13ykA?si=8A8cBWoyLHHOzwSd"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
