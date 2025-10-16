@@ -502,13 +502,13 @@ Competition 2024&nbsp;</p>
 <td rowspan="1" colspan="1">
 <h4>Staedtler World Kids Colouring Day Competition</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/11-Tt0MxLNS_1HFE4NSOhXkABsTbsE0AH4E9oP9KnSxI/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRC29MtOoGOo1DXTMbwVIExPEL1oT6MBtUl6CNjo6WsmGWoVRdmvVHOfacCYUyavsQdYjAFdXWZ0_kL/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <h4>Chingay NE Community Engagement Programme</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTf7geEGMhAwiz8Z1MucQ4WNpSB4057CdoMGuYI22S8EIpNSRgCNqzEvbMH072Hj2LSuUXp7WPciLtf/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPmVNg7eVxOD3aq8qyqF12kJAVnQqnteJHHdnOUPbj6J19zpeMR4nZNq9prAszA_rgaRgT5qtCuepa/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 </td>
 </tr>
