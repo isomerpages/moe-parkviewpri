@@ -460,13 +460,13 @@ Competition 2024&nbsp;</p>
 <th rowspan="1" colspan="1">
 <h4>Fo Guang Shan (佛光山) Montage</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/k-izBRXK6gU?si=su6j9WfvH7kA7HCb"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/k-izBRXK6gU?si=QrB6s0qSo0WYl-yh"></iframe>
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <h4>Traffic Signage LTA Collab</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4IqfBwWOOJw?si=2LxNpZMak8MeIxM6"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4IqfBwWOOJw?si=PBTU1MSjJMrj356M"></iframe>
 </div>
 </th>
 </tr>
@@ -474,13 +474,13 @@ Competition 2024&nbsp;</p>
 <td rowspan="1" colspan="1">
 <h4>PVPS x TMJC x LTA</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/h_pTjPZHLg8?si=MVKGtMVA0I1yzKRy"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/h_pTjPZHLg8?si=1mn4leOI4WPHL4UN"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <h4>ViaRT Award Competition</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WHqw2Y_t71w?si=JiGc6oMLUYIBudNs"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WHqw2Y_t71w?si=WhyDct0U8iuhvHFe"></iframe>
 </div>
 </td>
 </tr>
@@ -488,33 +488,41 @@ Competition 2024&nbsp;</p>
 <td rowspan="1" colspan="1">
 <h4>Chingay Community Engagement Programme</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1qKgI9RCTmA9KQIg0aucEkD6SSGIKrwhbZ38k7bD-0-Y/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vReKUYu7gOW5Au8yj28C2Ln1xdQwc00q1FMrgCQQvoiqj_LxXeJ45Kn02gGqc4vfmZIktgn-4cdxf63/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <h4>Singapore Watercolour Society (SWS) Junior Watercolour Painting Competition</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YUoPkTnkT9I?si=IdYPjKYGcgc7tBEq"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YUoPkTnkT9I?si=0b2g_qifROS7FMhF"></iframe>
 </div>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<h4></h4>
+<tr>
+<td rowspan="1" colspan="1">
 <h4>Staedtler World Kids Colouring Day Competition</h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/11-Tt0MxLNS_1HFE4NSOhXkABsTbsE0AH4E9oP9KnSxI/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <h4>Chingay NE Community Engagement Programme</h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTf7geEGMhAwiz8Z1MucQ4WNpSB4057CdoMGuYI22S8EIpNSRgCNqzEvbMH072Hj2LSuUXp7WPciLtf/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h4>Chingay Installation at F1</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UZN0Nz8lxz0?si=xoXHuZgFSqF16JNO"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UZN0Nz8lxz0?si=8kbws22OaKKOrAtB"></iframe>
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
