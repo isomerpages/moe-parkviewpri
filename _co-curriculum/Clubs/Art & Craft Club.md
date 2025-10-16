@@ -72,6 +72,57 @@ trash into interesting works of art.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Capital Group Talent Award</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Award recipient:
+<br>Hazel Alina D/O Gabriel Simon, 6R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hello! Flower of China Singapore Friendship_International Youth Painting
+Collection and Exhibition_2025, 你好! 中新友谊之花</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation:
+<br>Wu Yunxi, 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JQA International Environmental Children's Drawing Contest</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation:
+<br>Charlene Kurniawan, 2R2
+<br>Nicole Kurniawan, 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Story Writing &amp; Illustrations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Published in Amazon Kindle:
+<br>Wu Yunxi, 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Singapore Youth Festival (SYF) 2025 Art Exhibition</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,8 +138,8 @@ trash into interesting works of art.</p>
 Competition 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate of Participation:</p>
-<p>Wu Yunxi</p>
+<p>Certificate of Participation:
+<br>Wu Yunxi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2025</p>
@@ -96,38 +147,30 @@ Competition 2025</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festivals (SYF) Arts Presentation</p>
-<p>&nbsp;</p>
-<p>Theme: <strong>Art<em>i</em>st and Collaboration: <em>Tiny Wonders, Big Ideas</em></strong>
+<p>Singapore Youth Festivals (SYF) Arts Presentation
+<br>Theme: Art<em>i</em>st and Collaboration: <em>Tiny Wonders, Big Ideas</em>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate of Recognition:</p>
-<p>&nbsp;</p>
-<p>Category B – “BEAR-Y HAPPY TOGETHER”</p>
+<p>Certificate of Recognition:
+<br>Category B – “BEAR-Y HAPPY TOGETHER”</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>2025</p>
+<p>&nbsp;2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fo Guang Shan 2025 Art Competition</p>
-<p>2025佛光山三好绘画比赛</p>
-<p>&nbsp;</p>
-<p>Theme: <em>Together we practice the three Acts of Goodness. Let us unite to save the Earth!</em>
+<p>Fo Guang Shan 2025 Art Competition
+<br>2025佛光山三好绘画比赛
+<br>Theme: <em>Together we practice the three Acts of Goodness. Let us unite to save the Earth!</em>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>Active Participation School Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>2025</p>
+<p>&nbsp;2025</p>
 </td>
 </tr>
 <tr>
@@ -135,9 +178,9 @@ Competition 2025</p>
 <p>JQA International Environmental Children's Drawing Contest</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate of Participation</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Charlene Kurniawan</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nicole Kurniawan</p>
+<p>Certificate of Participation:
+<br>Charlene Kurniawan
+<br>Nicole Kurniawan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2025</p>
@@ -145,8 +188,8 @@ Competition 2025</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SOTA P6 On-The-Spot Art Competition</p>
-<p>Date: 15 February 2025</p>
+<p>SOTA P6 On-The-Spot Art Competition
+<br>Date: 15 February 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Participation</p>
@@ -159,7 +202,6 @@ Competition 2025</p>
 <td rowspan="1" colspan="1">
 <p>16<sup>th</sup> Singapore Watercolour Society (SWS) Junior Watercolour
 Competition 2024&nbsp;</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Most Participation Award</p>
@@ -171,7 +213,6 @@ Competition 2024&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>LTA Traffic Sign Design Competition</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of participation&nbsp;</p>
@@ -194,7 +235,6 @@ Competition 2024&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>ViaRT Art Competition&nbsp;</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of participation</p>
@@ -244,10 +284,9 @@ Competition 2024&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2nd Place Recipient: Teo Zhi Xuan
-<br>
 <br>Certificate of Participation:
-<br>- Charlene Kuniawan
-<br>- Nicole Kuniawan</p>
+<br>Charlene Kuniawan
+<br>Nicole Kuniawan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2024</p>
@@ -411,47 +450,79 @@ Competition 2024&nbsp;</p>
 </div>
 </a>
 </div>
-<p></p>
-<h4>Fo Guang Shan (佛光山) &nbsp;Montage</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h4>Fo Guang Shan (佛光山) Montage</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/k-izBRXK6gU?si=su6j9WfvH7kA7HCb"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/k-izBRXK6gU?si=QrB6s0qSo0WYl-yh"></iframe>
 </div>
+</th>
+<th rowspan="1" colspan="1">
 <h4>Traffic Signage LTA Collab</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4IqfBwWOOJw?si=2LxNpZMak8MeIxM6"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4IqfBwWOOJw?si=PBTU1MSjJMrj356M"></iframe>
 </div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h4>PVPS x TMJC x LTA</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/h_pTjPZHLg8?si=MVKGtMVA0I1yzKRy"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/h_pTjPZHLg8?si=1mn4leOI4WPHL4UN"></iframe>
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <h4>ViaRT Award Competition</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WHqw2Y_t71w?si=JiGc6oMLUYIBudNs"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WHqw2Y_t71w?si=WhyDct0U8iuhvHFe"></iframe>
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h4>Chingay Community Engagement Programme</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1qKgI9RCTmA9KQIg0aucEkD6SSGIKrwhbZ38k7bD-0-Y/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vReKUYu7gOW5Au8yj28C2Ln1xdQwc00q1FMrgCQQvoiqj_LxXeJ45Kn02gGqc4vfmZIktgn-4cdxf63/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YUoPkTnkT9I?si=IdYPjKYGcgc7tBEq"></iframe>
-</div>
+</td>
+<td rowspan="1" colspan="1">
 <h4>Singapore Watercolour Society (SWS) Junior Watercolour Painting Competition</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1SiCIydG41jxFd7_RejpwQ3V2J7TOIh5THDv7Tsk95B4/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YUoPkTnkT9I?si=0b2g_qifROS7FMhF"></iframe>
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h4>Staedtler World Kids Colouring Day Competition</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/11-Tt0MxLNS_1HFE4NSOhXkABsTbsE0AH4E9oP9KnSxI/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRC29MtOoGOo1DXTMbwVIExPEL1oT6MBtUl6CNjo6WsmGWoVRdmvVHOfacCYUyavsQdYjAFdXWZ0_kL/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <h4>Chingay NE Community Engagement Programme</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTf7geEGMhAwiz8Z1MucQ4WNpSB4057CdoMGuYI22S8EIpNSRgCNqzEvbMH072Hj2LSuUXp7WPciLtf/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPmVNg7eVxOD3aq8qyqF12kJAVnQqnteJHHdnOUPbj6J19zpeMR4nZNq9prAszA_rgaRgT5qtCuepa/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h4>Chingay Installation at F1</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UZN0Nz8lxz0?si=xoXHuZgFSqF16JNO"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UZN0Nz8lxz0?si=8kbws22OaKKOrAtB"></iframe>
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
