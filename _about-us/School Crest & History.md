@@ -20,8 +20,7 @@ binds all the attributes in the badge.</p>
 <p>The&nbsp;<strong>BOOK</strong>&nbsp;represents&nbsp;knowledge.</p>
 </li>
 <li>
-<p>The&nbsp;<strong>FOUR RINGS</strong>&nbsp;represents racial&nbsp;harmony&nbsp;among
-races.</p>
+<p>The <strong>FOUR RINGS</strong> represent racial harmony among the races.</p>
 </li>
 <li>
 <p>The&nbsp;<strong>SCHOOL MOTTO “AMBITIO VIA VIRTUS”&nbsp;</strong> (Ambition&nbsp;through
