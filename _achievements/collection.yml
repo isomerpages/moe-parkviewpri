@@ -2,9 +2,9 @@ collections:
   achievements:
     output: true
     order:
-      - 2025/.keep
-      - 2025/Students.md
+      - Achievements.md
       - 2025/Staff.md
+      - 2025/.keep
       - 2024/.keep
       - 2024/School.md
       - 2024/Students.md
@@ -13,9 +13,3 @@ collections:
       - 2023/Students.md
       - 2023/School.md
       - 2023/Staff.md
-      - Students/.keep
-      - Students/Cognitive Achievements.md
-      - Students/Physical Achievements.md
-      - Students/Aesthetics Achievements.md
-      - Students/Social & Moral Achievements.md
-      - Students/Leadership Achievements.md
