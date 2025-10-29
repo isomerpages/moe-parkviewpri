@@ -11,7 +11,8 @@ third_nav_title: Achievements
 </p>
 </li>
 <li>
-<p>Students Achievements</p>
+<p><a href="https://parkviewpri.moe.edu.sg/students-achievements/" rel="noopener nofollow" target="_blank">Students Achievements</a>
+</p>
 </li>
 <li>
 <p><a href="https://parkviewpri.moe.edu.sg/staff-achievements/" rel="noopener nofollow" target="_blank">Staff Achievements</a>
