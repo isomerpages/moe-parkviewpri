@@ -257,4 +257,122 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4>2023 National English Writing Competition</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Choo Si Jie - 4R3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Literacy Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Binal Sachinkumar Parekh - 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Literacy Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wu Yun-Hsuan - 6R3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Literacy Award</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>2023 Asia-Pacific Mathematical Olympiad</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bhatia Vedansh - 6R3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Zhang Mingyu - 6R3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Labastida Paul Kenzo Villanueva - 6R3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>2023 Fo Guang Shan National Pri/Sec Schools Pen Calligraphy Finals</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Bawar Aliyah Sherise Celeridad - 6R3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cultural</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>2023 8th National Primary School “Picture Book Creation” Competition</h4>
+<p><em>In recognition of our school’s participation, our school also received the encouragement award.</em>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Hung Cheuk Lam Jade - 5R2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Li Youqi - 5R2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Leng Jih Xuan - 5R3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
