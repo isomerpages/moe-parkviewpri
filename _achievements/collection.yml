@@ -3,7 +3,3 @@ collections:
     output: true
     order:
       - Achievements.md
-      - 2024/.keep
-      - 2024/School.md
-      - 2024/Students.md
-      - 2024/Staff.md
