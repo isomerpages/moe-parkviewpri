@@ -6,13 +6,16 @@ description: ""
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p>Schools Achievements</p>
+<p><a href="https://parkviewpri.moe.edu.sg/school-achievements/" rel="noopener nofollow" target="_blank">School Achievements</a>
+</p>
 </li>
 <li>
-<p>Students Achievements</p>
+<p><a href="https://parkviewpri.moe.edu.sg/students-achievements/" rel="noopener nofollow" target="_blank">Students Achievements</a>
+</p>
 </li>
 <li>
-<p>Staff Achievements</p>
+<p><a href="https://parkviewpri.moe.edu.sg/staff-achievements/" rel="noopener nofollow" target="_blank">Staff Achievements</a>
+</p>
 </li>
 </ul>
 <p></p>
