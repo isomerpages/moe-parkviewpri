@@ -11,6 +11,11 @@ variant: tiptap
 </div>
 <p></p>
 <h4><strong>我们的骄傲</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Screenshot_2025_11_10_142153.png">
+</div>
+<p></p>
+<p>2025年，我校黄俊稀同学在新加坡书法家协会主办的新加坡中小学硬笔书法大赛中获得优胜奖。</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/1__3_.jpg">
