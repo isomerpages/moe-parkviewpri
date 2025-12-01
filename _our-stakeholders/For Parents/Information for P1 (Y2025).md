@@ -7,12 +7,10 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/pvps-y2025-p1-orientation" rel="noopener nofollow" target="_blank">Y2025 P1 Orientation</a>
-</p>
+<p>Y2026 P1 Orientation</p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/things-to-bring-2025" rel="noopener nofollow" target="_blank">Things to Bring (2025)</a>
-</p>
+<p>Things to Bring (2026)</p>
 </li>
 <li>
 <p><a href="/files/2024 Info for P1/User guide to download PG App.pdf" rel="noopener noreferrer nofollow" target="_blank">User Guide to Download PG App</a>
