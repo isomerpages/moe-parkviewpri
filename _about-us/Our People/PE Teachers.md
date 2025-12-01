@@ -13,7 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_chun_wei@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Jerry Chua</a>
+<p><a href="mailto:jordan_toh_yuexuan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Jordon Toh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -37,17 +37,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jordan_toh_yuexuan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Jordon Toh</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:helen_low_kwee_fong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Helen Chong</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
