@@ -55,7 +55,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://cms.isomer.gov.sg/sites/moe-parkviewpri/folders/about-us/subfolders/Our%20People/editPage/wang_luning@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>Mdm Wang Luning</u></a>
-<br>Ms Khairina</p>
+<br><a href="mailto:khairina_omar@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Khairina</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +101,7 @@ variant: tiptap
 <p>2 Respect (2R1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Irene Low
+<p><a href="mailto:low_mui_kwoon_irene@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Irene Low</a> 
 <br><a href="mailto:neo_sie_ling@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>Mrs Celine Lim</u></a>
 </p>
 </td>
@@ -110,7 +111,7 @@ variant: tiptap
 <p>2 Responsibility (2R2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Faizah
+<p><a href="mailto:nur_faizah_abdan@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nur Faizah</a> 
 <br><a href="mailto:kwa_yan_teng@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>Mrs Sebby Kwa</u></a>
 </p>
 </td>
@@ -161,7 +162,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Nur_Ishmah_Fatin_Rahim@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>Mdm Nur Ishman Fatin</u></a>
-<br>Mdm Abidah</p>
+<br><a href="mailto:abidah_m_mohammed_ariffen@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Abidah</a>
+</p>
 </td>
 </tr>
 </tbody>
