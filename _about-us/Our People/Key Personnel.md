@@ -85,7 +85,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /justin.jpg">
 </div>
 </td>
 </tr>
@@ -108,8 +108,8 @@ variant: tiptap
 <br>HOD - Aesthetics CCA</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="mailto:pang_cui_ling@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Ong</a>
-<br>HOD - CCE</p>
+<p><a href="mailto:justin_luo_yanzhong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Justin Luo</a>
+<br>HOD - ICT</p>
 </th>
 </tr>
 </tbody>
@@ -122,24 +122,18 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /jerry.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /justin.jpg">
-</div>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /norah.jpg">
 </div>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 </tbody>
 </table>
@@ -152,16 +146,14 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="mailto:chua_chun_wei@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Jerry Chua</a>
-<br>HOD - PE CCA</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="mailto:justin_luo_yanzhong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Justin Luo</a>
-<br>HOD - ICT</p>
-</th>
-<th rowspan="1" colspan="1">
 <p><a href="mailto:norahmah_haron@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Norahmah</a>
 <br>HOD - SSD</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 </tr>
 </tbody>
