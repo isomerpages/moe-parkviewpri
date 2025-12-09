@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Performing Arts.md
-      - Sports & Games/Main Page.md
       - Sports & Games/.keep
       - Sports & Games/Football.md
       - Sports & Games/Hockey.md
