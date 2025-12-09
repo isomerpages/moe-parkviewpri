@@ -8,7 +8,9 @@ description: ""
 <details class="isomer-details">
 <summary>Football</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Introduction</h4>
+<p></p>
+<h4>FOOTBALL</h4>
+<h4></h4>
 <p>Park View Primary School Football CCA was started in 1998. Since then,
 we have taken part in the East Zone SPSSC Inter-Primary Football Championships,
 National Inter-Primary Football Championships, numerous FAS-led tournaments
@@ -179,7 +181,8 @@ greater heights in the coming years.</p>
 <details class="isomer-details">
 <summary>Hockey</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Introduction</h4>
+<p></p>
+<h4>HOCKEY<br></h4>
 <p>Park View Primary School Hockey was started in 2001. We have taken part
 in the National Inter-Primary Schools Hockey Tournament every year. We
 have a team of committed and dedicated teachers who supervise them during
@@ -380,7 +383,8 @@ the skills being taught by the coach in a game situation.</p>
 <details class="isomer-details">
 <summary>Netball</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Introduction</h4>
+<p></p>
+<h4>NETBALL<br></h4>
 <p>The Park View Primary School Netball Junior and Senior teams have been
 consistent participants in the National School Games each year. Supported
 by a team of devoted and dedicated teachers who oversee training sessions,
