@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Identity.md
       - Our People/.keep
       - Our People/Principal.md
       - Our People/Vice Principal.md
@@ -15,10 +14,8 @@ collections:
       - Our People/Executive and Administrative Staff (EAS).md
       - Our People/Support Service Staff.md
       - Our People/Adjunct Teachers.md
-      - School Vision, Mission and Values.md
-      - School Crest & History.md
+      - Our Identity.md
       - School Information.md
       - Achievements.md
       - School Calendar.md
-      - Other Services.md
       - Contact Us.md
