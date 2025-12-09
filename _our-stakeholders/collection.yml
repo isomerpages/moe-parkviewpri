@@ -2,12 +2,11 @@ collections:
   our-stakeholders:
     output: true
     order:
-      - Parent Support Group.md
       - Alumni.md
       - Appreciation & Feedback.md
       - For Parents/.keep
       - For Parents/Financial Assistance Scheme.md
-      - For Parents/Information for P1 (Y2025).md
+      - For Parents/Information for P1 (Y2026).md
       - For Parents/Insurance Claim.md
       - For Parents/Letter to Parents.md
       - For Parents/MTP 2026.md
@@ -16,4 +15,5 @@ collections:
       - For Parents/P6 Parents Workshop.md
       - For Parents/Step by Step Guide to join MS Teams.md
       - For Parents/Useful Resources.md
+      - Parent Support Group.md
       - School Advisory Committee.md

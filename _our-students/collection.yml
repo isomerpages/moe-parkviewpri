@@ -2,7 +2,4 @@ collections:
   our-students:
     output: true
     order:
-      - Student Learning Space (SLS)/Student Learning Space (SLS) with Step by
-        Step Guide to join MS Teams.md
-      - Student Learning Space (SLS)/.keep
-      - iCON.md
+      - Our Students.md
