@@ -4,6 +4,40 @@ permalink: /students-achievements/
 variant: tiptap
 description: ""
 ---
+<h4>Hello! Flower of China Singapore Friendship International Youth Painting Collection and Exhibition 2025 你好——中新友谊之花</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WU YUNXI – 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>2025 Amazon Kindle Story Writing &amp; Illustrations</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WU YUNXI - 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Singapore Chinese Moo-O Awards 2025</h4>
 <table style="minWidth: 50px">
 <colgroup>
