@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Uniformed Groups.md
       - Sports & Games.md
       - Performing Arts.md
       - Sports & Games/.keep
