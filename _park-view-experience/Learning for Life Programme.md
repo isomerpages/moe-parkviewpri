@@ -4,7 +4,7 @@ permalink: /learning-for-life-programme/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Learning for Life Programme (Sports Experiential Programme)</strong></h4>
+<h4>Learning for Life Programme (Sports Experiential Programme)</h4>
 <p>The Learning for Life Programme (Sports Experiential Programme) in PVPS
 is designed to provide students with hands-on experiences and opportunities
 to learn about sports and outdoor education. The goal is to provide students
