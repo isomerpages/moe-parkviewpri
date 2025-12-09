@@ -2,7 +2,6 @@ collections:
   our-stakeholders:
     output: true
     order:
-      - Parent Support Group.md
       - Alumni.md
       - Appreciation & Feedback.md
       - For Parents/.keep
@@ -16,4 +15,5 @@ collections:
       - For Parents/P6 Parents Workshop.md
       - For Parents/Step by Step Guide to join MS Teams.md
       - For Parents/Useful Resources.md
+      - Parent Support Group.md
       - School Advisory Committee.md
