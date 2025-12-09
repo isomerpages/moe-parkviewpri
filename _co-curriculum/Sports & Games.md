@@ -10,7 +10,6 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <h4>FOOTBALL</h4>
-<h4></h4>
 <p>Park View Primary School Football CCA was started in 1998. Since then,
 we have taken part in the East Zone SPSSC Inter-Primary Football Championships,
 National Inter-Primary Football Championships, numerous FAS-led tournaments
