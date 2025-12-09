@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Parent Support Group
 ---
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Parent Support Group</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -290,6 +290,24 @@ as many of them look forward excitedly to their next lesson.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/frame.jpg">
 </div>
 <p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Join Us</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+<br>Parent Volunteer Registration <a href="https://docs.google.com/forms/d/e/1FAIpQLSc01M7SPywtPp9ZMx4QbdiZUAh-2H6p_mNCHtck0d3HhzZjZA/viewform" rel="noopener nofollow" target="_blank">Form</a>
+</p>
+<p></p>
+<p>The establishment of Parent Support Groups introduced a new era of parental
+involvement in school activities and functions. By having a formal organization
+and structure, parents are more easily able to contribute to the execution
+of school events. An executive committee was set up to manage Parent Support
+Groups and further promote parental involvement.</p>
+<p>If you are interested in becoming a parent volunteer, please fill in your
+information below so we may contact you regarding current and upcoming
+events.</p>
+<p>Growing Together With Our Children Through Volunteering</p>
 </div>
 </details>
 </div>
