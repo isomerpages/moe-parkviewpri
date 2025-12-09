@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Alumni
 ---
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>About Us</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -60,6 +60,34 @@ investigation and consequences or actions will be meted out by the school
 if necessary.</p>
 </li>
 </ol>
+</div>
+</details>
+<details class="isomer-details">
+<summary>News &amp; Events</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Join Us</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4>Registration</h4>
+<p>Serving as a volunteer in PVPS Alumni is a wonderful way to give back
+to your alma mater. As a young volunteer, you play a very meaningful role
+in supporting the school events, recruitment and fundraising efforts. But
+most importantly, you keep the PVPS spirit alive. To foster mutual respect
+and a sense of community within the alumni family and PVPS, the Alumni
+EXCO has developed the following Code of Conduct to set its tone, image
+and direction.
+<br>
+<br><a href="https://docs.google.com/forms/d/e/1FAIpQLSc-4INSKOUD4sh3LH49762qP4vgkdkgEX5lKm9x4oJ-RdugVg/viewform" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
+</p>
+<p></p>
+<blockquote>
+<p>Follow us on <a href="https://www.facebook.com/groups/parkviewprisch" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>
+</p>
+</blockquote>
+<p></p>
 </div>
 </details>
 </div>
