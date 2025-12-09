@@ -4,6 +4,31 @@ permalink: /students-achievements/
 variant: tiptap
 description: ""
 ---
+<h4>2025 JQA International Environmental Children’s Drawing Contest: “Let’s Listen to Earth’s Voice”</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHARLENE KURNIAWAN - 2R2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NICOLE KURNIAWAN - 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Hello! Flower of China Singapore Friendship International Youth Painting Collection and Exhibition 2025 你好——中新友谊之花</h4>
 <table style="minWidth: 50px">
 <colgroup>
