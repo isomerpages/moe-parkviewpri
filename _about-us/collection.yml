@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Information.md
       - Our People/.keep
       - Our People/Principal.md
       - Our People/Vice Principal.md
@@ -17,6 +16,7 @@ collections:
       - Our People/Adjunct Teachers.md
       - School Vision, Mission and Values.md
       - School Crest & History.md
+      - School Information.md
       - Achievements.md
       - School Hours.md
       - School Rules/.keep
