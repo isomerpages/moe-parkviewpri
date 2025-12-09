@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Achievements.md
       - School Information.md
       - Our People/.keep
       - Our People/Principal.md
@@ -18,6 +17,7 @@ collections:
       - Our People/Adjunct Teachers.md
       - School Vision, Mission and Values.md
       - School Crest & History.md
+      - Achievements.md
       - Achievements/.keep
       - School Hours.md
       - School Rules/.keep
@@ -26,9 +26,9 @@ collections:
       - School Rules/Code of Conduct.md
       - School Rules/National Anthem.md
       - School Rules/Use of Communication or Smart Device.md
+      - School Policies/.keep
       - School Policies/School Policies.md
       - School Policies/Acceptable Use Policy.md
-      - School Policies/.keep
       - School Policies/Assessment Policy.md
       - School Policies/Homework Policy.md
       - School Policies/Mobile Phone or Smart Device Policy.md
