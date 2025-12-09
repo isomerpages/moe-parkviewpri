@@ -4,6 +4,259 @@ permalink: /students-achievements/
 variant: tiptap
 description: ""
 ---
+<h4>2025 JQA International Environmental Children’s Drawing Contest: “Let’s Listen to Earth’s Voice”</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHARLENE KURNIAWAN - 2R2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NICOLE KURNIAWAN - 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Hello! Flower of China Singapore Friendship International Youth Painting Collection and Exhibition 2025 你好——中新友谊之花</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WU YUNXI – 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>2025 Amazon Kindle Story Writing &amp; Illustrations</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WU YUNXI - 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Singapore Chinese Moo-O Awards 2025</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MARILYN LEONG EN TING – 3R2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>QIU ZIWAN – 3R3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZHANG WEIPING JERRY – 3C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>2025 Singapore Primary Science Olympiad (SPSO)</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHAN WINSTON – 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GAN YU CHEN – 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIN YUN HONG – 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FENG RUIYI – 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LUIS GAO SHANG – 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ARIN CHAUDHARY – 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JAYDEN KOH ZHI YUAN – 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JERIEL TEO YU TENG – 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MAY THET HNINN HTUN – 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIM EN HUI – 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WU JIALE – 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YAP ING KEK CALEB – 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZHANG WEIHAN JEFFREY – 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AIDEN YONG CHENG HAN – 5R2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHAN WESLEY – 5R2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DAVIS NATHAN JOHN – 5R2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LAW JUNHENG – 5R2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEE WEI CHENG – 5R2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NAURA AUNI NAFISAH BINTE MUHAMMAD FADHIL – 5R2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>2024 P3 Acadamic &nbsp;Prize Winners</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -509,323 +762,5 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4>2023 Cognitive Achievements: National Mathematical Olympiad of Singapore</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chew Yu Xi, Iris - 5R1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>2023 Cognitive Achievements: Singapore Primary Science Olympiad</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Hong Jinho - 5R1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lim Jia Heng - 5R1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Pradnya Pramita Larasati - 5R1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Yee Jun Rui Dillon - 5R1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>2023 Cognitive Achievements: 8th National Primary School “Picture Book Creation” Competition</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Hung Cheuk Lam Jade - 5R2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Li Youqi - 5R2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Leng Jih Xuan - 5R3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>2023 Cognitive Achievements: National Oral Recitation:&nbsp;Lower Primary</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Jiang Yiting - 2I</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Jiang Liaofan - 3R1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Yap Ing Kek Caleb - 3R2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Hu Boyue - 3R3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Wu Junqing - 3R1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Feng Ruiyi - 3C</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>2023 Physical Achievements:<br>SPSSC National School Games Football Junior Division Boys' Competition (Top 3 in Tier 1)</h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Muhammad Haqq Bin Mohamed Mochtar - 4C</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ariq Fikry Bin Muhammad Farid - 4R2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Cheng Tsz Hin Dexter - 4R2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Rafa Mohamed Bin Mohamed Shafiq - 4I</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Aqef Aqmani Bin Mohamad Burhan - 4I</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lu'ay Bin Herman - 5C</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Youseff Nuufayll Bin Suhaimi - 5C</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mohammed Malikh Bin Mohammed Khairil - 5H</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Aazim Bin Muhammad Zulfadzly - 5I</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Paari Prabu - 5R1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Anvit Mishra - 5R2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Zhang Haozhe - 5R2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Aqil Muhammad Bin Ruddy Muhammad - 5R3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Muhammad Mikail Bin Muhammad Farid - 5R3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sidartha Enzo Go Kumar - 5R3</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>2023 Physical Achievements: National Primary Schools Sport Climbing Championship</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mikhail Zheng Xi Bin Muhammad Zaid&nbsp;&nbsp;- 3R2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st place in Top Rope and 3rd place in Boulder Challenge</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>2023 Leadership Achievements: Lee Yun Han Award</h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Auni Afiqah Binte Noor Ariffin - 6R2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ryyan Azfar Bin La Ode Indra Karnain - 6R2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Liu Tongxi - 6R3</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>2023 Leadership Achievements: 2023 PVPS Excellence Award</h4>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sanaa J Darvinder - 6I</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Siti Fareeha Binte Mohamed Fazil - 6I</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ryyan Azfar Bin La Ode Indra Karnain - 6R2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Samantha Ong Zhi Xuan - 6R2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ean Chan Yi An - 6R3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Shelar Swaraa Virendra - 6R3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chew Ni Ya Nia - 6R3</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ong Jia Xuan - 6R3</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
+<p></p>
+<p></p>

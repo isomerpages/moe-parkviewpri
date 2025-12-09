@@ -19,19 +19,15 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:choo_sing_wee@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Choo Sing Wee</a>
-<br><strong>HOD - EL</strong>
+<p><strong><a href="mailto:choo_sing_wee@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Choo Sing Wee</a><br>HOD - EL</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_lip_seng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Tay Lip Seng</a>
-<br><strong>HOD - Math <br></strong>
+<p><strong><a href="mailto:tay_lip_seng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Tay Lip Seng</a><br>HOD - Math <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_shuan_kwee@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Chua Shuan Kwee</a>
-<br><strong>HOD - SCI</strong>
-<br>
+<p><strong><a href="mailto:chua_shuan_kwee@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Chua Shuan Kwee</a><br>HOD - SCI<br></strong>
 </p>
 </td>
 </tr>
@@ -50,16 +46,16 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="mailto:teo_siew_yeun @schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Teo Siew Yeun</a>
-<br>HOD - MT</p>
+<p><strong><a href="mailto:teo_siew_yeun @schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Teo Siew Yeun</a><br>HOD - MT</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="mailto:lim_hwee_tin_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tina Lim</a>
-<br>HOD - Aesthetics CCA</p>
+<p><strong><a href="mailto:lim_hwee_tin_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tina Lim</a><br>HOD - Aesthetics CCA</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="mailto:justin_luo_yanzhong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Justin Luo</a>
-<br>HOD - ICT</p>
+<p><strong><a href="mailto:justin_luo_yanzhong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Justin Luo</a><br>HOD - ICT</strong>
+</p>
 </th>
 </tr>
 </tbody>
@@ -77,7 +73,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><a href="mailto:norahmah_haron@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Norahmah</a>
+<p><strong><a href="mailto:norahmah_haron@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Norahmah</a></strong>
 <br>HOD - SSD</p>
 </th>
 <th rowspan="1" colspan="1">
