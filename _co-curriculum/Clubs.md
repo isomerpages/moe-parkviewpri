@@ -8,6 +8,7 @@ description: ""
 <details class="isomer-details">
 <summary>Arts &amp; Crafts Club</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <h4>Arts &amp; Crafts Club</h4>
 <p>Through our 4<strong>E</strong>&nbsp;approach -<strong>Exposure</strong>,&nbsp;<strong>Experience</strong>,&nbsp;<strong>Excursion</strong>,&nbsp;<strong>Excellence</strong>,&nbsp;we
 aim to develop and harness the full range of our students’ talents and
@@ -534,6 +535,7 @@ Competition 2024&nbsp;</p>
 <details class="isomer-details">
 <summary>Infocomm Club</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <h4>Infocomm Club</h4>
 <p>PVPS Infocomm Club aims to excite students in a fun and meaningful way
 by helping them to learn new technology skills and to cultivate leadership
@@ -646,6 +648,7 @@ with score-keeping.</p>
 <details class="isomer-details">
 <summary>Drama Club</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <h4>Drama Club</h4>
 <p>The objective of our Drama Club is to stimulate the young&nbsp;<strong>curious</strong>&nbsp;minds
 with imaginative activities enabling them to develop effective&nbsp;<strong>communication</strong>&nbsp;and
@@ -810,6 +813,7 @@ development, ready to apply their skills in real-life contexts.</p>
 <details class="isomer-details">
 <summary>Environment Club</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <h4>Environment Club</h4>
 <p>Welcome to the Park View Primary School Environment Club, where young
 minds come together to explore, learn, and act for the world around us.
