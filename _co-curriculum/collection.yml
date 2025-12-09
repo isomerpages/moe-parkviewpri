@@ -2,22 +2,22 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Clubs.md
-      - Uniformed Groups.md
       - Sports & Games.md
       - Performing Arts.md
+      - Uniformed Groups.md
+      - Clubs.md
       - Sports & Games/.keep
       - Sports & Games/Football.md
       - Sports & Games/Hockey.md
       - Sports & Games/Netball.md
       - Sports & Games/Volleyball.md
       - Sports & Games/Wushu.md
+      - Performing Arts/.keep
       - Performing Arts/Creative Dance.md
       - Performing Arts/Guzheng.md
       - Performing Arts/Show Choir.md
-      - Performing Arts/.keep
-      - Uniformed Groups/Scouts.md
       - Uniformed Groups/.keep
+      - Uniformed Groups/Scouts.md
       - Clubs/.keep
       - Clubs/Art & Craft Club.md
       - Clubs/Info Comm Club.md
