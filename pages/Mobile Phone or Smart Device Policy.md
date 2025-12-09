@@ -2,7 +2,6 @@
 title: Mobile Phone or Smart Device Policy
 permalink: /about-us/school-policies/mobile-phone-or-smart-device-policy/
 description: ""
-third_nav_title: School Policies
 variant: tiptap
 ---
 <p><em>Any Device Capable of Storing/Providing Information is considered a smart device (e.g. smart watch)</em>

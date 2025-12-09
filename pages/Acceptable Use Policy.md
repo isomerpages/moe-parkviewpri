@@ -3,7 +3,6 @@ title: Acceptable Use Policy
 permalink: /acceptable-use-policy/
 variant: tiptap
 description: ""
-third_nav_title: School Policies
 ---
 <h3><strong><u>Acceptable Use Policy (AUP) for use of EdTech Resources</u></strong><br></h3>
 <h4><strong>Purpose of the Acceptable Use Policy (AUP)</strong></h4>

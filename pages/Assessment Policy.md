@@ -2,7 +2,6 @@
 title: Assessment Policy
 permalink: /about-us/school-policies/assessment-policy/
 description: ""
-third_nav_title: School Policies
 variant: tiptap
 ---
 <h4><strong>Absence Due to Medical Or Other Valid Reason</strong></h4>

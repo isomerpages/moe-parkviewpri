@@ -1,7 +1,6 @@
 ---
 title: Rules for Using Lockers
 permalink: /about-us/school-policies/rules-for-using-lockers/
-third_nav_title: School Policies
 description: ""
 ---
 ![](/images/Locker.jpg)
@@ -23,10 +22,10 @@ description: ""
 #### For P2-P6 Lockers with external padlock required:
 <ul><li>Pupils are required to purchase their own padlocks.</li>
 <li>There are no restrictions on the type of padlock to be purchased. Pupils are reminded to buy a padlock of the correct size and proper strength.</li>
-<li>It is <b>encouraged but not compulsory</b> for pupils to purchase the padlock from the school bookshop to ensure the correct dimensions & strength required.</li>
+<li>It is&nbsp;<b>encouraged but not compulsory</b>&nbsp;for pupils to purchase the padlock from the school bookshop to ensure the correct dimensions &amp; strength required.</li>
 <li>Pupils are reminded to be responsible for their keys as the school does not have a duplicate key if the pupils lose their keys.</li>
 <li>Pupils must take full responsibility for the items stored in the lockers.</li>
-<li>Pupils are advised not to store any money or valuables in their lockers.</li>
+<li>Pupils are advised not to store any&nbsp;money or valuables&nbsp;in their lockers.</li>
 <li>Storage of any items that are illegal in nature, would cause or be likely to cause a health hazard,</li>
 <li>security risk, physical danger or a nuisance to the environment or other members of the school, is prohibited.</li>
 <li>In case of any loss or damage, pupils must report to their Form Teacher immediately.</li></ul>  

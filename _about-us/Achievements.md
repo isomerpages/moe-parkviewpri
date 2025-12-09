@@ -3,7 +3,6 @@ title: Achievements
 permalink: /achievements/
 variant: tiptap
 description: ""
-third_nav_title: Achievements
 ---
 <ul data-tight="true" class="tight">
 <li>

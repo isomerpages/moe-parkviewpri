@@ -3,7 +3,6 @@ title: School Policies
 permalink: /school-policies/
 variant: tiptap
 description: ""
-third_nav_title: School Policies
 ---
 <ul data-tight="true" class="tight">
 <li>
