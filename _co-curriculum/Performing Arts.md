@@ -8,7 +8,7 @@ description: ""
 <details class="isomer-details">
 <summary>Creative Dance</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Introduction</h4>
+<h4>Creative Dance</h4>
 <p>The Dance CCA was one of the first CCAs to be set up when the school started.
 We had different ethnic dance groups those days. Over some years, equality
 and diversity took great importance in our merger to Creative Dance CCA.
@@ -145,7 +145,7 @@ and rapport between the dancers, teachers, and instructors.</p>
 <details class="isomer-details">
 <summary>Guzheng</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Introduction</h4>
+<h3>Guzheng</h3>
 <p>Park View Primary School Guzheng Ensemble has been established since the
 school started in 1997. Guzheng, a traditional Chinese musical instrument,
 plays an important part in the Chinese culture. Playing the Guzheng helps
@@ -267,7 +267,7 @@ invited to perform at the Pasir Ris West CNY dinner celebration.</p>
 <details class="isomer-details">
 <summary>Show Choir</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Introduction</h4>
+<h4>Show Choir</h4>
 <p>Show Choir combines choral singing with dance movements, occasionally
 within the context of a specific idea or story. Our PVPS Choir began in
 January 2011 as a traditional choir ensemble. Over the years, under the
