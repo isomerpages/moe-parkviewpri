@@ -4,6 +4,264 @@ permalink: /school-achievements/
 variant: tiptap
 description: ""
 ---
+<h4>National School Games 2025 - Netball Junior Division Girls</h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HANNAH SUFIYYA BINTE MUHAMMAD HAFEEZ PIPERDY – 4R2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LYDIA KOH JIT NING – 4R2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR INSYIRAH BINTE MOHAMED NIZAM – 4R2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ELISABETH FENG QIU YUAN – 4R3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AFIYAH MYRA BINTE ABDUL AZIZ – 4I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SOMANI POOJA – 4I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KALLIE CHAN XIN YING – 4C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR ILYANA HAZIQAH BINTE ABDUL WAHID – 5R3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AYEESHA ZAHRA BINTE MUHAMMAD FARID – 5I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR ALISHA ARIANA BINTE MUHAMMAD FARHAN – 5I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR ARLYSSA SENROSE BINTE ABDULLAH – 5I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NUR AZALEIA SARAFINA BINTE INDRAWIRA – 5I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>VALWENA KOH VUN VUN – 5I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KHAYLA ADEENA BINTE AZMI – 5C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZAHRAA ALEENA BINTE MOHAMED NASMIE – 5C</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>2025 National Robotics Programming Competition (NRPC), Participation Award</h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHUA TIEN LOK DANIEL – 6I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>IMAN ASYRFF BIN KHAIRIL IDZWAN – 6I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WOO CHUN WAI – 6I</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>2025 "Our Schools, Our Stories” Photo &amp; Video Contest, Participation Award</h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ERIEL TEO YU TENG – 5R1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHAN WESLEY – 5R2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KAYDEN DANISH BIN MUHAMMAD SYAIFUL ANUAR – 5R3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ARJUN SINGH JAMWAL – 6C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CAI YIQIAN – 6C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DHAMIJA HIMAKSH – 6C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEE MEI WEN ANNA – 6C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LUI TIEN-HSIN – 6C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RYEL TAN YONG ZHI – 6C</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>2025 Rhythmic Gymnastics National Levels Cup: 1st in Tier 4</h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FAHRIAN DANIAL BIN MUHAMMAD FADHIL – 4R1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>UMAR DANIAL BIN MOHAMMED FARHAN – 4R1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOW ZHI JIA JETHRO – 4I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ISAAC AZARIAH KOH YAO JUN – 4I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KOH TECK RUI AMOS – 4I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>THONG RUI CHENG, KAYDEN – 4I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BRYAN SONG – 5R1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHAN WINSTON – 5R1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FENG RUIYI – 5R1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZHANG WEIHAN JEFFREY – 5R1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ISAIAH TEO JUN YAO – 5R2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JEREMY LEONG YONG SHENG – 5R2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GNIN CHEN EN NIGEL – 5R3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ESHAN RAMZI BIN RAMDZAN – 5I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ABBAS EMRE AAYDAN S/O SHEIK ABDUL KADER – 5C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AFIFF MUHAMMAD ANSAR – 5C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD IMRAN NAZAR BIN MOHD HAFIZ – 5C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SUDHANVA GURURAJ KULKARNI – 5C</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>2024 Singapore Youth Festival (SYF) Arts Presentation:<br><strong>Creative Dance -&nbsp;</strong>Awarded Certificate of Distinction</h4>
 <table style="minWidth: 25px">
 <colgroup>
