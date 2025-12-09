@@ -103,10 +103,8 @@ and direction.
 <br><a href="https://docs.google.com/forms/d/e/1FAIpQLSc-4INSKOUD4sh3LH49762qP4vgkdkgEX5lKm9x4oJ-RdugVg/viewform" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
 </p>
 <p></p>
-<blockquote>
 <p>Follow us on <a href="https://www.facebook.com/groups/parkviewprisch" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>
 </p>
-</blockquote>
 <p></p>
 </div>
 </details>
