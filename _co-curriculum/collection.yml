@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Clubs.md
       - Uniformed Groups.md
       - Sports & Games.md
       - Performing Arts.md
