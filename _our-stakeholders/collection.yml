@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Appreciation & Feedback.md
-      - Alumni/Alumni.md
       - Alumni/.keep
       - For Parents/.keep
       - For Parents/Financial Assistance Scheme.md
