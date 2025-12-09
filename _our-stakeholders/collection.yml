@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Appreciation & Feedback.md
+      - Alumni/Alumni.md
       - Alumni/.keep
       - Alumni/About Us.md
       - Alumni/News & Events.md
