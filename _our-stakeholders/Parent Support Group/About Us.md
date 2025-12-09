@@ -1,8 +1,0 @@
----
-title: About Us
-permalink: /our-stakeholders/parent-support-group/about-us/
-description: ""
-third_nav_title: Parent Support Group
-variant: tiptap
----
-<p>Dear Parents,<br></p><p>The PSG functions on the fundamental belief that each and every parent plays an important part in nurturing the future of our children, and in turn our nation, by working closely with the school to provide holistic education for our pupils. The PSG in Park View Primary School works in close collaboration with the School Leaders and teachers and supports them by ensuring that all programmes and activities designed are executed as efficiently as possible, so that our pupils can maximize their learning and enjoy their experiences from these programmes, hence enriching their schooling journey. In order to support the diverse and widespread range of activities, we are constantly looking for more parents to join the PSG and provide the school a helping hand.</p><p>We would like to take this opportunity to welcome you to our family. Please come and join us and be a part of this marvellous journey with your child. Watch them grow and bloom into bright, confident, independent individuals and see the pride in their eyes knowing you were part of it. We believe that each and every parent has the power and ability to contribute and no contribution is too little. Through teamwork, Together Everyone Achieves More.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" src="/images/Revised%20PSG%20Structure_2017.jpg"></div><p></p>

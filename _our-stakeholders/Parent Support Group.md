@@ -1,10 +1,36 @@
 ---
-title: PSG Activities & Events
-permalink: /our-stakeholders/parent-support-group/psg-activities-n-events/
-description: ""
-third_nav_title: Parent Support Group
+title: Parent Support Group
+permalink: /parent-support-group/
 variant: tiptap
+description: ""
 ---
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Parent Support Group</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<h4>Dear Parents,</h4>
+<p>The PSG functions on the fundamental belief that each and every parent
+plays an important part in nurturing the future of our children, and in
+turn our nation, by working closely with the school to provide holistic
+education for our pupils. The PSG in Park View Primary School works in
+close collaboration with the School Leaders and teachers and supports them
+by ensuring that all programmes and activities designed are executed as
+efficiently as possible, so that our pupils can maximize their learning
+and enjoy their experiences from these programmes, hence enriching their
+schooling journey. In order to support the diverse and widespread range
+of activities, we are constantly looking for more parents to join the PSG
+and provide the school a helping hand.</p>
+<p>We would like to take this opportunity to welcome you to our family. Please
+come and join us and be a part of this marvellous journey with your child.
+Watch them grow and bloom into bright, confident, independent individuals
+and see the pride in their eyes knowing you were part of it. We believe
+that each and every parent has the power and ability to contribute and
+no contribution is too little. Through teamwork, Together Everyone Achieves
+More.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/Revised%20PSG%20Structure_2017.jpg">
+</div>
 <p></p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -261,5 +287,27 @@ as many of them look forward excitedly to their next lesson.</p>
 <h4>Appreciation</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/frame.jpg">
+</div>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Join Us</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+<br>Parent Volunteer Registration <a href="https://docs.google.com/forms/d/e/1FAIpQLSc01M7SPywtPp9ZMx4QbdiZUAh-2H6p_mNCHtck0d3HhzZjZA/viewform" rel="noopener nofollow" target="_blank">Form</a>
+</p>
+<p></p>
+<p>The establishment of Parent Support Groups introduced a new era of parental
+involvement in school activities and functions. By having a formal organization
+and structure, parents are more easily able to contribute to the execution
+of school events. An executive committee was set up to manage Parent Support
+Groups and further promote parental involvement.</p>
+<p>If you are interested in becoming a parent volunteer, please fill in your
+information below so we may contact you regarding current and upcoming
+events.</p>
+<p>Growing Together With Our Children Through Volunteering</p>
+</div>
+</details>
 </div>
 <p></p>

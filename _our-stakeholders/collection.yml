@@ -2,12 +2,9 @@ collections:
   our-stakeholders:
     output: true
     order:
+      - Parent Support Group.md
+      - Alumni.md
       - Appreciation & Feedback.md
-      - Alumni/.keep
-      - Alumni/About Us.md
-      - Alumni/News & Events.md
-      - Alumni/Join Us.md
-      - Alumni/Code of Conduct.md
       - For Parents/.keep
       - For Parents/Financial Assistance Scheme.md
       - For Parents/Information for P1 (Y2025).md
@@ -19,8 +16,4 @@ collections:
       - For Parents/P6 Parents Workshop.md
       - For Parents/Step by Step Guide to join MS Teams.md
       - For Parents/Useful Resources.md
-      - Parent Support Group/.keep
-      - Parent Support Group/About Us.md
-      - Parent Support Group/PSG Activities & Events.md
-      - Parent Support Group/Parent Registration.md
       - School Advisory Committee.md
