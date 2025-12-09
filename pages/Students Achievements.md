@@ -4,6 +4,167 @@ permalink: /students-achievements/
 variant: tiptap
 description: ""
 ---
+<h4>2025 Singapore Primary Science Olympiad (SPSO)</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHAN WINSTON – 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GAN YU CHEN – 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIN YUN HONG – 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FENG RUIYI – 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LUIS GAO SHANG – 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ARIN CHAUDHARY – 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JAYDEN KOH ZHI YUAN – 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JERIEL TEO YU TENG – 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MAY THET HNINN HTUN – 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIM EN HUI – 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WU JIALE – 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YAP ING KEK CALEB – 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZHANG WEIHAN JEFFREY – 5R1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AIDEN YONG CHENG HAN – 5R2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHAN WESLEY – 5R2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DAVIS NATHAN JOHN – 5R2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LAW JUNHENG – 5R2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEE WEI CHENG – 5R2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NAURA AUNI NAFISAH BINTE MUHAMMAD FADHIL – 5R2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>2024 P3 Acadamic &nbsp;Prize Winners</h4>
 <table style="minWidth: 50px">
 <colgroup>
