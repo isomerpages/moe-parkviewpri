@@ -30,7 +30,7 @@ description: ""
 <div class="isomer-card-title">School Bus</div>
 <div class="isomer-card-link">Click here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Other Services" src="/images/About Us/ChatGPT_Image_Dec_9__2025__04_30_34_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Other Services</div><div class="isomer-card-description">Dental services, Book Shop &amp; Uniform Supplier</div><div class="isomer-card-link">Click here</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://parkviewpri.moe.edu.sg/about-us/other-services/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Other Services" src="/images/About Us/ChatGPT_Image_Dec_9__2025__04_30_34_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Other Services</div><div class="isomer-card-description">Dental services, Book Shop &amp; Uniform Supplier</div><div class="isomer-card-link">Click here</div></div></a>
 </div>
 <p></p>
 <p></p>
