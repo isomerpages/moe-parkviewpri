@@ -2,7 +2,6 @@ collections:
   our-stakeholders:
     output: true
     order:
-      - Parent Support Group.md
       - Alumni.md
       - Appreciation & Feedback.md
       - For Parents/.keep
