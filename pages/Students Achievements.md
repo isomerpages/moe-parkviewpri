@@ -4,6 +4,39 @@ permalink: /students-achievements/
 variant: tiptap
 description: ""
 ---
+<h4>Singapore Chinese Moo-O Awards 2025</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MARILYN LEONG EN TING – 3R2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>QIU ZIWAN – 3R3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZHANG WEIPING JERRY – 3C</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>2025 Singapore Primary Science Olympiad (SPSO)</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -670,4 +703,5 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
