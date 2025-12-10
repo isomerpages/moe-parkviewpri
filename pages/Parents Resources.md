@@ -84,9 +84,9 @@ description: ""
             <div class="click">Click here</div>
         </div>
     </a>    
-    <a target="_blank" href="https://go.gov.sg/pvps-school-policies">
+    <a target="_blank" href="https://go.gov.sg/pvps-parentshandbook-2025">
         <div class="box">
-            <div class="title">School Policies</div>
+            <div class="title">Parent Handbook</div>
             <div class="click">Click here</div>
         </div>
 	</a>
