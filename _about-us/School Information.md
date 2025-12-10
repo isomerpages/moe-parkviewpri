@@ -20,7 +20,7 @@ description: ""
         text-decoration: none !important;
     }
 
-    .pdf-box {
+    .box {
         width: 200px; 
         height: 200px; 
         padding: 20px;
@@ -32,20 +32,20 @@ description: ""
         display: flex;
         flex-direction: column;
         justify-content: space-between;
-        color: #051C70;
     }
 
-    .pdf-box:hover {
+    .box:hover {
         background: #F8D063;
     }
 
-    .pdf-title {
+    .title {
         font-weight: bold;
         font-size: 20px;
         text-align: left;
+				color: #051C70;
     }
 
-    .pdf-click {
+    .click {
         color: #000000;
         text-decoration: underline;
         text-align: right;
@@ -60,53 +60,52 @@ description: ""
             margin: 10px;
         }
 
-        .pdf-box {
+        .box {
             width: 100%; /* full width of container */
             height: auto; /* adjust height for content */
         }
 
-        .pdf-title {
+        .title {
             font-size: 18px;
         }
     }
 </style>
 
-
 <div class="container">
     <a target="_blank" href="https://go.gov.sg/pvps-school-hours">
-        <div class="pdf-box">
-            <div class="pdf-title">School Hours</div>
-            <div class="pdf-click">Click here</div>
+        <div class="box">
+            <div class="title">School Hours</div>
+            <div class="click">Click here</div>
         </div>
-    </a>
+    </a>    
     <a target="_blank" href="https://go.gov.sg/pvps-school-rules">
-        <div class="pdf-box">
-            <div class="pdf-title">School Rules</div>
-            <div class="pdf-click">Click here</div>
+        <div class="box">
+            <div class="title">School Rules</div>
+            <div class="click">Click here</div>
         </div>
-    </a>
+    </a>    
     <a target="_blank" href="https://go.gov.sg/pvps-school-policies">
-        <div class="pdf-box">
-            <div class="pdf-title">School Policies</div>
-            <div class="pdf-click">Click here</div>
+        <div class="box">
+            <div class="title">School Policies</div>
+            <div class="click">Click here</div>
         </div>
-    </a>
-    <a target="_blank" href="https://www.canva.com/design/DAFTYNROmu4/ZfHeWT9vNhrNa1GfTJFYmQ/view">
-        <div class="pdf-box">
-            <div class="pdf-title">Canteen Menu</div>
-            <div class="pdf-click">Click here</div>
+	</a>
+    <a target="_blank" href="https://www.canva.com/design/DAFTYNROmu4/ZfHeWT9vNhrNa1GfTJFYmQ/view?utm_content=DAFTYNROmu4&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=hd59a96175d">
+        <div class="box">
+            <div class="title">Canteen Menu</div>
+            <div class="click">Click here</div>
         </div>
-    </a>
+    </a>   
     <a target="_blank" href="https://parkviewpri.moe.edu.sg/schoolbus/">
-        <div class="pdf-box">
-            <div class="pdf-title">School Bus</div>
-            <div class="pdf-click">Click here</div>
+        <div class="box">
+            <div class="title">School Bus</div>
+            <div class="click">Click here</div>
         </div>
-    </a>
-    <a target="_blank" href="https://www.canva.com/design/DAFTYNROmu4/ZfHeWT9vNhrNa1GfTJFYmQ/view">
-        <div class="pdf-box">
-            <div class="pdf-title">Other Services</div>
-            <div class="pdf-click">Click here</div>
+    </a>    
+    <a target="_blank" href="https://www.canva.com/design/DAFTYNROmu4/ZfHeWT9vNhrNa1GfTJFYmQ/view?utm_content=DAFTYNROmu4&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=hd59a96175d">
+        <div class="box">
+            <div class="title">Other Services</div>
+            <div class="click">Click here</div>
         </div>
     </a>
 </div>
