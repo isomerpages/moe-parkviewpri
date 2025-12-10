@@ -1,8 +1,7 @@
 ---
 title: Insurance Claim
-permalink: /our-stakeholders/Insurance-Claim/
+permalink: /our-stakeholders/insurance-claim/
 description: ""
-third_nav_title: For Parents
 variant: tiptap
 ---
 <h4>GROUP PERSONAL ACCIDENT (GPA) INSURANCE FOR STUDENTS:</h4>

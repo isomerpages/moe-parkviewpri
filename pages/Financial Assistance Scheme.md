@@ -2,7 +2,6 @@
 title: Financial Assistance Scheme
 permalink: /our-stakeholders/financial-assistance-scheme/
 description: ""
-third_nav_title: For Parents
 variant: tiptap
 ---
 <h4>MOE Financial Assistance Scheme (MOE FAS)</h4>

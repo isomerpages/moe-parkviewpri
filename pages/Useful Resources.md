@@ -1,9 +1,8 @@
 ---
 title: Useful Resources
-permalink: /our-stakeholders/Useful-Resources/
+permalink: /our-stakeholders/useful-resources/
 description: ""
-third_nav_title: For Parents
-variant: tiptap
+variant: markdown
 ---
 <p><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SchoolBag</a>&nbsp;-
 This is an online newsletter by the Ministry of Education, Singapore. It

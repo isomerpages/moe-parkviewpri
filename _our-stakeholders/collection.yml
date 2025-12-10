@@ -2,18 +2,8 @@ collections:
   our-stakeholders:
     output: true
     order:
+      - For Parents.md
       - Alumni.md
       - Appreciation & Feedback.md
-      - For Parents/.keep
-      - For Parents/Financial Assistance Scheme.md
-      - For Parents/Information for P1 (Y2026).md
-      - For Parents/Insurance Claim.md
-      - For Parents/Letter to Parents.md
-      - For Parents/MTP 2026.md
-      - For Parents/Parent Handbook.md
-      - For Parents/POSB Smart Buddy Registration.md
-      - For Parents/P6 Parents Workshop.md
-      - For Parents/Step by Step Guide to join MS Teams.md
-      - For Parents/Useful Resources.md
       - Parent Support Group.md
       - School Advisory Committee.md
