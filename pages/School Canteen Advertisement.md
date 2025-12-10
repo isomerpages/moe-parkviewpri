@@ -30,7 +30,7 @@ description: ""
 <p>Halal Western Food</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10 December 2025</p>
+<p>31 March 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Western food stalls are acceptable.</p>
