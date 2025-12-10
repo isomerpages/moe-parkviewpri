@@ -10,13 +10,19 @@ description: ""
         grid-template-columns: repeat(3, auto);
         gap: 20px;
         justify-content: center;
-        margin-top: 20px;
-				text-decoration: none;
+        margin-top: 10px;
+    }
+
+    .container a,
+    .container a:hover,
+    .container a:focus,
+    .container a:active {
+        text-decoration: none !important;
     }
 
     .pdf-box {
-        width: 160px; 
-        height: 160px; 
+        width: 200px; 
+        height: 200px; 
         padding: 20px;
         border: 0;
         cursor: pointer;
@@ -27,19 +33,16 @@ description: ""
         flex-direction: column;
         justify-content: space-between;
         color: #051C70;
-				text-decoration: none;
     }
 
     .pdf-box:hover {
         background: #F8D063;
-				text-decoration: none;
     }
 
     .pdf-title {
         font-weight: bold;
         font-size: 20px;
         text-align: left;
-				text-decoration: none;
     }
 
     .pdf-click {
@@ -49,12 +52,25 @@ description: ""
         width: 100%;
     }
 
- .container a:hover {
-    text-decoration: none;
-}
+    /* Mobile / Handphone view */
+    @media screen and (max-width: 768px) {
+        .container {
+            grid-template-columns: 1fr; /* 1 column */
+            gap: 15px;
+            margin: 10px;
+        }
 
-    
+        .pdf-box {
+            width: 100%; /* full width of container */
+            height: auto; /* adjust height for content */
+        }
+
+        .pdf-title {
+            font-size: 18px;
+        }
+    }
 </style>
+
 
 <div class="container">
     <a target="_blank" href="https://go.gov.sg/pvps-school-hours">
