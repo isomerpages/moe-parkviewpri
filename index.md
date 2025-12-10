@@ -9,15 +9,15 @@ sections:
   - hero:
       background: /images/gif-banner-lf.gif
       key_highlights:
-        - title: Appreciation & Feedback
-          description: ""
-          url: https://www.parkviewpri.moe.edu.sg/our-stakeholders/appreciation-and-feedback/
         - title: Letter to Parents
-          description: ""
+          description: Important Updates
           url: https://www.parkviewpri.moe.edu.sg/our-stakeholders/letter-to-parents/
         - title: Students
-          description: ""
+          description: Find Useful Info
           url: https://parkviewpri.moe.edu.sg/our-students/
+        - title: Appreciation & Feedback
+          description: Sharing Thoughts and Gratitude
+          url: https://www.parkviewpri.moe.edu.sg/our-stakeholders/appreciation-and-feedback/
         - title: School Canteen Advertisement
           description: ""
           url: https://parkviewpri.moe.edu.sg/school-canteen-advertisement/
