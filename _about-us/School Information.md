@@ -71,44 +71,37 @@ description: ""
     }
 </style>
 
-
 <div class="container">
-    
     <a target="_blank" href="https://go.gov.sg/pvps-school-hours">
         <div class="box">
             <div class="title">School Hours</div>
             <div class="click">Click here</div>
         </div>
-    </a>
-    
+    </a>    
     <a target="_blank" href="https://go.gov.sg/pvps-school-rules">
         <div class="box">
             <div class="title">School Rules</div>
             <div class="click">Click here</div>
         </div>
-    </a>
-    
+    </a>    
     <a target="_blank" href="https://go.gov.sg/pvps-school-policies">
         <div class="box">
             <div class="title">School Policies</div>
             <div class="click">Click here</div>
         </div>
-    </a>
-    
+	</a>
     <a target="_blank" href="https://www.canva.com/design/DAFTYNROmu4/ZfHeWT9vNhrNa1GfTJFYmQ/view?utm_content=DAFTYNROmu4&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=hd59a96175d">
         <div class="box">
             <div class="title">Canteen Menu</div>
             <div class="click">Click here</div>
         </div>
-    </a>
-    
+    </a>   
     <a target="_blank" href="https://parkviewpri.moe.edu.sg/schoolbus/">
         <div class="box">
             <div class="title">School Bus</div>
             <div class="click">Click here</div>
         </div>
-    </a>
-    
+    </a>    
     <a target="_blank" href="https://www.canva.com/design/DAFTYNROmu4/ZfHeWT9vNhrNa1GfTJFYmQ/view?utm_content=DAFTYNROmu4&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=hd59a96175d">
         <div class="box">
             <div class="title">Other Services</div>
@@ -116,6 +109,3 @@ description: ""
         </div>
     </a>
 </div>
-
-
-
