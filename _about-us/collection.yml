@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - 135662.md
       - Our People/.keep
       - Our People/Principal.md
       - Our People/Vice Principal.md
