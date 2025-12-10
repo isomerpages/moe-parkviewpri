@@ -16,6 +16,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<h4><a href="https://parkviewpri.moe.edu.sg/our-stakeholders/mtp-2026/" rel="noopener nofollow" target="_blank">MTP 2026</a></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h4><a href="https://go.gov.sg/pvps-smartbuddy" rel="noopener nofollow" target="_blank">POSB Smart Buddy Registration</a><br></h4>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6Io4OXlxbjE?si=GwGwoZ9l6nx92iYM"></iframe>
