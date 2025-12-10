@@ -84,7 +84,7 @@ description: ""
             <div class="click">Click here</div>
         </div>
     </a>    
-    <a target="_blank" href="https://go.gov.sg/pvps-school-policies">
+    <a target="_blank" href="https://parkviewpri.moe.edu.sg/our-stakeholders/insurance-claim/">
         <div class="box">
             <div class="title">Insurance Claim</div>
             <div class="click">Click here</div>
