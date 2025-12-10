@@ -90,9 +90,9 @@ description: ""
             <div class="click">Click here</div>
         </div>
 	</a>
-    <a target="_blank" href="https://www.canva.com/design/DAFTYNROmu4/ZfHeWT9vNhrNa1GfTJFYmQ/view?utm_content=DAFTYNROmu4&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=hd59a96175d">
+    <a target="_blank" href="https://go.gov.sg/pvps-smartbuddy">
         <div class="box">
-            <div class="title">Canteen Menu</div>
+            <div class="title">POSB Smart Buddy Registration</div>
             <div class="click">Click here</div>
         </div>
     </a>   
