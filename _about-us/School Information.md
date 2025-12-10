@@ -11,6 +11,7 @@ description: ""
         gap: 20px;
         justify-content: center;
         margin-top: 20px;
+				text-decoration: none;
     }
 
     .pdf-box {
@@ -19,36 +20,40 @@ description: ""
         padding: 20px;
         border: 0;
         cursor: pointer;
-        background: #0B5873;
+        background: #FADD8F;
         transition: 0.3s;
         font-family: Arial, sans-serif;
         display: flex;
         flex-direction: column;
         justify-content: space-between;
-        color: #FFFFFF;
+        color: #051C70;
+				text-decoration: none;
     }
 
     .pdf-box:hover {
-        background: #303030;
+        background: #F8D063;
+				text-decoration: none;
     }
 
     .pdf-title {
         font-weight: bold;
         font-size: 20px;
         text-align: left;
+				text-decoration: none;
     }
 
     .pdf-click {
-        color: #FFFFFF;
+        color: #000000;
         text-decoration: underline;
         text-align: right;
         width: 100%;
     }
 
-    .container a {
-        text-decoration: none;
-        color: inherit;
-    }
+ .container a:hover {
+    text-decoration: none;
+}
+
+    
 </style>
 
 <div class="container">
