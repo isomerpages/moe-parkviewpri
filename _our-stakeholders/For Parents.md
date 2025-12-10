@@ -78,7 +78,7 @@ description: ""
             <div class="click">Click here</div>
         </div>
     </a>    
-    <a target="_blank" href="https://go.gov.sg/pvps-school-rules">
+    <a target="_blank" href="https://parkviewpri.moe.edu.sg/our-stakeholders/information-for-p1-y2026/">
         <div class="box">
             <div class="title">Information for P1 (Y2026)</div>
             <div class="click">Click here</div>
