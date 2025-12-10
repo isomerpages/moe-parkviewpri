@@ -89,13 +89,20 @@ description: ""
             <div class="title">Insurance Claim</div>
             <div class="click">Click here</div>
         </div>
-	</a>  
-    <a target="_blank" href="https://parkviewpri.moe.edu.sg/parents-resources/">
+	</a> 
+	 <a target="_blank" href="https://parkviewpri.moe.edu.sg/our-stakeholders/letter-to-parents/">
+        <div class="box">
+            <div class="title">Letter to Parents</div>
+            <div class="click">Click here</div>
+        </div>
+    </a>   
+	<a target="_blank" href="https://parkviewpri.moe.edu.sg/parents-resources/">
         <div class="box">
             <div class="title">Parent Resources</div>
             <div class="click">Click here</div>
         </div>
-    </a>    
+    </a>  
+    
   
 
 </div>
