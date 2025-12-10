@@ -78,7 +78,7 @@ description: ""
             <div class="click">Click here</div>
         </div>
     </a>    
-    <a target="_blank" href="https://go.gov.sg/pvps-school-rules">
+    <a target="_blank" href="https://parkviewpri.moe.edu.sg/our-stakeholders/mtp-2026/">
         <div class="box">
             <div class="title">MTP 2026</div>
             <div class="click">Click here</div>
