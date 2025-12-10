@@ -102,7 +102,4 @@ description: ""
             <div class="click">Click here</div>
         </div>
     </a>  
-    
-  
-
 </div>
