@@ -80,7 +80,7 @@ description: ""
     </a>    
     <a target="_blank" href="https://go.gov.sg/pvps-school-rules">
         <div class="box">
-            <div class="title">School Rules</div>
+            <div class="title">MTP 2026</div>
             <div class="click">Click here</div>
         </div>
     </a>    
