@@ -72,12 +72,7 @@ description: ""
 </style>
 
 <div class="container">
-    <a target="_blank" href="https://parkviewpri.moe.edu.sg/our-stakeholders/letter-to-parents/">
-        <div class="box">
-            <div class="title">Letter to Parents</div>
-            <div class="click">Click here</div>
-        </div>
-    </a>    
+        
     <a target="_blank" href="https://parkviewpri.moe.edu.sg/our-stakeholders/mtp-2026/">
         <div class="box">
             <div class="title">MTP 2026</div>
