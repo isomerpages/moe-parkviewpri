@@ -108,4 +108,22 @@ description: ""
             <div class="click">Click here</div>
         </div>
     </a>
+	 <a target="_blank" href="https://www.schoolbag.edu.sg/">
+        <div class="box">
+            <div class="title">SchoolBag</div>
+            <div class="click">Click here</div>
+        </div>
+    </a>    
+	 <a target="_blank" href="https://parkviewpri.moe.edu.sg/p5-p6-parents-workshop/">
+        <div class="box">
+            <div class="title">P6 Parents Workshop</div>
+            <div class="click">Click here</div>
+        </div>
+    </a>    
+	 <a target="_blank" href="https://parkviewpri.moe.edu.sg/p5-p6-parents-workshop/">
+        <div class="box">
+            <div class="title">P6 Parents Workshop</div>
+            <div class="click">Click here</div>
+        </div>
+    </a>    
 </div>
