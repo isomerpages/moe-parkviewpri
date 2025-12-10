@@ -20,5 +20,5 @@ sections:
           url: https://parkviewpri.moe.edu.sg/school-canteen-advertisement/
         - title: Students
           description: ""
-          url: ""
+          url: https://parkviewpri.moe.edu.sg/our-students/
 ---
