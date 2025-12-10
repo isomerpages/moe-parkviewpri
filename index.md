@@ -16,7 +16,7 @@ sections:
           description: ""
           url: https://www.parkviewpri.moe.edu.sg/our-stakeholders/letter-to-parents/
         - title: Students
-          description: ""
+          description: Find Useful Info
           url: https://parkviewpri.moe.edu.sg/our-students/
         - title: School Canteen Advertisement
           description: ""
