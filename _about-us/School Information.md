@@ -5,18 +5,27 @@ variant: markdown
 description: ""
 ---
 <style>
+	
+	
     .container {
         display: grid;
         grid-template-columns: repeat(3, auto);
         gap: 20px;
         justify-content: center;
-        margin-top: 20px;
+        margin-top: 10px;
 				text-decoration: none;
+	
     }
+	
+			.container a,
+			.container a:hover,
+			.container a:focus,
+			.container a:active {
+			text-decoration: none !important;
 
     .pdf-box {
-        width: 160px; 
-        height: 160px; 
+        width: 200px; 
+        height: 200px; 
         padding: 20px;
         border: 0;
         cursor: pointer;
