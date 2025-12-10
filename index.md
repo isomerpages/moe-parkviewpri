@@ -18,7 +18,7 @@ sections:
         - title: School Canteen Advertisement
           description: ""
           url: https://parkviewpri.moe.edu.sg/school-canteen-advertisement/
-        - title: Our Students
+        - title: Students
           description: ""
           url: ""
 ---
