@@ -72,33 +72,39 @@ description: ""
 </style>
 
 <div class="container">
-    <a target="_blank" href="https://file.go.gov.sg/pvps-fas.pdf">
+    <a target="_blank" href="https://go.gov.sg/pvps-fas">
         <div class="box">
             <div class="title">Financial Assistance Scheme</div>
             <div class="click">Click here</div>
         </div>
-    </a>    
+    </a>   
+	    <a target="_blank" href="https://parkviewpri.moe.edu.sg/our-stakeholders/insurance-claim/">
+        <div class="box">
+            <div class="title">Insurance Claim</div>
+            <div class="click">Click here</div>
+        </div>
+	</a> 
     <a target="_blank" href="https://parkviewpri.moe.edu.sg/our-stakeholders/information-for-p1-y2026/">
         <div class="box">
             <div class="title">Information for P1 (Y2026)</div>
             <div class="click">Click here</div>
         </div>
     </a>    
-    <a target="_blank" href="https://parkviewpri.moe.edu.sg/our-stakeholders/insurance-claim/">
-        <div class="box">
-            <div class="title">Insurance Claim</div>
-            <div class="click">Click here</div>
-        </div>
-	</a> 
 	 <a target="_blank" href="https://parkviewpri.moe.edu.sg/our-stakeholders/letter-to-parents/">
         <div class="box">
             <div class="title">Letter to Parents</div>
             <div class="click">Click here</div>
         </div>
     </a>   
-	<a target="_blank" href="https://parkviewpri.moe.edu.sg/parents-resources/">
+		<a target="_blank" href="https://www.parkviewpri.moe.edu.sg/our-stakeholders/mtp-2026/">
         <div class="box">
-            <div class="title">Parent Resources</div>
+            <div class="title">MTP</div>
+            <div class="click">Click here</div>
+        </div>
+    </a>  
+		<a target="_blank" href="https://parkviewpri.moe.edu.sg/parents-resources/">
+        <div class="box">
+            <div class="title">Other Resources</div>
             <div class="click">Click here</div>
         </div>
     </a>  

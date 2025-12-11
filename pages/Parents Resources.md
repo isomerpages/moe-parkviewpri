@@ -71,14 +71,7 @@ description: ""
     }
 </style>
 
-<div class="container">
-        
-    <a target="_blank" href="https://parkviewpri.moe.edu.sg/our-stakeholders/mtp-2026/">
-        <div class="box">
-            <div class="title">MTP 2026</div>
-            <div class="click">Click here</div>
-        </div>
-    </a>    
+<div class="container"> 
     <a target="_blank" href="https://go.gov.sg/pvps-parentshandbook-2025">
         <div class="box">
             <div class="title">Parent Handbook</div>
@@ -97,21 +90,9 @@ description: ""
             <div class="click">Click here</div>
         </div>
     </a>    
-    <a target="_blank" href="https://go.gov.sg/pvps-msteams">
-        <div class="box">
-            <div class="title">Guide to join MS Teams</div>
-            <div class="click">Click here</div>
-        </div>
-    </a>
 	 <a target="_blank" href="https://www.schoolbag.edu.sg/">
         <div class="box">
             <div class="title">SchoolBag</div>
-            <div class="click">Click here</div>
-        </div>
-    </a>    
-	 <a target="_blank" href="https://www.youtube.com/watch?v=ys1LUdQdcqM">
-        <div class="box">
-            <div class="title">Show Parents Can Work with Schools</div>
             <div class="click">Click here</div>
         </div>
     </a>    
