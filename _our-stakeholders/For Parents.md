@@ -72,7 +72,7 @@ description: ""
 </style>
 
 <div class="container">
-    <a target="_blank" href="https://file.go.gov.sg/pvps-fas.pdf">
+    <a target="_blank" href="https://go.gov.sg/pvps-fas">
         <div class="box">
             <div class="title">Financial Assistance Scheme</div>
             <div class="click">Click here</div>
