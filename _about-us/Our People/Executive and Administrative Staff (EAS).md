@@ -51,7 +51,7 @@ variant: tiptap
 <p>ICT Associate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:leria_dana_pauline_pangasinan@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Leria Dana Pauline</a>
+<p><a href="mailto:leria_dana@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Leria Dana Pauline</a>
 </p>
 </td>
 </tr>
@@ -69,7 +69,7 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fok_lai_beng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Fok Lai Beng, Jenny</a>
+<p><a href="mailto:fok_lai_beng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Jenny</a>
 </p>
 </td>
 </tr>
@@ -78,7 +78,7 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_gek_yeong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Lee Gek Yeong, Irene</a>
+<p><a href="mailto:lee_gek_yeong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Irene</a>
 </p>
 </td>
 </tr>
@@ -94,8 +94,9 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Operations Support Officers</h4>
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
@@ -103,18 +104,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Asleena</p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Abdul Rashid Lim</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Ng Bee Kien</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Mr Abdul Rashid Lim</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zaharina</p>
 </td>
