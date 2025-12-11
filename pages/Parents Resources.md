@@ -96,12 +96,6 @@ description: ""
             <div class="click">Click here</div>
         </div>
     </a>    
-	 <a target="_blank" href="https://www.youtube.com/watch?v=ys1LUdQdcqM">
-        <div class="box">
-            <div class="title">Show Parents Can Work with Schools</div>
-            <div class="click">Click here</div>
-        </div>
-    </a>    
 	 <a target="_blank" href="https://beinternetawesome.withgoogle.com/en_us/interland/">
         <div class="box">
             <div class="title">Interland</div>
