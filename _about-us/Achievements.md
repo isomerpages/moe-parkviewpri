@@ -71,8 +71,6 @@ description: ""
         }
     }
 </style>
-
-
 <div class="container">
     <a target="_blank" href="https://parkviewpri.moe.edu.sg/school-achievements/">
         <div class="box">
@@ -92,5 +90,4 @@ description: ""
             <div class="click">Click here</div>
         </div>
     </a>
-
 </div>
