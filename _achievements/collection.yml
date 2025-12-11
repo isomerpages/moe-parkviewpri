@@ -1,5 +1,0 @@
-collections:
-  achievements:
-    output: true
-    order:
-      - Achievements.md
