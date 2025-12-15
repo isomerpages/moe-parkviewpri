@@ -7,9 +7,8 @@ variant: tiptap
 ---
 <h4><strong>执教老师</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL_Table.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Screenshot_2025_12_15_082455.png">
 </div>
-<p></p>
 <h4><strong>我们的骄傲</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Screenshot_2025_11_10_142153.png">
@@ -295,7 +294,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.seab.gov.sg/home/examinations/approved-dictionaries" rel="noopener noreferrer nofollow" target="_blank">SEAB</a>
+<p><a href="https://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">SEAB</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -341,8 +340,7 @@ moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Singapore S
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://read.sgchinesebooks
-.com/primary-schools/" rel="noopener noreferrer nofollow" target="_blank">玲子线上阅读平台</a>
+<p><a href="https://chinesebooks.sg/" rel="noopener noreferrer nofollow" target="_blank">玲子线上阅读平台</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -376,7 +374,12 @@ in using the language through presentation, storytelling, singing and poetry
 recitation.</p>
 <p>We aim at making every minute in learning the language fun and engaging.
 We work hand in hand with parents to ensure that the values and practices
-learnt by the students in school are re-enforced by parents at home.</p>
+learnt by the students in school are re-enforced by parents at home.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Screenshot_2025_12_15_083026.png">
+</div>
 <p><strong><em>USE OF ELECTRONIC OR PRINT DICTIONARIES FOR PR 3 to 6 MOTHER TONGUE COMPOSITION EXAM</em></strong>
 </p>
 <p>Primary 3 to Primary 6 students are allowed to use either electronic or
@@ -386,10 +389,7 @@ implemented since 2006.</p>
 <p>As the Primary 3 students are new to this initiative, please be informed
 that only approved dictionaries are allowed during the examinations. Students
 must obtain the endorsement of the dictionaries by their Mother Tongue
-teachers before bringing them into the examination rooms. A list of the
-approved dictionaries is attached for your reference.</p>
-<p><a href="https://www.seab.gov.sg/home/examinations/approved-dictionaries" rel="noopener noreferrer nofollow" target="_blank">https://www.seab.gov.sg/home/examinations/approved-dictionaries</a>
-</p>
+teachers before bringing them into the examination rooms.</p>
 <p>For further clarifications, you may access the School Examination and
 Assessment Branch website at <a href="http://www.seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank">http://www.seab.gov.sg</a>, or contact your
 child’s Mother Tongue teacher.</p>
