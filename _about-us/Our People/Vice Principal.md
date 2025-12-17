@@ -13,7 +13,7 @@ variant: markdown
 				<br>Mdm Florence Ho<br>Vice Principal
 			</th>
 <th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Our%20People/SL/ms%20lim%20chiu%20ee%20(1).JPG" alt="Miss_Veronica_Poon_optimisedforweb.jpg" width="" height="">
-	<br>Ms Lim Chiu Ee<br>Vice Principal (Administration)
+				<img src="/images/Our%20People/SL/ms%20lim%20chiu%20ee%20" alt="Miss_Veronica_Poon_optimisedforweb.jpg" width="" height="">
+	<br>Ms Ong Seow Peng<br>Vice Principal (Administration)
 			</th>
 </tr></thead></table>
