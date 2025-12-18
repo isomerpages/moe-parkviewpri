@@ -377,8 +377,9 @@ We work hand in hand with parents to ensure that the values and practices
 learnt by the students in school are re-enforced by parents at home.
 <br>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Screenshot_2025_12_15_083026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Screenshot_2025_12_18_094601.png">
 </div>
 <p><strong><em>USE OF ELECTRONIC OR PRINT DICTIONARIES FOR PR 3 to 6 MOTHER TONGUE COMPOSITION EXAM</em></strong>
 </p>
