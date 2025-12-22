@@ -3,17 +3,41 @@ title: Vice Principal
 permalink: /about-us/our-people/vice-principal/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px" class="tg">
-	<thead>
-		<tr>
-			<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Our%20People/SL/mdm%20florence%20ho%20(1).JPG" alt="Mr_Tay_Lip_Seng_optimisedforweb.jpg" width="" height="">
-				<br>Mdm Florence Ho<br>Vice Principal
-			</th>
-<th style="border-color:#ffffff;border-style:solid;border-width:1px;text-align:center;">
-				<img src="/images/Our%20People/SL/ms%20lim%20chiu%20ee%20" alt="Miss_Veronica_Poon_optimisedforweb.jpg" width="" height="">
-	<br>Ms Ong Seow Peng<br>Vice Principal (Administration)
-			</th>
-</tr></thead></table>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/SL/mdm_ho.jpg">
+</div>
+<p>
+<br><strong>Mdm Florence Ho<br>Vice Principal</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Our People/SL/ms_ong.jpg">
+</div>
+<p>
+<br><strong>Ms Ong Seow Peng<br>Vice Principal (Administration)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
