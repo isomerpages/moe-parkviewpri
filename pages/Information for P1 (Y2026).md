@@ -12,15 +12,7 @@ variant: tiptap
 <p>Things to Bring (2026)</p>
 </li>
 <li>
-<p><a href="/files/2024 Info for P1/User guide to download PG App.pdf" rel="noopener noreferrer nofollow" target="_blank">User Guide to Download PGApp</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024 Info for P1/User guide on how to use PG App.pdf" rel="noopener noreferrer nofollow" target="_blank">User Guide on How to use PG App</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024 Info for P1/Parents Gateway _Frequently Asked Questions (For Parents).pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway FAQ (for Parents)</a>
+<p><a href="/files/PG_Instructions.pdf" rel="noopener nofollow" target="_blank">User Guide on How to use PG App</a>
 </p>
 </li>
 </ul>
