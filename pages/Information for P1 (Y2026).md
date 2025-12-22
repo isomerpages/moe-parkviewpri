@@ -12,18 +12,15 @@ variant: tiptap
 <p>Things to Bring (2026)</p>
 </li>
 <li>
-<p><a href="/files/2024 Info for P1/User guide to download PG App.pdf" rel="noopener noreferrer nofollow" target="_blank">User Guide to Download PG </a>
-<a href="/files/2024 Info for Parents/User guide to download PG App.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/2024 Info for P1/User guide to download PG App.pdf" rel="noopener noreferrer nofollow" target="_blank">App</a>
+<p><a href="/files/2024 Info for P1/User guide to download PG App.pdf" rel="noopener noreferrer nofollow" target="_blank">User Guide to Download PGApp</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2024 Info for P1/User guide on how to use PG App.pdf" rel="noopener noreferrer nofollow" target="_blank">User Guide </a>
-<a href="/files/2024 Info for Parents/User guide on how to use PG App.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/2024 Info for P1/User guide on how to use PG App.pdf" rel="noopener noreferrer nofollow" target="_blank">on How to use PG App</a>
+<p><a href="/files/2024 Info for P1/User guide on how to use PG App.pdf" rel="noopener noreferrer nofollow" target="_blank">User Guide on How to use PG App</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2024 Info for P1/Parents Gateway _Frequently Asked Questions (For Parents).pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway FA</a>
-<a href="/files/2024 Info for Parents/Parents Gateway _Frequently Asked Questions (For Parents).pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/2024 Info for P1/Parents Gateway _Frequently Asked Questions (For Parents).pdf" rel="noopener noreferrer nofollow" target="_blank">Q (for Parents)</a>
+<p><a href="/files/2024 Info for P1/Parents Gateway _Frequently Asked Questions (For Parents).pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway FAQ (for Parents)</a>
 </p>
 </li>
 </ul>
