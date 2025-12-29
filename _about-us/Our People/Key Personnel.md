@@ -66,7 +66,7 @@ body {
   </div>
 
   <div class="profile-card">
-    <img alt="Photo" src="photo2.jpg">
+    <img src="/images/Our%20People/Key%20Personnel%20/Tay_Lip_Seng.jpg">
     <h3><a href="mailto:tay_lip_seng@schools.gov.sg">Mr Tay Lip Seng</a></h3>
     <p class="title">HOD - Mathematics</p>
   </div>
@@ -110,7 +110,7 @@ body {
   </div>
 
   <div class="profile-card">
-    <img alt="Photo" src="photo9.jpg">
+    <img src="/images/Our%20People/Key%20Personnel%20/Watson_Teh.jpg">
     <h3><a href="mailto:norahmah_haron@schools.gov.sg">Mr Watson Teh</a></h3>
     <p class="title">HOD (Covering) - Physical Education</p>
   </div>
@@ -124,7 +124,7 @@ body {
 
   
   <div class="profile-card">
-    <img alt="Photo" src="photo1.jpg">
+    <img src="/images/Our%20People/Key%20Personnel%20/Pamela_See.jpg">
     <h3><a href="mailto:see_yuen_heng@schools.gov.sg">Ms Pamela See</a></h3>
     <p class="title">YH (Lower Primary)</p>
   </div>
@@ -149,7 +149,7 @@ body {
   </div>
 
   <div class="profile-card">
-    <img alt="Photo" src="photo6.jpg">
+    <img src="/images/Our%20People/Key%20Personnel%20/Lee_Eng_Tiong.jpg">
     <h3><a href="mailto:lee_eng_tiong@schools.gov.sg">Mr Lee Eng Tiong</a></h3>
     <p class="title">AYH (Middle Primary)</p>
   </div>
