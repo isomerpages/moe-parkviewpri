@@ -60,7 +60,7 @@ body {
 
   
   <div class="profile-card">
-    <img src="">
+    <img src="/images/Our%20People/Key%20Personnel%20/Mr_Choo_Sing_Wee_4.jpg">
     <h3><a href="mailto:choo_sing_wee@schools.gov.sg">Mr Choo Sing Wee</a></h3>
     <p class="title">HOD - English Language</p>
   </div>
@@ -104,7 +104,7 @@ body {
   </div>
 
   <div class="profile-card">
-    <img alt="Photo" src="photo8.jpg">
+    <img src="/images/Our%20People/Key%20Personnel%20/Poon_Yin_Chin.jpg">
     <h3><a href="mailto:staff8@email.com">Ms Poon Yin Chin</a></h3>
     <p class="title">HOD - Character Citizenship Education</p>
   </div>
@@ -130,7 +130,7 @@ body {
   </div>
 
   <div class="profile-card">
-    <img alt="Photo" src="photo2.jpg">
+    <img src="/images/Our%20People/Key%20Personnel%20/Ms_Lee_Rui_Ying_June.jpg">
     <h3><a href="mailto:lee_rui_ying_june@schools.gov.sg">Mrs June Lee</a></h3>
     <p class="title">YH (Middle Primary)</p>
   </div>
