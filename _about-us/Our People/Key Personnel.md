@@ -60,7 +60,7 @@ body {
 
   
   <div class="profile-card">
-    <img alt="Photo" src="photo1.jpg">
+    <img src="">
     <h3><a href="mailto:choo_sing_wee@schools.gov.sg">Mr Choo Sing Wee</a></h3>
     <p class="title">HOD - English Language</p>
   </div>
@@ -98,7 +98,7 @@ body {
 
   
   <div class="profile-card">
-    <img alt="Photo" src="photo7.jpg">
+    <img src="">
     <h3><a href="mailto:norahmah_haron@schools.gov.sg">Mdm Norahmah</a></h3>
     <p class="title">HOD - School Staff Developer</p>
   </div>
@@ -188,19 +188,19 @@ body {
 
   
   <div class="profile-card">
-    <img alt="Photo" src="photo5.jpg">
+    <img src="/images/Our%20People/Key%20Personnel%20/Siew_Kiang.jpg">
     <h3><a href="mailto:lee_siew_kiang@schools.gov.sg">Miss Lee Siew Kiang</a></h3>
     <p class="title">SH - Information &amp; Communications Technology</p>
   </div>
 
   <div class="profile-card">
-    <img alt="Photo" src="photo6.jpg">
+    <img src="/images/Our%20People/Key%20Personnel%20/Jordan_Toh.jpg">
     <h3><a href="mailto:jordan_toh_yuexuan@schools.gov.sg">Mr Jordan Toh</a></h3>
     <p class="title">SH (Covering) - Student Management</p>
   </div>
 
   <div class="profile-card">
-    <img alt="Photo" src="photo7.jpg">
+    <img src="/images/Our%20People/Key%20Personnel%20/Charlene.jpg">
     <h3><a href="mailto:lee_shu_qi_charlene@schools.gov.sg">Mrs Charlene</a></h3>
     <p class="title">SH (Covering) - Special Projects</p>
   </div>
