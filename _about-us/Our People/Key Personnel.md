@@ -213,37 +213,37 @@ body {
   
   <div class="profile-card">
     <img src="/images/Our%20People/Key%20Personnel%20/Helen_Chong.jpg">
-    <h3><a href="mailto:este_chow@schools.gov.sg">Mrs Helen Chiong</a></h3>
+    <h3><a href="mailto:helen_low_kwee_fong@schools.gov.sg">Mrs Helen Chiong</a></h3>
     <p class="title">Lead Teacher - Physical Education</p>
   </div>
 
   <div class="profile-card">
     <img src="/images/Our%20People/Key%20Personnel%20/Sharina.jpg">
-    <h3><a href="mailto:loo_nga_hoonangeline@schools.gov.sg">Mdm Sharina</a></h3>
+    <h3><a href="mailto:sharina_mohd_tahale@schools.gov.sg">Mdm Sharina</a></h3>
     <p class="title">Senior Teacher - Lower Primary</p>
   </div>
   
   <div class="profile-card">
-    <img src="/images/Our%20People/Key%20Personnel%20/ShuangShuang.jpg">
-    <h3><a href="mailto:sim_shiyu@schools.gov.sg">Mdm Chen ShuangShuang</a></h3>
+    <img src="/images/Our%20People/Key%20Personnel%20/Shuangshuang.jpg">
+    <h3><a href="mailto:chen_shuangshuang@schools.gov.sg">Mdm Chen ShuangShuang</a></h3>
     <p class="title">Senior Teacher - Chinese Language</p>
   </div>
 
   <div class="profile-card">
-    <img src="/images/Our%20People/Key%20Personnel%20/Siew_Kiang.jpg">
-    <h3><a href="mailto:lee_siew_kiang@schools.gov.sg">Miss Lee Siew Kiang</a></h3>
-    <p class="title">SH - Information &amp; Communications Technology</p>
+    <img src="/images/Our%20People/Key%20Personnel%20/Norhanim.jpg">
+    <h3><a href="mailto:norhanim_hashim@schools.gov.sg">Mdm Norhanim</a></h3>
+    <p class="title">Senior Teacher - Malay Language</p>
   </div>
 
   <div class="profile-card">
-    <img src="/images/Our%20People/Key%20Personnel%20/Jordan_Toh.jpg">
-    <h3><a href="mailto:jordan_toh_yuexuan@schools.gov.sg">Mr Jordan Toh</a></h3>
-    <p class="title">SH (Covering) - Student Management</p>
+    <img src="/images/Our%20People/Key%20Personnel%20/Sherylene.jpg">
+    <h3><a href="mailto:sherylene_soh_siew_yin@schools.gov.sg">Miss Sherylene Soh</a></h3>
+    <p class="title">Senior Teacher - English Language</p>
   </div>
 
   <div class="profile-card">
-    <img src="/images/Our%20People/Key%20Personnel%20/Charlene.jpg">
-    <h3><a href="mailto:lee_shu_qi_charlene@schools.gov.sg">Mrs Charlene</a></h3>
-    <p class="title">SH (Covering) - Special Projects</p>
+    <img src="/images/Our%20People/Key%20Personnel%20/Eileen_Yap.jpg">
+    <h3><a href="mailto:soh_chin_ping_eileen@schools.gov.sg">Mrs Eileen Yap</a></h3>
+    <p class="title">Senior Teacher - Art</p>
   </div>
 </div>
