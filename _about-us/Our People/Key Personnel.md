@@ -136,14 +136,14 @@ body {
   </div>
 
   <div class="profile-card">
-    <img alt="Photo" src="photo4.jpg">
+    <img src="/images/Our%20People/Key%20Personnel%20/Darvinder.jpg">
     <h3><a href="mailto:darvinder_singh_karam_singh@schools.gov.sg">Mr Darvinder Singh</a></h3>
     <p class="title">YH (Upper Primary)</p>
   </div>
 
   
   <div class="profile-card">
-    <img alt="Photo" src="photo5.jpg">
+    <img src="/images/Our%20People/Key%20Personnel%20/Patricia.jpg">
     <h3><a href="mailto:yeo_peck_hui@schools.gov.sg">Mdm Yeo Peck Hui</a></h3>
     <p class="title">AYH (Lower Primary)</p>
   </div>
@@ -169,19 +169,19 @@ body {
 
   
   <div class="profile-card">
-    <img alt="Photo" src="photo1.jpg">
+    <img src="">
     <h3><a href="mailto:este_chow@schools.gov.sg">Ms Este Chow</a></h3>
     <p class="title">Ms Este Chow</p>
   </div>
 
   <div class="profile-card">
-    <img alt="Photo" src="photo4.jpg">
+    <img src="/images/Our%20People/Key%20Personnel%20/Angeline.jpg">
     <h3><a href="mailto:loo_nga_hoonangeline@schools.gov.sg">Mdm Angeline Loo</a></h3>
     <p class="title">LH - Mathematics</p>
   </div>
   
   <div class="profile-card">
-    <img alt="Photo" src="photo2.jpg">
+    <img src="/images/Our%20People/Key%20Personnel%20/Sim_Shiyu.jpg">
     <h3><a href="mailto:sim_shiyu@schools.gov.sg">Mdm Sim Shiyu</a></h3>
     <p class="title">LH - Eenglish Language</p>
   </div>
