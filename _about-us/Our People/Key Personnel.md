@@ -169,7 +169,7 @@ body {
 
   
   <div class="profile-card">
-    <img src="">
+    <img src="/images/Our%20People/Key%20Personnel%20/Ms_Este_Chow.jpg">
     <h3><a href="mailto:este_chow@schools.gov.sg">Ms Este Chow</a></h3>
     <p class="title">Ms Este Chow</p>
   </div>
