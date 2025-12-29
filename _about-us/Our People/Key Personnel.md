@@ -3,258 +3,247 @@ title: Key Personnel
 permalink: /about-us/our-people/key-personnel/
 description: ""
 third_nav_title: Our People
-variant: tiptap
+variant: markdown
 ---
-<h3>Heads Of Department</h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /HOD_1.png">
+<h4>Head of Department</h4>
+
+<style>
+body {
+  font-family: Arial, sans-serif;
+}
+
+.profile-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 grids per row */
+  gap: 32px;
+  max-width: 1100px;
+  margin: 40px auto;
+  text-align: center;
+}
+
+.profile-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile-card img {
+  width: 180px;
+  height: 240px;
+  object-fit: cover; /* fixed, equal size */
+  border-radius: 6px;
+}
+
+.profile-card h3 {
+  margin: 10px 0 4px;
+  font-size: 16px;
+}
+
+.profile-card a {
+  color: #005ea5;
+  text-decoration: none;
+}
+
+.profile-card a:hover {
+  text-decoration: underline;
+}
+
+.title {
+  font-size: 14px;
+  color: #555;
+}
+</style>
+
+
+
+<div class="profile-container">
+
+  
+  <div class="profile-card">
+    <img src="/images/Our%20People/Key%20Personnel%20/Mr_Choo_Sing_Wee_4.jpg">
+    <h3><a href="mailto:choo_sing_wee@schools.gov.sg">Mr Choo Sing Wee</a></h3>
+    <p class="title">HOD - English Language</p>
+  </div>
+
+  <div class="profile-card">
+    <img src="/images/Our%20People/Key%20Personnel%20/Tay_Lip_Seng.jpg">
+    <h3><a href="mailto:tay_lip_seng@schools.gov.sg">Mr Tay Lip Seng</a></h3>
+    <p class="title">HOD - Mathematics</p>
+  </div>
+
+  <div class="profile-card">
+    <img alt="Photo" src="/images/Our%20People/Key%20Personnel%20/Shuan_Kwee.jpg">
+    <h3><a href="mailto:Chua_Shuan_Kwee@schools.gov.sg">Miss Chua Shuan Kwee</a></h3>
+    <p class="title">HOD - Science</p>
+  </div>
+
+  
+  <div class="profile-card">
+    <img src="/images/Our%20People/Key%20Personnel%20/Teo_Siew_Yeun.jpg">
+    <h3><a href="mailto:Teo_Siew_Yeun@schools.gov.sg">Mdm Teo Siew Yeun</a></h3>
+    <p class="title">HOD - Mother Tongue Languages</p>
+  </div>
+
+  <div class="profile-card">
+    <img src="/images/Our%20People/Key%20Personnel%20/Tina.jpg">
+    <h3><a href="mailto:lim_hwee_tin_a@schools.gov.sg">Ms Tina Lim</a></h3>
+    <p class="title">HOD - Aesthetics</p>
+  </div>
+
+  <div class="profile-card">
+    <img src="/images/Our%20People/Key%20Personnel%20/Justin_Luo.jpg">
+    <h3><a href="mailto:justin_luo_yanzhong@schools.gov.sg">Mr Justin Luo</a></h3>
+    <p class="title">HOD - Information &amp; Communications Technology</p>
+  </div>
+
+  
+  <div class="profile-card">
+    <img src="">
+    <h3><a href="mailto:norahmah_haron@schools.gov.sg">Mdm Norahmah</a></h3>
+    <p class="title">HOD - School Staff Developer</p>
+  </div>
+
+  <div class="profile-card">
+    <img src="/images/Our%20People/Key%20Personnel%20/Poon_Yin_Chin.jpg">
+    <h3><a href="mailto:staff8@email.com">Ms Poon Yin Chin</a></h3>
+    <p class="title">HOD - Character Citizenship Education</p>
+  </div>
+
+  <div class="profile-card">
+    <img src="/images/Our%20People/Key%20Personnel%20/Watson_Teh.jpg">
+    <h3><a href="mailto:norahmah_haron@schools.gov.sg">Mr Watson Teh</a></h3>
+    <p class="title">HOD (Covering) - Physical Education</p>
+  </div>
 </div>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:choo_sing_wee@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Choo Sing Wee</a><br>HOD - EL</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:tay_lip_seng@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Tay Lip Seng</a><br>HOD - Math <br></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="mailto:chua_shuan_kwee@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Chua Shuan Kwee</a><br>HOD - SCI<br></strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /HOD_2.png">
+
+
+<h4>Year Head</h4>
+
+
+<div class="profile-container">
+
+  
+  <div class="profile-card">
+    <img src="/images/Our%20People/Key%20Personnel%20/Pamela_See.jpg">
+    <h3><a href="mailto:see_yuen_heng@schools.gov.sg">Ms Pamela See</a></h3>
+    <p class="title">YH (Lower Primary)</p>
+  </div>
+
+  <div class="profile-card">
+    <img src="/images/Our%20People/Key%20Personnel%20/Ms_Lee_Rui_Ying_June.jpg">
+    <h3><a href="mailto:lee_rui_ying_june@schools.gov.sg">Mrs June Lee</a></h3>
+    <p class="title">YH (Middle Primary)</p>
+  </div>
+
+  <div class="profile-card">
+    <img src="/images/Our%20People/Key%20Personnel%20/Darvinder.jpg">
+    <h3><a href="mailto:darvinder_singh_karam_singh@schools.gov.sg">Mr Darvinder Singh</a></h3>
+    <p class="title">YH (Upper Primary)</p>
+  </div>
+
+  
+  <div class="profile-card">
+    <img src="/images/Our%20People/Key%20Personnel%20/Patricia.jpg">
+    <h3><a href="mailto:yeo_peck_hui@schools.gov.sg">Mdm Yeo Peck Hui</a></h3>
+    <p class="title">AYH (Lower Primary)</p>
+  </div>
+
+  <div class="profile-card">
+    <img src="/images/Our%20People/Key%20Personnel%20/Lee_Eng_Tiong.jpg">
+    <h3><a href="mailto:lee_eng_tiong@schools.gov.sg">Mr Lee Eng Tiong</a></h3>
+    <p class="title">AYH (Middle Primary)</p>
+  </div>
+
+  <div class="profile-card">
+    <img alt="Photo" src="photo7.jpg">
+    <h3><a href="mailto:kimberly_jean_aeria@schools.gov.sg">Mdm Kimberly Jean</a></h3>
+    <p class="title">AYH (Upper Primary)</p>
+  </div>
 </div>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong><a href="mailto:teo_siew_yeun @schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Teo Siew Yeun</a><br>HOD - MT</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong><a href="mailto:lim_hwee_tin_a@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Tina Lim</a><br>HOD - Aesthetics CCA</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong><a href="mailto:justin_luo_yanzhong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Justin Luo</a><br>HOD - ICT</strong>
-</p>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /HOD_3.png">
+
+
+<h4>Level Heads / Subject Heads</h4>
+
+
+<div class="profile-container">
+
+  
+  <div class="profile-card">
+    <img src="/images/Our%20People/Key%20Personnel%20/Ms_Este_Chow.jpg">
+    <h3><a href="mailto:este_chow@schools.gov.sg">Ms Este Chow</a></h3>
+    <p class="title">LH - Mother Tongue Languages</p>
+  </div>
+
+  <div class="profile-card">
+    <img src="/images/Our%20People/Key%20Personnel%20/Angeline.jpg">
+    <h3><a href="mailto:loo_nga_hoonangeline@schools.gov.sg">Mdm Angeline Loo</a></h3>
+    <p class="title">LH - Mathematics</p>
+  </div>
+  
+  <div class="profile-card">
+    <img src="/images/Our%20People/Key%20Personnel%20/Sim_Shiyu.jpg">
+    <h3><a href="mailto:sim_shiyu@schools.gov.sg">Mdm Sim Shiyu</a></h3>
+    <p class="title">LH - English Language</p>
+  </div>
+
+  <div class="profile-card">
+    <img src="/images/Our%20People/Key%20Personnel%20/Siew_Kiang.jpg">
+    <h3><a href="mailto:lee_siew_kiang@schools.gov.sg">Miss Lee Siew Kiang</a></h3>
+    <p class="title">SH - Information &amp; Communications Technology</p>
+  </div>
+
+  <div class="profile-card">
+    <img src="/images/Our%20People/Key%20Personnel%20/Jordan_Toh.jpg">
+    <h3><a href="mailto:jordan_toh_yuexuan@schools.gov.sg">Mr Jordan Toh</a></h3>
+    <p class="title">SH (Covering) - Student Management</p>
+  </div>
+
+  <div class="profile-card">
+    <img src="/images/Our%20People/Key%20Personnel%20/Charlene.jpg">
+    <h3><a href="mailto:lee_shu_qi_charlene@schools.gov.sg">Mrs Charlene</a></h3>
+    <p class="title">SH (Covering) - Special Projects</p>
+  </div>
 </div>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong><a href="mailto:norahmah_haron@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Norahmah</a></strong>
-<br>HOD - SSD</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-<h3>Year Heads</h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /Year_Heads_1.png">
+
+<h4>Teacher Leaders</h4>
+
+
+<div class="profile-container">
+
+  
+  <div class="profile-card">
+    <img src="/images/Our%20People/Key%20Personnel%20/Helen_Chong.jpg">
+    <h3><a href="mailto:helen_low_kwee_fong@schools.gov.sg">Mrs Helen Chiong</a></h3>
+    <p class="title">Lead Teacher - Physical Education</p>
+  </div>
+
+  <div class="profile-card">
+    <img src="/images/Our%20People/Key%20Personnel%20/Sharina.jpg">
+    <h3><a href="mailto:sharina_mohd_tahale@schools.gov.sg">Mdm Sharina</a></h3>
+    <p class="title">Senior Teacher - Lower Primary</p>
+  </div>
+  
+  <div class="profile-card">
+    <img src="/images/Our%20People/Key%20Personnel%20/Shuangshuang.jpg">
+    <h3><a href="mailto:chen_shuangshuang@schools.gov.sg">Mdm Chen ShuangShuang</a></h3>
+    <p class="title">Senior Teacher - Chinese Language</p>
+  </div>
+
+  <div class="profile-card">
+    <img src="/images/Our%20People/Key%20Personnel%20/Norhanim.jpg">
+    <h3><a href="mailto:norhanim_hashim@schools.gov.sg">Mdm Norhanim</a></h3>
+    <p class="title">Senior Teacher - Malay Language</p>
+  </div>
+
+  <div class="profile-card">
+    <img src="/images/Our%20People/Key%20Personnel%20/Sherylene.jpg">
+    <h3><a href="mailto:sherylene_soh_siew_yin@schools.gov.sg">Miss Sherylene Soh</a></h3>
+    <p class="title">Senior Teacher - English Language</p>
+  </div>
+
+  <div class="profile-card">
+    <img src="/images/Our%20People/Key%20Personnel%20/Eileen_Yap.jpg">
+    <h3><a href="mailto:soh_chin_ping_eileen@schools.gov.sg">Mrs Eileen Yap</a></h3>
+    <p class="title">Senior Teacher - Art</p>
+  </div>
 </div>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><a href="mailto:see_yuen_heng@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Pamela See</a>
-<br>YH (lower primary)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="mailto:lee_rui_ying_june@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs June Lee</a>
-<br>YH (middle primary)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="mailto:darvinder_singh_karam_singh@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Darvinder Singh</a>
-<br>YH (upper primary)</p>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /Year_Heads_2.png">
-</div>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><a href="mailto:yeo_peck_hui@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Yeo Peck hui</a>
-<br>AYH (lower primary)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="mailto:lee_eng_tiong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Lee Eng Tiong</a> 
-<br>AYH (middle primary)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="mailto:kimberly_jean_aeria@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Kimberly Jean</a>
-<br>AYH (upper primary)</p>
-</th>
-</tr>
-</tbody>
-</table>
-<h3>Level Heads / Subject Heads</h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /LH_SH_1.png">
-</div>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><a href="mailto:este_chow@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Este Chow</a>
-<br>LH - MTL</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="mailto:loo_nga_hoonangeline@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Angeline Loo</a> 
-<br>LH - Math</p>
-</th>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sim_shiyu@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Sim Shiyu</a><strong><br>LH - EL</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /LH_SH_2.png">
-</div>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><a href="mailto:lee_siew_kiang@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Lee Siew Kiang</a>
-<br>SH - ICT</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="mailto:teh_chiew_hwa_watson@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Watson Teh</a>
-<br>SH - Student Management</p>
-</th>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<h3>Teacher Leaders</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /Teacher_Leaders_1.png">
-</div>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><a href="mailto:helen_low_kwee_fong@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Helen Chong</a>
-<br>LT - PE</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="mailto:sharina_mohd_tahale@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Sharina</a>
-<br>ST (Lower Primary)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="mailto:chen_shuangshuang@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Chen ShuangShuang</a>
-<br>ST - CL</p>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our People/Key Personnel /Teacher_Leaders_2.png">
-</div>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><a href="mailto:norhanim_hashim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Norhanim</a>
-<br>ST - ML</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="mailto:sherylene_soh_siew_yin@schools.gov.sg" rel="noopener nofollow" target="_blank">Miss Sherylene Soh</a>
-<br>ST - EL</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="mailto:soh_chin_ping_eileen@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Eileen Yap</a> 
-<br>ST - Art</p>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
