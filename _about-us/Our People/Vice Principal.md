@@ -45,13 +45,13 @@ body {
 
   <div class="profile-card">
     <img src="/images/Our People/SL/mdm_ho.jpg">
-    <p><b>Mdm Florence Ho</b></p>
+    <span class="line"><b>Mdm Florence Ho</b></span>
     <span class="line">Vice Principal</span>
   </div>
 
   <div class="profile-card">
     <img alt="Photo" src="/images/Our People/SL/ms_ong.jpg">
-     <p><b>Ms Ong Seow Peng</b></p>
+     <span class="line"><b>Ms Ong Seow Peng</b></span>
     <span class="line">Vice Principal (Administration)</span>
   </div>
 </div>
