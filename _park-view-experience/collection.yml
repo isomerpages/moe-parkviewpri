@@ -2,6 +2,7 @@ collections:
   park-view-experience:
     output: true
     order:
+      - Instagram.md
       - Programme for Active Learning.md
       - Applied Learning Programme.md
       - Learning for Life Programme.md
