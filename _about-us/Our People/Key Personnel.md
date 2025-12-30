@@ -50,7 +50,7 @@ variant: markdown
 
   <div class="profile-card">
     <img src="/images/Our%20People/Key%20Personnel%20/Mr_Choo_Sing_Wee_4.jpg">
-    <span class="line"><a href="mailto:choo_sing_wee@schools.gov.sg">Mr Choo Sing Wee</a><span class="line"><br>
+    <span class="line"><a href="mailto:choo_sing_wee@schools.gov.sg">Mr Choo Sing Wee</a><span class="line">
     <span class="line">HOD - English<br>Language</span>
   </span></span></div>
 
