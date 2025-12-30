@@ -8,9 +8,6 @@ variant: markdown
 <h4>Head of Department</h4>
 
 <style>
-body {
-  font-family: Arial;
-}
 
 .profile-container {
   display: grid;
@@ -50,19 +47,19 @@ body {
   
   <div class="profile-card">
     <img src="/images/Our%20People/Key%20Personnel%20/Mr_Choo_Sing_Wee_4.jpg">
-    <p><b><a href="mailto:choo_sing_wee@schools.gov.sg">Mr Choo Sing Wee</a></b></p>
+    <span class="line"><a href="mailto:choo_sing_wee@schools.gov.sg">Mr Choo Sing Wee</a><span class="line"><br>
     <span class="line">HOD - English<br>Language</span>
-  </div>
+  </span></span></div>
 
   <div class="profile-card">
     <img src="/images/Our%20People/Key%20Personnel%20/Tay_Lip_Seng.jpg">
-     <p><b><a href="mailto:tay_lip_seng@schools.gov.sg">Mr Tay Lip Seng</a></b></p>
+		<span class="line"><a href="mailto:tay_lip_seng@schools.gov.sg">Mr Tay Lip Seng</a></span>
     <span class="line">HOD -<br>Mathematics</span>
   </div>
 
   <div class="profile-card">
     <img alt="Photo" src="/images/Our%20People/Key%20Personnel%20/Shuan_Kwee.jpg">
-     <p><b><a href="mailto:Chua_Shuan_Kwee@schools.gov.sg">Miss Chua Shuan Kwee</a></b></p>
+     <span class="line"><a href="mailto:Chua_Shuan_Kwee@schools.gov.sg">Miss Chua Shuan Kwee</a></span>
     <span class="line">HOD -<br>Science</span>
   </div>
 
