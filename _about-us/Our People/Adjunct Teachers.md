@@ -42,7 +42,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:raha_begum_sheikh_ahmad@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Raha Begum </a>
+<p><a href="mailto:raha_begum_sheikh_ahmad@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Raha Begum</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
