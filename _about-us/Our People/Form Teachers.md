@@ -46,7 +46,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chen_shuangshuang@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>Mdm Chen ShuangShuang</u></a>
-<br>Mdm Norinna</p>
+<br><a href="mailto:norinna_musari@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Norinna</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -363,7 +364,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:seah_jia_xin_anna@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>Ms Anna Seah</u></a>
-<br>Mdm Poon Yin Ching</p>
+<br><a href="mailto:Poon_Yin_Ching@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Poon Yin Ching</a>
+</p>
 </td>
 </tr>
 <tr>
