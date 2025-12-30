@@ -87,20 +87,20 @@ body {
 
   
   <div class="profile-card">
-    <img src="">
+    <img src="/images/Our%20People/Key%20Personnel%20/norah.png">
      <p><b><a href="mailto:norahmah_haron@schools.gov.sg">Mdm Norahmah</a></b></p>
     <span class="line">HOD - School Staff<br>Developer</span>
   </div>
 
   <div class="profile-card">
     <img src="/images/Our%20People/Key%20Personnel%20/Poon_Yin_Chin.jpg">
-     <p><b><a href="mailto:staff8@email.com">Ms Poon Yin Ching</a></b></p>
+     <p><b><a href="mailto:poon_yin_ching@schools.gov.sg">Ms Poon Yin Ching</a></b></p>
     <span class="line">HOD - Character Citizenship Education</span>
   </div>
 
   <div class="profile-card">
     <img src="/images/Our%20People/Key%20Personnel%20/Watson_Teh.jpg">
-     <p><b><a href="mailto:norahmah_haron@schools.gov.sg">Mr Watson Teh</a></b></p>
+     <p><b><a href="mailto:teh_chiew_hwa_watson@schools.gov.sg">Mr Watson Teh</a></b></p>
     <span class="line">HOD (Covering) - Physical Education</span>
   </div>
 </div>
@@ -144,7 +144,7 @@ body {
   </div>
 
   <div class="profile-card">
-    <img alt="Photo" src="photo7.jpg">
+    <img src="/images/Our%20People/Key%20Personnel%20/Kinberly.png">
     <p><b><a href="mailto:kimberly_jean_aeria@schools.gov.sg">Mdm Kimberly Jean</a></b></p>
     <span class="line">AYH (Upper Primary)</span>
   </div>
