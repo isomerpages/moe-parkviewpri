@@ -2,7 +2,6 @@ collections:
   park-view-experience:
     output: true
     order:
-      - Instagram.md
       - Programme for Active Learning.md
       - Applied Learning Programme.md
       - Learning for Life Programme.md
@@ -10,8 +9,9 @@ collections:
       - Park View Gallery/2025.md
       - Park View Gallery/2024.md
       - Park View Gallery/Video Gallery.md
-      - Park View Yearbook/2025.md
       - Park View Yearbook/.keep
+      - Park View Yearbook/2025.md
       - Park View Yearbook/2024.md
       - Park View Yearbook/2023.md
       - Park View Yearbook/2022.md
+      - Instagram.md
