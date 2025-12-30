@@ -373,7 +373,7 @@ variant: tiptap
 <p>5 Care (5C)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:quek_shi_rui@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>Mrs Natalie Lim</u></a>
+<p><a href="mailto:quek_shi_rui@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>Mrs Lim Shi Rui</u></a>
 <br><a href="mailto:tay_lip_seng@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>Mr Tay Lip Seng</u></a>
 </p>
 </td>
@@ -400,7 +400,7 @@ variant: tiptap
 <p>6 Respect (6R1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sham_pui_yue@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>Mrs Quek</u></a>
+<p><a href="mailto:sham_pui_yue@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>Mrs Catherine Quek</u></a>
 <br><a href="mailto:shi_rui@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>Mdm Shi Rui</u></a>
 </p>
 </td>
@@ -420,7 +420,7 @@ variant: tiptap
 <p>6 Resilience (6R3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_qingxi_natalie@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>Mrs Lim</u></a>
+<p><a href="mailto:ho_qingxi_natalie@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>Mrs Natalie Lim</u></a>
 <br><a href="mailto:teh_chiew_hwa_watson@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>Mr Watson Teh</u></a>
 </p>
 </td>
