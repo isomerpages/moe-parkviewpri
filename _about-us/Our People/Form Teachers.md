@@ -363,7 +363,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:seah_jia_xin_anna@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>Ms Anna Seah</u></a>
-<br>Mdm Poon Yin Ching</p>
+<br><a href="mailto:Poon_Yin_Ching@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Poon Yin Ching</a>
+</p>
 </td>
 </tr>
 <tr>
