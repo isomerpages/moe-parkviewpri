@@ -9,6 +9,13 @@ variant: markdown
 
 <style>
 
+.divider {
+  height: 1px;
+  background-color: #ddd;
+  margin: 4px 0; /* adjust spacing here */
+}
+
+
 .profile-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr); /* 3 grids per row */
@@ -40,11 +47,8 @@ variant: markdown
 
 </style>
 
-
-
 <div class="profile-container">
 
-  
   <div class="profile-card">
     <img src="/images/Our%20People/Key%20Personnel%20/Mr_Choo_Sing_Wee_4.jpg">
     <span class="line"><a href="mailto:choo_sing_wee@schools.gov.sg">Mr Choo Sing Wee</a><span class="line"><br>
@@ -63,7 +67,6 @@ variant: markdown
     <span class="line">HOD -<br>Science</span>
   </div>
 
-  
   <div class="profile-card">
     <img src="/images/Our%20People/Key%20Personnel%20/Teo_Siew_Yeun.jpg">
      <span class="line"><a href="mailto:Teo_Siew_Yeun@schools.gov.sg">Mdm Teo Siew Yeun</a></span>
@@ -81,7 +84,6 @@ variant: markdown
      <span class="line"><a href="mailto:justin_luo_yanzhong@schools.gov.sg">Mr Justin Luo</a></span>
     <span class="line">HOD - Information &amp;<br>Communications Technology</span>
   </div>
-
   
   <div class="profile-card">
     <img src="/images/Our%20People/Key%20Personnel%20/norah.png">
@@ -102,13 +104,12 @@ variant: markdown
   </div>
 </div>
 
+<span class="line"><div class="divider"></div></span>
 
 <h4>Year Head</h4>
 
-
 <div class="profile-container">
 
-  
   <div class="profile-card">
     <img src="/images/Our%20People/Key%20Personnel%20/Pamela_See.jpg">
     <span class="line"><a href="mailto:see_yuen_heng@schools.gov.sg">Ms Pamela See</a></span>
@@ -126,7 +127,6 @@ variant: markdown
     <span class="line"><a href="mailto:darvinder_singh_karam_singh@schools.gov.sg">Mr Darvinder Singh</a></span>
     <span class="line">YH (Upper Primary)</span>
   </div>
-
   
   <div class="profile-card">
     <img src="/images/Our%20People/Key%20Personnel%20/Patricia.jpg">
@@ -147,13 +147,12 @@ variant: markdown
   </div>
 </div>
 
+<span class="line"><div class="divider"></div></span>
 
 <h4>Level Heads / Subject Heads</h4>
 
-
 <div class="profile-container">
 
-  
   <div class="profile-card">
     <img src="/images/Our%20People/Key%20Personnel%20/Ms_Este_Chow.jpg">
     <span class="line"><a href="mailto:este_chow@schools.gov.sg">Ms Este Chow</a></span>
@@ -191,11 +190,11 @@ variant: markdown
   </div>
 </div>
 
+<span class="line"><div class="divider"></div></span>
+
 <h4>Teacher Leaders</h4>
 
-
 <div class="profile-container">
-
   
   <div class="profile-card">
     <img src="/images/Our%20People/Key%20Personnel%20/Helen_Chong.jpg">
