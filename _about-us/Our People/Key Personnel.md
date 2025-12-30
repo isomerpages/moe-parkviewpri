@@ -9,12 +9,11 @@ variant: markdown
 
 <style>
 
-.divider {
-  height: 1px;
-  background-color: #ddd;
-  margin: 4px 0; /* adjust spacing here */
+.line {
+  display: block;
+  margin: 0;
+  line-height: 1.2;
 }
-
 
 .profile-container {
   display: grid;
@@ -104,7 +103,7 @@ variant: markdown
   </div>
 </div>
 
-<span class="line"><div class="divider"></div></span>
+<div class="divider"></div>
 
 <h4>Year Head</h4>
 
@@ -147,7 +146,7 @@ variant: markdown
   </div>
 </div>
 
-<span class="line"><div class="divider"></div></span>
+<div class="divider"></div>
 
 <h4>Level Heads / Subject Heads</h4>
 
@@ -190,7 +189,7 @@ variant: markdown
   </div>
 </div>
 
-<span class="line"><div class="divider"></div></span>
+<div class="divider"></div>
 
 <h4>Teacher Leaders</h4>
 
