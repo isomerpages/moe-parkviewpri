@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h4><strong>执教老师</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Screenshot_2025_12_31_105035.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Screenshot_2025_12_31_105035.png">
 </div>
 <h4><strong>我们的骄傲</strong></h4>
 <div class="isomer-image-wrapper">
@@ -379,7 +379,7 @@ learnt by the students in school are re-enforced by parents at home.
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Screenshot_2025_12_31_105108.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/CL/Screenshot_2025_12_31_105952.png">
 </div>
 <p><strong><em>USE OF ELECTRONIC OR PRINT DICTIONARIES FOR PR 3 to 6 MOTHER TONGUE COMPOSITION EXAM</em></strong>
 </p>
