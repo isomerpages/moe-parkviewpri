@@ -4,7 +4,6 @@ permalink: /about-us/school-canteen-menu/
 description: ""
 variant: markdown
 ---
-
 <div class="canteen-grid">
 
 <div class="canteen-item">
@@ -101,6 +100,3 @@ variant: markdown
   }
 }
 </style>
-
-
-
