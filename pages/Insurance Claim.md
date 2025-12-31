@@ -84,7 +84,7 @@ by Medisave-approved Integrated Shield Plan.
 documents may be requested if necessary.</p>
 <p>The updated 2025 product factsheet for the NTUC Income Group Personal
 Accident (GPA) Insurance Plan for Students is available via this link:&nbsp;
-<a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">GPA Product Fact Sheets 2025</a>
+<a href="/files/2026 Files/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">GPA Product Fact Sheets 2025</a>
 </p>
 <p>Information on claims, FAQs and other details pertaining to the GPA Insurance
 Plan for Students can be found on NTUC Income’s website at <a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank">https://www.income.com.sg/studentgpa</a>
