@@ -4,51 +4,99 @@ permalink: /about-us/school-canteen-menu/
 description: ""
 variant: markdown
 ---
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Canteen Menu 2025/Canteen_Menu_2025_Revised_in_March_2025_Page_1.jpg">
+<div class="canteen-grid">
+
+<div class="canteen-item">
+  <img src="/images/About%20Us/Canteen%202026/Stall_1.jpg">
+  <p>Stall 1 – Cool Station</p>
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Canteen Menu 2025/Canteen_Menu_2025_Revised_in_March_2025_Page_2.jpg">
+
+  <div class="canteen-item">
+    <img src="/images/About%20Us/Canteen%202026/Stall_2.jpg">
+    <p>Stall 2 – Hot Drinks &amp; Snacks</p>
+  </div>
+
+  <div class="canteen-item">
+    <img src="/images/About%20Us/Canteen%202026/Stall_4.jpg">
+    <p>Stall 4 – Chinese Cooked Noodles Stall</p>
+  </div>
+
+  <div class="canteen-item">
+    <img src="/images/About%20Us/Canteen%202026/Stall_5.jpg">
+    <p>Stall 5 – Chinese Food Rice Stall</p>
+  </div>
+
+  <div class="canteen-item">
+    <img src="/images/About%20Us/Canteen%202026/Stall_7.jpg">
+    <p>Stall 7 – Malay Cooked Noodles &amp; Rice</p>
+  </div>
+
 </div>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Canteen Menu 2025/Canteen_Menu_2025_Revised_in_March_2025_Page_3.jpg">
+
+
+<div id="lightbox">
+  <img alt="Expanded canteen image" id="lightbox-img">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Canteen Menu 2025/Canteen_Menu_2025_Revised_in_March_2025_Page_4.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Canteen Menu 2025/Canteen_Menu_2025_Revised_in_March_2025_Page_5.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Canteen Menu 2025/Canteen_Menu_2025_Revised_in_March_2025_Page_6.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+
+
+<style>
+.canteen-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  padding: 16px;
+  justify-items: center;
+}
+
+.canteen-item img {
+  width: 180px;
+  height: 240px;
+  object-fit: cover;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.canteen-item img:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+}
+
+.canteen-item p {
+  text-align: center;
+  margin-top: 8px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+/* LIGHTBOX */
+#lightbox {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.85);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  z-index: 999;
+}
+
+#lightbox img {
+  max-width: 90%;
+  max-height: 90%;
+  border-radius: 8px;
+}
+
+/* RESPONSIVE */
+@media (max-width: 900px) {
+  .canteen-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .canteen-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
