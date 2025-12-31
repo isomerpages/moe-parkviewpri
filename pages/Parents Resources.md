@@ -72,7 +72,7 @@ description: ""
 </style>
 
 <div class="container"> 
-    <a target="_blank" href="https://go.gov.sg/pvps-parentshandbook-2025">
+    <a target="_blank" href="https://go.gov.sg/pvps-parentshandbook-2026">
         <div class="box">
             <div class="title">Parent Handbook</div>
             <div class="click">Click here</div>
