@@ -2,7 +2,7 @@
 title: School Canteen Menu
 permalink: /about-us/school-canteen-menu/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 50px">
 <colgroup>

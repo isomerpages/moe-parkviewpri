@@ -4,10 +4,5 @@ permalink: /parent-handbook/
 variant: tiptap
 description: ""
 ---
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Parents_handbook_2025_.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook 2025</a>
+<p><a href="https://go.gov.sg/pvps-parentshandbook-2026" rel="noopener nofollow" target="_blank">Parents Handbook 2026</a>
 </p>
-</li>
-</ul>
-<p></p>
