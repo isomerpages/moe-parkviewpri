@@ -41,10 +41,9 @@ vision of being “Leaders of Character, championing Service and Excellence.”
 We extend our heartfelt appreciation to our parents for your continued
 trust and partnership. Your support plays a vital role in your child’s
 success, and we look forward to working closely with you in the year ahead.&nbsp;</p>
-<p>May 2025 be filled with happiness, good health, and many new achievements
+<p>May 2026 be filled with happiness, good health, and many new achievements
 for every family. On behalf of the Park View Primary School community,
 we wish you and your loved ones a joyful and fulfilling New Year.</p>
-<p>&nbsp;</p>
 <p><strong>Ms Jamie Lie</strong>
 <br><strong>Principal</strong>
 </p>
