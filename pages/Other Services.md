@@ -4,7 +4,7 @@ permalink: /about-us/other-services/
 description: ""
 variant: tiptap
 ---
-<h3>School Dental Services</h3>
+<h4>School Dental Services</h4>
 <p>The school has its own dental clinic managed by a dental therapist. All
 students in the school are seen by the dental therapist for routine check-ups,
 and dental treatment is provided as well.</p>
@@ -96,7 +96,7 @@ treatment can contact the following school dental clinic for appointment:</p>
 </p>
 </li>
 </ul>
-<h3>School Book Shop &amp; Uniform Supplier</h3>
+<h4>School Book Shop &amp; Uniform Supplier</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -121,3 +121,81 @@ treatment can contact the following school dental clinic for appointment:</p>
 </table>
 <p><em>*Parents are allowed to go to the bookshop only from 2.00pm – 3.00pm</em>
 </p>
+<p></p>
+<h4>Awarded School Bus Operator</h4>
+<p><strong>Golden Lion Transport Services</strong>
+<br>Telephone: 82825538 / 91466258</p>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Distance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Up to 15 seater
+<br>(1-way)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Up to 15 seater
+<br>(2-way)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&gt; 30 seater
+<br>(1-way)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&gt; 30 seater
+<br>(2-way)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Up to 2km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$144.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$180.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$144.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$180.00</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&gt; 2km - 4km</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$168.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$210.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$168.00</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$210.00</p>
+</td>
+</tr>
+</tbody>
+</table>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.parkviewpri.moe.edu.sg/files/form%20to%20request%20for%20school%20bus%20services%20_pvps.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Form to Request for School Bus Services</u></a>
+<br>
+</p>
+</li>
+</ul>
+<p></p>
