@@ -55,7 +55,7 @@ across disciplines in school, at home and to the community.</p>
 </p>
 </li>
 <li>
-<p><a href="https://parkviewpri.moe.edu.sg/sexuality-education-2025/" rel="noopener nofollow" target="_blank">Sexuality Education 2025</a>
+<p><a href="https://parkviewpri.moe.edu.sg/sexuality-education-2026/" rel="noopener nofollow" target="_blank">Sexuality Education 2026</a>
 </p>
 </li>
 <li>
