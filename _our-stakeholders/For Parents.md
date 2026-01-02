@@ -28,8 +28,8 @@ description: ""
 }
 
     .box {
-        width: 200px; 
-        height: 200px; 
+				width: 200px;
+				min-height: 200px; 
         padding: 20px;
         border: 0;
         cursor: pointer;
@@ -115,18 +115,7 @@ description: ""
             <div class="click">Click here</div>
         </div>
 				    </a>  
-<a target="_blank" href="https://www.parkviewpri.moe.edu.sg/about-us/other-services/">
-  <div class="box">
-    <div class="title">Other Services</div>
-    <ul class="notes">
-      <li>School Dental Services</li>
-      <li>Book Shop &amp; Uniform Supplier</li>
-<li>School Bus</li>
-    </ul>
-    <div class="click">Click here</div>
-  </div>
-</a>
-
+	
 <a target="_blank" href="https://parkviewpri.moe.edu.sg/parents-resources/">
   <div class="box">
     <div class="title">Other Resources</div>
@@ -139,4 +128,16 @@ description: ""
     </ul>
     <div class="click">Click here</div>
   </div>
- </a></div>
+ </a>
+<a target="_blank" href="https://www.parkviewpri.moe.edu.sg/about-us/other-services/">
+  <div class="box">
+    <div class="title">Other Services</div>
+    <ul class="notes">
+      <li>School Dental Services</li>
+      <li>Book Shop &amp; Uniform Supplier</li>
+<li>School Bus</li>
+    </ul>
+    <div class="click">Click here</div>
+  </div>
+</a>
+</div>
