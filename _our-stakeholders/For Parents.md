@@ -19,6 +19,13 @@ description: ""
     .container a:active {
         text-decoration: none !important;
     }
+.notes {
+    font-size: 13px;          /* 1 size smaller */
+    color: #000;              /* black font */
+    margin: 8px 0 0 18px;     /* indent bullets nicely */
+    padding: 0;
+    line-height: 1.4;
+}
 
     .box {
         width: 200px; 
@@ -98,7 +105,7 @@ description: ""
     </a>   
 		<a target="_blank" href="https://www.parkviewpri.moe.edu.sg/our-stakeholders/mtp-2026/">
         <div class="box">
-            <div class="title">MTP</div>
+            <div class="title">Meet-the-Parents (MTP) Slides</div>
             <div class="click">Click here</div>
         </div>
     </a>  
@@ -107,11 +114,28 @@ description: ""
             <div class="title">Canteen Menu</div>
             <div class="click">Click here</div>
         </div>
-    </a>  
-		<a target="_blank" href="https://parkviewpri.moe.edu.sg/parents-resources/">
-        <div class="box">
-            <div class="title">Other Resources</div>
-            <div class="click">Click here</div>
-        </div>
-    </a>  
-</div>
+				    </a>  
+<a target="_blank" href="https://www.parkviewpri.moe.edu.sg/about-us/other-services/">
+  <div class="box">
+    <div class="title">Student Services</div>
+    <ul class="notes">
+      <li>School Dental Services</li>
+      <li>Book Shop &amp; Uniform Supplier</li>
+    </ul>
+    <div class="click">Click here</div>
+  </div>
+</a>
+
+<a target="_blank" href="https://parkviewpri.moe.edu.sg/parents-resources/">
+  <div class="box">
+    <div class="title">Other Resources</div>
+    <ul class="notes">
+      <li>Parent Handbook</li>
+      <li>POSB Smart Buddy Registration</li>
+      <li>P6 Parents Workshop</li>
+      <li>SchoolBag</li>
+      <li>Interland</li>
+    </ul>
+    <div class="click">Click here</div>
+  </div>
+ </a></div>
