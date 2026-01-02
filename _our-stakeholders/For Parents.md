@@ -117,10 +117,11 @@ description: ""
 				    </a>  
 <a target="_blank" href="https://www.parkviewpri.moe.edu.sg/about-us/other-services/">
   <div class="box">
-    <div class="title">Student Services</div>
+    <div class="title">Other Services</div>
     <ul class="notes">
       <li>School Dental Services</li>
       <li>Book Shop &amp; Uniform Supplier</li>
+<li>School Bus</li>
     </ul>
     <div class="click">Click here</div>
   </div>
