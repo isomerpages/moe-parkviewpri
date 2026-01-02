@@ -9,7 +9,8 @@ variant: tiptap
 <p>Y2026 P1 Orientation</p>
 </li>
 <li>
-<p>Things to Bring (2026)</p>
+<p><a href="/files/2026 Files/Things_to_Bring_P1.pdf" rel="noopener nofollow" target="_blank">Things to Bring (2026)</a>
+</p>
 </li>
 <li>
 <p><a href="/files/PG_Instructions.pdf" rel="noopener nofollow" target="_blank">User Guide on How to use PG App</a>
