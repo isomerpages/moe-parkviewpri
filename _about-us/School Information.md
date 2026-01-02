@@ -89,10 +89,4 @@ description: ""
             <div class="title">School Policies</div>
             <div class="click">Click here</div>
         </div>
-	</a> 
-    <a target="_blank" href="https://parkviewpri.moe.edu.sg/schoolbus/">
-        <div class="box">
-            <div class="title">School Bus</div>
-            <div class="click">Click here</div>
-        </div>
 </a></div>
