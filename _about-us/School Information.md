@@ -89,13 +89,7 @@ description: ""
             <div class="title">School Policies</div>
             <div class="click">Click here</div>
         </div>
-	</a>
-    <a target="_blank" href="https://www.canva.com/design/DAGcOjnoraM/l26zKAhaLIdH9pV9OqbnRg/view?utm_content=DAGcOjnoraM&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h65e6be5660">
-        <div class="box">
-            <div class="title">Canteen Menu</div>
-            <div class="click">Click here</div>
-        </div>
-    </a>   
+	</a> 
     <a target="_blank" href="https://parkviewpri.moe.edu.sg/schoolbus/">
         <div class="box">
             <div class="title">School Bus</div>
