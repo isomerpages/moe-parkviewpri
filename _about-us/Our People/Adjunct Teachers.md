@@ -27,7 +27,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Jais</p>
+<p><a href="mailto:Mohd_Jais_Ahmad_A@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Mohd Jais</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -56,36 +57,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zairina_rahmat_b@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Zairina</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:abidah_m_mohammed_ariffen@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Abidah</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>Mdm Suriani</u>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zubaidah_othman@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Zubaidah</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>Mdm Ho Fui Hee</u>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><u>Mdm Zainah</u>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><u>Mdm Ganesan Chitra</u>
 </p>
 </td>
 </tr>
