@@ -2,13 +2,6 @@ collections:
   cce:
     output: true
     order:
-      - Character Development/.keep
-      - Character Development/Values in Practice (VIP) Programme.md
-      - Character Development/CCE Form Teacher Guidance Period.md
-      - Character Development/CCE Lessons.md
-      - Character Development/Life Skills.md
-      - Character Development/Sexuality Education 2026.md
-      - Character Development/Discipline.md
       - Citizenship/.keep
       - Citizenship/Young Nation Series.md
       - Citizenship/Integration of International Students.md
@@ -18,9 +11,6 @@ collections:
       - Recognition & Motivation/Model Class Award.md
       - Recognition & Motivation/Holistic Awards Framework (HAF).md
       - Recognition & Motivation/P6 Motivation Programme.md
-      - Student Leadership/.keep
-      - Student Leadership/Training & Development.md
-      - Student Leadership/SLC.md
       - Values in Action (VIA)/.keep
       - "Values in Action (VIA)/Primary 1 to 6 : Project Shine!.md"
       - "Values in Action (VIA)/Primary 2 : CARE.md"
