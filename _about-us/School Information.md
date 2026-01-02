@@ -95,11 +95,4 @@ description: ""
             <div class="title">School Bus</div>
             <div class="click">Click here</div>
         </div>
-    </a>    
-    <a target="_blank" href="https://parkviewpri.moe.edu.sg/about-us/other-services/">
-        <div class="box">
-            <div class="title">Other Services</div>
-            <div class="click">Click here</div>
-        </div>
-    </a>
-</div>
+</a></div>
