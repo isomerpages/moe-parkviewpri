@@ -2,13 +2,6 @@ collections:
   cce:
     output: true
     order:
-      - Character Development/.keep
-      - Character Development/Values in Practice (VIP) Programme.md
-      - Character Development/CCE Form Teacher Guidance Period.md
-      - Character Development/CCE Lessons.md
-      - Character Development/Life Skills.md
-      - Character Development/Sexuality Education 2026.md
-      - Character Development/Discipline.md
       - Citizenship/.keep
       - Citizenship/Young Nation Series.md
       - Citizenship/Integration of International Students.md
