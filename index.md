@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main_Page.gif
+      background: /images/Main_Page_2026.gif
       key_highlights:
         - title: Letter to Parents
           description: Important Updates
@@ -21,4 +21,5 @@ sections:
         - title: School Canteen Advertisement
           description: ""
           url: https://parkviewpri.moe.edu.sg/school-canteen-advertisement/
+      variant: image
 ---
