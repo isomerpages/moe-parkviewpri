@@ -4,22 +4,18 @@ permalink: /our-students/
 variant: tiptap
 description: ""
 ---
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Student Learning Space</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/1__SLS_Log_in_user_guide_and_FAQ.pdf" rel="noopener nofollow" target="_blank">SLS Log In User Guide and FAQ</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://cms.isomer.gov.sg/files/1__SLS_Log_in_user_guide_and_FAQ.pdf" rel="noopener nofollow" target="_blank"><u>SLS Log In User Guide and FAQ</u></a>
 </p>
-<p><a href="/files/2__Guide_to_Joining_Microsoft_Teams_Meeting.pdf" rel="noopener nofollow" target="_blank">Step by Step Guide to join MS Teams</a>
+</li>
+<li>
+<p><a href="https://cms.isomer.gov.sg/files/2__Guide_to_Joining_Microsoft_Teams_Meeting.pdf" rel="noopener nofollow" target="_blank"><u>Step by Step Guide to join MS Teams</u></a>
 </p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>iCON</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/files/3__Instructions_for_Student_iCON.pdf" rel="noopener nofollow" target="_blank">Instructions for Student iCON</a>
+</li>
+<li>
+<p><a href="https://cms.isomer.gov.sg/files/3__Instructions_for_Student_iCON.pdf" rel="noopener nofollow" target="_blank"><u>Instructions for Student iCON</u></a>
 </p>
-</div>
-</details>
-</div>
+</li>
+</ul>
 <p></p>
