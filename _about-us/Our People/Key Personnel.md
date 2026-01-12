@@ -92,7 +92,7 @@ variant: markdown
 
   <div class="profile-card">
     <img src="/images/Our%20People/Key%20Personnel%20/Poon_Yin_Chin.jpg">
-     <span class="line"><a href="mailto:poon_yin_ching@schools.gov.sg">Ms Poon Yin Ching</a></span>
+     <span class="line"><a href="mailto:poon_yin_ching@schools.gov.sg">Mdm Poon Yin Ching</a></span>
     <span class="line">HOD - Character Citizenship<br>Education</span>
   </div>
 
