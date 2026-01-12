@@ -35,6 +35,7 @@ trash into interesting works of art.</p>
 <p>Mdm Nor Iqmalia (OIC)</p>
 <p>Mdm Kirthi Shihlpa Pillai</p>
 <p>Mrs Eileen Yap</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -43,16 +44,7 @@ trash into interesting works of art.</p>
 </p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong><u>Tuesdays (School Team)</u></strong>
-</p>
-<p>3.30 pm – 5.00 pm</p>
-<p>Art Room 1</p>
-<p>&nbsp;</p>
-<p><strong><u>Fridays</u></strong>
-</p>
-<p>7.30 am – 9 am (All members)</p>
-<p>School Team (Art Room 1)</p>
-<p>Non-School Team (Art Room 2)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -78,13 +70,10 @@ trash into interesting works of art.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>The AWESOME Art Competition</strong>
-</p>
-<p>&nbsp;</p>
+<p>The AWESOME Art Competition</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Participation</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2025 - 2026</p>
@@ -97,12 +86,11 @@ Gallery Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Young Artists Presenters:</p>
-<p>(1)&nbsp;&nbsp; Azfar Amiruddin Bin Mohammad Jamalludin, 4R1</p>
-<p>(2)&nbsp;&nbsp; Adyant Dokania, 4R1</p>
-<p>(3)&nbsp;&nbsp; Lim Jia Er Emelia, 4R2</p>
-<p>(4)&nbsp;&nbsp; Urbayan Kimberly Rainne De Guzman, 4R2</p>
-<p>(5)&nbsp;&nbsp; Lim Jia Yu Lynette, 4R3</p>
-<p>&nbsp;</p>
+<p>(1) Azfar Amiruddin Bin Mohammad Jamalludin, 4R1</p>
+<p>(2) Adyant Dokania, 4R1</p>
+<p>(3) Lim Jia Er Emelia, 4R2</p>
+<p>(4) Urbayan Kimberly Rainne De Guzman, 4R2</p>
+<p>(5) Lim Jia Yu Lynette, 4R3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2025</p>
