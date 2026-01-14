@@ -10,7 +10,7 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <h4>Arts &amp; Crafts Club</h4>
-<p>Through our 4<strong>E</strong>&nbsp;approach -<strong>Exposure</strong>,&nbsp;<strong>Experience</strong>,&nbsp;<strong>Excursion</strong>,&nbsp;<strong>Excellence</strong>,&nbsp;we
+<p>Through our 4<strong>E</strong>&nbsp;approach E<strong>xposure</strong>,&nbsp;<strong>Experience</strong>,&nbsp;<strong>Excursion</strong>,&nbsp;<strong>Excellence</strong>,&nbsp;we
 aim to develop and harness the full range of our students’ talents and
 contribute to their overall development. Art Club members are exposed to
 2D and 3D art forms through hands-on art making and attending art exhibitions.
@@ -386,142 +386,19 @@ Competition 2024&nbsp;</p>
 </table>
 <p></p>
 <h4>Gallery</h4>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SWS" src="/images/17th_SWS_Junior_Watercolour_Competition_2025_Wu_Yunxi_5R1.jpg">
+<div class="iframe-wrapper">
+<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSu4SeMKH4C7Sd7OnTfvZZKZ0yJwyN0HvTtDJpb9Hu9Ivb5vpS7zPk7gN-F2-z8IMUw388iE0H-9t64/pubembed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
 </div>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/drNGLNOcWmM?si=6XEQAp4iekVlhvVp"></iframe>
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">17th SWS National Junior Watercolour Competition</div>
-</div>
-</div><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Edupod_Children_s_Art_Competition_2024_Teo Zhixuan_Gold Award" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Edupod Children's Art Competition 2024_Teo Zhixuan_Gold Award" src="/images/CCA/Art &amp; Craft Club/Edupod_Children_s_Art_Competition_2024_Teo_Zhixuan_Gold_Award.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Edupod Children's Art Competition 2024_Teo Zhixuan_Gold Award</div><div class="isomer-card-link">Click to View</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Children_and_Youth_Online_Art_Contest.jpg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Children &amp; Youth Online Art Contest" src="/images/CCA/Art &amp; Craft Club/Children_and_Youth_Online_Art_Contest.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Children &amp; Youth Online Art Contest</div>
-<div class="isomer-card-description">儿童及青年线上绘画比赛</div>
-<div class="isomer-card-link">Click to View</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Darlie_Bunny_Kids_Colouring_Contest.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Darlie Bunny Kids Colouring Contest" src="/images/CCA/Art &amp; Craft Club/Darlie_Bunny_Kids_Colouring_Contest.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Darlie Bunny Kids Colouring Contest</div><div class="isomer-card-link">Click to View</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/JQA.jpg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="JQA International Environment" src="/images/CCA/Art &amp; Craft Club/JQA.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">JQA International Environment</div>
-<div class="isomer-card-description">Children's Drawing Contest</div>
-<div class="isomer-card-link">Click to View</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Nationwide_Drawing_Contest_December.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Nationwide Drawing Contest (December)" src="/images/CCA/Art &amp; Craft Club/Nationwide_Drawing_Contest_December.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Nationwide Drawing Contest (December)</div><div class="isomer-card-link">Click to View</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Nationwide_Drawing_Contest_November.jpg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Nationwide Drawing Contest (November)" src="/images/CCA/Art &amp; Craft Club/Nationwide_Drawing_Contest_November.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Nationwide Drawing Contest (November)</div>
-<div class="isomer-card-link">Click to View</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Planetopia_International_Children_and_Youth_Visual_Art_Competition.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Planetopia International Children &amp; Youth Visual Art Competition" src="/images/CCA/Art &amp; Craft Club/Planetopia_International_Children_and_Youth_Visual_Art_Competition.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Planetopia International Children &amp; Youth Visual Art Competition</div><div class="isomer-card-link">Click to View</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/1a__SYF_Category_A_Kampung_Coffeeshop.jpg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SYF_Category A_Kampung Coffeeshop" src="/images/CCA/Art &amp; Craft Club/1a__SYF_Category_A_Kampung_Coffeeshop.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">SYF_Category A_Kampung Coffeeshop</div>
-<div class="isomer-card-link">Click to view</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/1b__SYF_Category_B_Plastic_Fishes.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SYF_Category B_Plastic Fishes" src="/images/CCA/Art &amp; Craft Club/1b__SYF_Category_B_Plastic_Fishes.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SYF_Category B_Plastic Fishes</div><div class="isomer-card-link">Click to view</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/1c__SYF_Category_C_Crushing_Our_Earth.jpg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SYF_Category C_Crushing Our Earth" src="/images/CCA/Art &amp; Craft Club/1c__SYF_Category_C_Crushing_Our_Earth.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">SYF_Category C_Crushing Our Earth</div>
-<div class="isomer-card-link">Click to view</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Revised_Teo_Zhi_Xuan_6R3_Achievements.jpg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="International, National &amp; Zonal Art Competition" src="/images/CCA/Art &amp; Craft Club/Revised_Teo_Zhi_Xuan_6R3_Achievements.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">International, National &amp; Zonal Art Competition</div><div class="isomer-card-link">Click to view</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/SOTA_Primary_6_Art_Competition__2_.JPG" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SOTA Primary 6 Art Competition" src="/images/CCA/Art &amp; Craft Club/SOTA_Primary_6_Art_Competition__2_.JPG">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">SOTA Primary 6 Art Competition</div>
-<div class="isomer-card-link">Click to view</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/SOTA_Primary_6_Art_Competition__1_.JPG" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SOTA Primary 6 Art Competition" src="/images/CCA/Art &amp; Craft Club/SOTA_Primary_6_Art_Competition__1_.JPG"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SOTA Primary 6 Art Competition</div><div class="isomer-card-link">Click to view</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/Our_Hearts_for_SG_Art_Competition.jpg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Our Hearts for SG Art Competition" src="/images/CCA/Art &amp; Craft Club/Our_Hearts_for_SG_Art_Competition.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Our Hearts for SG Art Competition</div>
-<div class="isomer-card-link">Click to View</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/URA_LTPR_Art_Competition__2_.JPG" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="URA LTPR Art Competition" src="/images/CCA/Art &amp; Craft Club/URA_LTPR_Art_Competition__2_.JPG"></div></div><div class="isomer-card-body"><div class="isomer-card-title">URA LTPR Art Competition</div><div class="isomer-card-link">Click to view</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/images/CCA/Art &amp; Craft Club/URA_LTPR_Art_Competition__1_.JPG" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="URA LTPR Art Competition" src="/images/CCA/Art &amp; Craft Club/URA_LTPR_Art_Competition__1_.JPG">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">URA LTPR Art Competition</div>
-<div class="isomer-card-link">Click to view</div>
-</div>
-</a>
-</div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<h4>Fo Guang Shan (佛光山) Montage</h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/k-izBRXK6gU?si=QrB6s0qSo0WYl-yh"></iframe>
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<h4>Traffic Signage LTA Collab</h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4IqfBwWOOJw?si=PBTU1MSjJMrj356M"></iframe>
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h4>PVPS x TMJC x LTA</h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/h_pTjPZHLg8?si=1mn4leOI4WPHL4UN"></iframe>
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<h4>ViaRT Award Competition</h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WHqw2Y_t71w?si=WhyDct0U8iuhvHFe"></iframe>
-</div>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <h4>Chingay Community Engagement Programme</h4>
@@ -548,17 +425,6 @@ Competition 2024&nbsp;</p>
 <div class="iframe-wrapper">
 <iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPmVNg7eVxOD3aq8qyqF12kJAVnQqnteJHHdnOUPbj6J19zpeMR4nZNq9prAszA_rgaRgT5qtCuepa/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h4>Chingay Installation at F1</h4>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UZN0Nz8lxz0?si=8kbws22OaKKOrAtB"></iframe>
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
