@@ -36,5 +36,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>l</p>
+<p></p>
 <p></p>
