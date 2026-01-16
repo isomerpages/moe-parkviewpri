@@ -3,55 +3,38 @@ title: Vice Principal
 permalink: /about-us/our-people/vice-principal/
 description: ""
 third_nav_title: Our People
-variant: markdown
+variant: tiptap
 ---
-<style>
-body {
-  font-family: Arial;
-}
-
-.profile-container {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr); /* 3 grids per row */
-  gap: 32px;
-  max-width: 1100px;
-  text-align: center;
-}
-	
-.profile-card {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.profile-card img {
-  width: 180px;
-  height: 240px;
-  border-radius: 6px;
-}
-
-.profile-card h3 {
-  margin: 10px 0 4px;
-}
-
-
-.profile-card a:hover {
-  text-decoration: underline;
-}
-
-</style>
-
-<div class="profile-container">
-
-  <div class="profile-card">
-    <img src="/images/Our People/SL/mdm_ho.jpg">
-    <span class="line"><b>Mdm Florence Ho</b></span>
-    <span class="line">Vice Principal</span>
-  </div>
-
-  <div class="profile-card">
-    <img alt="Photo" src="/images/Our People/SL/ms_ong.jpg">
-     <span class="line"><b>Ms Ong Seow Peng</b></span>
-    <span class="line">Vice Principal (Administration)</span>
-  </div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 87%;" height="auto" width="100%" src="/images/Our People/SL/mdm_ho.jpg">
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Photo" src="/images/Our People/SL/ms_ong.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Florence Ho</strong>
+<br>Vice Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Ong Seow Peng</strong>
+<br>Vice Principal (Administration)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>

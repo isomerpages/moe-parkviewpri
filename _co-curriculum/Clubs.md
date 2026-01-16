@@ -291,38 +291,6 @@ with score-keeping.</p>
 </tr>
 </tbody>
 </table>
-<h4>Achievements</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Events</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Awards</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NewsMaker</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4>Gallery</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -356,7 +324,6 @@ with score-keeping.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -394,8 +361,7 @@ development, ready to apply their skills in real-life contexts.</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Mdm Pavani</p>
-<p>Mdm Shirin Osman
-<br>Ms Joyce Low</p>
+<p>Mdm Shirin Osman</p>
 </td>
 </tr>
 <tr>
@@ -406,52 +372,6 @@ development, ready to apply their skills in real-life contexts.</p>
 <p><strong><u>Fridays</u></strong> 
 <br>7.30am to 9.00am
 <br>Hotspot (Library)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>Achievements</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Event</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Achievement</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Year</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>International Science Drama Competition (Junior Category)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Third Place</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>International Science Drama Competition (Junior Category)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Outstanding Performer Award - &nbsp;Gourika Renjith</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
 </td>
 </tr>
 </tbody>
@@ -567,38 +487,6 @@ environment for generations to come.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Fridays</u></strong> 
 <br>7.30am to 9.00am</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>Achievements</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Events</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Achievements</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Community in Bloom award 2023(CIB)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
 </td>
 </tr>
 </tbody>
