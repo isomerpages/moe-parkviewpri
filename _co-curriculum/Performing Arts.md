@@ -58,43 +58,6 @@ and rapport between the dancers, teachers, and instructors.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<h4>Acheivements</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Event</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Achievement</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Year</strong>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SYF Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <h4>Gallery</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -140,7 +103,6 @@ and rapport between the dancers, teachers, and instructors.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -190,40 +152,6 @@ invited to perform at the Pasir Ris West CNY dinner celebration.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<h4>Achievements</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Events</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Achievements</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SYF</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Participation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <h4>Gallery</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -341,100 +269,6 @@ and acting</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<h4>Activities/Events</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Activity/Event</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Year</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Day Celebrations</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher’s Day Celebrations</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Show Choir Exchange Programme with Tampines North Pri Sch</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Day Celebrations</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mid-Autumn Festival</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year-End Prize Giving Ceremony</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher’s Day Performance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mid-Autumn Festival</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ministry of Education Virtual Choir
-<br>(featuring Show Choir member Elise Cuerdo)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2020</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <h4>Gallery</h4>
 <table style="minWidth: 50px">
 <colgroup>
