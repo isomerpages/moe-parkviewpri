@@ -69,71 +69,7 @@ greater heights in the coming years.</p>
 </tr>
 </tbody>
 </table>
-<h4>Achievements</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Events</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Achievements</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SPSSC Football Championships (Junior)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Promoted to Tier 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SPSSC Football Championships (Senior)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st round</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SPSSC Football Championships (Junior)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st Round</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2020</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SPSSC Football Championships (Senior)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st Round</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2020</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4></h4>
 <h4>Gallery</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -265,71 +201,7 @@ the skills being taught by the coach in a game situation.</p>
 </tr>
 </tbody>
 </table>
-<h4>Achievements</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Events</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Achievements</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NSG Hockey Championships (Seniors - P6)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NSG Hockey Championships (Juniors - P4, P5)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NSG Hockey Championships (Seniors - P6)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NSG Hockey Championships (Juniors - P4, P5)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h4></h4>
 <h4>Gallery</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -383,7 +255,7 @@ the skills being taught by the coach in a game situation.</p>
 <summary>Netball</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<h4>NETBALL<br></h4>
+<h4>NETBALL</h4>
 <p>The Park View Primary School Netball Junior and Senior teams have been
 consistent participants in the National School Games each year. Supported
 by a team of devoted and dedicated teachers who oversee training sessions,
@@ -438,71 +310,6 @@ to compete in the Netball National School Games (NSG).</p>
 <td rowspan="1" colspan="1">
 <p>Ms Neo
 <br>Ms Deborah</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>Achievements</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Events</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Achievements</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NSG Netball Championships (Seniors - P6)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NSG Netball Championships (Juniors - P4, P5)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Top 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NSG Netball Championships (Seniors - P6)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NSG Netball Championships (Juniors - P4, P5)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2023</p>
 </td>
 </tr>
 </tbody>
@@ -624,51 +431,6 @@ hygiene and safety.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Toh Zi Cong (Boys)
 <br>Ms Sheefa Khan (Girls)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>Achievements</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Events</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Achievements</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Year</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National School Games Volleyball Competition (Nationals)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Junior Boys - Top 10 in National (Tier 1 - National)
-<br>
-<br>Junior Girls - 2nd in Group (Tier 2 - National)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National School Games Volleyball Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Boys- 4th</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2021</p>
 </td>
 </tr>
 </tbody>
