@@ -600,14 +600,11 @@ Championship.</p>
 <br>3-Duan Changquan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>Participation</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>2025</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -711,26 +708,27 @@ Championship.</p>
 <td rowspan="1" colspan="1">
 <p>National School Games Wushu Championships Senior Girls
 <br>4-Duan Cudgel</p>
-<p></p>
-<p>National School Games Wushu Championships Senior Boys
-<br>4-Duan Spear</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-<p>Participation</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>Participation</p>
+<p>&nbsp;Participation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p>2025</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Senior Boys
+<br>4-Duan Spear</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>2025</p>
 </td>
 </tr>
