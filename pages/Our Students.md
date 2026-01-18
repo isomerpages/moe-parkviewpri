@@ -10,7 +10,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="https://cms.isomer.gov.sg/files/2__Guide_to_Joining_Microsoft_Teams_Meeting.pdf" rel="noopener nofollow" target="_blank"><u>Step by Step Guide to join MS Teams</u></a>
+<p><a href="/files/For Students/Service_Request_More_Details___SSOE_2_Service_Portal.pdf" rel="noopener nofollow" target="_blank">Step by Step Guide to join MS Teams</a>
 </p>
 </li>
 <li>
