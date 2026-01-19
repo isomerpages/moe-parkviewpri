@@ -1,6 +1,6 @@
 ---
-title: MTP 2026
-permalink: /our-stakeholders/mtp-2026/
+title: Parents' Briefing 2026
+permalink: /our-stakeholders/parents-briefing-2026/
 description: ""
 variant: tiptap
 ---
