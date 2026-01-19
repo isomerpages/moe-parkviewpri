@@ -6,15 +6,15 @@ description: ""
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://cms.isomer.gov.sg/files/1__SLS_Log_in_user_guide_and_FAQ.pdf" rel="noopener nofollow" target="_blank"><u>SLS Log In User Guide and FAQ</u></a>
+<p><a href="/files/For Students/SLS_Account_Management___Guide_for_Students__Pri_.pdf" rel="noopener nofollow" target="_blank">SLS Log In User Guide and FAQ</a>
 </p>
 </li>
 <li>
-<p><a href="https://cms.isomer.gov.sg/files/2__Guide_to_Joining_Microsoft_Teams_Meeting.pdf" rel="noopener nofollow" target="_blank"><u>Step by Step Guide to join MS Teams</u></a>
+<p><a href="/files/For Students/Service_Request_More_Details___SSOE_2_Service_Portal.pdf" rel="noopener nofollow" target="_blank">Step by Step Guide to join MS Teams</a>
 </p>
 </li>
 <li>
-<p><a href="https://cms.isomer.gov.sg/files/3__Instructions_for_Student_iCON.pdf" rel="noopener nofollow" target="_blank"><u>Instructions for Student iCON</u></a>
+<p><a href="/files/For Students/Student_iCON_Onboarding_Guide.pdf" rel="noopener nofollow" target="_blank">Student iCON Onboarding Guide</a>
 </p>
 </li>
 </ul>
