@@ -14,7 +14,7 @@ description: ""
 </p>
 </li>
 <li>
-<p><a href="https://cms.isomer.gov.sg/files/3__Instructions_for_Student_iCON.pdf" rel="noopener nofollow" target="_blank"><u>Instructions for Student iCON</u></a>
+<p><a href="/files/For Students/Student_iCON_Onboarding_Guide.pdf" rel="noopener nofollow" target="_blank">Student iCON Onboarding Guide</a>
 </p>
 </li>
 </ul>
