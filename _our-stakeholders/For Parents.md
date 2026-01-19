@@ -103,7 +103,7 @@ description: ""
             <div class="click">Click here</div>
         </div>
     </a>   
-		<a target="_blank" href="https://www.parkviewpri.moe.edu.sg/our-stakeholders/mtp-2026/">
+		<a target="_blank" href="https://parkviewpri.moe.edu.sg/our-stakeholders/parents-briefing-2026/">
         <div class="box">
             <div class="title">Parents' Briefing Slides</div>
             <div class="click">Click here</div>
