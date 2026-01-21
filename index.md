@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main_Page_2026.gif
+      background: /images/Untitled_design__1_.gif
       key_highlights:
         - title: Letter to Parents
           description: Important Updates
