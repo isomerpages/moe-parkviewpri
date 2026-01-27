@@ -47,7 +47,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Roslinda</p>
+<p><a href="roslinda_naim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Roslinda</a>
+</p>
 </td>
 </tr>
 <tr>
