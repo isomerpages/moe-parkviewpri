@@ -209,7 +209,7 @@ variant: tiptap
 <p>3 Resilience (3R3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Izree
+<p><a href="muhammad_izree_jalil@schools.gov.sg" rel="noopener nofollow" target="_blank">Mr Izree</a> 
 <br><a href="mailto:chua_shuan_kwee@schools.gov.sg" rel="noopener nofollow" target="_blank"><u>Miss Chua Shuan Kwee</u></a>
 </p>
 </td>
