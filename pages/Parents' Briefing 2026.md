@@ -7,10 +7,6 @@ variant: tiptap
 <h4>Primary 4 &amp; 5</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2026 MTP/2026_P4___P5_Parents_Briefing___Science.pdf" rel="noopener nofollow" target="_blank">P4 &amp; P5 Parents Briefing</a>
-</p>
-</li>
-<li>
 <p><a href="https://youtu.be/r1f53sQVkA0" rel="noopener nofollow" target="_blank">P4 &amp; P5 English Briefing</a>
 </p>
 </li>
