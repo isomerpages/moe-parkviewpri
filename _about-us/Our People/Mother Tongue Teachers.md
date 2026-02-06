@@ -107,7 +107,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurhazimah_abdul_halim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nurhazinah</a>
+<p><a href="mailto:nurhazimah_abdul_halim@schools.gov.sg" rel="noopener nofollow" target="_blank">Mdm Nurhazimah</a>
 </p>
 </td>
 </tr>
