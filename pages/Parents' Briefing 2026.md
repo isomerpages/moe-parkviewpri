@@ -4,6 +4,37 @@ permalink: /our-stakeholders/parents-briefing-2026/
 description: ""
 variant: tiptap
 ---
+<h4>Primary 6</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/2026-p6-parents-briefing" rel="noopener nofollow" target="_blank">P6 Parents Briefing</a>
+</p>
+</li>
+<li>
+<p><a href="https://youtu.be/Fi3J8STPXWQ" rel="noopener nofollow" target="_blank">P6 English Briefing</a>
+</p>
+</li>
+<li>
+<p><a href="https://youtu.be/9vEFBBBaHag" rel="noopener nofollow" target="_blank">P6 Math Briefing</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2026 MTP/2026_P6_Parents_Briefing___Science.pdf" rel="noopener nofollow" target="_blank">P6 Science Briefing</a>
+</p>
+</li>
+<li>
+<p><a href="https://youtu.be/LJcQ3o83Spo" rel="noopener nofollow" target="_blank">P6 CL Briefing</a>
+</p>
+</li>
+<li>
+<p><a href="https://youtu.be/V1mmEq2rmC8" rel="noopener nofollow" target="_blank">P6 TL Briefing</a>
+</p>
+</li>
+<li>
+<p><a href="https://youtu.be/B5-62QPoU1c" rel="noopener nofollow" target="_blank">P6 ML Briefing</a>
+</p>
+</li>
+</ul>
 <h4>Primary 4 &amp; 5</h4>
 <ul data-tight="true" class="tight">
 <li>
