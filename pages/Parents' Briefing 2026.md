@@ -77,7 +77,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://youtu.be/TaptgAXoPHQ" rel="noopener nofollow" target="_blank">P2 &amp; P3 Math Briefing</a>
+<p><a href="https://youtu.be/TaptgAXoPHQ" rel="noopener nofollow" target="_blank">P2 &amp; P3 Mother Tongue Briefing</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2026 MTP/2026_P2__P3_2026_Briefing_Math.pdf" rel="noopener nofollow" target="_blank">P2 &amp; P3 Math Briefing</a>
 </p>
 </li>
 <li>
