@@ -66,6 +66,25 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<h4>Primary 2 &amp; 3</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/2026-p2p3-parents-briefing" rel="noopener nofollow" target="_blank">P2 &amp; P3 Parents Briefing</a>
+</p>
+</li>
+<li>
+<p><a href="https://youtu.be/yMPRxRRxmkc" rel="noopener nofollow" target="_blank">P2 &amp; P3 English Briefing</a>
+</p>
+</li>
+<li>
+<p><a href="https://youtu.be/TaptgAXoPHQ" rel="noopener nofollow" target="_blank">P2 &amp; P3 Math Briefing</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2026 MTP/2026_P3_Science_Subject_Briefing.pdf" rel="noopener nofollow" target="_blank">P2 &amp; P3 Science Briefing</a>
+</p>
+</li>
+</ul>
 <h4>Primary 1</h4>
 <ul data-tight="true" class="tight">
 <li>
