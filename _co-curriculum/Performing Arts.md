@@ -199,33 +199,52 @@ invited to perform at the Pasir Ris West CNY dinner celebration.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <h4>Show Choir</h4>
-<p>Show Choir combines choral singing with dance movements, occasionally
-within the context of a specific idea or story. Our PVPS Choir began in
-January 2011 as a traditional choir ensemble. Over the years, under the
-guidance of instructors from John &amp; Deniece Glee Studio LLP, it has
-evolved into a Show Choir where elements such as voice training, singing
-techniques, dance moves as well as stage etiquette are incorporated.
-<br>In PVPS Show Choir, members are nurtured into confident and resilient
-individuals. They will be given opportunities to perform for special school
-events as well as events held by external organisations.
-<br>
-<br>PVPS Show Choir CCA aims to:</p>
+<p>Show Choir is a vibrant performing arts CCA that combines choral singing
+with expressive dance movements, occasionally within the context of a theme
+or story. The PVPS Choir, established in January 2011, began as a traditional
+choir ensemble. Over the years, it has evolved into a dynamic Show Choir,
+where students develop not only their vocal abilities but also their stage
+presence. Through structured training, members learn voice techniques,
+singing skills, dance movements, and stage etiquette, allowing them to
+grow into confident performers.</p>
+<p>&nbsp;</p>
+<p>At PVPS Show Choir, students are nurtured into confident, resilient, and
+expressive individuals. Members are given opportunities to perform during
+special school events as well as external performances, allowing them to
+showcase their talents and gain valuable stage experience.</p>
+<p>&nbsp;</p>
+<p>Students also enjoy performing a wide variety of repertoire, ranging from
+musical theatre pieces to popular favourites such as K-Pop songs. Through
+the integration of singing and dance, students develop coordination, rhythm,
+and fine motor skills while learning to work closely as a team.</p>
+<p>&nbsp;</p>
+<p>The PVPS Show Choir aims to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Develop the students’ love for the Arts</p>
+<p>Develop students’ love and appreciation for the Arts</p>
 </li>
 <li>
-<p>Build students’ confidence in self-expression through singing, dance movement
-and acting</p>
+<p>Build confidence in self-expression through singing, movement, and acting</p>
 </li>
 <li>
-<p>Cultivate good qualities in the forms of Musicianship and Showmanship</p>
+<p>Cultivate strong musicianship and showmanship</p>
 </li>
 <li>
-<p>Imbue values such as respect, resilience, discipline, building character
-&amp; team spirit</p>
+<p>Instil values such as respect, responsibility, resilience, discipline,
+character and teamwork</p>
 </li>
 </ul>
+<p>&nbsp;</p>
+<p>Through dedication, practice, and shared performances, PVPS Show Choir
+members grow not only as performers, but also as collaborative and confident
+young individuals.</p>
+<p></p>
+<h4>Highlights from Our Show Choir Repertoire</h4>
+<p>Dynamite – BTS
+<br>Golden – K-Pop Demon Hunters
+<br>Dreamers – Jungkook
+<br>A Million Dreams – The Greatest Showman
+<br>High Hopes – Panic! At The Disco</p>
 <p></p>
 <h4>Training Schedule</h4>
 <table style="minWidth: 50px">
@@ -239,8 +258,9 @@ and acting</p>
 <p>Teachers-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mdm Hannah (OIC)
-<br>&nbsp;Ms Kwa Yan Teng</p>
+<p>Mdm Hannah (OIC)
+<br>Ms Kwa Yan Teng
+<br>Ms Wang Jia Yi</p>
 </td>
 </tr>
 <tr>
@@ -248,27 +268,28 @@ and acting</p>
 <p>Training Dates</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong><u>Tuesdays</u></strong> (Vocal Training)
+<p><strong><u>Tuesdays</u></strong>&nbsp;(Vocal Training)
 <br>3.30pm – 5.00pm
-<br>Music Room 1
-<br><strong><u>Fridays</u></strong> (Dance and Movement Training)
-<br>8.00am – 9.30am
+<br>Music Room 1</p>
+<p>
+<br><strong><u>Fridays</u></strong>&nbsp;(Dance and Movement Training)
+<br>7.30am – 9.00am
 <br>Music Room 1</p>
 </td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Coach</p>
+<p>Vocal Instructor
+<br>Dance and Movement Instructor</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong><u>Vocal Instructor</u></strong> 
-<br>Mr Rayhan
-<br><strong><u>Dance and Movement Instructors</u></strong> 
-<br>Ms Che</p>
+<p>Ms Nadia
+<br>Ms Michelle</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <h4>Gallery</h4>
 <table style="minWidth: 50px">
 <colgroup>
