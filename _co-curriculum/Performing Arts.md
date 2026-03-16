@@ -300,24 +300,36 @@ young individuals.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/Picture7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/6168214744284728778.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 88%;" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/Picture8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/6168214744284728774.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 91%;" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/Picture9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/6168214744284728776.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/Picture6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/6168214744284728773.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/6168214744284728775.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Show Choir/6168214744284728772.jpg">
 </div>
 </td>
 </tr>
