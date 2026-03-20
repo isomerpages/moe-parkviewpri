@@ -71,6 +71,39 @@ trash into interesting works of art.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Fo Guang Shan: Three Acts of Goodness Art Competition 2026</p>
+<p>三好绘画比赛</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+<p>&nbsp;</p>
+<p>42 participants</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The 2nd Blue Cross Charitable Institution Shantang Culture Arts Exhibition</p>
+<p>Theme: Illustrating Kindness: A Youth Perspective on Shantang Culture</p>
+<p>画出善心：青少年视角下的善堂文化</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Achievement:</p>
+<p>&nbsp;</p>
+<p>Song Yunshu, 2H</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>The AWESOME Art Competition</p>
 </td>
 <td rowspan="1" colspan="1">
