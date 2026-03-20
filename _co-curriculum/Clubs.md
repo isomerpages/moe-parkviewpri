@@ -71,6 +71,39 @@ trash into interesting works of art.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Fo Guang Shan: Three Acts of Goodness Art Competition 2026</p>
+<p>三好绘画比赛</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+<p>&nbsp;</p>
+<p>42 participants</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The 2nd Blue Cross Charitable Institution Shantang Culture Arts Exhibition</p>
+<p>Theme: Illustrating Kindness: A Youth Perspective on Shantang Culture</p>
+<p>画出善心：青少年视角下的善堂文化</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Achievement:</p>
+<p>&nbsp;</p>
+<p>Song Yunshu, 2H</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>The AWESOME Art Competition</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -236,11 +269,14 @@ Competition 2025</p>
 </tbody>
 </table>
 <h4>Gallery</h4>
-<div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSu4SeMKH4C7Sd7OnTfvZZKZ0yJwyN0HvTtDJpb9Hu9Ivb5vpS7zPk7gN-F2-z8IMUw388iE0H-9t64/pubembed?start=false&amp;loop=false&amp;delayms=5000"></iframe>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Art &amp; Craft Club/The_2nd_Blue_Cross_Charitable_Institution_Shantang_Culture_Arts_Exhibition_Illustrating_Kindness_A_Youth_Perspective_on_Shantang_Culture.png">
 </div>
 <div class="iframe-wrapper">
-<iframe height="299" width="480" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/drNGLNOcWmM?si=6XEQAp4iekVlhvVp"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/A5wBRnZ-U7U?si=GkJgxvvZmBkhY4Or"></iframe>
+</div>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="299" width="480" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/drNGLNOcWmM?si=6XEQAp4iekVlhvVp"></iframe>
 </div>
 <p><a href="https://www.youtube.com/playlist?list=PLdAz3D5nYu2xArJ5l7JicB9hDif0n_I3M" rel="noopener nofollow" target="_blank">Watch More on YouTube</a>
 </p>
