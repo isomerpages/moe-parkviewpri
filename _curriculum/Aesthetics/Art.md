@@ -71,9 +71,6 @@ left behind for the school when the truck leaves for another destination.</p>
 <p>Head of Aesthetics Miss Lim Hwee Tin felt that this exposure is just the
 tip of an iceberg and she hopes this experience would spark the interest
 in art for students and open the doors to more art activities.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JspfHlaRSlk"></iframe>
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:800%" height="auto" width="100%" alt="" src="/images/Curriculum/Aesthetics/Art/RovingArtTruckProgramme.jpg">
@@ -84,26 +81,11 @@ in art for students and open the doors to more art activities.</p>
 <p>These are teaching resources on loan from the National Gallery Singapore.
 They are used to support teaching and learning, not limiting to Art. Language
 teachers also used them to develop our students’ academic discussion skills
-using Talk Moves.</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" alt="" src="/images/Curriculum/Aesthetics/Art/TravellingArtCarts.jpg">
-</div>
-<p>
+using Talk Moves.
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" alt="" src="/images/Curriculum/Aesthetics/Art/TravellingArtCarts_1.jpg">
-</div>
-<h4>Primary 2 Art-in-Transit</h4>
-<p>The Art-in-Transit programme provides our students with learning experiences
-beyond the classrooms, exposing them to the art installations in the MRT
-stations and providing insight into the history of the community in which
-the stations are located. Besides art appreciation, the infusion of English
-and Mathematics activities through the artworks allows our students to
-learn English and Mathematics in authentic and meaningful context, thereby
-enabling them to see the interconnectedness between the subjects.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-iA_BnsARAE"></iframe>
 </div>
 <h4>Primary 4 Museum-based Learning</h4>
 <p>The museum-based learning is a core learning experience for our P4 students.
@@ -112,7 +94,7 @@ Singapore’s history and heritage. Through the pre-, during- and post-visit
 experiences, the students are involved as artists and audience to create
 and appreciate art.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Gj3yY4tb2yo"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Gj3yY4tb2yo"></iframe>
 </div>
 <h4>Primary 6 Learning Journey to Dragon Kiln</h4>
 <p>The Primary 6 students visit Thow Kwang Dragon Kiln Pottery Jungle situated
@@ -123,11 +105,11 @@ have the opportunity to view a variety of ceramic wares that show the different
 cultures and styles of Asia. The students immerse in the studio pottery
 environment whereby they are given clay to create their own artworks.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7suqNg13ykA?si=8A8cBWoyLHHOzwSd"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7suqNg13ykA?si=8A8cBWoyLHHOzwSd"></iframe>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bHMRgXJKcBU?si=5bNMO8mK-L8TXYgj"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bHMRgXJKcBU?si=5bNMO8mK-L8TXYgj"></iframe>
 </div>
 <h4>Excellence</h4>
 <p>Students celebrate their artistic efforts and achievements through Internal
@@ -144,7 +126,7 @@ and share their knowledge.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" alt="" src="/images/Curriculum/Aesthetics/Art/NationalDayCelebrationsthroughtheArts.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Aesthetics/Art/ND_Celebrations_NEW.png">
 </div>
 <p><em>Singapore Book of Records</em>
 </p>
@@ -162,7 +144,7 @@ activity to National Day Celebration.</p>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AmIcJCh9Ad0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AmIcJCh9Ad0"></iframe>
 </div>
 <h4><u>Projects</u></h4>
 <p><strong>In Partnership with Arts Education Branch (AEB): SLS Art Resources for Primary Schools</strong>
@@ -188,7 +170,7 @@ artwork.</p>
 <p><em>Through simple craftwork, the Art Club members teach the kindergarten students how to transform common household trash such as toilet rolls, bottle caps and plastic bottles into useful craftwork. This programme is also a platform to develop the social and emotional competencies of our students and an opportunity for them to hone their leadership skills.</em>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cwsop_9gm0w"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cwsop_9gm0w"></iframe>
 </div>
 <h4><em><u>Exhibitions</u></em></h4>
 <p><strong><em>E6 cluster Art Exhibition @ Tampines Regional Library</em></strong>
@@ -201,7 +183,7 @@ artwork.</p>
 <p><em><br></em>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Fvj690mE4WU"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Fvj690mE4WU"></iframe>
 </div>
 <h4><em>Celebrating National Day Through the Arts Exhibition</em></h4>
 <div class="isomer-image-wrapper">
@@ -214,9 +196,6 @@ artwork.</p>
 <h4><em>P1 &amp; P2 PAL Visual Exhibition</em></h4>
 <div class="isomer-image-wrapper">
 <img style="width:90%" height="auto" width="100%" alt="" src="/images/Curriculum/Aesthetics/Art/P1P2PALVisualArtExhibition.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" alt="" src="/images/Curriculum/Aesthetics/Art/P1P2PALVisualArtExhibition_1.png">
 </div>
 <h4><em>Walkathon Exhibition</em></h4>
 <div class="isomer-image-wrapper">
@@ -234,14 +213,11 @@ artwork.</p>
 <h4><em>NDP “Our Hearts for Singapore” Pledge Card Design Competition</em></h4>
 <p><em>Our students designed cards for the “Our Heart for Singapore” project based on ideas gathered from interactions with their family members and seniors. From their conversations, they drew the stories they had heard. Their artworks were show cased at the National Museum of Singapore.</em>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" alt="" src="/images/Curriculum/Aesthetics/Art/NDPOurHeartForSingaporepledgecarddesigncompetition.png">
-</div>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LWFt2W91Wsc"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LWFt2W91Wsc"></iframe>
 </div>
 <h4><em>#SYFstronger TogetherProject</em></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UDh_HT5R1J0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UDh_HT5R1J0"></iframe>
 </div>
 <p></p>
