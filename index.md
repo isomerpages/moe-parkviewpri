@@ -18,5 +18,8 @@ sections:
         - title: Appreciation & Feedback
           description: Sharing Thoughts and Gratitude
           url: https://www.parkviewpri.moe.edu.sg/our-stakeholders/appreciation-and-feedback/
+        - title: School Canteen Advertisement
+          description: ""
+          url: https://www.parkviewpri.moe.edu.sg/school-canteen-advertisement/
       variant: image
 ---
