@@ -29,9 +29,6 @@ of art making techniques and skills.</p>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:90%" height="auto" width="100%" alt="Art Modular Programmes (P3 - P6)" src="/images/Curriculum/Aesthetics/Art/ArtModularProgrammes(P3 P6)_1.png">
-</div>
 <h4>Digital Art Programmes</h4>
 <div class="isomer-image-wrapper">
 <img style="width:90%" height="auto" width="100%" alt="Digital Art Programmes" src="/images/Curriculum/Aesthetics/Art/DigitalArtProgrammes.jpg">
@@ -175,12 +172,7 @@ artwork.</p>
 <h4><em><u>Exhibitions</u></em></h4>
 <p><strong><em>E6 cluster Art Exhibition @ Tampines Regional Library</em></strong>
 </p>
-<p><em>This is an inaugural event to give an additional platform to showcase our students' works in non SYF Art Exhibition years. The artworks were exhibited digitally at the Tampines Library Level 2 Screen at Tampines Hub. Kudos to all our young artists!</em>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" alt="" src="/images/Curriculum/Aesthetics/Art/TampinesRegionalLibrary.png">
-</div>
-<p><em><br></em>
+<p><em>This is an inaugural event to give an additional platform to showcase our students' works in non SYF Art Exhibition years. The artworks were exhibited digitally at the Tampines Library Level 2 Screen at Tampines Hub. Kudos to all our young artists!<br></em>
 </p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Fvj690mE4WU"></iframe>
