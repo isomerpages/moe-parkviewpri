@@ -362,29 +362,39 @@ to compete in the Netball National School Games (NSG).</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <h4>VOLLEYBALL</h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Park View Primary School Volleyball Team was formed in 2001. Since its
 inception, it has distinguished itself as one of the powerhouses in primary
 school volleyball, clinching medals in zonal and national competitions
-in both the boys and girls’ division. The PVPS volleyball team has amassed
+in both the boys and girls division. The PVPS volleyball team has amassed
 many accolades through its long and proud history. Together with a team
 of committed and dedicated teachers, we hope to build on our achievements
 and scale greater heights in the coming years.
 <br>The volleyball team provides differentiated training to students at varying
-levels. At Primary 3, the focus is on developing basic skills through fun
-drills and games. At Primary 4, students will be working towards honing
-and perfecting their skills of serving, digging, setting and spiking. To
-showcase and apply these skills, the students will have the opportunity
-to take part in the annual soft volleyball competition. At Primary 5 and
-Primary 6, the training will center on exploring various offensive and
-defensive systems in order to prepare the teams for upcoming zonal and
-national competitions.
+levels.
+<br>At Primary 3, the focus is on developing basic skills through fun drills
+and games.
+<br>At Primary 4, students will be working towards honing and perfecting their
+skills of serving, digging, setting and spiking. To showcase and apply
+these skills, the students will have the opportunity to take part in the
+annual soft volleyball competition.
+<br>At Primary 5 and Primary 6, the training will center on exploring various
+offensive and defensive systems in order to prepare the teams for upcoming
+zonal and national competitions.
 <br>Every training session will begin with a warm-up session of fitness and
 conditioning drills. It will be followed by team drills aimed at developing
-both basic and specific skills. The training will conclude with a game
-to allow students to put into practice the drills and skills learnt.
-<br>For students to see the importance of their learning process, each student
-is given the PR2O Journal to document their reflections and skills learnt
-during training.
+both basic and specific skills for that particular training session. The
+training will conclude with a game to allow students to put into practice
+the drills and skills learnt.
+<br>In order for students to see the importance of their learning process,
+each student is given PR2O Journal to document their reflections and skills
+learnt during training.
 <br>School Team players are required to purchase a personal pair of volleyball
 kneepads for safety.
 <br>Students are allowed to bring and change into their own sport shoes during
@@ -392,6 +402,10 @@ training.
 <br>Girls with short or long hair are required to keep their hair tied or
 pinned up during training. Nails are also to be kept short for personal
 hygiene and safety.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Training Schedule</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -405,9 +419,10 @@ hygiene and safety.</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Mrs Helen Chong (Boys Team)
-<br>Mdm Angeline Loo (Boys Team)
-<br>Miss Phoebe Goh (Girls Team)
-<br>Mrs Yeo Shiyu (Girls Team)</p>
+<br>Ms Chong Siew Hui (Boys Team)
+<br>Mrs Yeo Shiyu (Boys Team)
+<br>Ms Phoebe Goh (Girls Team)
+<br>Mrs Charlene Png (Girls Team)</p>
 </td>
 </tr>
 <tr>
@@ -415,13 +430,15 @@ hygiene and safety.</p>
 <p>Training Dates</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong><u>Tuesdays</u></strong>
-<br>Boys and Girls (Selected students)
+<p><strong>Tuesdays<br></strong>Boys and Girls (Selected students)
 <br>3.30pm- 5.30pm
 <br>School Hall
-<br><strong><u>Thursdays</u></strong>
-<br>Boys and Girls (Selected students)
-<br>3.30pm- 5.30pm</p>
+<br><strong>Thursdays<br></strong>Boys and Girls (Selected students)
+<br>3.30pm- 5.30pm
+<br>School Hall
+<br><strong>Fridays<br></strong>Boys and Girls (All students)
+<br>7.30am- 9.00am
+<br>School Hall</p>
 </td>
 </tr>
 <tr>
@@ -430,7 +447,7 @@ hygiene and safety.</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Mr Toh Zi Cong (Boys)
-<br>Ms Sheefa Khan (Girls)</p>
+<br>Mr Michael Ang (Girls)</p>
 </td>
 </tr>
 </tbody>
