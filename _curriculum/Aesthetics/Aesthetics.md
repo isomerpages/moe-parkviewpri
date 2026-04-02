@@ -22,7 +22,7 @@ cultures. They will also have a keen sense of the Singaporean identity
 and a spirit of experimentation and innovation.</p>
 <h4>Framework</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="100" width="100" src="/images/Curriculum/Aesthetics/PVPS_Aesthetics_Framework_1.png">
+<img style="width: 70%;" height="100" width="100" src="/images/Curriculum/Aesthetics/PVPS_Aesthetics_Framework_1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
