@@ -22,7 +22,7 @@ around them.</p>
 </ul>
 <h4>Framework</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="100" width="100" src="/images/Curriculum/Science/Science%20Framework.png">
+<img style="width: 70%;" height="100" width="100" src="/images/Curriculum/Science/Science%20Framework.png">
 </div>
 <h4>Key Programmes</h4>
 <p><strong>Focus for Science Teaching &amp; Learning</strong>
