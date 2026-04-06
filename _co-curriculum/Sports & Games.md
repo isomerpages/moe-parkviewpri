@@ -256,20 +256,24 @@ the skills being taught by the coach in a game situation.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <h4>NETBALL</h4>
-<p>The Park View Primary School Netball Junior and Senior teams have been
-consistent participants in the National School Games each year. Supported
-by a team of devoted and dedicated teachers who oversee training sessions,
-engage in friendly matches and carnivals, and accompany the students to
-tournaments, we are poised for continued success. Our collective goal is
-to strive for excellence, aiming for accolades and aspiring to reach new
-heights in the years ahead.</p>
+<p>The Park View Primary School Netball Junior and Senior teams are proud
+and consistent participants in the National School Games each year. Guided
+by a committed team of teachers, students undergo structured training,
+take part in friendly matches and carnivals, and gain valuable competitive
+experience through various tournaments.</p>
+<p>Through these opportunities, our players develop teamwork, resilience,
+and sportsmanship. With a strong foundation and a shared passion for the
+sport, we continue to strive for excellence, aiming to achieve commendable
+results and reach greater heights in the years ahead.</p>
 <h4>Training Programme</h4>
-<p>Training begins with a strong emphasis on skill development for players
-joining in Primary 3, where they receive personalised guidance from the
-coach to equip them for the school team. As they advance to Primary 4 and
-beyond, training shifts to emphasize gameplay, teamwork, and honing their
-skills. Selected players from Primary 4 to 6 will have the opportunity
-to compete in the Netball National School Games (NSG).</p>
+<p>Training begins with a strong emphasis on fundamental skill development
+for students joining in Primary 3, where they receive guided instruction
+from the coach to build a solid foundation for team play. As they progress
+to Primary 4 and beyond, training focuses on gameplay, teamwork, and the
+refinement of skills.
+<br>Selected players from Primary 4 to Primary 6 are given the opportunity
+to represent the school in the Netball National School Games (NSG), gaining
+valuable competitive experience and exposure.</p>
 <h4>Training Schedule</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -283,8 +287,9 @@ to compete in the Netball National School Games (NSG).</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Mrs Evie Goh (OIC)
-<br>Mdm Nur Farizah
-<br>Mdm Khairina</p>
+<br>Mdm Khairina
+<br>Mdm Norhanim
+<br>Mdm Nur Farizah</p>
 </td>
 </tr>
 <tr>
@@ -308,53 +313,39 @@ to compete in the Netball National School Games (NSG).</p>
 <p>Coach</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Neo
-<br>Ms Deborah</p>
+<p>Ms Tan Si Jing
+<br>Ms Ariel Pereira</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4>Gallery</h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/In_action.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/In_action_4.jpg">
-</div>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/In_action_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Netball__1_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/In_action_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Netball__2_.jpg">
 </div>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Team_Photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Netball/Netball__3_.jpg">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
