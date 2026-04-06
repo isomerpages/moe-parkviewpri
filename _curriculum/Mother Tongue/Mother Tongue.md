@@ -14,7 +14,7 @@ of the Mother Tongue Language, in alignment with the school’s vision and
 mission.</p>
 <h4>Framework</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="100" width="100" src="/images/Curriculum/Mother%20Tongue/MT_framework_1.jpg">
+<img style="width: 60%;" height="100" width="100" src="/images/Curriculum/Mother%20Tongue/MT_framework_1.jpg">
 </div>
 <p>The acquisition of language skills to as high a level as the student is
 able to, forms the core of the Mother Tongue Department’s Teaching and
