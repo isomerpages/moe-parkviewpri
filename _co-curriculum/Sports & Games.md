@@ -14,15 +14,18 @@ description: ""
 we have taken part in the East Zone SPSSC Inter-Primary Football Championships,
 National Inter-Primary Football Championships, numerous FAS-led tournaments
 and friendlies.
+<br>
 <br>At present, we have 78 active members, consisting of Primary 3 to Primary
 6 boys, who train once or twice a week at the school field under the supervision
 of our coach, Mr. Fathi. We also have a dedicated team of teachers who
 supervise them during training sessions and accompany them out for tournaments
 and friendlies.
+<br>
 <br>We were taught various football skills, techniques and games to hone our
 skills. In 2016, our school players have adopted the PR2O Player Philosophy
 where we learn to be more reflective and responsible school team players
 through journal writing and mental resilience.
+<br>
 <br>Together with our band of committed coach and teachers driving and inspiring
 the Football CCA, we hope to build on our achievements and strive to attain
 greater heights in the coming years.</p>
@@ -117,7 +120,7 @@ greater heights in the coming years.</p>
 <summary>Hockey</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<h4>HOCKEY<br></h4>
+<h4>HOCKEY</h4>
 <p>Park View Primary School Hockey was started in 2001. We have taken part
 in the National Inter-Primary Schools Hockey Tournament every year. We
 have a team of committed and dedicated teachers who supervise them during
@@ -131,7 +134,9 @@ in National School Games (NSG) Hockey Championships .</p>
 <h4>Training structure</h4>
 <p>Players will start the training with warming up jogs and stretching. They
 will then move on to some physical conditioning before proceeding to start
-the training proper with the following being covered for trainings.</p>
+the training proper with the following being covered for trainings.
+<br>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Practice stick gripping, both forehand and reverse stick</p>
@@ -261,6 +266,7 @@ and consistent participants in the National School Games each year. Guided
 by a committed team of teachers, students undergo structured training,
 take part in friendly matches and carnivals, and gain valuable competitive
 experience through various tournaments.
+<br>
 <br>Through these opportunities, our players develop teamwork, resilience,
 and sportsmanship. With a strong foundation and a shared passion for the
 sport, we continue to strive for excellence, aiming to achieve commendable
@@ -271,6 +277,7 @@ for students joining in Primary 3, where they receive guided instruction
 from the coach to build a solid foundation for team play. As they progress
 to Primary 4 and beyond, training focuses on gameplay, teamwork, and the
 refinement of skills.
+<br>
 <br>Selected players from Primary 4 to Primary 6 are given the opportunity
 to represent the school in the Netball National School Games (NSG), gaining
 valuable competitive experience and exposure.</p>
@@ -367,10 +374,13 @@ in both the boys and girls division. The PVPS volleyball team has amassed
 many accolades through its long and proud history. Together with a team
 of committed and dedicated teachers, we hope to build on our achievements
 and scale greater heights in the coming years.
+<br>
 <br>The volleyball team provides differentiated training to students at varying
 levels.
+<br>
 <br>At Primary 3, the focus is on developing basic skills through fun drills
 and games.
+<br>
 <br>At Primary 4, students will be working towards honing and perfecting their
 skills of serving, digging, setting and spiking. To showcase and apply
 these skills, the students will have the opportunity to take part in the
@@ -378,18 +388,23 @@ annual soft volleyball competition.
 <br>At Primary 5 and Primary 6, the training will center on exploring various
 offensive and defensive systems in order to prepare the teams for upcoming
 zonal and national competitions.
+<br>
 <br>Every training session will begin with a warm-up session of fitness and
 conditioning drills. It will be followed by team drills aimed at developing
 both basic and specific skills for that particular training session. The
 training will conclude with a game to allow students to put into practice
 the drills and skills learnt.
+<br>
 <br>In order for students to see the importance of their learning process,
 each student is given PR2O Journal to document their reflections and skills
 learnt during training.
+<br>
 <br>School Team players are required to purchase a personal pair of volleyball
 kneepads for safety.
+<br>
 <br>Students are allowed to bring and change into their own sport shoes during
 training.
+<br>
 <br>Girls with short or long hair are required to keep their hair tied or
 pinned up during training. Nails are also to be kept short for personal
 hygiene and safety.</p>
