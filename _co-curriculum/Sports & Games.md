@@ -466,7 +466,7 @@ Boys - Top 6 in National (Tier 1)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>022 National School Games Volleyball Competition (Nationals)<br></strong>Junior
+<p><strong>2022 National School Games Volleyball Competition (Nationals)<br></strong>Junior
 Boys - Top 10 in National (Tier 1)</p>
 </td>
 </tr>
