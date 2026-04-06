@@ -260,8 +260,8 @@ the skills being taught by the coach in a game situation.</p>
 and consistent participants in the National School Games each year. Guided
 by a committed team of teachers, students undergo structured training,
 take part in friendly matches and carnivals, and gain valuable competitive
-experience through various tournaments.</p>
-<p>Through these opportunities, our players develop teamwork, resilience,
+experience through various tournaments.
+<br>Through these opportunities, our players develop teamwork, resilience,
 and sportsmanship. With a strong foundation and a shared passion for the
 sport, we continue to strive for excellence, aiming to achieve commendable
 results and reach greater heights in the years ahead.</p>
