@@ -367,13 +367,13 @@ valuable competitive experience and exposure.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Park View Primary School Volleyball Team was formed in 2001. Since its
-inception, it has distinguished itself as one of the powerhouses in primary
-school volleyball, clinching medals in zonal and national competitions
-in both the boys and girls division. The PVPS volleyball team has amassed
-many accolades through its long and proud history. Together with a team
-of committed and dedicated teachers, we hope to build on our achievements
-and scale greater heights in the coming years.
+<p>Park View Primary School Volleyball Team was formed in 2001. There are
+two competitions that the team participates in for the National School
+Games (NSG) Volleyball Competition. The Junior Team (P4/P5) will progress
+from Classification to Tier round, while the Senior Team (P5/P6) will progress
+from Pool to League round. Together with a team of committed and dedicated
+teachers, we hope to build on our achievements and scale greater heights
+in the coming years.
 <br>
 <br>The volleyball team provides differentiated training to students at varying
 levels.
@@ -381,33 +381,23 @@ levels.
 <br>At Primary 3, the focus is on developing basic skills through fun drills
 and games.
 <br>
-<br>At Primary 4, students will be working towards honing and perfecting their
-skills of serving, digging, setting and spiking. To showcase and apply
-these skills, the students will have the opportunity to take part in the
-annual soft volleyball competition.
-<br>At Primary 5 and Primary 6, the training will center on exploring various
-offensive and defensive systems in order to prepare the teams for upcoming
-zonal and national competitions.
+<br>At Primary 4 and Primary 5, students will be working towards honing and
+perfecting their skills for serving, digging, setting and spiking. To showcase
+and apply these skills, the students will have the opportunity to be selected
+into the school team and take part in NSG Volleyball Competition (Junior).</p>
+<p>At Primary 6, the training will center on exploring various offensive
+and defensive systems to prepare the teams for the NSG Volleyball Competition
+(Senior)
 <br>
 <br>Every training session will begin with a warm-up session of fitness and
-conditioning drills. It will be followed by team drills aimed at developing
+conditioning drills. It will be followed by team drills which aim at developing
 both basic and specific skills for that particular training session. The
 training will conclude with a game to allow students to put into practice
 the drills and skills learnt.
 <br>
-<br>In order for students to see the importance of their learning process,
-each student is given PR2O Journal to document their reflections and skills
-learnt during training.
-<br>
-<br>School Team players are required to purchase a personal pair of volleyball
-kneepads for safety.
-<br>
-<br>Students are allowed to bring and change into their own sport shoes during
-training.
-<br>
-<br>Girls with short or long hair are required to keep their hair tied or
-pinned up during training. Nails are also to be kept short for personal
-hygiene and safety.</p>
+<br>For students to see the importance of their learning process, each student
+is given PR2O Journal to document their reflections and skills learnt during
+training and NSG.</p>
 </td>
 </tr>
 </tbody>
@@ -424,11 +414,11 @@ hygiene and safety.</p>
 <p>Teachers-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mrs Helen Chong (Boys Team)
-<br>Ms Chong Siew Hui (Boys Team)
-<br>Mrs Yeo Shiyu (Boys Team)
-<br>Ms Phoebe Goh (Girls Team)
-<br>Mrs Charlene Png (Girls Team)</p>
+<p>Mrs Helen Chong (OTIC for Boys)
+<br>Ms Chong Siew Hui (TIC for Boys)
+<br>Mrs Yeo Shiyu (TIC for Boys)
+<br>Ms Phoebe Goh (OTIC for Girls)
+<br>Mrs Charlene Png (TIC for Girls)</p>
 </td>
 </tr>
 <tr>
@@ -439,9 +429,11 @@ hygiene and safety.</p>
 <p><strong>Tuesdays<br></strong>Boys and Girls (Selected students)
 <br>3.30pm- 5.30pm
 <br>School Hall
+<br>
 <br><strong>Thursdays<br></strong>Boys and Girls (Selected students)
 <br>3.30pm- 5.30pm
 <br>School Hall
+<br>
 <br><strong>Fridays<br></strong>Boys and Girls (All students)
 <br>7.30am- 9.00am
 <br>School Hall</p>
@@ -467,22 +459,24 @@ hygiene and safety.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2024 National School Games Volleyball Competition (Nationals)<br></strong>Senior
-Boys - Champions in National (Tier 1)
-<br>Senior Girls – Champions in National (Tier 2)</p>
+<p><strong>2025 National School Games Volleyball Competition (Nationals)</strong>
+<br>Senior Boys – Top 6 in National (League 1)
+<br>Junior Boys – Top 6 in National (Tier 1)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2023 National School Games Volleyball Competition (Nationals)<br></strong>Junior
-Boys - Top 6 in National (Tier 1)
-<br>Junior Girls - 2nd in National (Tier 2)</p>
+<p><strong>2024 National School Games Volleyball Competition (Nationals)</strong>
+<br>Senior Boys – Champions in National (Tier 1)
+<br>Senior Girls – Champions in National (Tier 2)
+<br>Junior Boys – Top 6 in National (Tier 1)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>2022 National School Games Volleyball Competition (Nationals)<br></strong>Junior
-Boys - Top 10 in National (Tier 1)</p>
+<p><strong>2023 National School Games Volleyball Competition (Nationals)</strong>
+<br>Junior Boys – Top 6 in National (Tier 1)
+<br>Junior Girls – 2nd in National (Tier 2)</p>
 </td>
 </tr>
 </tbody>
