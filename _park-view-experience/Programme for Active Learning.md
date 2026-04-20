@@ -200,7 +200,7 @@ and natural environment, they also learn about themselves and their friends</p>
 <p><strong>Colourful Nature @ PVPS</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:20%" height="auto" width="100%" src="/images/Park%20View%20Experience/butterfly.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Park View Experience/PAL/Picture12.jpg">
 </div>
 <p>Colourful Nature @ PVPS is the PAL Outdoor Education module for the Primary
 2 students in Park View Primary School. In Primary 2, students will learn
@@ -230,55 +230,61 @@ their learning journey to Resort World Sentosa SEA Aquarium.</p>
 awareness and outdoor skills which can be extended to their daily lives.</p>
 </li>
 </ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/Park%20View%20Experience/PAL_OE_2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Park View Experience/PAL/Picture13.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Park View Experience/PAL/Picture14.jpg">
 </div>
 <p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Sports and Creative Movements Module</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<h3>Sports and Creative Movements Module</h3>
-<p>Gamesfiesta@PVPS is the PAL Creative Movements, Sports and Games module
-developed by teachers of Park View Primary School.</p>
-<p><strong>Gamesfiesta@PVPS aims to achieve the four PAL objectives:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Students will develop their confidence and enjoy individual and group
-experiences through participation.</p>
-</li>
-<li>
-<p>Students will develop a sense of curiosity, creativity and adaptability
-as a result of their PAL experiences.</p>
-</li>
-<li>
-<p>Students will become self-directed learners and with a social conscience
-to want to contribute to society at large.</p>
-</li>
-<li>
-<p>Students will be able to express themselves and articulate their thoughts
-and ideas.</p>
-</li>
-</ul>
-<p>In this module, students will experience different movements, numerous
-sports and modified games. It focuses more on developing students’ SEL
-competencies. In this module, students are not required to master any skills
-as one of the objectives of the module is to enable students to have active
-learning fun. Students are encouraged to work happily as an individual
-and also in a group.</p>
-<p>Park View uses the ‘Experience-Express-Reflect’ learning model for all
-its PAL modules. In this module, students will activate their creativity
-to create movements to music, experience handling different sport equipment
-and working together with others. They will learn to self-manage, relate
-with others and even make responsible decisions for themselves and for
-their team members. At the end of every lesson, time will be set aside
-for the students to express and reflect on their learning experiences.</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Girl in a jacket" src="/images/Park%20View%20Experience/PAL_SCM_2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Park View Experience/PAL/Picture17.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Park View Experience/PAL/Picture18.png">
 </div>
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Park View Experience/PAL/Picture20.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Park View Experience/PAL/Picture15.png">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 </div>
