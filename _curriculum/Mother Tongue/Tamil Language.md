@@ -270,11 +270,41 @@ levels</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Tamil Dictionary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.tamildict.com/tamilsearch.php?language=tamil" rel="noopener nofollow" target="_blank">https://www.tamildict.com/tamilsearch.php?language=tamil</a>
+<p><a href="https://www.lexilogos.com/english/tamil_dictionary.htm" rel="noopener noreferrer nofollow" target="_blank">https://www.lexilogos.com/english/tamil_dictionary.htm</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://agarathi.com/" rel="noopener noreferrer nofollow" target="_blank">https://agarathi.com/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://dictionary.tamilcube.com/" rel="noopener noreferrer nofollow" target="_blank">https://dictionary.tamilcube.com/</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>All-in-one Tamil dictionary and learning app (Andriod)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://play.google.com/store/apps/details?id=com.tamil_agarathi_updated" rel="noopener noreferrer nofollow" target="_blank">https://play.google.com/store/apps/details?id=com.tamil_agarathi_updated</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>All-in-one Tamil dictionary and learning app (ios)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://apps.apple.com/sg/app/min-agaram/id6483002626" rel="noopener noreferrer nofollow" target="_blank">https://apps.apple.com/sg/app/min-agaram/id6483002626</a>
 </p>
 </td>
 </tr>
