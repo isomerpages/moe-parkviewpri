@@ -42,7 +42,14 @@ trash into interesting works of art.</p>
 </p>
 </th>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><u>Tuesdays (School Team)</u></strong>
+<br>3.30 pm – 5.00 pm
+<br>Art Room 1
+<br>
+<br><strong><u>Fridays</u></strong>
+<br>7.30 am – 9 am (All members)
+<br>School Team (Art Room 1)
+<br>Non-School Team (Art Room 2)</p>
 </td>
 </tr>
 </tbody>
@@ -73,12 +80,10 @@ trash into interesting works of art.</p>
 <td rowspan="1" colspan="1">
 <p>Fo Guang Shan: Three Acts of Goodness Art Competition 2026</p>
 <p>三好绘画比赛</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate of Participation</p>
-<p>&nbsp;</p>
-<p>42 participants</p>
+<p>Certificate of Participation
+<br>42 participants</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,13 +95,10 @@ trash into interesting works of art.</p>
 <p>The 2nd Blue Cross Charitable Institution Shantang Culture Arts Exhibition</p>
 <p>Theme: Illustrating Kindness: A Youth Perspective on Shantang Culture</p>
 <p>画出善心：青少年视角下的善堂文化</p>
-<p><strong>&nbsp;</strong>
-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate of Achievement:</p>
-<p>&nbsp;</p>
-<p>Song Yunshu, 2H</p>
+<p>Certificate of Achievement:
+<br>Song Yunshu, 2H</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2025 2026</p>
@@ -119,12 +121,12 @@ trash into interesting works of art.</p>
 Gallery Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Young Artists Presenters:</p>
-<p>(1) Azfar Amiruddin - 4R1</p>
-<p>(2) Adyant Dokania - 4R1</p>
-<p>(3) Lim Jia Er Emelia - 4R2</p>
-<p>(4) Urbayan Kimberly - 4R2</p>
-<p>(5) Lynette - 4R3</p>
+<p>Young Artists Presenters:
+<br>Azfar Amiruddin - 4R1
+<br>Adyant Dokania - 4R1
+<br>Lim Jia Er Emelia - 4R2
+<br>Urbayan Kimberly - 4R2
+<br>Lynette - 4R3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2025</p>
@@ -145,7 +147,6 @@ based on the theme “Reimagine”</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Capital Group Talent Award</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Award recipient:
@@ -187,7 +188,7 @@ Collection and Exhibition_2025, 你好! 中新友谊之花</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Published in Amazon Kindle:
-<br>Wu Yunxi, 5R1</p>
+<br>Wu Yunxi - 5R1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2025</p>
