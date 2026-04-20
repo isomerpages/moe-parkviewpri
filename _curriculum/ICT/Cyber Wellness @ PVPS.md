@@ -112,14 +112,6 @@ and say mean things online.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf" rel="noopener noreferrer" target="_blank">Parent Kit – Raising A Digitally Smart Child</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.moe.gov.sg/-/media/files/parent-kit/experiencing-blended-learning.pdf" rel="noopener noreferrer" target="_blank">Parent Kit - Experiencing Blended Learning with Our Children</a>
-</p>
-</li>
-<li>
 <p><a href="https://go.gov.sg/instalive-raising-digitally-smart-kids" rel="noopener noreferrer" target="_blank">Recording of Instagram Live – Raising Digitally Smart Kids</a>
 </p>
 </li>
