@@ -105,8 +105,7 @@ emotional development in the students.</p>
 </table>
 <h4>Primary 1</h4>
 <p><strong>Animal Kingdom</strong>
-</p>
-<p>The Primary 1 students will be introduced to the basics of doodling and
+<br>The Primary 1 students will be introduced to the basics of doodling and
 squiggling and the different types of lines, shapes and patterns. They
 will learn the correct techniques of colouring and colour blends. In addition,
 students will squiggle, doodle and have fun learning about animals and
@@ -119,12 +118,9 @@ and create animal doodles based on a squiggle.</p>
 <p><strong>- Animal Cartooning &amp; Doodling</strong>
 <br><strong>- 3D Animal Parade</strong>
 <br><strong>- Doodle PAL</strong>
-<br>
 </p>
 <p>The School also conducted internal Doodling art competitions to encourage
-students to express their thoughts through their creative art piece
-<br>
-</p>
+students to express their thoughts through their creative art piece</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Park View Experience/PAL/Picture4.jpg">
 </div>
@@ -136,8 +132,7 @@ students to express their thoughts through their creative art piece
 </div>
 <h4>Primary 2</h4>
 <p><strong>Marine Life &amp; Conservation</strong>
-</p>
-<p>The Primary 2 students will be challenged to be imaginative and to create
+<br>The Primary 2 students will be challenged to be imaginative and to create
 marine animals based on a squiggle. Students will also learn to express
 their thoughts and ideas through group activities. Batik Craftworks will
 be introduced to them in the module.</p>
@@ -150,7 +145,6 @@ be introduced to them in the module.</p>
 </p>
 <p>The school also conducts internal Doodling art competitions to encourage
 students to express their thoughts through their creative art pieces.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Park View Experience/PAL/Picture8.png">
 </div>
