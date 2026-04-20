@@ -83,37 +83,36 @@ greater heights in the coming years.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Picture13.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Football__4_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Picture12.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Soccer__5_.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Picture11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Football__2_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 72%;" height="auto" width="100%" alt="" src="/images/CCA/Football/Picture14.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Football__1_.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Football/Picture10.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Football/Football__3_.jpg">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
