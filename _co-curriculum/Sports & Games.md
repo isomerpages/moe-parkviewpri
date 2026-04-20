@@ -32,7 +32,6 @@ This framework emphasises character building, commitment, and skill development,
 guiding our players to grow into disciplined, resilient, and responsible
 team members both on and off the field.
 <br>
-<br>
 </p>
 <p>Together with our band of committed coach and teachers driving and inspiring
 the Football CCA, we hope to build on our achievements and strive to attain
@@ -961,5 +960,4 @@ Championship.</p>
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
