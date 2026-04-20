@@ -77,11 +77,6 @@ themselves. &nbsp;They will also learn to better interact with their peers
 and develop their social and emotional skills.</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -89,14 +84,25 @@ and develop their social and emotional skills.</p>
 <summary>Visual Arts Module</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h3>Visual Arts Module</h3>
-<p>Visual arts is one of the 3 domains of PAL and it focuses on ‘Doodling’.
-The aim is to provide students with the opportunity to experience the creativity
-and imagination involved in the world of cartooning and doodling. Through
-this module, students have the chance to discover their aptitude and interests,
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>In Park View, the Visual Arts module focuses on ‘Doodling’. The aim is
+to provide students with the opportunity to experience the creativity and
+imagination involved in the world of cartooning and doodling. Through this
+module, students have the chance to discover their aptitude and interests,
 develop their confidence and creativity and hone their drawing and colouring
 skills through fun learning activities. Social and Emotional Learning (SEL)
 is also incorporated in every PAL lesson to promote positive social and
 emotional development in the students.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Primary 1</h4>
 <p><strong>Animal Kingdom</strong>
 </p>
@@ -113,6 +119,14 @@ and create animal doodles based on a squiggle.</p>
 <p><strong>- Animal Cartooning &amp; Doodling</strong>
 <br><strong>- 3D Animal Parade</strong>
 <br><strong>- Doodle PAL</strong>
+<br>
+</p>
+<p>The School also conducted internal Doodling art competitions to encourage
+students to express their thoughts through their creative art piece
+<br>
+</p>
+<p><u>P1 Doodle Challenge</u>
+<br>
 </p>
 <h4>Primary 2</h4>
 <p><strong>Marine Life &amp; Conservation</strong>
