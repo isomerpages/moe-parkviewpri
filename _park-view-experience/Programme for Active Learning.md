@@ -287,5 +287,89 @@ awareness and outdoor skills which can be extended to their daily lives.</p>
 </table>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Sports and Creative Movement Module</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4>Sports and Creative Movement Module</h4>
+<p>Games Fiesta@PVPS is the PAL Sports &amp; Creative Movement module developed
+by teachers of Park View Primary School.
+<br><strong>The module is designed to achieve the four PAL objectives:</strong>
+</p>
+<p>Students will develop their confidence and enjoy individual and group
+experiences through active participation.</p>
+<p>Students will develop a sense of curiosity, creativity and adaptability
+through diverse PAL experiences.</p>
+<p>Students will grow into self-directed learners with a strong social conscience
+and a desire to contribute to the wider community.</p>
+<p>Students will learn to express themselves clearly and articulate their
+thoughts and ideas.</p>
+<p>In this module, students explore a wide range of movements, sports, and
+modified games within a fun and engaging environment. The focus is not
+on mastering specific skills, but on developing students’ Social and Emotional
+Learning (SEL) competencies.
+<br>Through active participation, students are encouraged to enjoy the learning
+process while building confidence and developing a positive attitude towards
+physical activity. They will have opportunities to work both independently
+and collaboratively, fostering joy, teamwork, and mutual respect.
+<br>Students will also tap into their creativity by designing movements to
+music, experimenting with various sports equipment, and engaging meaningfully
+with their peers.
+<br>Throughout the module, students will develop key SEL competencies such
+as self-management, social awareness, relationship-building, and responsible
+decision-making—both individually and within a team context.
+<br>Each lesson will conclude with dedicated time for students to share, express,
+and reflect on their learning experiences, deepening their understanding
+and supporting their personal growth.</p>
+<p><strong><u>Sports and Games</u></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Park View Experience/PAL/Picture21.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Park View Experience/PAL/Picture22.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><u>Creative Movement</u></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Park View Experience/PAL/Picture23.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Park View Experience/PAL/Picture24.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
