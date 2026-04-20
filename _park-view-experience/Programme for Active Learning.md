@@ -5,25 +5,54 @@ variant: tiptap
 description: ""
 ---
 <h4>PLAY@PARKVIEW OVERVIEW</h4>
-<p><strong>Play@ParkView</strong> is Park View Primary's unique and exciting
-implementation of the Programme for Active Learning, or PAL. PAL is an
-initiative by the Ministry of Education to realise a more balanced curriculum
-and facilitate the well-rounded development of students. PAL provides children
-with opportunities for exposure to a broad range of activities so that
-they can discover their aptitudes and interests.</p>
-<p><strong>Play@ParkView</strong> is a non-academic programme built into the
-curriculum for all Primary 1 and 2 students. Students will get to participate
-in the three domains: Visual Arts, Creative Movements, Sports &amp; Games
-and Outdoor Education. Play @ Park View is designed in the form of fun
-modular learning activities where students will develop confidence and
-creativity, and be encouraged to explore and extend lessons learnt to their
-daily lives.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Play@ParkView</strong>&nbsp;is Park View Primary's unique and
+exciting implementation of the Programme for Active Learning, or PAL. PAL
+is an initiative by the Ministry of Education to realise a more balanced
+curriculum and facilitate the well-rounded development of students. PAL
+provides children with opportunities for exposure to a broad range of activities
+so that they can discover their aptitudes and interests.</p>
+<p><strong>Play@ParkView</strong>&nbsp;is a non-academic programme built
+into the curriculum for all Primary 1 and 2 students. Students will get
+to participate in the three domains: Visual Arts, Sports &amp; Creative
+Movements and Outdoor Education. <strong>Play@ParkView</strong> is designed
+in the form of fun modular learning activities where students will develop
+confidence and creativity and be encouraged to explore and extend lessons
+learnt to their daily lives.
+<br>
+</p>
+<p>Character and Citizenship Education (CCE) and Social and Emotional Learning
+(SEL) are thoughtfully integrated into every PAL lesson to nurture core
+values and support students’ social and emotional growth.&nbsp; In addition,
+the incorporation of Emerging 21st Century Competencies (E21CC) within
+PAL for Primary 1 and 2 students ensures that experiential, hands-on learning
+is purposefully aligned with the development of essential life skills and
+future-ready mindsets. Together, these elements create a holistic learning
+experience that equips students with the values, skills, and dispositions
+needed to thrive in an ever-changing world.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>The ‘Experience-Express-Reflect' Lesson Model</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Park%20View%20Experience/The%20‘Experience-Express-Reflect'%20Lesson%20Model_1.png">
 </div>
-<p>In order to provide a holistic PAL visual art education, the lessons are
-crafted based on the three pillars.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>In order to provide a holistic PAL education, the lessons are crafted
+based on the three pillars.</p>
 <p>They are:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -43,9 +72,18 @@ students are given opportunities and avenues to express their thoughts
 and creative ideas. Students are encouraged to believe in their own ideas,
 to be confident and to be imaginative through looking at things from different
 perspectives. Most importantly, time is set aside for students to share
-about their learning experiences. As they do so, they will discover more
-about themselves. They will also learn to better interact with their peers
+their learning experiences. As they do so, they will discover more about
+themselves. &nbsp;They will also learn to better interact with their peers
 and develop their social and emotional skills.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Visual Arts Module</summary>
@@ -129,19 +167,19 @@ and created many interesting eBook stories with our pupils based on different
 SEL values. Please find out more from our Visual Arts Modules.</p>
 <h5>Little Red Riding Hood</h5>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JxZIoB7gOS4"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JxZIoB7gOS4"></iframe>
 </div>
 <h5>The Ugly Duckling</h5>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/y45BE3O-zIM"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/y45BE3O-zIM"></iframe>
 </div>
 <h5>The Tortoise and The Hare</h5>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mjkLYuP9Ghc"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mjkLYuP9Ghc"></iframe>
 </div>
 <h5>Princess And Frog</h5>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UctEDO97ZPY"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UctEDO97ZPY"></iframe>
 </div>
 <p></p>
 </div>
