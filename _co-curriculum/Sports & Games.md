@@ -10,25 +10,37 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <h4>FOOTBALL</h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Park View Primary School Football CCA was started in 1998. Since then,
 we have taken part in the East Zone SPSSC Inter-Primary Football Championships,
 National Inter-Primary Football Championships, numerous FAS-led tournaments
 and friendlies.
-<br>
-<br>At present, we have 78 active members, consisting of Primary 3 to Primary
+<br>At present, we have 82 active members, consisting of Primary 3 to Primary
 6 boys, who train once or twice a week at the school field under the supervision
-of our coach, Mr. Fathi. We also have a dedicated team of teachers who
+of our coach, Mr. Rashid. We also have a dedicated team of teachers who
 supervise them during training sessions and accompany them out for tournaments
 and friendlies.
-<br>
 <br>We were taught various football skills, techniques and games to hone our
-skills. In 2016, our school players have adopted the PR2O Player Philosophy
-where we learn to be more reflective and responsible school team players
-through journal writing and mental resilience.
+skills. &nbsp;Since 2025, our school football programme has adopted the <strong>3As Player Philosophy – Attitude, Attendance, and Aptitude</strong>.
+This framework emphasises character building, commitment, and skill development,
+guiding our players to grow into disciplined, resilient, and responsible
+team members both on and off the field.
 <br>
-<br>Together with our band of committed coach and teachers driving and inspiring
+<br>
+</p>
+<p>Together with our band of committed coach and teachers driving and inspiring
 the Football CCA, we hope to build on our achievements and strive to attain
 greater heights in the coming years.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Training Schedule</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -42,6 +54,7 @@ greater heights in the coming years.</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Mr Jordan Toh Yuexuan
+<br>Mr Izree
 <br>Mr Muslim
 <br>Mr Izdihar</p>
 </td>
@@ -51,14 +64,15 @@ greater heights in the coming years.</p>
 <p>Training Dates</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong><u>Tuesdays</u></strong> 
-<br>3.30pm – 5.30pm (Selected Students)
+<p><strong>Tuesdays<br></strong>3.30pm – 5.30pm (Selected Students)
 <br>School Field
-<br><strong><u>Thursdays</u></strong> 
-<br>3.30pm- 5.30pm (Selected Students)
+<br>
+<br><strong>Thursdays<br></strong>3.30pm- 5.30pm (Selected Students)
 <br>School Field
-<br><strong><u>Fridays</u></strong> 
-<br>7.30am- 9.00am (All students)</p>
+<br>
+</p>
+<p><strong>Fridays<br></strong>7.30am- 9.00am (All students)
+<br>School Field</p>
 </td>
 </tr>
 <tr>
@@ -66,8 +80,8 @@ greater heights in the coming years.</p>
 <p>Coach</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mr Fathi
-<br>Mr Adam</p>
+<p>Mr Rashid
+<br>Mr Zahid</p>
 </td>
 </tr>
 </tbody>
@@ -100,7 +114,7 @@ greater heights in the coming years.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Football/Football__1_.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Football/Football__1_.jpg">
 </div>
 </td>
 </tr>
@@ -109,6 +123,74 @@ greater heights in the coming years.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Football/Football__3_.jpg">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Achievements</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Events</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievements</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SPSSC Football Championships (Junior)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Promoted to Tier 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SPSSC Football Championships (Senior)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> round</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SPSSC Football Championships (Senior)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 12 in League 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SPSSC Football Championships (Junior)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
 </td>
 </tr>
 </tbody>
