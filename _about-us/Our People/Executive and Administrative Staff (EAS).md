@@ -93,29 +93,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Operations Support Officers</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Asleena</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ng Bee Kien</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Abdul Rashid Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Zaharina</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
