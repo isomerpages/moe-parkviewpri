@@ -206,18 +206,21 @@ choir ensemble. Over the years, it has evolved into a dynamic Show Choir,
 where students develop not only their vocal abilities but also their stage
 presence. Through structured training, members learn voice techniques,
 singing skills, dance movements, and stage etiquette, allowing them to
-grow into confident performers.</p>
-<p>&nbsp;</p>
+grow into confident performers.
+<br>
+</p>
 <p>At PVPS Show Choir, students are nurtured into confident, resilient, and
 expressive individuals. Members are given opportunities to perform during
 special school events as well as external performances, allowing them to
-showcase their talents and gain valuable stage experience.</p>
-<p>&nbsp;</p>
+showcase their talents and gain valuable stage experience.
+<br>
+</p>
 <p>Students also enjoy performing a wide variety of repertoire, ranging from
 musical theatre pieces to popular favourites such as K-Pop songs. Through
 the integration of singing and dance, students develop coordination, rhythm,
-and fine motor skills while learning to work closely as a team.</p>
-<p>&nbsp;</p>
+and fine motor skills while learning to work closely as a team.
+<br>
+</p>
 <p>The PVPS Show Choir aims to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -232,14 +235,15 @@ and fine motor skills while learning to work closely as a team.</p>
 <li>
 <p>Instil values such as respect, responsibility, resilience, discipline,
 character and teamwork</p>
+<p></p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>Through dedication, practice, and shared performances, PVPS Show Choir
 members grow not only as performers, but also as collaborative and confident
 young individuals.</p>
 <p></p>
 <h4>Highlights from Our Show Choir Repertoire</h4>
+<p></p>
 <p>Dynamite – BTS
 <br>Golden – K-Pop Demon Hunters
 <br>Dreamers – Jungkook
@@ -270,8 +274,7 @@ young individuals.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Tuesdays</u></strong>&nbsp;(Vocal Training)
 <br>3.30pm – 5.00pm
-<br>Music Room 1</p>
-<p>
+<br>Music Room 1
 <br><strong><u>Fridays</u></strong>&nbsp;(Dance and Movement Training)
 <br>7.30am – 9.00am
 <br>Music Room 1</p>

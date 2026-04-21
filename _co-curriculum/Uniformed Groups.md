@@ -31,10 +31,10 @@ and was reflected in the Singapore Book of Records.</p>
 <p>Teachers-in-charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Nailul Azmi Ismail (Group Scout Leader)</p>
-<p>&nbsp;Mr Kang Yong Ngee (Scout Leader)</p>
-<p>&nbsp;Mdm Yusneeta Md Yusof (Asst. Scout Leader)</p>
-<p>&nbsp;Mdm Nur Faizah Abdan (Asst. Scout Leader)</p>
+<p>Mdm Nailul Azmi Ismail (Group Scout Leader)
+<br>Mr Kang Yong Ngee (Scout Leader)
+<br>Mdm Yusneeta Md Yusof (Asst. Scout Leader)
+<br>Mdm Nur Faizah Abdan (Asst. Scout Leader)</p>
 </td>
 </tr>
 <tr>
@@ -43,8 +43,7 @@ and was reflected in the Singapore Book of Records.</p>
 </th>
 <td rowspan="1" colspan="1">
 <p><strong>&nbsp;Fridays</strong>
-</p>
-<p>&nbsp;7.30am – 9.00am
+<br>&nbsp;7.30am – 9.00am
 <br>&nbsp;ISH Level 5</p>
 </td>
 </tr>
