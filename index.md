@@ -19,4 +19,11 @@ sections:
           description: Sharing Thoughts and Gratitude
           url: https://www.parkviewpri.moe.edu.sg/our-stakeholders/appreciation-and-feedback/
       variant: image
+  - infopic:
+      title: PVPS Open House 2026
+      id: infopic
+      button: Click to Register
+      url: https://go.gov.sg/pvps-openhouse2026
+      image: /images/PVPS___Open_House_2026.png
+      alt: Image alt text
 ---
