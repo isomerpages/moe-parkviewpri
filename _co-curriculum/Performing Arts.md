@@ -192,7 +192,7 @@ including Chinese New Year and Mid-Autumn Festival concerts.</p>
 <p>Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024</p>
+<p>2026</p>
 </td>
 </tr>
 <tr>
