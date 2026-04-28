@@ -114,11 +114,10 @@ self-sufficiency, risk-taking, team building &amp; the needs of achievement.</p>
 (P1-P2) – Partnership with ITE/Polytechnics, Active SG and Sport Singapore.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Unstructured Play at Recess - Partnership
 with ITE/Polytechnics, Active SG and Sport Singapore</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learning Journey to Sporting Events/Institutions
-e.g., Sports Hub</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sport Physiology Workshop</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Singapore Sports School – Learn to Play
-Programmes</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Park View Experience/Untitled_design.jpg">
+</div>
 </td>
 </tr>
 <tr>
