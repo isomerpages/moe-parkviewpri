@@ -84,9 +84,116 @@ to develop a love and appreciation for the language.</p>
 and appreciation of the Malay language and culture. We aim to create a
 vibrant and engaging learning environment where students develop strong
 communication skills and a deep connection to their heritage.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mother Tongue/Malay/Screenshot_2025_03_11_110549.png">
-</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SUPPORT</strong>
+</p>
+</td>
+<th rowspan="1" colspan="1">
+<p><strong>ENRICH</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>STRETCH</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School-based Programmes:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Remediation</p>
+</li>
+<li>
+<p>Reading MUM</p>
+</li>
+<li>
+<p>Reading Comprehension</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Teacher-Developed Lesson Packages:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Oral</p>
+</li>
+<li>
+<p>Mahir Menulis</p>
+</li>
+<li>
+<p>Reading Comprehension</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Competitions</p>
+</li>
+<li>
+<p>Termly Quizzes</p>
+</li>
+<li>
+<p>ICT-Enriched Lessons</p>
+</li>
+<li>
+<p>Enrichment Programmes</p>
+</li>
+<li>
+<p>Cultural Appreciation &amp; Exposures</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mother Tongue Language &amp; Cultural Activities</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Learning Journeys</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Cultural Performance &amp; Exposures</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Our Approaches</h4>
 <ol>
 <li>
