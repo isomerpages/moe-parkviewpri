@@ -5,14 +5,16 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCE FTGP/SLC_Framework.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCE New/SLC__2_.png">
 </div>
 <p>Vision: Leaders of Character, championing Service &amp; Excellence
 <br>Mission: To nurture future-ready students, anchored on values</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCE FTGP/SLC_Framework_2.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCE New/CCE.png">
 </div>
 <p>In Park View, we believe that every child is a leader. PVPS adopts a whole-school
 approach to student leadership using a 3-tier approach, the ASK approach:</p>
