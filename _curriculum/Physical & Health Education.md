@@ -17,8 +17,9 @@ with a greater focus on building a strong foundation in fundamental movement
 skills (FMS) and broad-based development through a range of enjoyable and
 varied physical activities.</p>
 <h4>Framework</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="100" width="100" src="/images/Curriculum/PE/PE%20-%20Framework.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/PE new/PE_Logo.png">
 </div>
 <h4>Enable Health and Fitness for life</h4>
 <ul data-tight="true" class="tight">
