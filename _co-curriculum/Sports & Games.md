@@ -600,14 +600,14 @@ training and NSG.</p>
 <summary>Wushu</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4><br>WUSHU</h4>
-<p>Wushu (武术) is a modern form of Chinese martial arts that integrates performance
-with martial applications. Training in Wushu focuses on speed, explosive
-power, and fluid, natural movements. Practitioners learn to harmonise flexibility
-with strength, combine speed with precise technique, and demonstrate discipline
-through controlled execution. In addition, students have opportunities
-to develop Social-Emotional Learning (SEL) competencies through internal
-school performances and participation in the National School Games Wushu
-Championship.</p>
+<p><strong>Wushu (武术)</strong> is a modern form of Chinese martial arts that
+integrates performance with martial applications. Training in Wushu focuses
+on speed, explosive power, and fluid, natural movements. Practitioners
+learn to harmonise flexibility with strength, combine speed with precise
+technique, and demonstrate discipline through controlled execution. In
+addition, students have opportunities to develop <strong>Social-Emotional Learning (SEL)</strong> competencies
+through internal school performances and participation in the National
+School Games Wushu Championship.</p>
 <h4>Training Schedule</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -674,11 +674,11 @@ Championship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu</p>
-<p>Championships</p>
+<p>National School Games Wushu Championships Senior Boys</p>
+<p>4-Duan Cudgel</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Will be updated after NSG April 2026</p>
+<p>6th Position</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2026</p>
@@ -686,8 +686,117 @@ Championship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships Senior Boys
-<br>4-Duan Cudgel</p>
+<p>National School Games Wushu Championships Senior Boys</p>
+<p>5-Duan Spear</p>
+<p>5-Duan Sword</p>
+<p>5-Duan Nanquan</p>
+<p>5-Duan Cudgel</p>
+<p>4-Duan Sword</p>
+<p>4-Duan Spear</p>
+<p>5-Duan Broadsword</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Senior Girls</p>
+<p>5-Duan Sword</p>
+<p>4-Duan Spear</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Junior Boys</p>
+<p>Elementary Nanquan</p>
+<p>4-Duan Spear</p>
+<p>4-Duan Cudgel</p>
+<p>4-Duan Broadsword</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Junior Girls</p>
+<p>Elementary Nanquan</p>
+<p>4-Duan Spear</p>
+<p>4-Duan Broadsword</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Senior Boys</p>
+<p>Group Quanshu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Senior Boys</p>
+<p>Group Weapon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Junior Boys</p>
+<p>Group Quanshu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Junior Girls</p>
+<p>Group Quanshu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Senior Boys</p>
+<p>4-Duan Cudgel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8<sup>th</sup> Position</p>
@@ -698,61 +807,14 @@ Championship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships Junior Girls
-<br>3-Duan Nanquan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships Junior Boys
-<br>3-Duan Nanquan</p>
-<p></p>
-<p>National School Games Wushu Championships Junior Boys
-<br>3-Duan Changquan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2025</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships Junior Boys</p>
-<p>5-Duan Broadsord</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>National School Games Wushu Championships Senior Boys</p>
 <p>5-Duan Sword</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;National School Games Wushu Championships Senior Boys</p>
 <p>4-Duan Sword</p>
+<p>4-Duan Cudgel</p>
+<p>4-Duan Spear</p>
+<p>4-Duan Broadsword</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participation</p>
@@ -763,20 +825,51 @@ Championship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships Senior Boys</p>
-<p>4-Duan Broadsword</p>
+<p>National School Games Wushu Championships Senior Girls</p>
+<p>4-Duan Cudgel</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>&nbsp;</p>
 <p>Participation</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2025</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>National School Games Wushu Championships Junior Boys</p>
+<p>3-Duan Nanquan</p>
+<p>3-Duan Changquan</p>
+<p>5-Duan Broadsord</p>
 <p>4-Duan Cudgel</p>
+<p>4-Duan Spear</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>Participation</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>2025</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Championships Junior Girls</p>
+<p>3-Duan Nanquan</p>
+<p>4-Duan Spear</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participation</p>
@@ -787,8 +880,20 @@ Championship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships Junior Girls
-<br>4-Duan Spear</p>
+<p>National School Games Wushu Group Weapon&nbsp; (Junior Boys) Competition
+2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Wushu Group Weapon&nbsp; (Senior Boys) Competition
+2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participation</p>
@@ -800,101 +905,101 @@ Championship.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>National School Games Wushu Championships Senior Boys</p>
+<p>&nbsp;4-Duan Sword</p>
+<p>4-Duan Spear</p>
+<p>4-Duan Spear</p>
 <p>4-Duan Cudgel</p>
+<p>&nbsp;4-Duan Broadsword</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2025</p>
+<p>2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships Junior Boys
-<br>4-Duan Spear</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Participation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships Senior Girls
-<br>4-Duan Cudgel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Participation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2025</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>National School Games Wushu Championships Senior Girls</p>
+<p>4-Duan Sword</p>
+<p>4-Duan Spear</p>
 <p>&nbsp;</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Participation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships Senior Boys
-<br>4-Duan Spear</p>
+<p>National School Games Wushu Championships Junior Boys</p>
+<p>&nbsp;3-Duan Nanquan (Southern Fist)</p>
+<p>&nbsp;3-Duan Changquan</p>
+<p>4-Duan Sword</p>
+<p>4-Duan Spear</p>
+<p>4-Duan Cudgel</p>
+<p>&nbsp;</p>
+<p>4-Duan Broadsword</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2025</p>
+<p>2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Group Weapon&nbsp; (Junior Boys) Competition
-2025</p>
+<p>National School Games Wushu Championships Junior Girls</p>
+<p>24-Style Taijiquan</p>
+<p>32-Style Taijijian</p>
+<p>4-Duan Cudgel</p>
+<p>4-Duan Spear</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2025</p>
+<p>2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Group Weapon&nbsp; (Senior Boys) Competition
-2025</p>
+<p>National School Games Wushu Championships Junior Boys Group Weapon</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2025</p>
+<p>2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Group Weapon&nbsp; (Senior Boys) Competition
-2025</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participation</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2025</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Group Weapon&nbsp; (Junior Boys) Competition
-2025</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Participation</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2025</p>
+<p></p>
 </td>
 </tr>
 </tbody>
