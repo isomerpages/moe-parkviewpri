@@ -731,8 +731,8 @@ School Games Wushu Championship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships Senior Boys</p>
-<p>4-Duan Cudgel</p>
+<p>National School Games Wushu Championships Senior Boys
+<br>4-Duan Cudgel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6th Position</p>
@@ -743,15 +743,14 @@ School Games Wushu Championship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships Senior Boys</p>
-<p>5-Duan Spear</p>
-<p>5-Duan Sword</p>
-<p>5-Duan Nanquan</p>
-<p>5-Duan Cudgel</p>
-<p>4-Duan Sword</p>
-<p>4-Duan Spear</p>
-<p>5-Duan Broadsword</p>
-<p>&nbsp;</p>
+<p>National School Games Wushu Championships Senior Boys
+<br>5-Duan Spear
+<br>5-Duan Sword
+<br>5-Duan Nanquan
+<br>5-Duan Cudgel
+<br>4-Duan Sword
+<br>4-Duan Spear
+<br>5-Duan Broadsword&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participation</p>
@@ -762,9 +761,10 @@ School Games Wushu Championship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships Senior Girls</p>
-<p>5-Duan Sword</p>
-<p>4-Duan Spear</p>
+<p>National School Games Wushu Championships
+<br>Senior Girls
+<br>5-Duan Sword
+<br>4-Duan Spear</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participation</p>
@@ -775,11 +775,11 @@ School Games Wushu Championship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships Junior Boys</p>
-<p>Elementary Nanquan</p>
-<p>4-Duan Spear</p>
-<p>4-Duan Cudgel</p>
-<p>4-Duan Broadsword</p>
+<p>National School Games Wushu Championships Junior Boys
+<br>Elementary Nanquan
+<br>4-Duan Spear
+<br>4-Duan Cudgel
+<br>4-Duan Broadsword</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participation</p>
@@ -790,10 +790,10 @@ School Games Wushu Championship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships Junior Girls</p>
-<p>Elementary Nanquan</p>
-<p>4-Duan Spear</p>
-<p>4-Duan Broadsword</p>
+<p>National School Games Wushu Championships Junior Girls
+<br>Elementary Nanquan
+<br>4-Duan Spear
+<br>4-Duan Broadsword</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participation</p>
@@ -804,8 +804,8 @@ School Games Wushu Championship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships Senior Boys</p>
-<p>Group Quanshu</p>
+<p>National School Games Wushu Championships Senior Boys
+<br>Group Quanshu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participation</p>
@@ -816,8 +816,8 @@ School Games Wushu Championship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships Senior Boys</p>
-<p>Group Weapon</p>
+<p>National School Games Wushu Championships Senior Boys
+<br>Group Weapon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participation</p>
@@ -828,8 +828,8 @@ School Games Wushu Championship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships Junior Boys</p>
-<p>Group Quanshu</p>
+<p>National School Games Wushu Championships Junior Boys
+<br>Group Quanshu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participation</p>
@@ -840,8 +840,8 @@ School Games Wushu Championship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships Junior Girls</p>
-<p>Group Quanshu</p>
+<p>National School Games Wushu Championships Junior Girls
+<br>Group Quanshu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participation</p>
@@ -852,8 +852,8 @@ School Games Wushu Championship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships Senior Boys</p>
-<p>4-Duan Cudgel</p>
+<p>National School Games Wushu Championships Senior Boys
+<br>4-Duan Cudgel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8<sup>th</sup> Position</p>
@@ -864,14 +864,12 @@ School Games Wushu Championship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships Senior Boys</p>
-<p>5-Duan Sword</p>
-<p>4-Duan Sword</p>
-<p>4-Duan Cudgel</p>
-<p>4-Duan Spear</p>
-<p>4-Duan Broadsword</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>National School Games Wushu Championships Senior Boys
+<br>5-Duan Sword
+<br>4-Duan Sword
+<br>4-Duan Cudgel
+<br>4-Duan Spear
+<br>4-Duan Broadsword</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participation</p>
@@ -882,8 +880,8 @@ School Games Wushu Championship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships Senior Girls</p>
-<p>4-Duan Cudgel</p>
+<p>National School Games Wushu Championships Senior Girls
+<br>4-Duan Cudgel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -901,13 +899,12 @@ School Games Wushu Championship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships Junior Boys</p>
-<p>3-Duan Nanquan</p>
-<p>3-Duan Changquan</p>
-<p>5-Duan Broadsord</p>
-<p>4-Duan Cudgel</p>
-<p>4-Duan Spear</p>
-<p>&nbsp;</p>
+<p>National School Games Wushu Championships Junior Boys
+<br>3-Duan Nanquan
+<br>3-Duan Changquan
+<br>5-Duan Broadsord
+<br>4-Duan Cudgel
+<br>4-Duan Spear</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -923,10 +920,9 @@ School Games Wushu Championship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships Junior Girls</p>
-<p>3-Duan Nanquan</p>
-<p>4-Duan Spear</p>
-<p>&nbsp;</p>
+<p>National School Games Wushu Championships Junior Girls
+<br>3-Duan Nanquan
+<br>4-Duan Spear</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participation</p>
@@ -949,8 +945,8 @@ School Games Wushu Championship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Group Weapon&nbsp; (Senior Boys) Competition
-2025</p>
+<p>National School Games Wushu Group Weapon&nbsp; (Senior Boys)
+<br>Competition 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participation</p>
@@ -961,12 +957,12 @@ School Games Wushu Championship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships Senior Boys</p>
-<p>&nbsp;4-Duan Sword</p>
-<p>4-Duan Spear</p>
-<p>4-Duan Spear</p>
-<p>4-Duan Cudgel</p>
-<p>&nbsp;4-Duan Broadsword</p>
+<p>National School Games Wushu Championships Senior Boys
+<br>4-Duan Sword
+<br>4-Duan Spear
+<br>4-Duan Spear
+<br>4-Duan Cudgel
+<br>4-Duan Broadsword</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participation</p>
@@ -977,10 +973,9 @@ School Games Wushu Championship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships Senior Girls</p>
-<p>4-Duan Sword</p>
-<p>4-Duan Spear</p>
-<p>&nbsp;</p>
+<p>National School Games Wushu Championships Senior Girls
+<br>4-Duan Sword
+<br>4-Duan Spear</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participation</p>
@@ -991,16 +986,13 @@ School Games Wushu Championship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships Junior Boys</p>
-<p>&nbsp;3-Duan Nanquan (Southern Fist)</p>
-<p>&nbsp;3-Duan Changquan</p>
-<p>4-Duan Sword</p>
-<p>4-Duan Spear</p>
-<p>4-Duan Cudgel</p>
-<p>&nbsp;</p>
-<p>4-Duan Broadsword</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p>National School Games Wushu Championships Junior Boys
+<br>3-Duan Nanquan (Southern Fist)
+<br>3-Duan Changquan
+<br>4-Duan Sword
+<br>4-Duan Spear
+<br>4-Duan Cudgel
+<br>4-Duan Broadsword&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participation</p>
@@ -1011,12 +1003,11 @@ School Games Wushu Championship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships Junior Girls</p>
-<p>24-Style Taijiquan</p>
-<p>32-Style Taijijian</p>
-<p>4-Duan Cudgel</p>
-<p>4-Duan Spear</p>
-<p>&nbsp;</p>
+<p>National School Games Wushu Championships Junior Girls
+<br>24-Style Taijiquan
+<br>32-Style Taijijian
+<br>4-Duan Cudgel
+<br>4-Duan Spear</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participation</p>
@@ -1027,36 +1018,14 @@ School Games Wushu Championship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Wushu Championships Junior Boys Group Weapon</p>
-<p>&nbsp;</p>
+<p>National School Games Wushu Championships
+<br>Junior Boys Group Weapon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Participation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
