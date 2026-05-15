@@ -10,6 +10,9 @@ description: ""
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Members</h4>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni/Alumni.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni.jpg">
 </div>
 <p>Since the establishment of the PVPS Alumni in 2011, members have been
@@ -64,23 +67,21 @@ if necessary.</p>
 <details class="isomer-details">
 <summary>News &amp; Events</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Alumni Bonding Session</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/al3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni/al.jpg">
 </div>
-<h4>CNY Celebrations Photography</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/al4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni/al1.jpg">
 </div>
-<h4>Little Stars &amp; Broadway Photography</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/al2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni/al2.jpg">
 </div>
-<h4>P6 Graduation Photography</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/al1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni/al3.jpg">
 </div>
-<h4>PVPS Olympics Photography</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Alumni/al4.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/al.jpg">
 </div>
