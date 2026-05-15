@@ -197,53 +197,79 @@ greater heights in the coming years.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Hockey</summary>
+<summary>Floorball</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<h4>HOCKEY</h4>
-<p>Park View Primary School Hockey was started in 2001. We have taken part
-in the National Inter-Primary Schools Hockey Tournament every year. We
-have a team of committed and dedicated teachers who supervise them during
-training sessions and bring them out for tournaments. We look forward to
-achieving awards and scale to greater heights in the coming years.</p>
-<h4>Training Programme</h4>
-<p>The training emphasizes on skill development of players when they join
-at Primary 3 where they are groomed by the coach to prepare them to be
-part of the school team. Selected players in Primary 4-6 will take part
-in National School Games (NSG) Hockey Championships .</p>
-<h4>Training structure</h4>
-<p>Players will start the training with warming up jogs and stretching. They
-will then move on to some physical conditioning before proceeding to start
-the training proper with the following being covered for trainings.
-<br>
-</p>
+<h4>FLOORBALL</h4>
+<p>Park View Primary School Floorball Team was formed in 2025. Park View
+Floorball CCA offers Primary 3 to Primary 6 students an exciting opportunity
+to learn a fast-paced and dynamic team sport in a fun and supportive environment.
+Floorball is an inclusive sport that develops agility, coordination, teamwork
+and strategic thinking.</p>
+<h4>What Students Learn</h4>
+<p>Students are guided by a trained coach and teachers to develop:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Practice stick gripping, both forehand and reverse stick</p>
+<p><strong>Basic skills</strong> – ball control, passing, receiving and shooting</p>
 </li>
 <li>
-<p>Practice moving around with the stick (with &amp; without the ball)</p>
+<p><strong>Game understanding</strong> – positioning, attacking and defending
+strategies</p>
 </li>
 <li>
-<p>Movement games with stick control</p>
+<p><strong>Fitness and coordination</strong> – speed, agility and stamina</p>
 </li>
 <li>
-<p>Various games: shadow game, avoid the defender, follow the leader, relay
-dribble</p>
-</li>
-<li>
-<p>Small-sided gameplay and station work for skill improvement</p>
-</li>
-<li>
-<p>Basic rules &amp; terminology of hockey</p>
-</li>
-<li>
-<p>Proper stance and technique to pass, receive &amp; shoot.</p>
+<p><strong>Teamwork and sportsmanship</strong> – communication, resilience
+and respect</p>
 </li>
 </ul>
-<p></p>
-<p>The training usually ends with 2-sided games for the players to apply
-the skills being taught by the coach in a game situation.</p>
+<p>Training sessions are carefully structured to suit different skill levels
+in our students.</p>
+<h4>Learning Through Play</h4>
+<p>At the different levels, students focus on:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Building fundamental skills</p>
+</li>
+<li>
+<p>Developing confidence and teamwork</p>
+</li>
+<li>
+<p>Learning the rules of the game</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Advanced techniques and tactical awareness</p>
+</li>
+<li>
+<p>Competitive match play</p>
+</li>
+</ul>
+<p>Selected students may represent the school in friendly matches and/or
+competitions such as National School Games (NSG).</p>
+<h4>Why Join Floorball?</h4>
+<p>Floorball helps students to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Stay active and healthy</p>
+</li>
+<li>
+<p>Build self-discipline and perseverance</p>
+</li>
+<li>
+<p>Develop leadership skills</p>
+</li>
+<li>
+<p>Form meaningful friendships</p>
+</li>
+<li>
+<p>Learn to handle both success and challenges positively</p>
+</li>
+</ul>
+<p>Most importantly, students experience the joy of being part of a team
+and representing their school with pride.</p>
 <h4>Training Schedule</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -257,8 +283,9 @@ the skills being taught by the coach in a game situation.</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Mr Azmi Bin Kasim (OIC)
-<br>Mr Watson Teh
-<br>Mdm Tan Xiuling (Mrs Bek)</p>
+<br>Mdm Fatin
+<br>Mdm Zahrah
+<br>Mrs Bek</p>
 </td>
 </tr>
 <tr>
@@ -266,14 +293,13 @@ the skills being taught by the coach in a game situation.</p>
 <p>Training Dates</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong><u>Tuesdays</u></strong> 
-<br>P4, P5 &amp; P6 Boys
+<p><strong><u>Tuesdays<br></u></strong>P4, P5 &amp; P6 Boys (School Team
+Only)
 <br>3.30pm – 5.30pm
 <br>Sheltered Court (ISH)
-<br><strong><u>Fridays</u></strong> 
-<br>All students
-<br>7.30am to 9.00am (All members)
-<br>Futsal Court</p>
+<br><strong><u>Fridays<br></u></strong>All students
+<br>7.30am to 9.00am
+<br>Sheltered Court (ISH)</p>
 </td>
 </tr>
 <tr>
@@ -281,12 +307,11 @@ the skills being taught by the coach in a game situation.</p>
 <p>Coach</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Syasya Rifqah bte Sanip</p>
+<p>Ms Siti Khadijah Binte Md Yaacob</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4></h4>
 <h4>Gallery</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -295,45 +320,77 @@ the skills being taught by the coach in a game situation.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Hockey/4.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 79%;" height="auto" width="100%" alt="" src="/images/CCA/Hockey/2.jpg">
-</div>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/CCA/Hockey/3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball/Floorball__4_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Hockey/1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball/Floorball__3_.jpg">
 </div>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Hockey/5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball/Floorball__2_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 78%;" height="auto" width="100%" alt="" src="/images/CCA/Hockey/6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Floorball/Floorball__1_.jpg">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4>Achievements</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Events</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Achievements</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SPSSC National Senior Division Floorball Competition (Senior)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 4 Champion and promoted to Tier 3 in 2027</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SPSSC National Junior Division Floorball Competition (Junior)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tier 4 Group Champion and promoted to Tier 3 in 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+</tr>
+</tbody>
+</table>
 </div>
 </details>
 <details class="isomer-details">
